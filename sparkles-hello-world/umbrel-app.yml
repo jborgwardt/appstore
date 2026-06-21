@@ -1,29 +1,27 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
-category: Development
-version: "1.0.0"
-port: 4000
+id: mediastorm
+name: MediaStorm
+tagline: Stream Usenet and debrid content to any player
+icon: https://raw.githubusercontent.com/godver3/mediastorm/master/mediastorm-square.png
+category: media
+version: "latest"
+port: 7777
 description: >-
-  Add your app's description here.
+  MediaStorm is a self-hosted streaming media server that sources content
+  from Usenet (via SABnzbd-compatible engines) and debrid providers
+  (Real-Debrid, Torbox, AllDebrid), transmuxing to HLS on the fly.
 
-
-  You can also add newlines!
-
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
-gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  Stream to Infuse, VLC, or any HLS-compatible player. Includes a full
+  admin dashboard, Prowlarr/indexer integration, and Dolby Vision support.
+developer: godver3
+website: https://github.com/godver3/mediastorm
+submitter: ""
+submission: ""
+repo: https://github.com/godver3/mediastorm
+support: https://github.com/godver3/mediastorm/issues
+gallery: []
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  Latest release.
 dependencies: []
 path: ""
 defaultUsername: ""
