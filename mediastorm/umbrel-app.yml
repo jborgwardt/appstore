@@ -2,7 +2,7 @@ manifestVersion: 1
 id: mediastorm
 name: MediaStorm
 tagline: Stream Usenet and debrid content to any player
-icon: https://raw.githubusercontent.com/godver3/mediastorm/master/mediastorm-square.png
+icon: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fgold-lightning-bolt-with-black-background_1236256-415.jpg%3Fw%3D2000&f=1&nofb=1&ipt=c27932e38003d034186e6bafc12559e99655195c4feac215909e20dfc7b61878
 category: media
 version: "latest"
 port: 7777
