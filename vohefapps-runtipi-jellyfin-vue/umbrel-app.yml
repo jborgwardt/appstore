@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-jellyfin-vue
+name: Jellyfin Vue (Beta)
+tagline: A modern web client for Jellyfin based on Vue
+icon: https://runtipi.io/images/apps/jellyfin-vue.png
+category: media
+version: unstable.2024-10-14.a47a7d5
+port: 8202
+description: A modern web client for Jellyfin based on Vue
+developer: Jellyfin
+website: https://github.com/jellyfin/jellyfin-vue
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/jellyfin-vue
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app jellyfin-vue.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

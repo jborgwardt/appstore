@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-dashdot
+name: Dash.
+tagline: A simple, modern server dashboard, primarily used by smaller private server
+icon: https://runtipi.io/images/apps/dashdot.png
+category: utilities
+version: 6.3.4
+port: 8173
+description: dash. (or dashdot) is a modern server dashboard, running on the latest tech, designed with glassmorphism in mind. It is intended to be used for smaller VPS and private servers.
+developer: MauriceNino
+website: https://github.com/MauriceNino/dashdot
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/dashdot
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app dashdot.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

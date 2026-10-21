@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-opengym
+name: opengym
+tagline: Imported from BigBearCasaOS (opengym)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.3.9
+port: 20808
+description: Imported from BigBearCasaOS (opengym)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/opengym
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/opengym
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app opengym.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

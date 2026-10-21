@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-viseron
+name: viseron
+tagline: Imported from BigBearCasaOS (viseron)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 3.7.0
+port: 8888
+description: Imported from BigBearCasaOS (viseron)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/viseron
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/viseron
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app viseron.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

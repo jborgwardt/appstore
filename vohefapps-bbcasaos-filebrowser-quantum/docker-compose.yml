@@ -1,0 +1,19 @@
+name: big-bear-filebrowser-quantum
+services:
+  app:
+    container_name: big-bear-filebrowser-quantum
+    image: gtstef/filebrowser:1.5.8-stable@sha256:68455d4953bad8e984e1bc5d112ed1e9c918a0a04f104c13c9ece50790308894
+    restart: unless-stopped
+    environment:
+    - TZ=UTC
+    volumes:
+    - ${APP_DATA_DIR}/data:/home/filebrowser/data
+    - ${APP_DATA_DIR}/srv:/srv
+    ports:
+    - 8700:80
+    networks:
+    - big-bear-filebrowser-quantum-network
+networks:
+  big-bear-filebrowser-quantum-network:
+    driver: bridge
+version: '3.7'

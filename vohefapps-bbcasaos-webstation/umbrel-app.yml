@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-webstation
+name: webstation
+tagline: Imported from BigBearCasaOS (webstation)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.15.0-romm
+port: 3000
+description: Imported from BigBearCasaOS (webstation)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/webstation
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/webstation
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app webstation.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

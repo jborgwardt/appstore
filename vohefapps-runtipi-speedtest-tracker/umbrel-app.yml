@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-speedtest-tracker
+name: Speedtest Tracker
+tagline: Internet performance tracking application.
+icon: https://runtipi.io/images/apps/speedtest-tracker.png
+category: utilities
+version: 1.15.0
+port: 8211
+description: Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla's Speedtest service.
+developer: alexjustesen
+website: https://github.com/alexjustesen/speedtest-tracker
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/speedtest-tracker
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app speedtest-tracker.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

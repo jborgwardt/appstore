@@ -1,0 +1,18 @@
+name: big-bear-linuxserver-d2-builder
+services:
+  app:
+    image: linuxserver/d2-builder:0.9.0@sha256:728e6ecb5270a091d768707608826735285a16ba2c4b9ce121ac2239f8fa31a0
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 80
+      published: 80
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/d2-builder/config
+      target: /config
+version: '3.7'

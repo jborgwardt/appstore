@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-mosquitto
+name: mosquitto
+tagline: Imported from BigBearCasaOS (mosquitto)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: '2'
+port: 3000
+description: Imported from BigBearCasaOS (mosquitto)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/mosquitto
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/mosquitto
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app mosquitto.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

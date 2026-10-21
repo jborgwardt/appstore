@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-qbitrr
+name: qBitrr
+tagline: A simple script to monitor qBit and communicate with Radarr and Sonarr
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: mediaserver
+version: latest
+port: 3000
+description: A simple script to monitor qBit and communicate with Radarr and Sonarr
+developer: Unraid Community
+website: https://github.com/Feramance/Qbitrr
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/qbitrr.xml
+support: https://hub.docker.com/r/feramance/qbitrr/
+gallery: []
+releaseNotes: Imported from Unraid template qbitrr.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

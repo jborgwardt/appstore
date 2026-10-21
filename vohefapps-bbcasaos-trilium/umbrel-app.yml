@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-trilium
+name: trilium
+tagline: Imported from BigBearCasaOS (trilium)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v0.105.0
+port: 8080
+description: Imported from BigBearCasaOS (trilium)
+developer: BigBearCasaOS
+website: https://youtu.be/h5ISPmUuBHs
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/trilium
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app trilium.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-dostalgia
+name: dostalgia
+tagline: A nostalgic DOS game hub
+icon: https://raw.githubusercontent.com/droideparanoico/dostalgia/main/images/icon-512.png
+category: gameservers
+version: latest
+port: 8765
+description: A nostalgic DOS game hub. Upload your old DOS games, auto-scrape artwork and metadata from IGDB, and play them directly in your browser via js-dos (DOSBox compiled to WebAssembly).
+developer: Unraid Community
+website: https://github.com/droideparanoico/dostalgia
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/dostalgia.xml
+support: https://hub.docker.com/r/droideparanoico/dostalgia/
+gallery: []
+releaseNotes: Imported from Unraid template dostalgia.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

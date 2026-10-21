@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-geoip2influx
+name: geoip2influx
+tagline: 'A python script that will parse the nginx access.log and send geolocation metrics and log metrics to InfluxDB Grafans dashboard link: https:'
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: tools
+version: latest
+port: 3000
+description: 'A python script that will parse the nginx access.log and send geolocation metrics and log metrics to InfluxDB Grafans dashboard link: https://grafana.com/grafana/dashboards/12268 See readme for instructions and additional environment variables. https://github.com/gilbN/geoip2influx/blob/master/README.md'
+developer: Unraid Community
+website: https://github.com/gilbN/geoip2influx
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/geoip2influx.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template geoip2influx.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

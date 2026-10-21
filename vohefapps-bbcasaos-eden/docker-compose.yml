@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-eden
+services:
+  app:
+    image: linuxserver/eden:0.2.1@sha256:1b1dc1fa8ded644ad29207d9fa17221073b369c12968651c8305008869e09640
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/eden/config
+      target: /config
+version: '3.7'

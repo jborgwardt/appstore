@@ -1,0 +1,16 @@
+name: big-bear-obsidian
+services:
+  big-bear-obsidian:
+    container_name: big-bear-obsidian
+    image: linuxserver/obsidian:1.14.4@sha256:ca9c7878429b70d61129a614e95418fd930d5dcb5dc1c1f6ec2c132f0e6122a2
+    restart: unless-stopped
+    environment:
+    - PUID=1000
+    - PGID=1000
+    - TZ=Etc/UTC
+    volumes:
+    - ${APP_DATA_DIR}/config:/config
+    ports:
+    - 3000:3000
+    - 3001:3001
+version: '3.7'

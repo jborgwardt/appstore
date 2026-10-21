@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-technitium-dnsserver
+name: dns-server
+tagline: Technitium DNS Server is an open source tool that can be used for self hosting a local DNS server for privacy and security or, used for expe
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/Technitium.png
+category: network
+version: latest
+port: 5380
+description: Technitium DNS Server is an open source tool that can be used for self hosting a local DNS server for privacy and security or, used for experimentation/testing by software developers on their computer. It works out-of-the-box with no or minimal configuration and provides a user friendly web console accessible using any web browser. See github for envirionment variables https://github.com/TechnitiumSoftware/DnsServer/blob/master/docker-compose.yml
+developer: Unraid Community
+website: https://github.com/TechnitiumSoftware/DnsServer
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/technitium-dnsserver.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template technitium-dnsserver.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

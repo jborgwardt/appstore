@@ -1,0 +1,12 @@
+version: '3.7'
+services:
+  app:
+    image: brainic/tado-assistant:latest
+    restart: unless-stopped
+    environment:
+    - NUM_ACCOUNTS=1
+    - TADO_USERNAME_1=
+    - TADO_PASSWORD_1=
+    - CHECKING_INTERVAL_1=
+    - ENABLE_LOG_1=
+    - MAX_OPEN_WINDOW_DURATION_1=

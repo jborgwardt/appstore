@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-qui
+name: qui
+tagline: A fast, modern web interface for qBittorrent
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/qui.png
+category: downloaders
+version: latest
+port: 7476
+description: A fast, modern web interface for qBittorrent. Supports managing multiple qBittorrent instances from a single, lightweight application.
+developer: Unraid Community
+website: https://github.com/autobrr/qui
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/qui.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template qui.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

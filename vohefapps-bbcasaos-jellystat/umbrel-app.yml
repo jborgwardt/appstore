@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-jellystat
+name: jellystat
+tagline: Imported from BigBearCasaOS (jellystat)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.1.12
+port: 3000
+description: Imported from BigBearCasaOS (jellystat)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/jellystat
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/jellystat
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app jellystat.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

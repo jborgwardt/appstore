@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-domainlocker
+name: domainlocker
+tagline: Imported from BigBearCasaOS (domainlocker)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.2.4
+port: 8180
+description: Imported from BigBearCasaOS (domainlocker)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/domainlocker
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/domainlocker
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app domainlocker.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

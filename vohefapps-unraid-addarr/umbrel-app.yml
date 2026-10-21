@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-addarr
+name: addarr
+tagline: TelegramBot for Sonarr and Radarr This is a Telegram Bot made to add series to Sonarr or movies to Radarr with a couple of commands
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: latest
+port: 3000
+description: TelegramBot for Sonarr and Radarr This is a Telegram Bot made to add series to Sonarr or movies to Radarr with a couple of commands. You can also communicate with your Transmission/Sabnzbd service to change its download speed. You will need to create a config.yaml file and place in the addarr appdata folder. To create this file, you will need to follow the guide on the Addarr wiki to get authenticated to Telegram.
+developer: Unraid Community
+website: https://github.com/Waterboy1602/Addarr
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/addarr.xml
+support: https://github.com/Homelabbers/unraid-templates/issues/new/choose
+gallery: []
+releaseNotes: Imported from Unraid template addarr.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

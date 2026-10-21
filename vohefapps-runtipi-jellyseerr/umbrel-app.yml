@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-jellyseerr
+name: Jellyseerr
+tagline: Fork of overseerr for Jellyfin support
+icon: https://runtipi.io/images/apps/jellyseerr.png
+category: media
+version: 2.7.3
+port: 8163
+description: Jellyseerr is a free and open source software application for managing requests for your media library. It is a a fork of Overseerr built to bring support for Jellyfin & Emby media servers!
+developer: Fallenbagel
+website: https://github.com/Fallenbagel/jellyseerr
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/jellyseerr
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app jellyseerr.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

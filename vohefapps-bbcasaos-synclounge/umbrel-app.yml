@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-synclounge
+name: synclounge
+tagline: Imported from BigBearCasaOS (synclounge)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 5.2.35
+port: 3000
+description: Imported from BigBearCasaOS (synclounge)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/synclounge
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/synclounge
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app synclounge.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

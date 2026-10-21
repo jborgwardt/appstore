@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-tasks-md
+name: Tasks.md
+tagline: A self-hosted, file based task management board.
+icon: https://runtipi.io/images/apps/tasks-md.png
+category: development
+version: 3.3.0
+port: 8157
+description: A self-hosted, file based task management board that supports Markdown syntax
+developer: BaldissaraMatheus
+website: https://github.com/BaldissaraMatheus/Tasks.md
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/tasks-md
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app tasks-md.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

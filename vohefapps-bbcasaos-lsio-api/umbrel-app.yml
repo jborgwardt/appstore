@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-lsio-api
+name: lsio-api
+tagline: Imported from BigBearCasaOS (lsio-api)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.0.0
+port: 3000
+description: Imported from BigBearCasaOS (lsio-api)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/lsio-api
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/lsio-api
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app lsio-api.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

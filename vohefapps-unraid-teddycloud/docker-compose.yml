@@ -1,0 +1,14 @@
+version: '3.7'
+services:
+  app:
+    image: ghcr.io/toniebox-reverse-engineering/teddycloud:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:80
+    - 7443:443
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/teddycloud/data/content
+    - ${APP_DATA_DIR}/data/path2:/teddycloud/config
+    - ${APP_DATA_DIR}/data/path3:/teddycloud/certs
+    - ${APP_DATA_DIR}/data/path4:/teddycloud/data/library
+    - ${APP_DATA_DIR}/data/path5:/teddycloud/data/firmware

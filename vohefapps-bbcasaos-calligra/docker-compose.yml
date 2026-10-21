@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-calligra
+services:
+  app:
+    image: linuxserver/calligra:3.2.1@sha256:46f113c44f246afa88e6578de2b9eb769ffe5421464889733895e7d2ecb3e301
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/calligra/config
+      target: /config
+version: '3.7'

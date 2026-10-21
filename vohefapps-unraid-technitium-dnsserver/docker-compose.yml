@@ -1,0 +1,10 @@
+version: '3.7'
+services:
+  app:
+    image: technitium/dns-server:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:5380
+    - '53:53'
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/etc/dns/

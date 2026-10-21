@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-dozzle
+name: dozzle
+tagline: Imported from BigBearCasaOS (dozzle)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v11.3.2
+port: 8888
+description: Imported from BigBearCasaOS (dozzle)
+developer: BigBearCasaOS
+website: https://youtu.be/lLLNDcHNOuM
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/dozzle
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app dozzle.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

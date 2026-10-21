@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-dovi-convert
+name: dovi-convert
+tagline: DoVi Convert provides a web interface for converting Dolby Vision Profile 7 MKV files (UHD Blu-ray rips) to Profile 8.1 for better compatibi
+icon: https://raw.githubusercontent.com/smidley/dovi-convert-docker/main/icon.png
+category: mediaapp
+version: latest
+port: 8080
+description: 'DoVi Convert provides a web interface for converting Dolby Vision Profile 7 MKV files (UHD Blu-ray rips) to Profile 8.1 for better compatibility with media players. Many devices cannot process Dolby Vision Profile 7 files, including Apple TV 4K (Plex/Infuse), Nvidia Shield, and Zidoo players. This causes fallback to HDR10 or playback issues. Features: - Web-based interface for easy operation - Scan directories for Dolby Vision files - Batch conversion with progress tracking - Safe mode for problematic files - Automatic backup creation - Real-time output streaming Based on the dovi_convert script by cryptochrome.'
+developer: Unraid Community
+website: https://github.com/smidley/dovi-convert-docker
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/dovi-convert.xml
+support: https://github.com/smidley/dovi-convert-docker/issues
+gallery: []
+releaseNotes: Imported from Unraid template dovi-convert.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

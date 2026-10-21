@@ -1,0 +1,11 @@
+name: big-bear-actual-server
+services:
+  app:
+    image: actualbudget/actual-server:26.10.0@sha256:24645e971da6bb1a1f953d6859e307a0b29be1e8b4130a35b3220c209b5b860c
+    container_name: actual-server
+    volumes:
+    - ${APP_DATA_DIR}:/data
+    ports:
+    - 5006:5006
+    restart: unless-stopped
+version: '3.7'

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-kopia
+name: kopia
+tagline: Imported from BigBearCasaOS (kopia)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v0.17.0-spad3
+port: 51515
+description: Imported from BigBearCasaOS (kopia)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/kopia
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/kopia
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app kopia.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

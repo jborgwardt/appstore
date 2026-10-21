@@ -1,0 +1,11 @@
+version: '3.7'
+services:
+  app:
+    image: diygod/rsshub:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:1200
+    environment:
+    - CACHE_EXPIRE=300
+    - CACHE_TYPE=memory|redis
+    - NODE_ENV=production

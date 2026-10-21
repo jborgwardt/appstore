@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-penpot
+name: Penpot
+tagline: Open-Source design & prototyping platform.
+icon: https://runtipi.io/images/apps/penpot.png
+category: utilities
+version: latest
+port: 8645
+description: Penpot - The Open-Source design & prototyping platform.
+developer: penpot
+website: https://github.com/penpot/penpot
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/penpot
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app penpot.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

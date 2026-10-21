@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-cyberchef
+name: cyberchef
+tagline: Imported from BigBearCasaOS (cyberchef)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 11.0.0
+port: 8080
+description: Imported from BigBearCasaOS (cyberchef)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/cyberchef
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/cyberchef
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app cyberchef.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

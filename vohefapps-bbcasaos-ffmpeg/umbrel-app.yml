@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-ffmpeg
+name: ffmpeg
+tagline: Imported from BigBearCasaOS (ffmpeg)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 9.0.2
+port: 3000
+description: Imported from BigBearCasaOS (ffmpeg)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/ffmpeg
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/ffmpeg
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app ffmpeg.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

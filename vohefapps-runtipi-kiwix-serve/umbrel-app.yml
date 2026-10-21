@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-kiwix-serve
+name: Kiwix Server
+tagline: Kiwix Server is a web server for hosting .zim files
+icon: https://runtipi.io/images/apps/kiwix-serve.png
+category: media
+version: 3.7.0-2
+port: 8169
+description: Kiwix Server is a web server for hosting .zim files
+developer: Kiwix
+website: https://github.com/kiwix/kiwix-tools/
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/kiwix-serve
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app kiwix-serve.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

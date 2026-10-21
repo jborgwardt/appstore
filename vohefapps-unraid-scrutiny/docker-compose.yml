@@ -1,0 +1,12 @@
+version: '3.7'
+services:
+  app:
+    image: ghcr.io/analogj/scrutiny:master-omnibus
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:8080
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/run/udev
+    - ${APP_DATA_DIR}/data/path2:/dev/disk
+    - ${APP_DATA_DIR}/data/path3:/opt/scrutiny/config
+    - ${APP_DATA_DIR}/data/path4:/opt/scrutiny/influxdb

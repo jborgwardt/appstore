@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-inkscape
+name: inkscape
+tagline: Imported from BigBearCasaOS (inkscape)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.4.2
+port: 3000
+description: Imported from BigBearCasaOS (inkscape)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/inkscape
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/inkscape
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app inkscape.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

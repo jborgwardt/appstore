@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-series-troxide
+name: series-troxide
+tagline: Imported from BigBearCasaOS (series-troxide)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.5.1
+port: 3000
+description: Imported from BigBearCasaOS (series-troxide)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/series-troxide
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/series-troxide
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app series-troxide.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

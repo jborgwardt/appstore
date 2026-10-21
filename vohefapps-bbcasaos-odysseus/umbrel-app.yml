@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-odysseus
+name: odysseus
+tagline: Imported from BigBearCasaOS (odysseus)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2026.10.12
+port: 7000
+description: Imported from BigBearCasaOS (odysseus)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/odysseus
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/odysseus
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app odysseus.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

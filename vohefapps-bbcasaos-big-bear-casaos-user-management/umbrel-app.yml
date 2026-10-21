@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-big-bear-casaos-user-management
+name: big-bear-casaos-user-management
+tagline: Imported from BigBearCasaOS (big-bear-casaos-user-management)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.1.1
+port: 5000
+description: Imported from BigBearCasaOS (big-bear-casaos-user-management)
+developer: BigBearCasaOS
+website: https://youtu.be/-a9k8fLAbRE
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/big-bear-casaos-user-management
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app big-bear-casaos-user-management.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

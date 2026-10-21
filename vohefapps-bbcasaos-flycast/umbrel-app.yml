@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-flycast
+name: flycast
+tagline: Imported from BigBearCasaOS (flycast)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2.7.20261004
+port: 3000
+description: Imported from BigBearCasaOS (flycast)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/flycast
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/flycast
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app flycast.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

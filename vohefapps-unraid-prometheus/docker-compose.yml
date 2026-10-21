@@ -1,0 +1,10 @@
+version: '3.7'
+services:
+  app:
+    image: prom/prometheus:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:9090
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/prometheus
+    - ${APP_DATA_DIR}/data/path2:/etc/prometheus/

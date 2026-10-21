@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-spoolman
+name: spoolman
+tagline: Imported from BigBearCasaOS (spoolman)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.23.1
+port: 7912
+description: Imported from BigBearCasaOS (spoolman)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/spoolman
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/spoolman
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app spoolman.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-podgrab
+name: podgrab
+tagline: A self-hosted podcast manager to download episodes as soon as they become live
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: downloaders
+version: latest
+port: 8080
+description: A self-hosted podcast manager to download episodes as soon as they become live
+developer: Unraid Community
+website: https://github.com/akhilrex/podgrab
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/podgrab.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template podgrab.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

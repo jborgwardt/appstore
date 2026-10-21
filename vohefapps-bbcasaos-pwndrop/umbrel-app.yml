@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-pwndrop
+name: pwndrop
+tagline: Imported from BigBearCasaOS (pwndrop)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.0.1
+port: 3000
+description: Imported from BigBearCasaOS (pwndrop)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/pwndrop
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/pwndrop
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app pwndrop.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

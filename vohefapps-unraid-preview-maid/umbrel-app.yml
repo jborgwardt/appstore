@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-preview-maid
+name: PreviewMaid
+tagline: Preview maid is a tool to help you find missing thumbnail previews in your plex library
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/preview-maid.png
+category: tools
+version: latest
+port: 3000
+description: Preview maid is a tool to help you find missing thumbnail previews in your plex library. By default it will run on a schedule at 00:00. Optionally you can have it run once and output before exiting.
+developer: Unraid Community
+website: https://github.com/fletchto99/preview-maid
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/preview-maid.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template preview-maid.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

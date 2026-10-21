@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-immich
+name: immich
+tagline: Imported from BigBearCasaOS (immich)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v3.1.0
+port: 2283
+description: Imported from BigBearCasaOS (immich)
+developer: BigBearCasaOS
+website: https://youtu.be/ZIx2jDHYjjE
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/immich
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app immich.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

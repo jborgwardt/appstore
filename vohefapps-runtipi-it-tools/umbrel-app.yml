@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-it-tools
+name: IT-Tools
+tagline: Collection of handy online tools for developers, with great UX.
+icon: https://runtipi.io/images/apps/it-tools.png
+category: development
+version: latest
+port: 8171
+description: 'Useful tools for developer and people working in IT. '
+developer: CorentinTh
+website: https://github.com/CorentinTh/it-tools
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/it-tools
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app it-tools.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

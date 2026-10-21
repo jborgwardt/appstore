@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-affine
+name: AFFiNE
+tagline: AFFiNE is a workspace with fully merged docs, whiteboards and databases.
+icon: https://runtipi.io/images/apps/affine.png
+category: utilities
+version: stable
+port: 3010
+description: AFFiNE is a workspace with fully merged docs, whiteboards and databases. A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion & Miro. Docs, canvas and tables are hyper-merged with AFFiNE - just like the word affine
+developer: https://github.com/toeverything
+website: https://github.com/toeverything/affine
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/affine
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app affine.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

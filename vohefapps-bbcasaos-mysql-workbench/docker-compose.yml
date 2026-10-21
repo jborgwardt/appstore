@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-mysql-workbench
+services:
+  app:
+    image: linuxserver/mysql-workbench:8.0.47@sha256:71e59c22815a5b7cce5817db74b717dfc8c4bd0b7d360e540a6dfc16a422a6c4
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/mysql-workbench/config
+      target: /config
+version: '3.7'

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-firefly-iii-data-importer
+name: Firefly III Data Importer
+tagline: The Firefly III Data Importer can import data into Firefly III
+icon: https://runtipi.io/images/apps/firefly-iii-data-importer.png
+category: finance
+version: version-2
+port: 8150
+description: The Firefly III Data Importer can import data into Firefly III
+developer: JC5
+website: https://github.com/firefly-iii/data-importer
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/firefly-iii-data-importer
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app firefly-iii-data-importer.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

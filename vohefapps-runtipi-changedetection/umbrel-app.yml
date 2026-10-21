@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-changedetection
+name: ChangeDetection
+tagline: Website change detection.
+icon: https://runtipi.io/images/apps/changedetection.png
+category: utilities
+version: 0.60.9
+port: 8257
+description: The best and simplest free open source website change detection, restock monitor and notification service.
+developer: dgtlmoon
+website: https://github.com/dgtlmoon/changedetection.io
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/changedetection
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app changedetection.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

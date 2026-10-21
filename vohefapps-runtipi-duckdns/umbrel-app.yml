@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-duckdns
+name: Duck DNS
+tagline: Duck DNS is a free Dynamic DNS service
+icon: https://runtipi.io/images/apps/duckdns.png
+category: network
+version: b14c520a-ls8
+port: 8026
+description: Duck DNS is a free service which will point a DNS (sub domains of duckdns.org) to an IP of your choice
+developer: linuxserver.io
+website: https://github.com/linuxserver/docker-duckdns
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/duckdns
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app duckdns.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

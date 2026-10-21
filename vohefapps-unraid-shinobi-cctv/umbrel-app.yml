@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-shinobi-cctv
+name: shinobi-pro-cctv
+tagline: Shinobi Docker from official Dockerhub repo
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/shinobi.png
+category: homeautomation
+version: latest
+port: 8080
+description: 'Shinobi Docker from official Dockerhub repo. Note to use GPU for hardware encoding or Object detection: 1. add `--runtime=nvidia` in Extra Parameters. 2. Add Nvidia GPU Devices variables ID & Driver capabilities in advanced'
+developer: Unraid Community
+website: https://gitlab.com/Shinobi-Systems/Shinobi
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/shinobi_cctv.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template shinobi_cctv.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-opera
+name: opera
+tagline: Imported from BigBearCasaOS (opera)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 137.0.6036
+port: 3000
+description: Imported from BigBearCasaOS (opera)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/opera
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/opera
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app opera.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-teedy-docs
+name: Teedy-docs
+tagline: Teedy is an open-source, lightweight document management system (DMS) for individuals and businesses
+icon: https://raw.githubusercontent.com/sismics/docs/master/docs-web/src/main/resources/image/logo.png
+category: cloud
+version: latest
+port: 8080
+description: Teedy is an open-source, lightweight document management system (DMS) for individuals and businesses. The default admin password is "admin". Don't forget to change it before going to production.
+developer: Unraid Community
+website: https://github.com/sismics/docs
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/teedy-docs.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template teedy-docs.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

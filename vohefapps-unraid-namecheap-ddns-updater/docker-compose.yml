@@ -1,0 +1,10 @@
+version: '3.7'
+services:
+  app:
+    image: tranceer/namecheap-ddns-updater:latest
+    restart: unless-stopped
+    environment:
+    - DOMAIN=yourdomain.com
+    - API_KEY=
+    - HOSTS=@
+    - INTERVAL=600

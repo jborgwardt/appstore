@@ -1,0 +1,22 @@
+name: big-bear-linuxserver-ungoogled-chromium
+services:
+  app:
+    image: linuxserver/ungoogled-chromium:155.0.8059@sha256:6eb82d737db6f4d80c00aa0841f8d142280a36625e6e0c3f9dd198ef5fd7d2ed
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+      CHROME_CLI: ''
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/ungoogled-chromium/config
+      target: /config
+version: '3.7'

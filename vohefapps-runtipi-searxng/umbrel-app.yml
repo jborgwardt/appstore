@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-searxng
+name: SearXNG
+tagline: Privacy-respecting, hackable metasearch engine
+icon: https://runtipi.io/images/apps/searxng.png
+category: social
+version: latest
+port: 8127
+description: SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+developer: searxng
+website: https://github.com/searxng/searxng
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/searxng
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app searxng.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

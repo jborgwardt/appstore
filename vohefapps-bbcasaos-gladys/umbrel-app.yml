@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-gladys
+name: gladys
+tagline: Imported from BigBearCasaOS (gladys)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v5.2.1
+port: 3000
+description: Imported from BigBearCasaOS (gladys)
+developer: BigBearCasaOS
+website: https://youtu.be/l4GPomJMIT0
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/gladys
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app gladys.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

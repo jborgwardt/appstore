@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-goaccess
+name: goaccess
+tagline: GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/goaccess.png
+category: utilities
+version: latest
+port: 7890
+description: GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+developer: Unraid Community
+website: https://goaccess.io/
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/goaccess.xml
+support: https://github.com/allinurl/goaccess/issues/
+gallery: []
+releaseNotes: Imported from Unraid template goaccess.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

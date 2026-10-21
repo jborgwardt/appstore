@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-unpackerr
+name: unpackerr
+tagline: RAR download extractor for Sonarr, Radarr and Lidarr! Mount /downloads on all 3 or 4 containers to the same path on your host
+icon: https://raw.githubusercontent.com/wiki/davidnewhall/unpackerr/images/logo.png
+category: tools
+version: latest
+port: 3000
+description: RAR download extractor for Sonarr, Radarr and Lidarr! Mount /downloads on all 3 or 4 containers to the same path on your host. This application will automatically poll all of the apps (Lidarr, Sonarr, Radarr) to check for downloads. When a completed download contains a rar file, this application will extract the file and move the extracted contents back into the download location. Files will be extracted recursively in an attempt to get all subtitles. If you don't use one of Lidarr, Sonarr or Radarr, simply empty those two fields for that app and it wont be polled. If you put all your containers on the same custom bridge you may not need to expose any ports, and you can use DNS to reach other containers. It's a very convenient configuration!
+developer: Unraid Community
+website: https://github.com/davidnewhall/unpackerr
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/unpackerr.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template unpackerr.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

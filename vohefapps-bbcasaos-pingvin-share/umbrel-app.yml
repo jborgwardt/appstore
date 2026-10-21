@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-pingvin-share
+name: pingvin-share
+tagline: Imported from BigBearCasaOS (pingvin-share)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v1.13.0
+port: 3000
+description: Imported from BigBearCasaOS (pingvin-share)
+developer: BigBearCasaOS
+website: https://youtu.be/SRJUS7h1vhU
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/pingvin-share
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app pingvin-share.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

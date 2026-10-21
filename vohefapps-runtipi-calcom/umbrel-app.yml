@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-calcom
+name: Cal.com
+tagline: Scheduling infrastructure for absolutely everyone.
+icon: https://runtipi.io/images/apps/calcom.png
+category: social
+version: v6.2.0
+port: 8294
+description: "The open source Calendly successor. You are in charge of your own data, workflow, and appearance.\nCalendly and other scheduling tools are awesome. It made our lives massively easier. We're using it for business meetings, seminars, yoga classes, and even calls with our families. However, most tools are very limited in terms of control and customization.\n    That's where Cal.com comes in. Self-hosted or hosted by us. White-label by design. API-driven and ready to be deployed on your own domain. Full control of your events and data."
+developer: cal.com
+website: https://github.com/calcom/cal.com
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/calcom
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app calcom.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

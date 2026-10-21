@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-2fauth
+name: 2fauth
+tagline: Imported from BigBearCasaOS (2fauth)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 8.0.2
+port: 8000
+description: Imported from BigBearCasaOS (2fauth)
+developer: BigBearCasaOS
+website: https://youtu.be/yCnjxSryD_U
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/2fauth
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app 2fauth.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-duckstation
+services:
+  app:
+    image: linuxserver/duckstation:version-latest@sha256:c8ac72a408a78852ff60ac314e450a485271a022f50ffbe737c02bacb3622c86
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/duckstation/config
+      target: /config
+version: '3.7'

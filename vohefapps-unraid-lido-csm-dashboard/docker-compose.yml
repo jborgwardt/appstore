@@ -1,0 +1,15 @@
+version: '3.7'
+services:
+  app:
+    image: 0xdespot/lido-csm-dashboard:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:3000
+    environment:
+    - ETH_RPC_URL=https://eth.llamarpc.com
+    - BEACON_API_URL=https://beaconcha.in/api/v1
+    - BEACON_API_KEY=
+    - ETHERSCAN_API_KEY=
+    - THEGRAPH_API_KEY=
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/app/data

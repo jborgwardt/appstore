@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-changedetection
+name: changedetection
+tagline: Imported from BigBearCasaOS (changedetection)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.55.3
+port: 5000
+description: Imported from BigBearCasaOS (changedetection)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/changedetection
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/changedetection
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app changedetection.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

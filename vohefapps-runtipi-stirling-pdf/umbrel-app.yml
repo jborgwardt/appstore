@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-stirling-pdf
+name: Stirling-PDF
+tagline: Powerful locally hosted web based PDF manipulation tool.
+icon: https://runtipi.io/images/apps/stirling-pdf.png
+category: data
+version: 3.2.0
+port: 8234
+description: Locally hosted web application that allows you to perform various operations on PDF files.
+developer: Frooodle
+website: https://github.com/Frooodle/Stirling-PDF/
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/stirling-pdf
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app stirling-pdf.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

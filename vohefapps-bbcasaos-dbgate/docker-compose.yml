@@ -1,0 +1,11 @@
+name: big-bear-dbgate
+services:
+  big-bear-dbgate:
+    container_name: big-bear-dbgate
+    image: dbgate/dbgate:7.3.2-alpine@sha256:16adb42330dd7043d4418887b948ca066f9567e252ca6368e62388a5df9d074e
+    restart: unless-stopped
+    volumes:
+    - ${APP_DATA_DIR}/config:/root/.dbgate
+    ports:
+    - 3000:3000
+version: '3.7'

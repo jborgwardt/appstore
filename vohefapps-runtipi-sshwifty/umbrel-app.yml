@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-sshwifty
+name: Sshwifty
+tagline: Web SSH & Telnet (WebSSH & WebTelnet client)
+icon: https://runtipi.io/images/apps/sshwifty.png
+category: development
+version: 0.4.12
+port: 8274
+description: Sshwifty is a SSH and Telnet connector made for the Web. It can be deployed on your computer or server to provide SSH and Telnet access interface for any compatible (standard) web browser.
+developer: Nirui
+website: https://github.com/nirui/sshwifty
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/sshwifty
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app sshwifty.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

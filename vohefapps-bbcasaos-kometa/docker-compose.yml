@@ -1,0 +1,23 @@
+name: big-bear-linuxserver-kometa
+services:
+  app:
+    image: linuxserver/kometa:2.5.3@sha256:1ca8d63b49a386c98c8bcfa3a625eb0ef9d00815ecb9a2286d471e7ba29aab0d
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+      KOMETA_CONFIG: ''
+      KOMETA_TIMES: ''
+      KOMETA_RUN: ''
+      KOMETA_TESTS: ''
+      KOMETA_NO_MISSING: ''
+    ports:
+    - target: 80
+      published: 80
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/kometa/config
+      target: /config
+version: '3.7'

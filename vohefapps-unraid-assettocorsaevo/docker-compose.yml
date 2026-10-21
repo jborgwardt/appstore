@@ -1,0 +1,14 @@
+version: '3.7'
+services:
+  app:
+    image: vaandal/acevo:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:9700
+    - 9700:9700
+    environment:
+    - SERVER_ARGS=
+    - PUID=99
+    - PGID=100
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/config

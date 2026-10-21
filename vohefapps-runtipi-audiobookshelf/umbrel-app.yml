@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-audiobookshelf
+name: Audiobookshelf
+tagline: Audiobookshelf is a self-hosted audiobook and podcast server.
+icon: https://runtipi.io/images/apps/audiobookshelf.png
+category: books
+version: 2.37.1
+port: 13378
+description: Audiobookshelf is a self-hosted audiobook server for managing and playing your audiobooks. Audiobookshelf has a clean, accessible design that's loaded with features but not overly complicated.
+developer: advplyr
+website: https://github.com/advplyr/audiobookshelf
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/audiobookshelf
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app audiobookshelf.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

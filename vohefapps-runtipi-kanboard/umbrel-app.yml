@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-kanboard
+name: Kanboard
+tagline: Open Source Kanban Board
+icon: https://runtipi.io/images/apps/kanboard.png
+category: development
+version: v1.2.54
+port: 8010
+description: Kanboard is a free and open source Kanban project management software.
+developer: Frédéric Guillot
+website: https://github.com/kanboard/kanboard
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/kanboard
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app kanboard.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

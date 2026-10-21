@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-qemu-static
+name: qemu-static
+tagline: Imported from BigBearCasaOS (qemu-static)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 10.0.2
+port: 3000
+description: Imported from BigBearCasaOS (qemu-static)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/qemu-static
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/qemu-static
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app qemu-static.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

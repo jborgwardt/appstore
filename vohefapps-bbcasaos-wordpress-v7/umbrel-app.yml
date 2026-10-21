@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-wordpress-v7
+name: wordpress-v7
+tagline: Imported from BigBearCasaOS (wordpress-v7)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 7.1.3
+port: 8084
+description: Imported from BigBearCasaOS (wordpress-v7)
+developer: BigBearCasaOS
+website: https://youtu.be/j5M4qlRCbYs
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/wordpress-v7
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app wordpress-v7.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

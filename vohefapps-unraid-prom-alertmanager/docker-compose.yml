@@ -1,0 +1,10 @@
+version: '3.7'
+services:
+  app:
+    image: prom/alertmanager:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:9093
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/alertmanager
+    - ${APP_DATA_DIR}/data/path2:/etc/alertmanager/alertmanager.yaml

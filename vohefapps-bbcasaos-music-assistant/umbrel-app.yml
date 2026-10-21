@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-music-assistant
+name: music-assistant
+tagline: Imported from BigBearCasaOS (music-assistant)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2.8.7
+port: 3000
+description: Imported from BigBearCasaOS (music-assistant)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/music-assistant
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/music-assistant
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app music-assistant.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-triliumnext
+name: trilium
+tagline: Trilium Notes is an open-source, cross-platform hierarchical note-taking application with focus on building large personal knowledge bases.
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/triliumnext.png
+category: productivity
+version: latest
+port: 8080
+description: Trilium Notes is an open-source, cross-platform hierarchical note-taking application with focus on building large personal knowledge bases.
+developer: Unraid Community
+website: https://github.com/TriliumNext/Trilium
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/triliumnext.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template triliumnext.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-drone
+name: Drone
+tagline: Drone is a Continuous Integration platform built on Docker
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/drone.png
+category: productivity
+version: latest
+port: 80
+description: Drone is a Continuous Integration platform built on Docker
+developer: Unraid Community
+website: https://github.com/harness/drone
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/drone.xml
+support: https://docs.drone.io/
+gallery: []
+releaseNotes: Imported from Unraid template drone.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

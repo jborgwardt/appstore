@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-idpvault
+name: IdPVault
+tagline: Self-hosted backup, drift detection, and restore for identity providers (Authentik, Okta, and Auth0)
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/idpvault.png
+category: backup
+version: latest
+port: 8080
+description: 'Self-hosted backup, drift detection, and restore for identity providers (Authentik, Okta, and Auth0). Encrypted configuration snapshots on a schedule, a diff of every change, selective restore with dry-run preview, and Users and Access backup/restore on paid tiers. No telemetry, no phone-home; license keys verify offline. Free Community tier included (1 tenant). Requires a PostgreSQL database - install any PostgreSQL container from CA and point the Database URL below at it. The encryption master key generates itself on first boot in the Secrets path: back that folder up and never delete it, or existing snapshots become unreadable. The container runs as a non-root user (uid 10001). If it fails to start with permission errors, run: chown -R 10001:10001 /mnt/user/appdata/idpvault'
+developer: Unraid Community
+website: https://github.com/KelTech-Services/IdPVault
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/idpvault.xml
+support: https://github.com/KelTech-Services/IdPVault/issues
+gallery: []
+releaseNotes: Imported from Unraid template idpvault.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

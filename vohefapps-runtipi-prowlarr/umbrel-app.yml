@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-prowlarr
+name: Prowlarr
+tagline: A torrent/usenet indexer manager/proxy
+icon: https://runtipi.io/images/apps/prowlarr.png
+category: media
+version: 2.6.5
+port: 8109
+description: Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps. Prowlarr supports management of both Torrent Trackers and Usenet Indexers. It integrates seamlessly with Lidarr, Mylar3, Radarr, Readarr, and Sonarr offering complete management of your indexers with no per app Indexer setup required (we do it all).
+developer: Prowlarr
+website: https://github.com/Prowlarr/Prowlarr/
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/prowlarr
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app prowlarr.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

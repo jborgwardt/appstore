@@ -1,0 +1,22 @@
+manifestVersion: 1
+id: vohefapps-unraid-agent-zero
+name: agent-zero
+tagline: Agent-Zero is the easiest way to create and deploy autonomous AI agents
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/agent-zero.png
+category: ai
+version: latest
+port: 80
+description: 'Agent-Zero is the easiest way to create and deploy autonomous AI agents. Configuration note: The "--BRANCH=main" post argument will break installation if you are not using Tailscale- create it as a standard variable in that case, and remove the post-arg. It''s a powerful platform designed to simplify the development and management of AI agents by providing a user-friendly interface and robust backend capabilities. Simply provide your API key from a supported Large Language Model (LLM) provider (like OpenAI, Anthropic, or Cohere), describe the agent you want to build, and Agent-Zero will generate, test, and deploy it for you. FIRST RUN SETUP: After deploying this container, access the web interface and configure your LLM provider during the initial setup. You must provide your own API key or Ollama instance URL for at least one LLM provider for the application to be useful. All configuration is done through the web interface on first run. GPU Support: This template will pass
+  all available Nvidia GPUs to the container. This requires the Nvidia-Plugin to be installed from Community Applications. BRANCH parameter is in post-arguments, because it needs to be passed after the tailscale package completes, or the container will fail to start. Future-Proofing Note: The GPU passthrough setting is included to future-proof the container for when the developer begins releasing CUDA-enabled images directly to Docker Hub. If you do not require GPU functionality, feel free to remove the ''--runtime=nvidia'' parameter from the ''Extra Parameters'' field.'
+developer: Unraid Community
+website: https://agent-zero.ai/
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/agent_zero.xml
+support: https://github.com/agent0ai/agent-zero/issues
+gallery: []
+releaseNotes: Imported from Unraid template agent_zero.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

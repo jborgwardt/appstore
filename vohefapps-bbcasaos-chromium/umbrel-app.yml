@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-chromium
+name: chromium
+tagline: Imported from BigBearCasaOS (chromium)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: version-6ae43f81
+port: 3000
+description: Imported from BigBearCasaOS (chromium)
+developer: BigBearCasaOS
+website: https://youtu.be/ziy4c4n7KnU
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/chromium
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app chromium.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

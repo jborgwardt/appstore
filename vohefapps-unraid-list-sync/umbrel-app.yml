@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-list-sync
+name: ListSync
+tagline: ListSync automatically syncs your watchlists from IMDb, Trakt, and Letterboxd with Overseerr/Jellyseerr
+icon: "\n    "
+category: downloaders
+version: latest
+port: 3000
+description: ListSync automatically syncs your watchlists from IMDb, Trakt, and Letterboxd with Overseerr/Jellyseerr. No more manual adding - just add movies and shows to your favorite watchlist, and they'll appear in your media server automatically.
+developer: Unraid Community
+website: https://github.com/Woahai321/list-sync/
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/list-sync.xml
+support: https://github.com/Woahai321/list-sync/issues
+gallery: []
+releaseNotes: Imported from Unraid template list-sync.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

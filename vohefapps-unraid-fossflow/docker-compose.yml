@@ -1,0 +1,11 @@
+version: '3.7'
+services:
+  app:
+    image: stnsmith/fossflow:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:80
+    environment:
+    - ENABLE_SERVER_STORAGE=true|false
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/data/diagrams

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-kitana
+name: Kitana
+tagline: Kitana exposes your Plex plugin interfaces "to the outside world"
+icon: https://raw.githubusercontent.com/pannal/Kitana/master/static/img/android-icon-192x192.png
+category: homeautomation
+version: latest
+port: 31337
+description: Kitana exposes your Plex plugin interfaces "to the outside world". It does that by authenticating against Plex.TV, then connecting to the Plex Media Server you tell it to, and essentially proxying the plugin UI. It has full PMS connection awareness and allows you to connect locally, remotely, or even via relay. To set the baseurl for this application, open advanced view, and add -p /kitana -P to the "Post Arguments"
+developer: Unraid Community
+website: https://github.com/pannal/Kitana
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/kitana.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template kitana.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

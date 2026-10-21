@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-draw-io
+name: Draw.io
+tagline: A lightweight diagram drawing application
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/draw-io.png
+category: productivity
+version: latest
+port: 8080
+description: A lightweight diagram drawing application
+developer: Unraid Community
+website: https://github.com/jgraph/drawio
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/draw-io.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template draw-io.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

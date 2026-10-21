@@ -1,0 +1,17 @@
+version: '3.7'
+services:
+  app:
+    image: ghcr.io/gilbn/geoip2influx:latest
+    restart: unless-stopped
+    environment:
+    - PUID=
+    - PGID=
+    - INFLUX_HOST=
+    - INFLUX_HOST_PORT=
+    - INFLUX_USER=
+    - INFLUX_PASS=
+    - MAXMINDDB_LICENSE_KEY=
+    - MAXMINDDB_USER_ID=
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/config
+    - ${APP_DATA_DIR}/data/path2:/config/log/nginx/

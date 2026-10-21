@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-mailpit
+name: mailpit
+tagline: Imported from BigBearCasaOS (mailpit)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v1.31
+port: 8025
+description: Imported from BigBearCasaOS (mailpit)
+developer: BigBearCasaOS
+website: https://youtu.be/2MY3S6csrVw
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/mailpit
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app mailpit.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

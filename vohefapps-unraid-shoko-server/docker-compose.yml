@@ -1,0 +1,14 @@
+version: '3.7'
+services:
+  app:
+    image: ghcr.io/shokoanime/server:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:8111
+    environment:
+    - PUID=
+    - PGID=
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/home/shoko/.shoko/
+    - ${APP_DATA_DIR}/data/path2:/anime
+    - ${APP_DATA_DIR}/data/path3:/import

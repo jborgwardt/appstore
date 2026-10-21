@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-flaresolverr
+name: Flaresolverr
+tagline: Bypass Cloudflare and DDoS-GuARD.
+icon: https://runtipi.io/images/apps/flaresolverr.png
+category: media
+version: v3.5.2
+port: 8666
+description: FlareSolverr is a proxy server to bypass Cloudflare and DDoS-GUARD protection.
+developer: FlareSolverr Team
+website: https://github.com/FlareSolverr/FlareSolverr
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/flaresolverr
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app flaresolverr.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

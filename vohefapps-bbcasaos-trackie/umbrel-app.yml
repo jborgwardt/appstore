@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-trackie
+name: trackie
+tagline: Imported from BigBearCasaOS (trackie)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 26.9.0
+port: 20005
+description: Imported from BigBearCasaOS (trackie)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/trackie
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/trackie
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app trackie.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-tautulli
+name: tautulli
+tagline: Imported from BigBearCasaOS (tautulli)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2.18.2
+port: 3000
+description: Imported from BigBearCasaOS (tautulli)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/tautulli
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/tautulli
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app tautulli.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

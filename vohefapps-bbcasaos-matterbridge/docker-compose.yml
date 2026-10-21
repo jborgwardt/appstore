@@ -1,0 +1,11 @@
+name: big-bear-matterbridge
+services:
+  big-bear-matterbridge:
+    container_name: big-bear-matterbridge
+    image: luligu/matterbridge:3.10.13@sha256:56bf894ad9f80cd660bc55b79efe52eaaa8fc93d1cff28b6db9e26ce21671699
+    restart: unless-stopped
+    network_mode: host
+    volumes:
+    - ${APP_DATA_DIR}/Matterbridge:/root/Matterbridge
+    - ${APP_DATA_DIR}/.matterbridge:/root/.matterbridge
+version: '3.7'

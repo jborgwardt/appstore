@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-ghost-dev
+name: Ghost Development
+tagline: Ghost - Turn your audience into a business.
+icon: https://runtipi.io/images/apps/ghost-dev.png
+category: social
+version: 5.130.6
+port: 8225
+description: Ghost is a powerful app for new-media creators to publish, share, and grow a business around their content. It comes with modern tools to build a website, publish content, send newsletters & offer paid subscriptions to members.
+developer: TryGhost
+website: https://github.com/TryGhost/Ghost
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/ghost-dev
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app ghost-dev.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

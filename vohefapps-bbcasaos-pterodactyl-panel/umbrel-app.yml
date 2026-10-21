@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-pterodactyl-panel
+name: pterodactyl-panel
+tagline: Imported from BigBearCasaOS (pterodactyl-panel)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v1.12.2
+port: 1180
+description: Imported from BigBearCasaOS (pterodactyl-panel)
+developer: BigBearCasaOS
+website: https://youtu.be/p_140cc6_1g
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/pterodactyl-panel
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app pterodactyl-panel.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

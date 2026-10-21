@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-paperless-ngx
+name: paperless-ngx
+tagline: Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive so you can keep, well
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/paperless.png
+category: productivity
+version: latest
+port: 8000
+description: 'Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper. Paperless-ngx forked from paperless-ng to continue the great work and distribute responsibility of supporting and advancing the project among a team of people. Requirements: Paperless-ngx requires Redis or Valkey as external service. You can install it from the CA store. Make sure to adjust the configuration in the template accordingly. Setup: Create a user account after this container is created i.e. from Unraids Docker UI, click the paperless-ngx icon and choose Console. Then enter "python manage.py createsuperuser" in the prompt and follow the instructions. Paperless-ngx Documentation: https://docs.paperless-ngx.com/ Additional Template Variables: https://docs.paperless-ngx.com/configuration/ Demo: https://demo.paperless-ngx.com/'
+developer: Unraid Community
+website: https://github.com/paperless-ngx/paperless-ngx
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/paperless-ngx.xml
+support: https://forums.unraid.net/topic/121075-support-paperless-ngx-docker/
+gallery: []
+releaseNotes: Imported from Unraid template paperless-ngx.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-syncarr
+name: syncarr
+tagline: Syncs two Radarr/Sonarr/Lidarr servers through the web API
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: mediaserver
+version: latest
+port: 3000
+description: 'Syncs two Radarr/Sonarr/Lidarr servers through the web API. Useful for syncing a 4k radarr/sonarr instance to a 1080p radarr/sonarr instance. Note you cannot have a mix of radarr, lidarr, or sonarr config setups at the same time. You will need to setup separate instances of syncarr IMPORTANT: REMOVE THE VARIABLES YOU''RE NOT USING'
+developer: Unraid Community
+website: https://github.com/syncarr/syncarr
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/syncarr.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template syncarr.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

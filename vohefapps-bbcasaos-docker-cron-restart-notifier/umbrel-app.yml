@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-docker-cron-restart-notifier
+name: docker-cron-restart-notifier
+tagline: Imported from BigBearCasaOS (docker-cron-restart-notifier)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: restart-notifier-latest
+port: 3000
+description: Imported from BigBearCasaOS (docker-cron-restart-notifier)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/docker-cron-restart-notifier
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/docker-cron-restart-notifier
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app docker-cron-restart-notifier.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

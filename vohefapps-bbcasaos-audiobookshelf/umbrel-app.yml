@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-audiobookshelf
+name: audiobookshelf
+tagline: Imported from BigBearCasaOS (audiobookshelf)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2.34.0
+port: 8080
+description: Imported from BigBearCasaOS (audiobookshelf)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/audiobookshelf
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/audiobookshelf
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app audiobookshelf.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

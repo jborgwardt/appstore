@@ -1,0 +1,13 @@
+version: '3.7'
+services:
+  app:
+    image: ipfs/kubo:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:4001
+    - 4001:4001
+    - 5001:5001
+    - 8080:8080
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/export
+    - ${APP_DATA_DIR}/data/path2:/data/ipfs

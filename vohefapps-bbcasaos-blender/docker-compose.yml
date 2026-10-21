@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-blender
+services:
+  app:
+    image: linuxserver/blender:5.2.2@sha256:4506052a10e9715d620dce8abe630342a54c23822d85086d90225f6973ab4650
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/blender/config
+      target: /config
+version: '3.7'

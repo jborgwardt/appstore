@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-invoice-ninja
+name: invoice-ninja
+tagline: Imported from BigBearCasaOS (invoice-ninja)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 5.13.48
+port: 8080
+description: Imported from BigBearCasaOS (invoice-ninja)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/invoice-ninja
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/invoice-ninja
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app invoice-ninja.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

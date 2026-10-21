@@ -1,0 +1,35 @@
+manifestVersion: 1
+id: vohefapps-runtipi-freshrss
+name: FreshRSS
+tagline: 'A free, self-hostable aggregator… '
+icon: https://runtipi.io/images/apps/freshrss.png
+category: utilities
+version: 1.30.1
+port: 8086
+description: 'FreshRSS is a self-hosted RSS feed aggregator like Leed or Kriss Feed.
+
+  It is lightweight, easy to work with, powerful, and customizable.
+
+
+  It is a multi-user application with an anonymous reading mode. It supports custom tags. There is an API for (mobile) clients, and a Command-Line Interface.
+
+
+  Thanks to the WebSub standard (formerly PubSubHubbub), FreshRSS is able to receive instant push notifications from compatible sources, such as Mastodon, Friendica, WordPress, Blogger, FeedBurner, etc.
+
+
+  FreshRSS natively supports basic Web scraping, based on XPath, for Web sites not providing any RSS / Atom feed.
+
+
+  Finally, it supports extensions for further tuning.'
+developer: https://freshrss.org/
+website: https://github.com/FreshRSS/FreshRSS
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/freshrss
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app freshrss.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

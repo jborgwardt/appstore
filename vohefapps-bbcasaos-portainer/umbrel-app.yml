@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-portainer
+name: portainer
+tagline: Imported from BigBearCasaOS (portainer)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2.45.2-alpine
+port: 8000
+description: Imported from BigBearCasaOS (portainer)
+developer: BigBearCasaOS
+website: https://youtu.be/GW4_OALLI_s
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/portainer
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app portainer.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

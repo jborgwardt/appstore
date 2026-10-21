@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-sstvproxy
+name: sstvproxy
+tagline: Yet Another Proxy (YAP) for SmoothStreams.tv Docker Image Environment variables will take precedence over manual changes to proxysettings.js
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: mediaserver
+version: latest
+port: 8098
+description: 'Yet Another Proxy (YAP) for SmoothStreams.tv Docker Image Environment variables will take precedence over manual changes to proxysettings.json and will persist across container restarts. This means that if you set the YAP_USERNAME and YAP_PASSWORD for instance when you create the container, these will always be placed in the proxysettings.json file, even if you edit the file manually with a text editor. For Plex setup see: https://github.com/stokkes/docker-sstvproxy#plex'
+developer: Unraid Community
+website: https://github.com/vorghahn/sstvproxy
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/sstvproxy.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository
+gallery: []
+releaseNotes: Imported from Unraid template sstvproxy.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

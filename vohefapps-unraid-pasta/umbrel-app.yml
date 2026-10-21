@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-pasta
+name: PASTA
+tagline: PASTA - Audio and Subtitle Track Changer for Plex PASTA allows you to connect to your Plex server and view more details about the audio trac
+icon: https://www.pastatool.com/images/android-chrome-512.png
+category: mediaapp
+version: latest
+port: 80
+description: PASTA - Audio and Subtitle Track Changer for Plex PASTA allows you to connect to your Plex server and view more details about the audio tracks and subtitles, as well as set the tracks and subtitles for entire shows, or single episodes very quickly.
+developer: Unraid Community
+website: https://github.com/cglatot/pasta
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/pasta.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository
+gallery: []
+releaseNotes: Imported from Unraid template pasta.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

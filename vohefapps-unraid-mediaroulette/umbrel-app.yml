@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-mediaroulette
+name: MediaRoulette
+tagline: 'MediaRoulette for Plex — Can''t decide what to watch? MediaRoulette randomly picks from your Movies, TV Shows, or both with optional filters '
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/mediaroulette.png
+category: mediaapp
+version: latest
+port: 5000
+description: MediaRoulette for Plex — Can't decide what to watch? MediaRoulette randomly picks from your Movies, TV Shows, or both with optional filters (genre, rating, unwatched only, etc.). Great for large libraries where scrolling becomes overwhelming. Connects via Plex OAuth - no credentials stored.
+developer: Unraid Community
+website: https://github.com/KelTech-Services/MediaRoulette
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/mediaroulette.xml
+support: https://github.com/KelTech-Services/MediaRoulette/issues
+gallery: []
+releaseNotes: Imported from Unraid template mediaroulette.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

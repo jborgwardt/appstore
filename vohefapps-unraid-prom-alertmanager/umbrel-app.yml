@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-prom-alertmanager
+name: prom-alertmanager
+tagline: The Alertmanager handles alerts sent by client applications such as the Prometheus server
+icon: "\n    https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/prometheus.png"
+category: productivity
+version: latest
+port: 9093
+description: 'The Alertmanager handles alerts sent by client applications such as the Prometheus server. It takes care of deduplicating, grouping, and routing them to the correct receiver integrations such as email, PagerDuty, OpsGenie, or many other mechanisms thanks to the webhook receiver. It also takes care of silencing and inhibition of alerts. alertmanager/alertmanager.yml This configuration contains information about which channels to send to. For simplicity, we use e-mail. Refer to the Alertmanager docs to learn about other channels. To configure prometheus to use these alerts, add the below to prometheus/prometheus.yml: alerting: alertmanagers: - scheme: http static_configs: - targets: &lt; ''alertmanager:9093'' &gt;'
+developer: Unraid Community
+website: https://github.com/prometheus/alertmanager
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/prom-alertmanager.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template prom-alertmanager.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

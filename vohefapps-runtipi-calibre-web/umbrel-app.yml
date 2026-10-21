@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-calibre-web
+name: Calibre-Web - EBook Reader
+tagline: Calibre-web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database.
+icon: https://runtipi.io/images/apps/calibre-web.png
+category: books
+version: 0.6.27
+port: 8100
+description: "On the initial setup screen, enter /calibre as your calibre library location, check box Separate Book Files from Library, then enter /books. \n Default admin login: Username: admin Password: admin123"
+developer: https://github.com/janeczku/
+website: https://github.com/janeczku/calibre-web
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/calibre-web
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app calibre-web.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

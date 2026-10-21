@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-bitcoin-knots
+name: bitcoin-knots
+tagline: Imported from BigBearCasaOS (bitcoin-knots)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.0.0
+port: 3000
+description: Imported from BigBearCasaOS (bitcoin-knots)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/bitcoin-knots
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/bitcoin-knots
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app bitcoin-knots.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

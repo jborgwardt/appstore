@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-dockge
+name: dockge
+tagline: Imported from BigBearCasaOS (dockge)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.5.0
+port: 5001
+description: Imported from BigBearCasaOS (dockge)
+developer: BigBearCasaOS
+website: https://youtu.be/8Z6psh-t5iU
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/dockge
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app dockge.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

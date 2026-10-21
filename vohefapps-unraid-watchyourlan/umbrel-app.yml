@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-watchyourlan
+name: WatchYourLAN
+tagline: Lightweight network IP scanner with web GUI.
+icon: https://raw.githubusercontent.com/aceberg/WatchYourLAN/main/assets/logo.png
+category: tools
+version: latest
+port: 8840
+description: Lightweight network IP scanner with web GUI.
+developer: Unraid Community
+website: https://github.com/aceberg/WatchYourLAN
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/watchyourlan.xml
+support: https://github.com/aceberg/WatchYourLAN
+gallery: []
+releaseNotes: Imported from Unraid template watchyourlan.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

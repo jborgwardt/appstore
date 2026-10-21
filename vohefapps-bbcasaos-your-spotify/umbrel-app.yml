@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-your-spotify
+name: your-spotify
+tagline: Imported from BigBearCasaOS (your-spotify)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.20.0
+port: 3000
+description: Imported from BigBearCasaOS (your-spotify)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/your-spotify
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/your-spotify
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app your-spotify.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

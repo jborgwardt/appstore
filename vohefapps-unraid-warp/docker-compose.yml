@@ -1,0 +1,13 @@
+version: '3.7'
+services:
+  app:
+    image: caomingjun/warp:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:1080
+    environment:
+    - WARP_SLEEP=2
+    - GOST_ARGS=-L :1080
+    - WARP_LICENSE_KEY=
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/var/lib/cloudflare-warp

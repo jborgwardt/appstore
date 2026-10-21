@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-webcord
+services:
+  app:
+    image: linuxserver/webcord:4.14.0@sha256:9e58513901ec68387a81ac76f159bd262136e914ec5ae6d0c4a538fe8ff81fec
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/webcord/config
+      target: /config
+version: '3.7'

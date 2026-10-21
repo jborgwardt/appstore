@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-kapowarr
+name: Kapowarr
+tagline: Kapowarr is a software to build and manage a comic book library, fitting in the *arr suite of software.
+icon: https://runtipi.io/images/apps/kapowarr.png
+category: media
+version: v1.3.2
+port: 8194
+description: Kapowarr is a software to build and manage a comic book library, fitting in the *arr suite of software.
+developer: Casvt
+website: https://github.com/Casvt/Kapowarr
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/kapowarr
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app kapowarr.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

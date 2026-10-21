@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-github-desktop
+name: github-desktop
+tagline: Imported from BigBearCasaOS (github-desktop)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 3.4.13
+port: 3000
+description: Imported from BigBearCasaOS (github-desktop)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/github-desktop
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/github-desktop
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app github-desktop.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

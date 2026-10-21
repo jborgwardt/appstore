@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-adguard
+name: Adguard
+tagline: World's most advanced adblocker!
+icon: https://runtipi.io/images/apps/adguard.png
+category: network
+version: v0.107.79
+port: 8104
+description: Adguard is the best way to get rid of annoying ads and online tracking and protect your computer from malware. Make your web surfing fast, safe and ad-free.
+developer: AdguardTeam
+website: https://github.com/AdguardTeam
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/adguard
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app adguard.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

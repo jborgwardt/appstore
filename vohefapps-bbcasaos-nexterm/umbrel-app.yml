@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-nexterm
+name: nexterm
+tagline: Imported from BigBearCasaOS (nexterm)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.2.2-BETA
+port: 6989
+description: Imported from BigBearCasaOS (nexterm)
+developer: BigBearCasaOS
+website: https://youtu.be/RQPz4892npo
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/nexterm
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app nexterm.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

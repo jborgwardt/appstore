@@ -1,0 +1,24 @@
+name: big-bear-linuxserver-beets
+services:
+  app:
+    image: linuxserver/beets:2.14.1@sha256:ae076820ec34ea5e9ec05a22931e98ab555e9c25e784c5fb001c84f411119c73
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 8337
+      published: 8337
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/beets/config
+      target: /config
+    - type: bind
+      source: /DATA/AppData/beets/music
+      target: /music
+    - type: bind
+      source: /DATA/AppData/beets/downloads
+      target: /downloads
+version: '3.7'

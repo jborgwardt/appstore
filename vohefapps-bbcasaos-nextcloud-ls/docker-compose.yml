@@ -1,0 +1,16 @@
+name: big-bear-nextcloud-ls
+services:
+  big-bear-nextcloud-ls:
+    container_name: big-bear-nextcloud-ls
+    image: linuxserver/nextcloud:35.0.2@sha256:84205b9623211afb0d8d4493204236258606ff58e767ac017b1750e4eb715e3b
+    restart: unless-stopped
+    ports:
+    - 10443:443
+    volumes:
+    - ${APP_DATA_DIR}/config:/config
+    - ${APP_DATA_DIR}/data:/data
+    environment:
+    - PUID=1000
+    - PGID=1000
+    - TZ=Etc/UTC
+version: '3.7'

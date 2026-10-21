@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-monitorss-web
+name: monitorss-web
+tagline: WebUI for the Discord RSS bot (formerly known as Discord.RSS) with customizable feeds
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/monitorss.png
+category: network
+version: latest
+port: 8081
+description: WebUI for the Discord RSS bot (formerly known as Discord.RSS) with customizable feeds. More configuration options available on (https://docs.monitorss.xyz/configuration/web-interface)
+developer: Unraid Community
+website: https://github.com/synzen/MonitoRSS
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/monitorss-web.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template monitorss-web.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

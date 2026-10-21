@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-beets
+name: beets
+tagline: Imported from BigBearCasaOS (beets)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2.14.1
+port: 3000
+description: Imported from BigBearCasaOS (beets)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/beets
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/beets
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app beets.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

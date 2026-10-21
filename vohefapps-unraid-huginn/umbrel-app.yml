@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-huginn
+name: huginn
+tagline: Build agents that monitor and act on your behalf
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/huginn.png
+category: homeautomation
+version: latest
+port: 3000
+description: 'Build agents that monitor and act on your behalf. Your agents are standing by! Huginn is a system for building agents that perform automated tasks for you online. They can read the web, watch for events, and take actions on your behalf. Huginn''s Agents create and consume events, propagating them along a directed graph. Think of it as a hackable version of IFTTT or Zapier on your own server. You always know who has your data. You do. Log in to your Huginn instance using the username admin and password password See https://hub.docker.com/r/huginn/huginn/ for more information on running Huginn with a separate database container More variables can be found here: https://github.com/huginn/huginn/blob/master/.env.example'
+developer: Unraid Community
+website: https://github.com/huginn/huginn/
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/huginn.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template huginn.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

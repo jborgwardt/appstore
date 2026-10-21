@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-ollama-cpu
+name: ollama-cpu
+tagline: Imported from BigBearCasaOS (ollama-cpu)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.40.5
+port: 11434
+description: Imported from BigBearCasaOS (ollama-cpu)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/ollama-cpu
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/ollama-cpu
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app ollama-cpu.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

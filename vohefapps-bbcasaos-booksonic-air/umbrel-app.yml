@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-booksonic-air
+name: booksonic-air
+tagline: Imported from BigBearCasaOS (booksonic-air)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2201.1.0
+port: 3000
+description: Imported from BigBearCasaOS (booksonic-air)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/booksonic-air
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/booksonic-air
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app booksonic-air.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

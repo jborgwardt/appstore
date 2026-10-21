@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-drawio
+name: Draw.io
+tagline: Diagramming and whiteboarding app.
+icon: https://runtipi.io/images/apps/drawio.png
+category: utilities
+version: 32.4.1
+port: 8734
+description: draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding.
+developer: JGraph
+website: https://github.com/jgraph/drawio
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/drawio
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app drawio.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

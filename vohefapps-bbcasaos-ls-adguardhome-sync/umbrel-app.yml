@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-ls-adguardhome-sync
+name: ls-adguardhome-sync
+tagline: Imported from BigBearCasaOS (ls-adguardhome-sync)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.9.4
+port: 8080
+description: Imported from BigBearCasaOS (ls-adguardhome-sync)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/ls-adguardhome-sync
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/ls-adguardhome-sync
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app ls-adguardhome-sync.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-rsshub
+name: RSSHub
+tagline: Everything is RSSible with RSSHub
+icon: https://runtipi.io/images/apps/rsshub.png
+category: utilities
+version: '2026-04-17'
+port: 8223
+description: RSSHub is an open source, easy to use, and extensible RSS feed generator. It's capable of generating RSS feeds from pretty much everything.
+developer: https://github.com/DIYgod
+website: https://github.com/DIYgod/RSSHub
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/rsshub
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app rsshub.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

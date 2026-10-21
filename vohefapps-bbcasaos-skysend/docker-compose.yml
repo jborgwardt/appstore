@@ -1,0 +1,16 @@
+name: big-bear-skysend
+services:
+  skysend:
+    image: skyfay/skysend:v3.1.0@sha256:12ec06476a2a55e8ae5f71f760d9a98546e1b60f99d93a9a2b9c977a62ae69c9
+    container_name: skysend
+    restart: unless-stopped
+    ports:
+    - 23001:3000
+    volumes:
+    - ${APP_DATA_DIR}/data:/data
+    - ${APP_DATA_DIR}/uploads:/uploads
+    environment:
+      BASE_URL: http://localhost:23001
+      DATA_DIR: /data
+      UPLOADS_DIR: /uploads
+version: '3.7'

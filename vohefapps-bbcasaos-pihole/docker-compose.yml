@@ -1,0 +1,24 @@
+name: big-bear-pihole
+services:
+  app:
+    container_name: big-bear-pihole
+    image: pihole/pihole:2026.09.0@sha256:5b9c8cf51de7d6d3f2240dbe72baf5f06e1fd39cb4d77a99fab4fa13e23bd1be
+    restart: unless-stopped
+    environment:
+      TZ: UTC
+      FTLCONF_webserver_api_password: your_password
+    volumes:
+    - ${APP_DATA_DIR}/etc:/etc/pihole/
+    - ${APP_DATA_DIR}/dnsmasq.d:/etc/dnsmasq.d/
+    ports:
+    - 53:53/tcp
+    - 53:53/udp
+    - 67:67/udp
+    - 8080:80/tcp
+    - 10443:443/tcp
+    networks:
+    - pihole-network
+networks:
+  pihole-network:
+    driver: bridge
+version: '3.7'

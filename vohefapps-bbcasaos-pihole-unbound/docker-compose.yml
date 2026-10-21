@@ -1,0 +1,25 @@
+name: big-bear-pihole-unbound
+services:
+  app:
+    container_name: big-bear-pihole-unbound
+    image: bigbeartechworld/big-bear-pihole-unbound:2026.09.0@sha256:4b8c3005dd8179a0914f907f92e164c1be41ea9d229801d4d08d1f2f4bb5b6df
+    restart: unless-stopped
+    environment:
+      TZ: America/Chicago
+      FTLCONF_webserver_api_password: your_password
+      FTLCONF_dns_upstreams: 127.0.0.1#5353
+    volumes:
+    - ${APP_DATA_DIR}/etc:/etc/pihole/
+    - ${APP_DATA_DIR}/dnsmasq.d:/etc/dnsmasq.d/
+    ports:
+    - 53:53/tcp
+    - 53:53/udp
+    - 67:67/udp
+    - 8080:80/tcp
+    - 10443:443/tcp
+    networks:
+    - pihole-unbound-network
+networks:
+  pihole-unbound-network:
+    driver: bridge
+version: '3.7'

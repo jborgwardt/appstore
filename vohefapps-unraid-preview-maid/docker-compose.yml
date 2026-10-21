@@ -1,0 +1,20 @@
+version: '3.7'
+services:
+  app:
+    image: fletchto99/preview-maid:latest
+    restart: unless-stopped
+    environment:
+    - PLEX_URL=
+    - PLEX_TOKEN=
+    - FIND_MISSING_THUMBNAIL_PREVIEWS=True|False
+    - FIND_MISSING_VOICE_ACTIVITY=False|True
+    - FIND_MISSING_INTRO_MARKERS=False|True
+    - FIND_MISSING_CREDITS_MARKERS=False|True
+    - FIND_MISSING_AD_MARKERS=False|True
+    - RUN_ONCE=False|True
+    - RUN_TIME=00:00
+    - SKIP_LIBRARY_TYPES=
+    - SKIP_LIBRARY_NAMES=
+    - DEBUG=False|True
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/app/logs

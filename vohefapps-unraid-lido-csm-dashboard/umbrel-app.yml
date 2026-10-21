@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-lido-csm-dashboard
+name: lido-csm-dashboard
+tagline: Lido CSM Operator Dashboard - Track your Community Staking Module validator earnings, bond status, APY metrics, strikes, and health status
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/lido-csm-dashboard.png
+category: crypto
+version: latest
+port: 3000
+description: Lido CSM Operator Dashboard - Track your Community Staking Module validator earnings, bond status, APY metrics, strikes, and health status. Features both a web UI and CLI interface.
+developer: Unraid Community
+website: https://github.com/0xdespot/lido-csm-dashboard
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/lido-csm-dashboard.xml
+support: https://github.com/0xdespot/lido-csm-dashboard/issues
+gallery: []
+releaseNotes: Imported from Unraid template lido-csm-dashboard.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

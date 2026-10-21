@@ -1,0 +1,26 @@
+services:
+  bookstack:
+    image: lscr.io/linuxserver/bookstack:26.09.20260929
+    volumes:
+    - ${APP_DATA_DIR}/data/config:/config
+    environment:
+    - TZ=${TZ}
+    - APP_URL=${APP_PROTOCOL:-http}://${APP_DOMAIN}
+    - APP_KEY=base64:${APP_KEY}
+    - DB_HOST=bookstack-db
+    - DB_USERNAME=tipi
+    - DB_PASSWORD=${BOOKSTACK_DB_PASS}
+    - DB_DATABASE=bookstackapp
+    depends_on:
+    - bookstack-db
+  bookstack-db:
+    image: lscr.io/linuxserver/mariadb
+    volumes:
+    - ${APP_DATA_DIR}/data/db:/config
+    environment:
+    - TZ=${TZ}
+    - MYSQL_ROOT_PASSWORD=${ROOT_ACCESS_PASSWORD}
+    - MYSQL_DATABASE=bookstackapp
+    - MYSQL_USER=tipi
+    - MYSQL_PASSWORD=${BOOKSTACK_DB_PASS}
+version: '3.7'

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-readeck
+name: readeck
+tagline: Imported from BigBearCasaOS (readeck)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.22.3
+port: 8000
+description: Imported from BigBearCasaOS (readeck)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/readeck
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/readeck
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app readeck.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

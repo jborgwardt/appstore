@@ -1,0 +1,18 @@
+version: '3.7'
+services:
+  app:
+    image: jgraph/drawio:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:8080
+    - 3443:8443
+    environment:
+    - LETS_ENCRYPT_ENABLED=false
+    - PUBLIC_DNS=
+    - ORGANISATION_UNIT=
+    - ORGANISATION=
+    - CITY=
+    - STATE=
+    - COUNTRY_CODE=
+    - KEYSTORE_PASS=
+    - KEY_PASS=

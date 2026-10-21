@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-excalidraw
+name: excalidraw
+tagline: Imported from BigBearCasaOS (excalidraw)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: latest
+port: 8000
+description: Imported from BigBearCasaOS (excalidraw)
+developer: BigBearCasaOS
+website: https://youtu.be/T4K6RDhieIA
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/excalidraw
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app excalidraw.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

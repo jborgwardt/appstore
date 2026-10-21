@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-zen
+services:
+  app:
+    image: linuxserver/zen:1.23.2@sha256:0b150f21b27e0644277797a3f648b038440f5e0bf5b83fb6fd70deeeb51d7c3b
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/zen/config
+      target: /config
+version: '3.7'

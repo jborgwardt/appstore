@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-plex
+name: plex
+tagline: Imported from BigBearCasaOS (plex)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.43.4
+port: 3000
+description: Imported from BigBearCasaOS (plex)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/plex
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/plex
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app plex.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

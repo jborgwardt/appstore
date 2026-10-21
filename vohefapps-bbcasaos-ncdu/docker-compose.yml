@@ -1,0 +1,18 @@
+name: big-bear-ncdu
+services:
+  big-bear-ncdu:
+    container_name: big-bear-ncdu
+    image: bigbeartechworld/big-bear-ncdu:0.0.10@sha256:4edd3f9ff0dfc6859049ae69a9d81a05b240c05ceeb404bae253f83be34978a9
+    restart: unless-stopped
+    privileged: true
+    volumes:
+    - /proc:/proc
+    - /sys:/sys
+    - /dev:/dev
+    - /etc/localtime:/etc/localtime:ro
+    - /:/casaos
+    ports:
+    - 7681:7681
+    environment:
+    - NCDU_PATH=/
+version: '3.7'

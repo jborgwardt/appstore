@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-mastodon
+name: Mastodon
+tagline: Your self-hosted, globally interconnected microblogging community
+icon: https://runtipi.io/images/apps/mastodon.png
+category: social
+version: 4.7.3
+port: 8210
+description: Your self-hosted, globally interconnected microblogging community
+developer: Mastodon
+website: https://github.com/mastodon/mastodon
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/mastodon
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app mastodon.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

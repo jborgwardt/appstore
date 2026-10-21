@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-hass-unraid
+name: hass-unraid
+tagline: This Docker container parses and forwards all WebSocket messages from your Unraid server to Home Assistant using the MQTT protocol
+icon: https://raw.githubusercontent.com/IDmedia/hass-unraid/main/extras/logo.png
+category: homeautomation
+version: latest
+port: 3000
+description: This Docker container parses and forwards all WebSocket messages from your Unraid server to Home Assistant using the MQTT protocol. This enables you to create dashboards that provide a superior overview compared to Unraid's native capabilities.
+developer: Unraid Community
+website: https://github.com/IDmedia/hass-unraid
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/hass-unraid.xml
+support: https://github.com/IDmedia/hass-unraid/issues
+gallery: []
+releaseNotes: Imported from Unraid template hass-unraid.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

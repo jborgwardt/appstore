@@ -1,0 +1,17 @@
+name: big-bear-ntfy
+services:
+  app:
+    image: binwiederhier/ntfy:v2.31.0@sha256:803b2aaeb94df76c8b32ecd91039dc80b0fddb7041dcaf082b33bcdfd4ba39ad
+    command:
+    - serve
+    environment:
+    - TZ=UTC
+    ports:
+    - target: 80
+      published: '7200'
+      protocol: tcp
+    restart: unless-stopped
+    volumes:
+    - ${APP_DATA_DIR}/cache:/var/cache/ntfy
+    - ${APP_DATA_DIR}/config:/etc/ntfy
+version: '3.7'

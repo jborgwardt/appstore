@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-monerod
+name: Monero Daemon
+tagline: Monero is a private, decentralized cryptocurrency that keeps your finances confidential and secure.
+icon: https://runtipi.io/images/apps/monerod.png
+category: finance
+version: 0.18.3.4
+port: 18080
+description: A device on the Internet running the Monero software, with a full copy of the Monero blockchain, actively assisting the Monero network. This is a simple and straightforward Dockerized monerod built from source and exposing standard ports. Please note that running this requires >50GB of free disk space and is best run on solid-state (SSD) storage.
+developer: sethforprivacy
+website: https://github.com/sethforprivacy/simple-monerod-docker
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/monerod
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app monerod.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

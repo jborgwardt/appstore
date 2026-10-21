@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-linkstack
+name: linkstack
+tagline: Imported from BigBearCasaOS (linkstack)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: V4
+port: 8080
+description: Imported from BigBearCasaOS (linkstack)
+developer: BigBearCasaOS
+website: https://youtu.be/1KgFlCsItro
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/linkstack
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app linkstack.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

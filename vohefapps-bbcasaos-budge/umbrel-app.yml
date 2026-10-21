@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-budge
+name: budge
+tagline: Imported from BigBearCasaOS (budge)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.0.9
+port: 3000
+description: Imported from BigBearCasaOS (budge)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/budge
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/budge
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app budge.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

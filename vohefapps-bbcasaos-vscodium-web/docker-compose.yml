@@ -1,0 +1,23 @@
+name: big-bear-linuxserver-vscodium-web
+services:
+  app:
+    image: linuxserver/vscodium-web:1.140.06880@sha256:0a08856e7a103e4aa79341e30813a487844a817d1f4e931e5861c1d7721140d7
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+      CONNECTION_TOKEN: ''
+      CONNECTION_TOKEN_FILE: ''
+      SUDO_PASSWORD: ''
+      SUDO_PASSWORD_HASH: ''
+      CODE_ARGS: ''
+    ports:
+    - target: 8000
+      published: 8000
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/vscodium-web/config
+      target: /config
+version: '3.7'

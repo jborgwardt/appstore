@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-forgejo
+name: Forgejo
+tagline: Beyond coding. We forge. · Lightweight and performant · Guaranteed 100% Free Software
+icon: https://runtipi.io/images/apps/forgejo.png
+category: development
+version: 17.0.0
+port: 8195
+description: Forgejo is a self-hosted lightweight software forge. Easy to install and low maintenance, it just does the job.
+developer: forgejo
+website: https://codeberg.org/forgejo/forgejo/
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/forgejo
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app forgejo.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

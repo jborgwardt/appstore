@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-plausible-ce
+name: Plausible CE
+tagline: Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+icon: https://runtipi.io/images/apps/plausible-ce.png
+category: utilities
+version: 2.1.5
+port: 8193
+description: Plausible Analytics is an easy to use, lightweight (< 1 KB), open source and privacy-friendly alternative to Google Analytics. It doesn’t use cookies and is fully compliant with GDPR, CCPA and PECR.
+developer: Plausible
+website: https://github.com/plausible/community-edition
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/plausible-ce
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app plausible-ce.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

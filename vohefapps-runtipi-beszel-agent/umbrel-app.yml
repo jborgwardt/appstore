@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-beszel-agent
+name: Beszel Agent
+tagline: Agent software for Beszel.
+icon: https://runtipi.io/images/apps/beszel-agent.png
+category: utilities
+version: 0.21.0
+port: 45876
+description: This is the agent software for the Beszel app.
+developer: henrygd
+website: https://github.com/henrygd/beszel
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/beszel-agent
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app beszel-agent.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-mind
+name: Mind
+tagline: A simple self hosted reminder platform that uses push to send notifications to your device.
+icon: https://runtipi.io/images/apps/mind.png
+category: utilities
+version: 1.4.1
+port: 8143
+description: A simple self hosted reminder platform that uses push to send notifications to your device. Set the reminder and forget about it!
+developer: https://github.com/Casvt
+website: https://github.com/Casvt/MIND
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/mind
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app mind.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

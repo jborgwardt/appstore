@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-windows
+name: Windows
+tagline: Full windows vm in your browser
+icon: https://runtipi.io/images/apps/windows.png
+category: utilities
+version: '6.06'
+port: 8006
+description: Run windows in docker...because why not?
+developer: dockurr
+website: https://github.com/dockur/windows/
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/windows
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app windows.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

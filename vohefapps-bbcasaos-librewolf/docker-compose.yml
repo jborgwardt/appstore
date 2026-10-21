@@ -1,0 +1,22 @@
+name: big-bear-linuxserver-librewolf
+services:
+  app:
+    image: linuxserver/librewolf:157.0.1@sha256:489a151de407f01f0e5086166da313872aeec67e78ad096d793641531a061511
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+      LIBREWOLF_CLI: ''
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/librewolf/config
+      target: /config
+version: '3.7'

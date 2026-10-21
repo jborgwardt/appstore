@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-paperclip
+name: paperclip
+tagline: Imported from BigBearCasaOS (paperclip)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: latest
+port: 3101
+description: Imported from BigBearCasaOS (paperclip)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/paperclip
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/paperclip
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app paperclip.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

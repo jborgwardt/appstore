@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-reactive-resume-v6
+name: reactive-resume-v6
+tagline: Imported from BigBearCasaOS (reactive-resume-v6)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v6.0.3
+port: 3028
+description: Imported from BigBearCasaOS (reactive-resume-v6)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/reactive-resume-v6
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/reactive-resume-v6
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app reactive-resume-v6.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

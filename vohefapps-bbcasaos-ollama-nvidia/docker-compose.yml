@@ -1,0 +1,19 @@
+name: big-bear-ollama-nvidia
+services:
+  big-bear-ollama-nvidia:
+    container_name: big-bear-ollama-nvidia
+    image: ollama/ollama:0.40.5@sha256:5d3a2f25f9825628daba94dc0b1d421c7d57d6c03ae5faa9ba050e058bab8241
+    restart: unless-stopped
+    volumes:
+    - ${APP_DATA_DIR}/.ollama:/root/.ollama
+    ports:
+    - 11434:11434
+    deploy:
+      resources:
+        reservations:
+          devices:
+          - driver: nvidia
+            count: all
+            capabilities:
+            - gpu
+version: '3.7'

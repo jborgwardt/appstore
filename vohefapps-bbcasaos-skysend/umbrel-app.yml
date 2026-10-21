@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-skysend
+name: skysend
+tagline: Imported from BigBearCasaOS (skysend)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v3.1.0
+port: 23001
+description: Imported from BigBearCasaOS (skysend)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/skysend
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/skysend
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app skysend.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

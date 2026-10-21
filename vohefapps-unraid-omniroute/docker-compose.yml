@@ -1,0 +1,12 @@
+version: '3.7'
+services:
+  app:
+    image: diegosouzapw/omniroute:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:20128
+    environment:
+    - REDIS_URL=
+    - OMNIROUTE_ALLOW_PRIVATE_PROVIDER_URLS=true|false
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/app/data

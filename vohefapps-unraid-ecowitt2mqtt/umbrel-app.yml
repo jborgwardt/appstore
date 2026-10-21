@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-ecowitt2mqtt
+name: ecowitt2mqtt
+tagline: ecowitt2mqtt is a small CLI/web server that can receive data from Fine Offset weather stations (and their numerous white-labeled counterpart
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/ecowitt.png
+category: homeautomation
+version: latest
+port: 8080
+description: ecowitt2mqtt is a small CLI/web server that can receive data from Fine Offset weather stations (and their numerous white-labeled counterparts, like Ecowitt and Ambient Weather), adjust that data in numerous ways, and send it on to one or more MQTT brokers.
+developer: Unraid Community
+website: https://github.com/bachya/ecowitt2mqtt
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/ecowitt2mqtt.xml
+support: https://hub.docker.com/r/bachya/ecowitt2mqtt/
+gallery: []
+releaseNotes: Imported from Unraid template ecowitt2mqtt.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-emqx
+name: EMQX Open Source
+tagline: Scalable open-source MQTT broker.
+icon: https://runtipi.io/images/apps/emqx.png
+category: utilities
+version: 6.3.2
+port: 18083
+description: The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles.
+developer: EMQ Technologies Co., Ltd.
+website: https://github.com/emqx/emqx
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/emqx
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app emqx.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

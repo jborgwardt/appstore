@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-dailytxt
+name: DailyTxT
+tagline: Encrypted Diary Web-App
+icon: https://runtipi.io/images/apps/dailytxt.png
+category: utilities
+version: 2.6.4
+port: 8156
+description: DailyTxT is an encrypted Diary Web-App to write down your stories of the day and to find them again easily.
+developer: PhiTux
+website: https://github.com/PhiTux/DailyTxT
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/dailytxt
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app dailytxt.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

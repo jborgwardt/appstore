@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-your-spotify
+name: Your Spotify
+tagline: Self hosted Spotify tracking dashboard.
+icon: https://runtipi.io/images/apps/your-spotify.png
+category: music
+version: 1.20.0
+port: 8103
+description: Self hosted Spotify tracking dashboard.
+developer: Yooooomi
+website: https://github.com/Yooooomi/your_spotify
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/your-spotify
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app your-spotify.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

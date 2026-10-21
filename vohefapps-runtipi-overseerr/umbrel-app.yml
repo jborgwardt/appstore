@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-overseerr
+name: Overseerr
+tagline: Request management and media discovery tool for the Plex ecosystem
+icon: https://runtipi.io/images/apps/overseerr.png
+category: media
+version: 1.35.0
+port: 8116
+description: Overseerr is a free and open source software application for managing requests for your media library. It integrates with your existing services, such as Sonarr, Radarr, and Plex!
+developer: sct
+website: https://github.com/sct/overseerr
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/overseerr
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app overseerr.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

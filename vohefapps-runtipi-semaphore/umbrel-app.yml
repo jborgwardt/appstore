@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-semaphore
+name: Semaphore
+tagline: Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
+icon: https://runtipi.io/images/apps/semaphore.png
+category: development
+version: v2.19.17
+port: 8526
+description: Semaphore is a modern UI for Ansible, Terraform/OpenTofu, Bash and Pulumi. It lets you easily run Ansible playbooks, get notifications about fails, control access to deployment system.
+developer: semaphoreui
+website: https://github.com/semaphoreui/semaphore
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/semaphore
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app semaphore.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-dockerdiscordcontrol
+name: dockerdiscordcontrol
+tagline: Control your Docker containers directly from Discord! Interactive Discord bot with buttons to start, stop, restart, and monitor containers
+icon: https://ddc.bot/favicon.png
+category: tools
+version: latest
+port: 9374
+description: 'Control your Docker containers directly from Discord! Interactive Discord bot with buttons to start, stop, restart, and monitor containers. Includes a web dashboard for configuration, task scheduling, auto-actions, and channel translation (DeepL/Google/Microsoft). Available in 40 languages. Alpine-based image, less than 200 MB RAM. Setup: Access the Web UI at http:// :9374 and log in with username "admin", password "setup". Homepage: https://ddc.bot'
+developer: Unraid Community
+website: https://ddc.bot
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/dockerdiscordcontrol.xml
+support: https://github.com/DockerDiscordControl/DockerDiscordControl/issues
+gallery: []
+releaseNotes: Imported from Unraid template dockerdiscordcontrol.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

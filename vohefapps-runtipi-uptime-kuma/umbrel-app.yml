@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-uptime-kuma
+name: Uptime Kuma
+tagline: A fancy self-hosted monitoring tool.
+icon: https://runtipi.io/images/apps/uptime-kuma.png
+category: utilities
+version: '2'
+port: 8125
+description: It is a self-hosted monitoring tool like Uptime Robot.
+developer: louislam
+website: https://github.com/louislam/uptime-kuma
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/uptime-kuma
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app uptime-kuma.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

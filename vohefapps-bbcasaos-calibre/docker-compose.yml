@@ -1,0 +1,27 @@
+name: big-bear-linuxserver-calibre
+services:
+  app:
+    image: linuxserver/calibre:9.16.0@sha256:48c8a5ba2a20c303012b1d4b2815a2b99b362a634a571fbec101b85bfa203ba3
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+      CUSTOM_USER: $CUSTOM_USER
+      PASSWORD: $PASSWORD
+      CLI_ARGS: ''
+    ports:
+    - target: 8080
+      published: 8080
+      protocol: tcp
+    - target: 8181
+      published: 8181
+      protocol: tcp
+    - target: 8081
+      published: 8081
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/calibre/config
+      target: /config
+version: '3.7'

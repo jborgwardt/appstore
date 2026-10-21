@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-umami-analytics
+name: Umami Analytics
+tagline: Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+icon: https://runtipi.io/images/apps/umami-analytics.png
+category: utilities
+version: 3.4.0
+port: 8153
+description: Umami is an open-source, privacy-focused web analytics tool that serves as an alternative to Google Analytics. It provides essential insights into website traffic, user behavior, and performance, all while prioritizing data privacy.
+developer: umami-software
+website: https://github.com/umami-software/umami
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/umami-analytics
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app umami-analytics.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

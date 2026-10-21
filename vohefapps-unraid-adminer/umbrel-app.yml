@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-adminer
+name: adminer
+tagline: Adminer (formerly phpMinAdmin) is a full-featured database management tool written in PHP
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/adminer.png
+category: tools
+version: latest
+port: 8080
+description: 'Adminer (formerly phpMinAdmin) is a full-featured database management tool written in PHP. Conversely to phpMyAdmin, it consist of a single file ready to deploy to the target server. Adminer is available for MySQL, PostgreSQL, SQLite, MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB. Go to https://github.com/vrana/adminer/tree/master/designs for themes Plugins: https://github.com/vrana/adminer/tree/master/plugins'
+developer: Unraid Community
+website: https://github.com/vrana/adminer
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/adminer.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template adminer.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

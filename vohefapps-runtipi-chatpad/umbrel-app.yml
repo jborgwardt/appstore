@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-chatpad
+name: Chatpad AI
+tagline: Not just another ChatGPT user-interface!
+icon: https://runtipi.io/images/apps/chatpad.png
+category: ai
+version: latest
+port: 8179
+description: Not just another ChatGPT user-interface!
+developer: Andrei Canta
+website: https://github.com/deiucanta/chatpad
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/chatpad
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app chatpad.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

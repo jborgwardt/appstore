@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-intellij-idea
+services:
+  app:
+    image: linuxserver/intellij-idea:42026.2.3@sha256:c8e124dec890657d5010cf07a18e8790a9e1ded61d52c45fc3418cd3a3a76d0e
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/intellij-idea/config
+      target: /config
+version: '3.7'

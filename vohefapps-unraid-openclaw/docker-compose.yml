@@ -1,0 +1,27 @@
+version: '3.7'
+services:
+  app:
+    image: ghcr.io/openclaw/openclaw:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:18789
+    environment:
+    - OPENCLAW_GATEWAY_TOKEN=
+    - ANTHROPIC_API_KEY=
+    - OPENAI_API_KEY=
+    - OPENROUTER_API_KEY=
+    - GEMINI_API_KEY=
+    - GROQ_API_KEY=
+    - XAI_API_KEY=
+    - ZAI_API_KEY=
+    - COPILOT_GITHUB_TOKEN=
+    - DISCORD_BOT_TOKEN=
+    - TELEGRAM_BOT_TOKEN=
+    - OPENCLAW_GATEWAY_PORT=18789
+    - PATH=/home/linuxbrew/.linuxbrew/bin:/home/linuxbrew/.linuxbrew/sbin:/root/.bun/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    - BRAVE_API_KEY=
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/root/.openclaw
+    - ${APP_DATA_DIR}/data/path2:/home/node/clawd
+    - ${APP_DATA_DIR}/data/path3:/projects
+    - ${APP_DATA_DIR}/data/path4:/home/linuxbrew/.linuxbrew

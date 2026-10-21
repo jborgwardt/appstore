@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-fluxdown
+name: FluxDown
+tagline: Multi-protocol download manager with a built-in web UI, written in Rust/Tokio
+icon: https://raw.githubusercontent.com/zerx-lab/FluxDown/main/assets/logo/fluxdown_logo.png
+category: downloaders
+version: latest
+port: 17800
+description: Multi-protocol download manager with a built-in web UI, written in Rust/Tokio. Handles HTTP/HTTPS, FTP, BitTorrent (DHT and magnet links), eD2K/Kad, HLS and DASH. Dynamic file segmentation, per-task and global rate limiting, and SQLite-backed crash-safe resume. It also exposes an aria2-compatible JSON-RPC API, so existing aria2 front-ends can drive it. First launch prints a one-time admin token to the container log. Open the container log from the Docker tab and look for the line containing the word token - the management API needs it, and the web UI asks for it on first visit. The Downloads path is where finished files land. The Data path holds the database, logs and the admin token, so keep it on appdata.
+developer: Unraid Community
+website: https://github.com/zerx-lab/FluxDown
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/fluxdown.xml
+support: https://github.com/zerx-lab/FluxDown/issues
+gallery: []
+releaseNotes: Imported from Unraid template fluxdown.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

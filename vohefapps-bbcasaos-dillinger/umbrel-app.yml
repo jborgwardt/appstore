@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-dillinger
+name: dillinger
+tagline: Imported from BigBearCasaOS (dillinger)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 3.39.1
+port: 3000
+description: Imported from BigBearCasaOS (dillinger)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/dillinger
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/dillinger
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app dillinger.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

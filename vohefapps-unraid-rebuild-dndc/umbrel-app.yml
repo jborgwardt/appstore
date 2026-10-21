@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-rebuild-dndc
+name: Rebuild-DNDC
+tagline: '- Rebuild Docker Network Dependent Containers, e.g'
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/rdndc.png
+category: tools
+version: latest
+port: 3000
+description: '- Rebuild Docker Network Dependent Containers, e.g. Monitor a VPN or any container and rebuild dependent containers using the VPN container network stack --net=container:vpn_cotnainer_name. - RDNDC will monitor the master/vpn container during updates, restarts and after server boot. - Please refer to the readme before deploying this container: https://github.com/elmerfdz/unRAIDscripts'
+developer: Unraid Community
+website: https://github.com/elmerfdz/unRAIDscripts
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/rebuild-dndc.xml
+support: https://hub.docker.com/r/eafxx/rebuild-dndc
+gallery: []
+releaseNotes: Imported from Unraid template rebuild-dndc.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

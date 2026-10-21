@@ -1,0 +1,23 @@
+version: '3.7'
+services:
+  app:
+    image: ghcr.io/vavallee/bindery:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:8787
+    environment:
+    - BINDERY_LOG_LEVEL=info|debug|warn|error
+    - BINDERY_PUID=99
+    - BINDERY_PGID=100
+    - BINDERY_AUDIOBOOK_DIR=
+    - BINDERY_URL_BASE=
+    - BINDERY_TRUSTED_PROXY=
+    - BINDERY_COOKIE_SECURE=auto|always|never
+    - BINDERY_DOWNLOAD_PATH_REMAP=
+    - BINDERY_NOTIFICATIONS_ALLOW_PRIVATE=false
+    - BINDERY_API_KEY=
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/config
+    - ${APP_DATA_DIR}/data/path2:/books
+    - ${APP_DATA_DIR}/data/path3:/audiobooks
+    - ${APP_DATA_DIR}/data/path4:/downloads

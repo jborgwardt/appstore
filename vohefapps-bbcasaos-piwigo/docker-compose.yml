@@ -1,0 +1,34 @@
+name: big-bear-piwigo
+services:
+  big-bear-piwigo:
+    container_name: big-bear-piwigo
+    image: linuxserver/piwigo:16.4.0@sha256:95ebdbb3ddd90334e7957a174b1d379428bedfe97bae96861cfe5f082fa7f1c6
+    restart: unless-stopped
+    environment:
+    - PUID=1000
+    - PGID=1000
+    - TZ=UTC
+    volumes:
+    - ${APP_DATA_DIR}/config:/config
+    - ${APP_DATA_DIR}/gallery:/gallery
+    ports:
+    - 8080:80
+    networks:
+    - big_bear_piwigo_network
+  big-bear-piwigo-db:
+    image: mariadb:10.6@sha256:114d40be36852d0a019afd8458f7e1cc63fd300403b115b1f32e31130d5f671b
+    container_name: big-bear-piwigo-db
+    environment:
+    - MYSQL_ROOT_PASSWORD=3cf3f2c4-3415-4efe-b478-db7b6f0b9934
+    - MYSQL_DATABASE=piwigo
+    - MYSQL_USER=big_bear_piwigo
+    - MYSQL_PASSWORD=358fac48-4beb-4027-9c11-840464aca400
+    volumes:
+    - ${APP_DATA_DIR}/mysql:/var/lib/mysql
+    restart: unless-stopped
+    networks:
+    - big_bear_piwigo_network
+networks:
+  big_bear_piwigo_network:
+    driver: bridge
+version: '3.7'

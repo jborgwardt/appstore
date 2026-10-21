@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-notemark
+name: Notemark
+tagline: Lighting fast web-based Markdown notes app.
+icon: https://runtipi.io/images/apps/notemark.png
+category: utilities
+version: 0.19.5
+port: 8567
+description: Note Mark is a lighting fast and minimal web-based Markdown notes app.
+developer: enchant97
+website: https://github.com/enchant97/note-mark/
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/notemark
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app notemark.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

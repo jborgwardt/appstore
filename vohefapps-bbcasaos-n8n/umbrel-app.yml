@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-n8n
+name: n8n
+tagline: Imported from BigBearCasaOS (n8n)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2.44.3
+port: 5678
+description: Imported from BigBearCasaOS (n8n)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/n8n
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/n8n
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app n8n.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

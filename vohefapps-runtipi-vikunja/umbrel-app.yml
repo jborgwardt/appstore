@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-vikunja
+name: Vikunja
+tagline: The Todo-app to organize your life.
+icon: https://runtipi.io/images/apps/vikunja.png
+category: utilities
+version: 2.7.0
+port: 8135
+description: The Todo-app to organize your life.
+developer: kolaente
+website: https://kolaente.dev/vikunja
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/vikunja
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app vikunja.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

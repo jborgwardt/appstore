@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-homer
+name: Homer
+tagline: A very simple static homepage for your server
+icon: https://runtipi.io/images/apps/homer.png
+category: utilities
+version: v26.08.3
+port: 8562
+description: A dead simple static HOMepage for your servER to keep your services on hand, from a simple yaml configuration file.
+developer: bastienwirtz
+website: https://github.com/bastienwirtz/homer
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/homer
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app homer.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

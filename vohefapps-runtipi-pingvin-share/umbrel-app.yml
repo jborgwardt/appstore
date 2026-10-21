@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-pingvin-share
+name: Pingvin Share
+tagline: Self-hosted file sharing platform
+icon: https://runtipi.io/images/apps/pingvin-share.png
+category: data
+version: 1.13.0
+port: 8654
+description: A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing
+developer: stonith404
+website: https://github.com/stonith404/pingvin-share
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/pingvin-share
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app pingvin-share.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

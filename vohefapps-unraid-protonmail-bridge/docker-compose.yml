@@ -1,0 +1,10 @@
+version: '3.7'
+services:
+  app:
+    image: shenxn/protonmail-bridge:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:25
+    - 143:143
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/root

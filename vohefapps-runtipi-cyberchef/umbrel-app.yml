@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-cyberchef
+name: CyberChef
+tagline: The Cyber Swiss Army Knife
+icon: https://runtipi.io/images/apps/cyberchef.png
+category: utilities
+version: 11.5.0
+port: 9080
+description: CyberChef is a web app for encryption, encoding, compression, and data analysis.
+developer: GCHQ
+website: https://github.com/gchq/CyberChef
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/cyberchef
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app cyberchef.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

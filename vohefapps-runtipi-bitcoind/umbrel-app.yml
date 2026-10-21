@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-bitcoind
+name: Bitcoin
+tagline: Bitcoin core node
+icon: https://runtipi.io/images/apps/bitcoind.png
+category: finance
+version: '28.0'
+port: 8333
+description: Bitcoin core node
+developer: Bitcoin developers
+website: https://github.com/lncm/docker-bitcoind
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/bitcoind
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app bitcoind.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

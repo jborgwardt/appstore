@@ -1,0 +1,24 @@
+name: big-bear-linuxserver-cops
+services:
+  app:
+    image: linuxserver/cops:4.5.4@sha256:b70171a048f50753034760132ab2095495838da1490e90afb13de9719317523b
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 80
+      published: 80
+      protocol: tcp
+    - target: 443
+      published: 443
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/cops/config
+      target: /config
+    - type: bind
+      source: /DATA/AppData/cops/books
+      target: /books
+version: '3.7'

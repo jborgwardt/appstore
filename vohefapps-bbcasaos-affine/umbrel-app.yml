@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-affine
+name: affine
+tagline: Imported from BigBearCasaOS (affine)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.27.4
+port: 3010
+description: Imported from BigBearCasaOS (affine)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/affine
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/affine
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app affine.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

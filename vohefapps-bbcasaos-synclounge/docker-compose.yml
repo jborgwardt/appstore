@@ -1,0 +1,16 @@
+name: big-bear-linuxserver-synclounge
+services:
+  app:
+    image: linuxserver/synclounge:5.2.35@sha256:91e87ba03e7f0470daeb93f6aa558c0c41de7cbdcefe3428da7c98bf6884b9f3
+    restart: unless-stopped
+    environment:
+      AUTH_LIST: ''
+    ports:
+    - target: 8088
+      published: 8088
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/synclounge/config
+      target: /config
+version: '3.7'

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-flatnotes
+name: flatnotes
+tagline: A self-hosted, database-less note taking web app
+icon: https://runtipi.io/images/apps/flatnotes.png
+category: utilities
+version: v5.5.5
+port: 8137
+description: A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
+developer: Dullage
+website: https://github.com/Dullage/flatnotes
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/flatnotes
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app flatnotes.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

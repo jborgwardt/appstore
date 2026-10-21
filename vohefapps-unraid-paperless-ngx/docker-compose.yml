@@ -1,0 +1,23 @@
+version: '3.7'
+services:
+  app:
+    image: ghcr.io/paperless-ngx/paperless-ngx:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:8000
+    environment:
+    - PAPERLESS_REDIS=redis://[REPLACE-WITH-IP]:6379
+    - PAPERLESS_OCR_LANGUAGE=eng
+    - PAPERLESS_OCR_LANGUAGES=
+    - PAPERLESS_FILENAME_FORMAT={{ created }}-{{ correspondent }}-{{ title }}
+    - PAPERLESS_TIME_ZONE=America/Los_Angeles
+    - PAPERLESS_IGNORE_DATES=
+    - PAPERLESS_CONSUMER_POLLING_INTERVAL=0
+    - PAPERLESS_SECRET_KEY=e11fl1oa-*ytql8p)(06fbj4ukrlo+n7k&q5+$1md7i+mge=ee
+    - USERMAP_UID=99
+    - USERMAP_GID=100
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/usr/src/paperless/data
+    - ${APP_DATA_DIR}/data/path2:/usr/src/paperless/media
+    - ${APP_DATA_DIR}/data/path3:/usr/src/paperless/consume
+    - ${APP_DATA_DIR}/data/path4:/usr/src/paperless/export

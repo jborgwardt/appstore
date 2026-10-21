@@ -1,0 +1,15 @@
+version: '3.7'
+services:
+  app:
+    image: golift/notifiarr:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:5454
+    environment:
+    - DN_LOG_FILE=/config/Notifiarr.log
+    - DN_HTTP_LOG=/config/Notifiarr.http.log
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/storage/1
+    - ${APP_DATA_DIR}/data/path2:/config
+    - ${APP_DATA_DIR}/data/path3:/var/run/utmp
+    - ${APP_DATA_DIR}/data/path4:/etc/machine-id

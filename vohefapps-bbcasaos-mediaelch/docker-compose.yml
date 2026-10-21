@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-mediaelch
+services:
+  app:
+    image: linuxserver/mediaelch:2.12.0@sha256:55132d0b6a46118d221a2de0e7b2249efe572813d594f5e14e778e46d155be35
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/mediaelch/config
+      target: /config
+version: '3.7'

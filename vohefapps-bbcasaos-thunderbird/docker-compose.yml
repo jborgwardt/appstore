@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-thunderbird
+services:
+  app:
+    image: linuxserver/thunderbird:1140.16.0@sha256:5d0ad6fe32c9b72b6eb42a049a1f76d8445612f2ad355937ea23295d8cde06ae
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/thunderbird/config
+      target: /config
+version: '3.7'

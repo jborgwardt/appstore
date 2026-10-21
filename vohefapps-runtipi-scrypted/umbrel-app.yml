@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-scrypted
+name: Scrypted
+tagline: High performance home video integration and automation platform
+icon: https://runtipi.io/images/apps/scrypted.png
+category: security
+version: '20'
+port: 10443
+description: Scrypted is a high performance home video integration and automation platform
+developer: Koush
+website: https://github.com/koush/scrypted
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/scrypted
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app scrypted.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,9 @@
+version: '3.7'
+services:
+  app:
+    image: thomst08/requestrr:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:4545
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/root/config/

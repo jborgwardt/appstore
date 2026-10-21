@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-requestrr
+name: requestrr
+tagline: Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/requestrr.png
+category: tools
+version: latest
+port: 4545
+description: 'Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat. Current platform is Discord only, but the bot was built around the ideology of quick adaptation for new features as well as new platforms. AppSupport: https://discord.gg/atjrUen5fJ'
+developer: Unraid Community
+website: https://github.com/thomst08/requestrr
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/requestrr.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template requestrr.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

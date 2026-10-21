@@ -1,0 +1,22 @@
+name: big-bear-linuxserver-msedge
+services:
+  app:
+    image: linuxserver/msedge:155.0.4283@sha256:4e93ca32e16e3746347277fe2e39c7d8e11faab66e84cec5a777d9a63c7e80b1
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+      EDGE_CLI: ''
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/msedge/config
+      target: /config
+version: '3.7'

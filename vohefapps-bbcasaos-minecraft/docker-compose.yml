@@ -1,0 +1,15 @@
+name: big-bear-minecraft
+services:
+  app:
+    image: itzg/minecraft-server:2026.10.0
+    environment:
+      EULA: true
+    ports:
+    - target: 25565
+      published: 25565
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/$AppID/data
+      target: /data
+version: '3.7'

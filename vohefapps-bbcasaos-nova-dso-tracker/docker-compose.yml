@@ -1,0 +1,12 @@
+name: big-bear-nova-dso-tracker
+services:
+  nova:
+    image: mrantonsg/nova-dso-tracker:6.9.0@sha256:f7c858008d446168a73bed5a051636c530fe90283e8247bf6af7e6aefdca6712
+    container_name: big-bear-nova-dso-tracker
+    ports:
+    - 5001:5001
+    volumes:
+    - ${APP_DATA_DIR}/instance:/app/instance
+    restart: unless-stopped
+    network_mode: bridge
+version: '3.7'

@@ -1,0 +1,24 @@
+name: big-bear-linuxserver-ldap-auth
+services:
+  app:
+    image: linuxserver/ldap-auth:3.4.8@sha256:d86265b3e9180f52f573b3bd99a47869880f07cfba66f54fa60da3922f7254e1
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+      FERNETKEY: ''
+      CERTFILE: ''
+      KEYFILE: ''
+    ports:
+    - target: 8888
+      published: 8888
+      protocol: tcp
+    - target: 9000
+      published: 9000
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/ldap-auth/config
+      target: /config
+version: '3.7'

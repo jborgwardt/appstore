@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-upsnap
+name: upsnap
+tagline: Imported from BigBearCasaOS (upsnap)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 5.3.4
+port: 3000
+description: Imported from BigBearCasaOS (upsnap)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/upsnap
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/upsnap
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app upsnap.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

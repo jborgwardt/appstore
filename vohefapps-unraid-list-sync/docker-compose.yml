@@ -1,0 +1,18 @@
+version: '3.7'
+services:
+  app:
+    image: ghcr.io/woahai321/list-sync:latest
+    restart: unless-stopped
+    environment:
+    - OVERSEERR_URL=
+    - OVERSEERR_API_KEY=
+    - OVERSEERR_USER_ID=1
+    - OVERSEERR_4K=false|true
+    - SYNC_INTERVAL=24
+    - AUTOMATED_MODE=true|false
+    - IMDB_LISTS=
+    - TRAKT_LISTS=
+    - LETTERBOXD_LISTS=
+    - DISCORD_WEBHOOK_URL=
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/usr/src/app/data

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-syncthing
+name: Syncthing
+tagline: Peer-to-peer file synchronization between your devices
+icon: https://runtipi.io/images/apps/syncthing.png
+category: data
+version: 2.1.6
+port: 8090
+description: Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers. We strive to fulfill the goals below. The goals are listed in order of importance, the most important one being the first. This is the summary version of the goal list - for more commentary, see the full Goals document.
+developer: The Syncthing Foundation
+website: https://github.com/syncthing
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/syncthing
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app syncthing.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,18 @@
+name: big-bear-linuxserver-python
+services:
+  app:
+    image: linuxserver/python:3.15.0@sha256:cefdc592b20898169ddceda2bf9dbed936899def8790e1daaa684197cf9fd4a4
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 80
+      published: 80
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/python/config
+      target: /config
+version: '3.7'

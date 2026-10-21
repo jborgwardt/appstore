@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-unifi-network-application-mongo-4
+name: unifi-network-application-mongo-4
+tagline: Imported from BigBearCasaOS (unifi-network-application-mongo-4)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 10.6.106
+port: 8443
+description: Imported from BigBearCasaOS (unifi-network-application-mongo-4)
+developer: BigBearCasaOS
+website: https://youtu.be/JCe-r_SHCe8
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/unifi-network-application-mongo-4
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app unifi-network-application-mongo-4.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

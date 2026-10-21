@@ -1,0 +1,29 @@
+name: big-bear-pihole-updatelists
+services:
+  big-bear-pihole-updatelists:
+    container_name: big-bear-pihole-updatelists
+    image: jacklul/pihole:2026.09.0@sha256:b24e0c51982dda899f1a62facf5e93a9d1543f0d46a2b0d6f04ee049051a2225
+    restart: unless-stopped
+    environment:
+      TZ: UTC
+      FTLCONF_webserver_api_password: your_password
+      BLOCKLISTS_URL: https://v.firebog.net/hosts/lists.php?type=tick
+      REGEX_BLACKLIST_URL: https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list
+    volumes:
+    - ${APP_DATA_DIR}/etc:/etc/pihole/
+    - ${APP_DATA_DIR}/etc/pihole-updatelists:/etc/pihole-updatelists/
+    - ${APP_DATA_DIR}/dnsmasq.d:/etc/dnsmasq.d/
+    ports:
+    - 53:53/tcp
+    - 53:53/udp
+    - 67:67/udp
+    - 8080:80/tcp
+    - 10443:443/tcp
+    networks:
+    - pihole-network
+    cap_add:
+    - NET_ADMIN
+networks:
+  pihole-network:
+    driver: bridge
+version: '3.7'

@@ -1,0 +1,9 @@
+version: '3.7'
+services:
+  app:
+    image: rssbridge/rss-bridge:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:80
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/app/whitelist.txt

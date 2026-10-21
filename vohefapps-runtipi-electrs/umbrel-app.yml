@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-electrs
+name: Electrs
+tagline: Electrum server
+icon: https://runtipi.io/images/apps/electrs.png
+category: finance
+version: v0.12.0
+port: 3006
+description: Electrum server
+developer: romanz
+website: https://github.com/romanz/electrs
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/electrs
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app electrs.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

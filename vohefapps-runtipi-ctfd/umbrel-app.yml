@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-ctfd
+name: CTFd
+tagline: Cyber Security Training made simple.
+icon: https://runtipi.io/images/apps/ctfd.png
+category: utilities
+version: 3.8.8
+port: 8546
+description: CTFd is a Capture The Flag framework focusing on ease of use and customizability.
+developer: CTFd
+website: https://github.com/CTFd/CTFd
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/ctfd
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app ctfd.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

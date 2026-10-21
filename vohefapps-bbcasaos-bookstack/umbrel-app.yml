@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-bookstack
+name: bookstack
+tagline: Imported from BigBearCasaOS (bookstack)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 26.05.20260608
+port: 8080
+description: Imported from BigBearCasaOS (bookstack)
+developer: BigBearCasaOS
+website: https://youtu.be/_jW4RjJm-6A
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/bookstack
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app bookstack.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

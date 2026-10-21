@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-plex-meta-manager
+name: plex-meta-manager
+tagline: Imported from BigBearCasaOS (plex-meta-manager)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.21.1
+port: 3000
+description: Imported from BigBearCasaOS (plex-meta-manager)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/plex-meta-manager
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/plex-meta-manager
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app plex-meta-manager.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

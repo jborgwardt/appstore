@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-joplin
+name: Joplin Server
+tagline: Note taking and to-do application with synchronisation
+icon: https://runtipi.io/images/apps/joplin.png
+category: utilities
+version: 3.7.2
+port: 8099
+description: 'Default credentials: admin@localhost / admin'
+developer: https://github.com/laurent22
+website: https://github.com/laurent22/joplin
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/joplin
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app joplin.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

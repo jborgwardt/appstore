@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-radarr
+name: Radarr
+tagline: Movie collection manager for Usenet and BitTorrent users.
+icon: https://runtipi.io/images/apps/radarr.png
+category: media
+version: 6.4.4
+port: 8088
+description: Radarr is a movie collection manager for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new movies and will interface with clients and indexers to grab, sort, and rename them. It can also be configured to automatically upgrade the quality of existing files in the library when a better quality format becomes available. Note that only one type of a given movie is supported. If you want both an 4k version and 1080p version of a given movie you will need multiple instances.
+developer: radarr.video
+website: https://github.com/Radarr/Radarr
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/radarr
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app radarr.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

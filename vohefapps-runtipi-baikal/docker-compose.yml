@@ -1,0 +1,7 @@
+services:
+  baikal:
+    image: ghcr.io/aalmenar/baikal:0.12.1
+    volumes:
+    - ${APP_DATA_DIR}/config:/var/www/baikal/config
+    - ${APP_DATA_DIR}/specific:/var/www/baikal/Specific
+version: '3.7'

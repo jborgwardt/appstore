@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-chatpad
+name: chatpad
+tagline: Imported from BigBearCasaOS (chatpad)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: f45cd53bc410412610c1ba1cbd84cd137d8e167d
+port: 8080
+description: Imported from BigBearCasaOS (chatpad)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/chatpad
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/chatpad
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app chatpad.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

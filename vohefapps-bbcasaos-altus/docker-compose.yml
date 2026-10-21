@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-altus
+services:
+  app:
+    image: linuxserver/altus:5.8.1@sha256:e4df4114c1cc350bb475c4d2f6616dcf434659cf4557fa8738759c089fd51fea
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/altus/config
+      target: /config
+version: '3.7'

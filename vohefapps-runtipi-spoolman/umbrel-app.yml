@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-spoolman
+name: Spoolman
+tagline: Keep track of your inventory of 3D-printer filament spools
+icon: https://runtipi.io/images/apps/spoolman.png
+category: utilities
+version: 0.27.0
+port: 7912
+description: Spoolman is a web service that helps you keep track of your filament spools and how they are being used. It acts as a database, where other printer software such as Octoprint and Moonraker can interact with to have a centralized place for spool information. For example, if used together with Moonraker, your spool weight will automatically be reduced as your print is progressing.
+developer: Donkie
+website: https://github.com/Donkie/Spoolman
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/spoolman
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app spoolman.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

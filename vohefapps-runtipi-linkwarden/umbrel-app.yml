@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-linkwarden
+name: Linkwarden
+tagline: A self-hosted, open-source collaborative bookmark manager
+icon: https://runtipi.io/images/apps/linkwarden.png
+category: data
+version: v2.16.3
+port: 8199
+description: A self-hosted, open-source collaborative bookmark manager to collect, organize and archive webpages.
+developer: Linkwarden
+website: https://github.com/linkwarden/linkwarden
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/linkwarden
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app linkwarden.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-youtubedl-material
+name: youtube-dl material
+tagline: ytdl-material is a full suite UI for yt-dlp
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/youtubedl-material.png
+category: downloaders
+version: latest
+port: 17442
+description: ytdl-material is a full suite UI for yt-dlp. It's coded using Angular 21 for the frontend, and Node.js on the backend. See a list of features here.
+developer: Unraid Community
+website: https://github.com/voc0der/ytdl-material
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/youtubedl-material.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template youtubedl-material.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

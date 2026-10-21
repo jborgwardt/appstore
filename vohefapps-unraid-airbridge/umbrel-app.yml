@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-airbridge
+name: Airbridge
+tagline: Airbridge bridges DLNA/UPnP audio streams to AirPlay (RAOP) devices
+icon: https://raw.githubusercontent.com/kenyonj/airbridge/main/unraid/airbridge-icon.png
+category: mediaserver
+version: latest
+port: 8200
+description: 'Airbridge bridges DLNA/UPnP audio streams to AirPlay (RAOP) devices. Creates virtual DLNA renderers that forward audio to AirPlay speakers, allowing media servers like Music Assistant or Plex to stream to AirPlay-only devices through DLNA. Features: - Virtual DLNA renderer per AirPlay zone - Automatic AirPlay device discovery (mDNS) - Web admin interface for managing devices - Volume control support Requires host network mode for mDNS device discovery and SSDP announcements.'
+developer: Unraid Community
+website: https://github.com/kenyonj/airbridge
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/airbridge.xml
+support: https://github.com/kenyonj/airbridge/issues
+gallery: []
+releaseNotes: Imported from Unraid template airbridge.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

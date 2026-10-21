@@ -1,0 +1,38 @@
+name: big-bear-lancache
+services:
+  app:
+    image: lancachenet/monolithic:latest@sha256:155817065b13cc427aa0014acc34bbb389591400d7639c95abcfcfb2230ad7f0
+    environment:
+    - USE_GENERIC_CACHE=true
+    - LANCACHE_IP=10.0.39.1
+    - DNS_BIND_IP=10.0.39.1
+    - UPSTREAM_DNS=8.8.8.8
+    - CACHE_ROOT=./lancache
+    - CACHE_DISK_SIZE=2000g
+    - CACHE_INDEX_SIZE=500m
+    - CACHE_MAX_AGE=3650d
+    - TZ=UTC
+    restart: unless-stopped
+    ports:
+    - 8080:80
+    - 10443:443
+    volumes:
+    - ${APP_DATA_DIR}/cache:/data/cache
+    - ${APP_DATA_DIR}/logs:/data/logs
+  dns:
+    image: lancachenet/lancache-dns:latest@sha256:6e046a40e9f0467b1df97ca2ba9b8b7c0d4404736a349c0f8df11fa212871a03
+    environment:
+    - USE_GENERIC_CACHE=true
+    - LANCACHE_IP=10.0.39.1
+    - DNS_BIND_IP=10.0.39.1
+    - UPSTREAM_DNS=8.8.8.8
+    - CACHE_ROOT=./lancache
+    - CACHE_DISK_SIZE=2000g
+    - CACHE_INDEX_SIZE=500m
+    - CACHE_MAX_AGE=3650d
+    - TZ=UTC
+    restart: unless-stopped
+    ports:
+    - 53:53/udp
+    - 53:53/tcp
+version: '3.7'

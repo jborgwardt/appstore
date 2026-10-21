@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-airsonic-advanced
+name: airsonic-advanced
+tagline: Imported from BigBearCasaOS (airsonic-advanced)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 11.1.4
+port: 3000
+description: Imported from BigBearCasaOS (airsonic-advanced)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/airsonic-advanced
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/airsonic-advanced
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app airsonic-advanced.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

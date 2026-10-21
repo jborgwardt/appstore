@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-apprise-api
+name: apprise-api
+tagline: Imported from BigBearCasaOS (apprise-api)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2.0.1
+port: 3000
+description: Imported from BigBearCasaOS (apprise-api)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/apprise-api
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/apprise-api
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app apprise-api.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

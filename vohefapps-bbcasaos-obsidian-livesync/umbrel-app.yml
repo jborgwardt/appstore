@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-obsidian-livesync
+name: obsidian-livesync
+tagline: Imported from BigBearCasaOS (obsidian-livesync)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 3.5.0
+port: 5984
+description: Imported from BigBearCasaOS (obsidian-livesync)
+developer: BigBearCasaOS
+website: https://youtu.be/-n1abMPLmFg
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/obsidian-livesync
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app obsidian-livesync.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

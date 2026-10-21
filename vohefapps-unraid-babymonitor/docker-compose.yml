@@ -1,0 +1,19 @@
+version: '3.7'
+services:
+  app:
+    image: ghcr.io/aldendana/ha-baby-monitor:latest
+    restart: unless-stopped
+    environment:
+    - CAMERA_URL=
+    - CAMERA_FALLBACK_URL=
+    - THRESHOLD=-30
+    - TRIGGER_COUNT=2
+    - SAMPLE_INTERVAL=2
+    - MQTT_HOST=
+    - MQTT_PORT=1883
+    - MQTT_USER=homeassistant
+    - MQTT_PASS=
+    - MQTT_TOPIC=home/baby_monitor/volume
+    - WEBHOOK_URL=http://homeassistant:8123/api/webhook/baby_noise_alert
+    - RETRY_DELAY=5
+    - FFMPEG_LOGLEVEL=warning

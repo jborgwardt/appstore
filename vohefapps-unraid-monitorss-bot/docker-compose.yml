@@ -1,0 +1,10 @@
+version: '3.7'
+services:
+  app:
+    image: synzen/monitorss:latest
+    restart: unless-stopped
+    environment:
+    - DRSS_BOT_PREFIX=\
+    - DRSS_BOT_TOKEN=22222222222
+    - DRSS_DATABASE_URI=mongodb://[REPLACE-WITH-IP]:27017/drss
+    - DRSS_START=bot

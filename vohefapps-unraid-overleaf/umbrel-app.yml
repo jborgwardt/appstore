@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-overleaf
+name: Overleaf
+tagline: A self-hosted LaTeX editor
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/overleaf.png
+category: productivity
+version: latest
+port: 80
+description: A self-hosted LaTeX editor
+developer: Unraid Community
+website: https://github.com/overleaf/docker-image
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/overleaf.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository
+gallery: []
+releaseNotes: Imported from Unraid template overleaf.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

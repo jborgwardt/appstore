@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-rackpeek
+name: rackpeek
+tagline: Imported from BigBearCasaOS (rackpeek)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v2.1.0
+port: 8095
+description: Imported from BigBearCasaOS (rackpeek)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/rackpeek
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/rackpeek
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app rackpeek.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

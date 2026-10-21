@@ -1,0 +1,79 @@
+name: big-bear-penpot
+services:
+  penpot-frontend:
+    container_name: big-bear-penpot-frontend
+    image: penpotapp/frontend:2.18.3@sha256:bb8abe27d53de84c95597f2c02c0e702b2779971fb0703e543f9ecf183e999f6
+    restart: unless-stopped
+    volumes:
+    - ${APP_DATA_DIR}/assets:/opt/data/assets
+    ports:
+    - 9001:8080
+    depends_on:
+    - penpot-backend
+    - penpot-exporter
+    networks:
+    - big-bear-penpot-network
+  penpot-backend:
+    image: penpotapp/backend:2.18.3@sha256:2df1b3440d2a82cc3571db211b4ffdfa2b89ccc910759e8d5e9387fb62971b5c
+    container_name: big-bear-penpot-backend
+    restart: unless-stopped
+    volumes:
+    - ${APP_DATA_DIR}/assets:/opt/data/assets
+    depends_on:
+    - penpot-postgres
+    - penpot-redis
+    networks:
+    - big-bear-penpot-network
+    environment:
+    - PENPOT_FLAGS=enable-registration enable-login-with-password disable-email-verification disable-secure-session-cookies
+    - PENPOT_SECRET_KEY=big-bear-penpot-secret-key
+    - PENPOT_PUBLIC_URI=http://big-bear-penpot-frontend:8080
+    - PENPOT_DATABASE_URI=postgresql://big-bear-penpot-postgres/penpot
+    - PENPOT_DATABASE_USERNAME=bigbear
+    - PENPOT_DATABASE_PASSWORD=casaos
+    - PENPOT_REDIS_URI=redis://big-bear-penpot-redis/0
+    - PENPOT_ASSETS_STORAGE_BACKEND=assets-fs
+    - PENPOT_STORAGE_ASSETS_FS_DIRECTORY=/opt/data/assets
+    - PENPOT_TELEMETRY_ENABLED=false
+  penpot-exporter:
+    image: penpotapp/exporter:2.18.3@sha256:418232d6ca3120b1c2bfde298a56a05a1f41f567cd8494deac3fe7fbc186cfbd
+    container_name: big-bear-penpot-exporter
+    restart: unless-stopped
+    networks:
+    - big-bear-penpot-network
+    environment:
+    - PENPOT_PUBLIC_URI=http://big-bear-penpot-frontend:8080
+    - PENPOT_REDIS_URI=redis://big-bear-penpot-redis/0
+  penpot-postgres:
+    image: postgres:14@sha256:9e279cc7fc6e908da071befe389c576bd6752dbd295a9c078f96a75bab03e54c
+    restart: unless-stopped
+    container_name: big-bear-penpot-postgres
+    stop_signal: SIGINT
+    volumes:
+    - ${APP_DATA_DIR}/pgdata:/var/lib/postgresql/data
+    networks:
+    - big-bear-penpot-network
+    environment:
+    - POSTGRES_INITDB_ARGS=--data-checksums
+    - POSTGRES_DB=penpot
+    - POSTGRES_USER=bigbear
+    - POSTGRES_PASSWORD=casaos
+  penpot-redis:
+    image: redis:7.4.6@sha256:d7432711a2a5c99c2e9dd0e006061cd274d7cb7a9e77f07ffe2ea99e21244677
+    container_name: big-bear-penpot-redis
+    restart: unless-stopped
+    networks:
+    - big-bear-penpot-network
+  penpot-mailcatch:
+    image: sj26/mailcatcher:latest@sha256:572048324658d2198e0a96785cca4f0260f2c4cadb2cb057bd837b9ee0c60533
+    restart: always
+    expose:
+    - '1025'
+    ports:
+    - 1080:1080
+    networks:
+    - big-bear-penpot-network
+networks:
+  big-bear-penpot-network:
+    driver: bridge
+version: '3.7'

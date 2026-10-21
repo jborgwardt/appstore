@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-pihole-unbound
+name: pihole-unbound
+tagline: Imported from BigBearCasaOS (pihole-unbound)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 7db29f755beeda43d9e1565399c0b77916533c51ea9e6c05c48e7b0f5675c57f
+port: 53
+description: Imported from BigBearCasaOS (pihole-unbound)
+developer: BigBearCasaOS
+website: https://youtu.be/ByFSgnnUuBI
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/pihole-unbound
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app pihole-unbound.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

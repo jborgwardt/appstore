@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-kimai
+name: Kimai
+tagline: Open source time-tracker
+icon: https://runtipi.io/images/apps/kimai.png
+category: utilities
+version: fpm-2.19.1-prod
+port: 8003
+description: Kimai is a professional grade time-tracking application, free and open-source. It handles use-cases of freelancers as well as companies with dozens or hundreds of users.
+developer: Kevin Papst
+website: https://github.com/kimai/kimai
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/kimai
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app kimai.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

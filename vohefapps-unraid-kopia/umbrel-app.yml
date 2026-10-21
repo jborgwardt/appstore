@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-kopia
+name: Kopia
+tagline: Kopia is a simple, cross-platform tool for managing encrypted backups in the cloud
+icon: https://raw.githubusercontent.com/kopia/kopia/refs/heads/master/app/assets/icon.ico
+category: backup
+version: latest
+port: 51515
+description: Kopia is a simple, cross-platform tool for managing encrypted backups in the cloud. It provides fast, incremental backups, secure, client-side end-to-end encryption, compression and data deduplication. To run this container, you must create a htpasswd file (either via command line or using a tool such as https://hostingcanada.org/htpasswd-generator/) and place it in the /mnt/user/appdata/kopia/config directory, then adjust the Post Arguments accordingly.
+developer: Unraid Community
+website: https://github.com/kopia/kopia/
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/kopia.xml
+support: https://kopia.io/docs/
+gallery: []
+releaseNotes: Imported from Unraid template kopia.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-vlc
+name: vlc
+tagline: Imported from BigBearCasaOS (vlc)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 3.0.24
+port: 3000
+description: Imported from BigBearCasaOS (vlc)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/vlc
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/vlc
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app vlc.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

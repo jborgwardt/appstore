@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-viewtube
+name: ViewTube
+tagline: The open source, privacy-conscious way to enjoy your favorite YouTube content.
+icon: https://runtipi.io/images/apps/viewtube.png
+category: media
+version: 0.17.0
+port: 8180
+description: The open source, privacy-conscious way to enjoy your favorite YouTube content.
+developer: ViewTube
+website: https://github.com/ViewTube/viewtube
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/viewtube
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app viewtube.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

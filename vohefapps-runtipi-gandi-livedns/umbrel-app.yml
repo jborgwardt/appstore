@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-gandi-livedns
+name: gandi-livedns
+tagline: Update your Gandi DNS zone records with your WAN IP
+icon: https://runtipi.io/images/apps/gandi-livedns.png
+category: network
+version: latest
+port: 8134
+description: The purpose of this container is to update DNS zone records using Gandi's LiveDNS (http://doc.livedns.gandi.net/) with your WAN IP. This image is extremely lightweight (Alpine Linux based) and has very few dependencies. The actual DNS update program is coded in shell script only.
+developer: jbbodart
+website: https://github.com/jbbodart/gandi-livedns
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/gandi-livedns
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app gandi-livedns.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

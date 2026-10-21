@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-stalwart-mail
+name: stalwart-mail
+tagline: Imported from BigBearCasaOS (stalwart-mail)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v0.16.26
+port: 8080
+description: Imported from BigBearCasaOS (stalwart-mail)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/stalwart-mail
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/stalwart-mail
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app stalwart-mail.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

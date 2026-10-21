@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-mealiev1
+name: mealiev1
+tagline: Mealie is a self-hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasa
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/mealiev1.png
+category: productivity
+version: latest
+port: 9000
+description: 'Mealie is a self-hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. This is the NEW NIGHTLY for Version. As soon as there is an official stable image tag, this template will be updated to allow for either. Please note, there is only one port now, previously the web port was 3000 and API was 9000. Now there is just 9000. To avoid breaking changes I have by default made the port 3000 with this template. You can of course change to anything you would like, and update your reverse proxies accordingly. Please read https://hay-kot.github.io/mealie/documentation/getting-started/updating/ before updating from earlier (Pre 1.X versions!) Lastly, Postgres is available and if you want to use mealie with postgres the variables have been added under advanced Default Password: MyPassword'
+developer: Unraid Community
+website: https://mealie.io/
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/mealiev1.xml
+support: https://forums.unraid.net/topic/138058-support-catduck-templates/
+gallery: []
+releaseNotes: Imported from Unraid template mealiev1.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

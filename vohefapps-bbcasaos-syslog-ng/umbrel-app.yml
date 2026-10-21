@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-syslog-ng
+name: syslog-ng
+tagline: Imported from BigBearCasaOS (syslog-ng)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 4.11.0
+port: 3000
+description: Imported from BigBearCasaOS (syslog-ng)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/syslog-ng
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/syslog-ng
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app syslog-ng.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

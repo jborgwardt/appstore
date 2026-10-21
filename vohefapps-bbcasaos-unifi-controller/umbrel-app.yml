@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-unifi-controller
+name: unifi-controller
+tagline: Imported from BigBearCasaOS (unifi-controller)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 8.0.24
+port: 3000
+description: Imported from BigBearCasaOS (unifi-controller)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/unifi-controller
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/unifi-controller
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app unifi-controller.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

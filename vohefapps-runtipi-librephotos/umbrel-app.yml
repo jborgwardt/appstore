@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-librephotos
+name: LibrePhotos
+tagline: Complete photo management service
+icon: https://runtipi.io/images/apps/librephotos.png
+category: photography
+version: 2023w48
+port: 8132
+description: Complete photo management service
+developer: Niaz Faridani-Rad
+website: https://github.com/LibrePhotos/librephotos
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/librephotos
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app librephotos.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-whats-up-docker
+name: whats-up-docker
+tagline: Imported from BigBearCasaOS (whats-up-docker)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 6.6.1
+port: 3000
+description: Imported from BigBearCasaOS (whats-up-docker)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/whats-up-docker
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/whats-up-docker
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app whats-up-docker.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

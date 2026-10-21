@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-pihole
+name: Pi-hole
+tagline: A black hole for Internet advertisements
+icon: https://runtipi.io/images/apps/pihole.png
+category: network
+version: 2026.10.0
+port: 8081
+description: The Pi-hole® is a DNS sinkhole that protects your devices from unwanted content without installing any client-side software.
+developer: pi-hole.net
+website: https://github.com/pi-hole/pi-hole
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/pihole
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app pihole.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

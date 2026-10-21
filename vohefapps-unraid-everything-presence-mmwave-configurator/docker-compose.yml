@@ -1,0 +1,12 @@
+version: '3.7'
+services:
+  app:
+    image: everythingsmarthome/everything-presence-mmwave-configurator:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:42069
+    environment:
+    - HA_BASE_URL=http://ha-ip:8123
+    - HA_LONG_LIVED_TOKEN=LONG_LIVED_TOKEN
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/config/everything-presence-zone-configurator

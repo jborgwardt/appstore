@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-moodist
+name: Moodist
+tagline: Ambient sounds for focus and calm.
+icon: https://runtipi.io/images/apps/moodist.png
+category: media
+version: v3.1.1
+port: 8221
+description: Ambient sounds for focus and calm.
+developer: remvze
+website: https://github.com/remvze/moodist
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/moodist
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app moodist.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

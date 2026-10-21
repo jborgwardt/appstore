@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-appsmith
+name: appsmith
+tagline: Imported from BigBearCasaOS (appsmith)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v2.5.0
+port: 1080
+description: Imported from BigBearCasaOS (appsmith)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/appsmith
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/appsmith
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app appsmith.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

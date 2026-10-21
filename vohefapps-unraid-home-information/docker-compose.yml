@@ -1,0 +1,33 @@
+version: '3.7'
+services:
+  app:
+    image: ghcr.io/cassandra/home-information:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:8000
+    environment:
+    - DJANGO_SECRET_KEY=
+    - DJANGO_SUPERUSER_EMAIL=admin@example.com
+    - DJANGO_SUPERUSER_PASSWORD=
+    - DJANGO_SETTINGS_MODULE=hi.settings.local
+    - HI_DB_PATH=/data/database
+    - HI_MEDIA_PATH=/data/media
+    - HI_SUPPRESS_AUTHENTICATION=true|false
+    - HI_REDIS_HOST=127.0.0.1
+    - HI_REDIS_PORT=6379
+    - HI_REDIS_KEY_PREFIX=
+    - HI_EXTRA_HOST_URLS=
+    - HI_EXTRA_CSP_URLS=
+    - HI_EMAIL_SUBJECT_PREFIX=
+    - HI_DEFAULT_FROM_EMAIL=
+    - HI_SERVER_EMAIL=
+    - HI_EMAIL_HOST=
+    - HI_EMAIL_PORT=587
+    - HI_EMAIL_HOST_USER=
+    - HI_EMAIL_HOST_PASSWORD=
+    - HI_EMAIL_USE_TLS=false
+    - HI_EMAIL_USE_SSL=false
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/data/database
+    - ${APP_DATA_DIR}/data/path2:/data/media
+    - ${APP_DATA_DIR}/data/path3:/env

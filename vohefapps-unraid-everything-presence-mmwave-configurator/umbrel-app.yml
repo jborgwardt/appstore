@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-everything-presence-mmwave-configurator
+name: everything-presence-mmwave-configurator
+tagline: A visual configurator tool for creating zones with the Everything Presence Lite mmWave sensor.
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/everything-presence-mmwave-configurator.png
+category: homeautomation
+version: latest
+port: 42069
+description: A visual configurator tool for creating zones with the Everything Presence Lite mmWave sensor.
+developer: Unraid Community
+website: https://github.com/EverythingSmartHome/everything-presence-addons
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/everything-presence-mmwave-configurator.xml
+support: https://github.com/EverythingSmartHome/everything-presence-addons/issues
+gallery: []
+releaseNotes: Imported from Unraid template everything-presence-mmwave-configurator.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

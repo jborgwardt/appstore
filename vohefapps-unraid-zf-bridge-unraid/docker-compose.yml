@@ -1,0 +1,14 @@
+version: '3.7'
+services:
+  app:
+    image: zonefoundry/bridge:latest
+    restart: unless-stopped
+    environment:
+    - ZF_RELAY_URL=wss://relay.zonefoundry.dev/ws
+    - ZF_PAIR_CODE=
+    - ZF_USER_ID=
+    - ZF_AGENT_SECRET=
+    - ZF_CONNECTOR_ID=
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/app/data
+    - ${APP_DATA_DIR}/data/path2:/var/run/docker.sock

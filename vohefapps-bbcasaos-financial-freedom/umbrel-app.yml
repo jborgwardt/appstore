@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-financial-freedom
+name: financial-freedom
+tagline: Imported from BigBearCasaOS (financial-freedom)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v0.2.0-alpha1
+port: 8080
+description: Imported from BigBearCasaOS (financial-freedom)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/financial-freedom
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/financial-freedom
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app financial-freedom.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

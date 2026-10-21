@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-adguard-home-host
+name: adguard-home-host
+tagline: Imported from BigBearCasaOS (adguard-home-host)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v0.107.79
+port: 3000
+description: Imported from BigBearCasaOS (adguard-home-host)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/adguard-home-host
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/adguard-home-host
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app adguard-home-host.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

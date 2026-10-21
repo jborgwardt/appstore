@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-snapotter
+name: snapotter
+tagline: Imported from BigBearCasaOS (snapotter)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2.2.0
+port: 1349
+description: Imported from BigBearCasaOS (snapotter)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/snapotter
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/snapotter
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app snapotter.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

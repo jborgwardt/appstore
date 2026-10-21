@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-minecraft
+name: minecraft
+tagline: Imported from BigBearCasaOS (minecraft)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2026.10.0
+port: 3000
+description: Imported from BigBearCasaOS (minecraft)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/minecraft
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/minecraft
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app minecraft.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

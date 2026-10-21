@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-komga
+name: Komga
+tagline: A Media server for comics/mangas/BDs with API and OPDS support
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/komga.png
+category: network
+version: latest
+port: 25600
+description: A Media server for comics/mangas/BDs with API and OPDS support. Check logs for auto-generated username/password.
+developer: Unraid Community
+website: https://github.com/gotson/komga/
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/komga.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template komga.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

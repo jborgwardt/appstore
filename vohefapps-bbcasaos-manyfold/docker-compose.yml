@@ -1,0 +1,24 @@
+name: big-bear-linuxserver-manyfold
+services:
+  app:
+    image: linuxserver/manyfold:0.150.0@sha256:5872d897cf181f9b5461bda49520ea32c0f2a0b75e485f6248673829a31d4d52
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+      DATABASE_URL: ''
+      REDIS_URL: ''
+      SECRET_KEY_BASE: ''
+    ports:
+    - target: 3214
+      published: 3214
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/manyfold/config
+      target: /config
+    - type: bind
+      source: /DATA/AppData/manyfold/libraries
+      target: /libraries
+version: '3.7'

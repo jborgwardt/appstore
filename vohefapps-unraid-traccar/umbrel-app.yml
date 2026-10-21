@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-traccar
+name: traccar
+tagline: Traccar is an open source GPS tracking system
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/traccar.png
+category: mediaapp
+version: latest
+port: 8082
+description: 'Traccar is an open source GPS tracking system. This repository contains Java-based back-end service. It supports more than 170 GPS protocols and more than 1500 models of GPS tracking devices. Traccar can be used with any major SQL database system. It also provides easy to use REST API. Link to traccar.xml: https://raw.githubusercontent.com/traccar/traccar/master/setup/traccar.xml Add it to your host path before starting the container.'
+developer: Unraid Community
+website: https://github.com/traccar/traccar
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/traccar.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template traccar.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

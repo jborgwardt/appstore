@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-rawtherapee
+name: rawtherapee
+tagline: Imported from BigBearCasaOS (rawtherapee)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 5.13.20261011
+port: 3000
+description: Imported from BigBearCasaOS (rawtherapee)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/rawtherapee
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/rawtherapee
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app rawtherapee.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

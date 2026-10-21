@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-wg-easy-1
+name: Wireguard
+tagline: VPN server for your homeserver.
+icon: https://runtipi.io/images/apps/wg-easy-1.png
+category: network
+version: 15.4.0
+port: 8882
+description: Access your homeserver from anywhere even on your mobile device. Wireguard-easy is a simple tool to configure and manage Wireguard VPN servers. It is written in Go and uses the official Wireguard client. You have to open and redirect port 51820 to your homeserver in order to connect.
+developer: WeeJeWel
+website: https://github.com/wg-easy/wg-easy
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/wg-easy-1
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app wg-easy-1.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

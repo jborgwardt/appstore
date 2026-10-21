@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-lollypop
+services:
+  app:
+    image: linuxserver/lollypop:1.4.45@sha256:d0b4550a8646313e67dd023e3e411b9bc9a0709933d3c92dfd2e2c7f11764b71
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/lollypop/config
+      target: /config
+version: '3.7'

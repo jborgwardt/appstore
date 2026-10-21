@@ -1,0 +1,11 @@
+version: '3.7'
+services:
+  app:
+    image: zwavejs/zwavejs2mqtt:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:8091
+    - 3000:3000
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/usr/src/app/store
+    - ${APP_DATA_DIR}/data/path2:/usr/src/app/bin

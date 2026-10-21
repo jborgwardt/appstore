@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-digarr
+name: Digarr
+tagline: AI-powered music discovery engine for self-hosted music stacks
+icon: https://raw.githubusercontent.com/iuliandita/digarr/main/docs/logo.png
+category: mediaapp
+version: latest
+port: 3000
+description: AI-powered music discovery engine for self-hosted music stacks. Connects to Lidarr, Last.fm, ListenBrainz, Spotify, and more to find new artists you will actually like. Supports auto-playlists, subscription feeds, mood-based discovery, and genre browsing. Ships with a built-in embedded database -- no separate PostgreSQL container needed. Data is stored in the mapped data folder (/mnt/user/appdata/digarr/data), which must be writable by the container user (uid 1000). To use an external PostgreSQL instead, set the (advanced) Database URL variable.
+developer: Unraid Community
+website: https://github.com/iuliandita/digarr
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/digarr.xml
+support: https://github.com/iuliandita/digarr/discussions
+gallery: []
+releaseNotes: Imported from Unraid template digarr.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

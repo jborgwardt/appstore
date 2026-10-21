@@ -1,0 +1,17 @@
+name: big-bear-firefox
+services:
+  firefox:
+    container_name: big-bear-firefox
+    image: linuxserver/firefox:1155.0.1@sha256:1d224760c3b9e45aac55457d73a174188cc55b34480fc7cdd3e9e13023d7b9a0
+    ports:
+    - 3000:3000
+    - 3001:3001
+    environment:
+    - PUID=1000
+    - PGID=1000
+    - TZ=Etc/UTC
+    - FIREFOX_CLI=https://community.bigbeartechworld.com/
+    shm_size: 1gb
+    volumes:
+    - ${APP_DATA_DIR}/config:/config
+version: '3.7'

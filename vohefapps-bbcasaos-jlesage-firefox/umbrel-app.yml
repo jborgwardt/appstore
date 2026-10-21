@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-jlesage-firefox
+name: jlesage-firefox
+tagline: Imported from BigBearCasaOS (jlesage-firefox)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v26.09.1
+port: 5800
+description: Imported from BigBearCasaOS (jlesage-firefox)
+developer: BigBearCasaOS
+website: https://youtu.be/JWhR8RKGh9Y
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/jlesage-firefox
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app jlesage-firefox.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

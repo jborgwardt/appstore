@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-nitter
+name: Nitter
+tagline: Twitter without annoyances!
+icon: https://runtipi.io/images/apps/nitter.png
+category: social
+version: latest
+port: 8106
+description: A free and open source alternative Twitter front-end focused on privacy and performance.
+developer: zedeus
+website: https://github.com/zedeus/nitter
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/nitter
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app nitter.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

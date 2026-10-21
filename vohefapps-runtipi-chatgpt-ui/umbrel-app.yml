@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-chatgpt-ui
+name: ChatGPT UI
+tagline: A ChatGPT web client that supports multiple users, multiple languages, and multiple database connections for persistent data storage
+icon: https://runtipi.io/images/apps/chatgpt-ui.png
+category: ai
+version: 2.5.9
+port: 8200
+description: A ChatGPT web client that supports multiple users, multiple languages, and multiple database connections for persistent data storage
+developer: https://github.com/WongSaang
+website: https://github.com/WongSaang/chatgpt-ui
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/chatgpt-ui
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app chatgpt-ui.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

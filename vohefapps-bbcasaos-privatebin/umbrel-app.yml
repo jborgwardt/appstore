@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-privatebin
+name: privatebin
+tagline: Imported from BigBearCasaOS (privatebin)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2.0.6
+port: 3000
+description: Imported from BigBearCasaOS (privatebin)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/privatebin
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/privatebin
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app privatebin.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

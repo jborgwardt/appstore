@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-homebridge
+name: homebridge
+tagline: Imported from BigBearCasaOS (homebridge)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: '2024-05-02'
+port: 3000
+description: Imported from BigBearCasaOS (homebridge)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/homebridge
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/homebridge
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app homebridge.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

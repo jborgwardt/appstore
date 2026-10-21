@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-guacamole
+name: Guacamole
+tagline: Clientless remote desktop gateway
+icon: https://runtipi.io/images/apps/guacamole.png
+category: utilities
+version: 1.6.0
+port: 8854
+description: Apache Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH
+developer: apache
+website: https://github.com/apache/guacamole-server
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/guacamole
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app guacamole.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

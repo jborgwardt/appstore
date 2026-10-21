@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-cross-seed
+name: Cross-Seed
+tagline: Fully-automatic cross-seeding with Torznab.
+icon: https://runtipi.io/images/apps/cross-seed.png
+category: media
+version: 6.13.7
+port: 3000
+description: An app designed to help you download torrents that you can cross seed based on your existing torrents. It is designed to match conservatively to minimize manual intervention.
+developer: Cross-Seed Team
+website: https://github.com/cross-seed/cross-seed
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/cross-seed
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app cross-seed.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

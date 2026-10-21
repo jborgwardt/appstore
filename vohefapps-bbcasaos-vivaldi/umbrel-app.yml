@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-vivaldi
+name: vivaldi
+tagline: Imported from BigBearCasaOS (vivaldi)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 8.2.4133
+port: 3000
+description: Imported from BigBearCasaOS (vivaldi)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/vivaldi
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/vivaldi
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app vivaldi.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

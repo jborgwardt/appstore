@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-fireshare
+name: Fireshare
+tagline: Self host your media and share with unique links
+icon: https://runtipi.io/images/apps/fireshare.png
+category: gaming
+version: 1.9.0
+port: 8140
+description: Self host your media and share with unique links. Share your game clips, videos, or other media via unique links.
+developer: https://github.com/ShaneIsrael
+website: https://github.com/ShaneIsrael/fireshare
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/fireshare
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app fireshare.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

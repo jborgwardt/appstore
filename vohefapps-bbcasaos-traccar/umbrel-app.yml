@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-traccar
+name: traccar
+tagline: Imported from BigBearCasaOS (traccar)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 6.15-ubuntu
+port: 8080
+description: Imported from BigBearCasaOS (traccar)
+developer: BigBearCasaOS
+website: https://youtu.be/zn_tu9r6g-w
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/traccar
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app traccar.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

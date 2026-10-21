@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-mealie
+name: mealie
+tagline: Imported from BigBearCasaOS (mealie)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v3.27.0
+port: 9925
+description: Imported from BigBearCasaOS (mealie)
+developer: BigBearCasaOS
+website: https://youtu.be/S4MfNLV2Uf4
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/mealie
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app mealie.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

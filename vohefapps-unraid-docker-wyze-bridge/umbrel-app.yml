@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-docker-wyze-bridge
+name: docker-wyze-bridge
+tagline: WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/wyze.png
+category: homeautomation
+version: latest
+port: 8554
+description: 'WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container. As of April 2024, you will need to supply your own API Key and ID: https://support.wyze.com/hc/en-us/articles/16129834216731-Creating-an-API-Key'
+developer: Unraid Community
+website: https://github.com/mrlt8/docker-wyze-bridge
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/docker-wyze-bridge.xml
+support: https://github.com/mrlt8/docker-wyze-bridge
+gallery: []
+releaseNotes: Imported from Unraid template docker-wyze-bridge.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

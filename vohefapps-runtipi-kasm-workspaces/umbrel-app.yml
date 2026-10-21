@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-kasm-workspaces
+name: Kasm Workspaces
+tagline: Container streaming platform.
+icon: https://runtipi.io/images/apps/kasm-workspaces.png
+category: utilities
+version: 1.120.20221218
+port: 8744
+description: Kasm Workspaces is a docker container streaming platform for delivering browser-based access to desktops, applications, and web services.
+developer: Kasm
+website: https://github.com/kasmtech
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/kasm-workspaces
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app kasm-workspaces.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

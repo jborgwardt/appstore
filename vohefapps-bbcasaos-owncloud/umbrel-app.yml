@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-owncloud
+name: owncloud
+tagline: Imported from BigBearCasaOS (owncloud)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 11.0.1
+port: 8080
+description: Imported from BigBearCasaOS (owncloud)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/owncloud
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/owncloud
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app owncloud.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

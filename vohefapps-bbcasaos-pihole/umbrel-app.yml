@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-pihole
+name: pihole
+tagline: Imported from BigBearCasaOS (pihole)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2026.07.2
+port: 53
+description: Imported from BigBearCasaOS (pihole)
+developer: BigBearCasaOS
+website: https://youtu.be/FcMF1sYacqk
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/pihole
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app pihole.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-immich
+name: Immich
+tagline: Photo and video backup solution directly from your mobile phone.
+icon: https://runtipi.io/images/apps/immich.png
+category: data
+version: v3.3.3
+port: 8128
+description: Photo and video backup solution directly from your mobile phone.
+developer: Alex Tran
+website: https://github.com/immich-app/immich
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/immich
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app immich.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

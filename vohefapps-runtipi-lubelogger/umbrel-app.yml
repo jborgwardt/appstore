@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-lubelogger
+name: LubeLogger
+tagline: Vehicle Maintenance and Fuel Mileage Tracker.
+icon: https://runtipi.io/images/apps/lubelogger.png
+category: utilities
+version: v1.7.4
+port: 8054
+description: Self-hosted, open-source, collaborative Vehicle Maintenance and Fuel Mileage Tracker.
+developer: hargata
+website: https://github.com/hargata/lubelog
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/lubelogger
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app lubelogger.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

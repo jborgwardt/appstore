@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-tp-link-omada-controller
+name: tp-link-omada-controller
+tagline: Imported from BigBearCasaOS (tp-link-omada-controller)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: '6.3'
+port: 3000
+description: Imported from BigBearCasaOS (tp-link-omada-controller)
+developer: BigBearCasaOS
+website: https://youtu.be/aECteVrkt6s
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/tp-link-omada-controller
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app tp-link-omada-controller.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-dozzle
+name: Dozzle
+tagline: Dozzle is a real-time log viewer for docker containers
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/dozzle.png
+category: tools
+version: latest
+port: 8080
+description: Dozzle is a real-time log viewer for docker containers. As of v6.x, a new Authentication mechanism is in place that requires you to create a /data/users.yml file as described in https://github.com/amir20/dozzle/issues/2630
+developer: Unraid Community
+website: https://github.com/amir20/dozzle
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/dozzle.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template dozzle.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

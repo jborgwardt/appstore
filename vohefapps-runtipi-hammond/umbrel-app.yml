@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-hammond
+name: Hammond
+tagline: Self hosted vehicle and expense management system. Like Clarkson, but better
+icon: https://runtipi.io/images/apps/hammond.png
+category: utilities
+version: 0.0.24
+port: 8185
+description: Self hosted vehicle and expense management system. Like Clarkson, but better
+developer: Akhilrex, alfhou
+website: https://github.com/alfhou/hammond
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/hammond
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app hammond.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

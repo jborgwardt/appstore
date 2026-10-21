@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-komf
+name: komf
+tagline: Imported from BigBearCasaOS (komf)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2.0.1
+port: 8085
+description: Imported from BigBearCasaOS (komf)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/komf
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/komf
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app komf.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

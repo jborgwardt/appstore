@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-solidping
+name: solidping
+tagline: Imported from BigBearCasaOS (solidping)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.37.0
+port: 4000
+description: Imported from BigBearCasaOS (solidping)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/solidping
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/solidping
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app solidping.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

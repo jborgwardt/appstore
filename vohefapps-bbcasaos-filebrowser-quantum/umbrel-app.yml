@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-filebrowser-quantum
+name: filebrowser-quantum
+tagline: Imported from BigBearCasaOS (filebrowser-quantum)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.5.8-stable
+port: 8700
+description: Imported from BigBearCasaOS (filebrowser-quantum)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/filebrowser-quantum
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/filebrowser-quantum
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app filebrowser-quantum.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-nodered
+name: Node-RED
+tagline: Low-code programming for event-driven applications
+icon: https://runtipi.io/images/apps/nodered.png
+category: automation
+version: 5.0.8
+port: 8111
+description: Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways. It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click.
+developer: node-red
+website: https://github.com/node-red/node-red
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/nodered
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app nodered.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

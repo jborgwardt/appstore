@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-netalertx
+name: netalertx
+tagline: Imported from BigBearCasaOS (netalertx)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 25.11.29
+port: 3000
+description: Imported from BigBearCasaOS (netalertx)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/netalertx
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/netalertx
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app netalertx.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

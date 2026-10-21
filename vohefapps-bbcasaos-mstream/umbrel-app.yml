@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-mstream
+name: mstream
+tagline: Imported from BigBearCasaOS (mstream)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 6.31.1
+port: 3000
+description: Imported from BigBearCasaOS (mstream)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/mstream
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/mstream
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app mstream.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

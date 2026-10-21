@@ -1,0 +1,14 @@
+name: big-bear-composetoolbox
+services:
+  big-bear-composetoolbox:
+    environment:
+      NODE_ENV: production
+    image: ghcr.io/bluegoosemedia/composetoolbox:latest@sha256:1cb6f19f3ea5ef08467870f542155619f9389bcf0dc68499e2c57a7c540f39b2
+    pull_policy: always
+    ports:
+    - 3002:3000
+    restart: unless-stopped
+    volumes:
+    - ${APP_DATA_DIR}/data:/app/data
+    container_name: big-bear-composetoolbox
+version: '3.7'

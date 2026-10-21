@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-rss-bridge
+name: rss-bridge
+tagline: RSS-Bridge is a PHP project capable of generating RSS and Atom feeds for websites that don't have one
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/rssbridge.png
+category: tools
+version: latest
+port: 80
+description: RSS-Bridge is a PHP project capable of generating RSS and Atom feeds for websites that don't have one. It can be used on webservers or as a stand-alone application in CLI mode. BEFORE installing, place a copy of the default whitelist.txt from https://raw.githubusercontent.com/RSS-Bridge/rss-bridge/master/whitelist.default.txt in your appdata call the file whitelist.txt, as instructed from their wiki https://github.com/RSS-Bridge/rss-bridge/wiki/Whitelisting
+developer: Unraid Community
+website: https://github.com/RSS-Bridge/rss-bridge
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/rss-bridge.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template rss-bridge.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

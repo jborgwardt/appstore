@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-grist
+name: Grist
+tagline: Grist is the evolution of spreadsheets.
+icon: https://runtipi.io/images/apps/grist.png
+category: utilities
+version: 1.7.21
+port: 8484
+description: Grist is a modern relational spreadsheet. It combines the flexibility of a spreadsheet with the robustness of a database to organize your data and make you more productive.
+developer: https://github.com/gristlabs
+website: https://github.com/gristlabs/grist-core
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/grist
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app grist.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

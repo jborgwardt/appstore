@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-sabnzbd
+name: SABnzbd
+tagline: Sabnzbd makes Usenet as simple and streamlined as possible by automating everything we can
+icon: https://runtipi.io/images/apps/sabnzbd.png
+category: media
+version: 5.1.3
+port: 8168
+description: Sabnzbd makes Usenet as simple and streamlined as possible by automating everything we can. All you have to do is add an .nzb. SABnzbd takes over from there, where it will be automatically downloaded, verified, repaired, extracted and filed away with zero human interaction.
+developer: Sabnzbd
+website: https://github.com/sabnzbd/sabnzbd
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/sabnzbd
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app sabnzbd.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

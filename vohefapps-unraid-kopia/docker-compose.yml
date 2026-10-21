@@ -1,0 +1,15 @@
+version: '3.7'
+services:
+  app:
+    image: kopia/kopia:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:51515
+    environment:
+    - KOPIA_PASSWORD=
+    - TZ=America/Los_Angeles
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/app/config
+    - ${APP_DATA_DIR}/data/path2:/app/cache
+    - ${APP_DATA_DIR}/data/path3:/app/logs
+    - ${APP_DATA_DIR}/data/path4:/app/data

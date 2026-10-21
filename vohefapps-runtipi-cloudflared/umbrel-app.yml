@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-cloudflared
+name: Cloudflared
+tagline: Cloudflare Tunnels in a Web UI
+icon: https://runtipi.io/images/apps/cloudflared.png
+category: utilities
+version: 2026.10.1
+port: 14333
+description: Cloudflared-web is a docker image that packages both cloudflared cli and a no-frills Web UI for easy starting/stopping of cloudflare tunnel.
+developer: WisdomSky
+website: https://github.com/WisdomSky/Cloudflared-web
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/cloudflared
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app cloudflared.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

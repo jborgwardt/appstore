@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-celestory
+name: celestory
+tagline: Imported from BigBearCasaOS (celestory)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.1.2
+port: 1500
+description: Imported from BigBearCasaOS (celestory)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/celestory
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/celestory
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app celestory.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

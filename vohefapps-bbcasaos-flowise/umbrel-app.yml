@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-flowise
+name: flowise
+tagline: Imported from BigBearCasaOS (flowise)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 3.1.4
+port: 8009
+description: Imported from BigBearCasaOS (flowise)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/flowise
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/flowise
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app flowise.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

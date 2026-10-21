@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-pairdrop
+name: PairDrop
+tagline: Local file sharing in your browser. Inspired by Apple's AirDrop
+icon: https://runtipi.io/images/apps/pairdrop.png
+category: media
+version: 1.11.2
+port: 8182
+description: Local file sharing in your browser. Inspired by Apple's AirDrop
+developer: schlagmichdoch
+website: https://github.com/schlagmichdoch/PairDrop
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/pairdrop
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app pairdrop.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

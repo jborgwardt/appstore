@@ -1,0 +1,11 @@
+version: '3.7'
+services:
+  app:
+    image: aceberg/watchyourlan:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:8840
+    environment:
+    - GUIPORT=8840
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/data

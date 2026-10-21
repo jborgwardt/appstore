@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-jenkins
+name: Jenkins
+tagline: The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/jenkins.png
+category: productivity
+version: latest
+port: 8080
+description: The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.
+developer: Unraid Community
+website: https://www.jenkins.io/
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/jenkins.xml
+support: https://github.com/jenkinsci/docker/issues
+gallery: []
+releaseNotes: Imported from Unraid template jenkins.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

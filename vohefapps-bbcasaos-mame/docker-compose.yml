@@ -1,0 +1,24 @@
+name: big-bear-linuxserver-mame
+services:
+  app:
+    image: linuxserver/mame:version-0.289dfsg1-0@sha256:5de23ce5dcd522563b73c7506a5b21dd438a3a544c5f94847207f55f3894cf9b
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/mame/config
+      target: /config
+    - type: bind
+      source: /DATA/AppData/mame/mame:ro
+      target: /mame:ro
+version: '3.7'

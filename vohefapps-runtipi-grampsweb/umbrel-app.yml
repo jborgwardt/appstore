@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-grampsweb
+name: Gramps Web
+tagline: Web app for collaborative genealogy.
+icon: https://runtipi.io/images/apps/grampsweb.png
+category: data
+version: 26.10.1
+port: 5000
+description: Gramps Web is a web app for collaborative genealogy. It is based on and interoperable with Gramps, the leading open source genealogy desktop application. Gramps Web is free & open source software and puts your privacy and your control of your research data first.
+developer: gramps-project
+website: https://github.com/gramps-project/gramps-web
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/grampsweb
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app grampsweb.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

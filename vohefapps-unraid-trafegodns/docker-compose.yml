@@ -1,0 +1,29 @@
+version: '3.7'
+services:
+  app:
+    image: ghcr.io/elmerfds/trafegodns:latest
+    restart: unless-stopped
+    environment:
+    - OPERATION_MODE=traefik|direct
+    - DNS_PROVIDER=cloudflare|digitalocean|route53
+    - CLOUDFLARE_TOKEN=
+    - CLOUDFLARE_ZONE=
+    - DO_TOKEN=
+    - DO_DOMAIN=
+    - ROUTE53_ACCESS_KEY=
+    - ROUTE53_SECRET_KEY=
+    - ROUTE53_ZONE=
+    - TRAEFIK_API_URL=http://traefik:8080/api
+    - CLEANUP_ORPHANED=true|false
+    - PUID=99
+    - PGID=100
+    - LOG_LEVEL=ERROR|WARN|INFO|DEBUG|TRACE
+    - PRESERVED_HOSTNAMES=
+    - MANAGED_HOSTNAMES=
+    - TRAEFIK_API_USERNAME=
+    - TRAEFIK_API_PASSWORD=
+    - ROUTE53_ZONE_ID=
+    - ROUTE53_REGION=eu-west-2
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/config
+    - ${APP_DATA_DIR}/data/path2:/var/run/docker.sock

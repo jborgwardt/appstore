@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-hestiacp
+name: hestiacp
+tagline: Imported from BigBearCasaOS (hestiacp)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: latest
+port: 3000
+description: Imported from BigBearCasaOS (hestiacp)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/hestiacp
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/hestiacp
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app hestiacp.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

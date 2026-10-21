@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-shotcut
+services:
+  app:
+    image: linuxserver/shotcut:26.9.27@sha256:2b408ec9f1e32a4a73f85d7ecec618bd42f1d3dd610b69614c1b0b3346a8c789
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/shotcut/config
+      target: /config
+version: '3.7'

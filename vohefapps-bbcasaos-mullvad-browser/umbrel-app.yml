@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-mullvad-browser
+name: mullvad-browser
+tagline: Imported from BigBearCasaOS (mullvad-browser)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 15.0.20251116
+port: 3000
+description: Imported from BigBearCasaOS (mullvad-browser)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/mullvad-browser
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/mullvad-browser
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app mullvad-browser.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

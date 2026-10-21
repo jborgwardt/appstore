@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-homelable
+name: homelable
+tagline: Imported from BigBearCasaOS (homelable)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 3.5.1
+port: 20033
+description: Imported from BigBearCasaOS (homelable)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/homelable
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/homelable
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app homelable.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

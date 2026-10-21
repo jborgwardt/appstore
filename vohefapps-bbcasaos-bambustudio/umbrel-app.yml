@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-bambustudio
+name: bambustudio
+tagline: Imported from BigBearCasaOS (bambustudio)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 02.08.04
+port: 3000
+description: Imported from BigBearCasaOS (bambustudio)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/bambustudio
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/bambustudio
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app bambustudio.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-mqttx
+name: MQTTX
+tagline: MQTT websocket browser client tool
+icon: https://runtipi.io/images/apps/mqttx.png
+category: utilities
+version: v1.13.1
+port: 8217
+description: MQTTX Web is an open-source MQTT browser client and an online MQTT WebSocket client tool.
+developer: EMQX
+website: https://github.com/emqx/MQTTX/
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/mqttx
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app mqttx.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-bookstack
+name: Bookstack
+tagline: BookStack is a self-hosted platform for organising and storing information.
+icon: https://runtipi.io/images/apps/bookstack.png
+category: data
+version: 26.09.20260929
+port: 8119
+description: 'BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information. Default login: admin@admin.com password: password'
+developer: Dan Brown
+website: https://github.com/BookStackApp/BookStack
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/bookstack
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app bookstack.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

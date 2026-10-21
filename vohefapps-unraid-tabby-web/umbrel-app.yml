@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-tabby-web
+name: tabby-web
+tagline: Tabby Web - an SSH/Telnet/Serial client in your browser.
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: productivity
+version: latest
+port: 80
+description: Tabby Web - an SSH/Telnet/Serial client in your browser.
+developer: Unraid Community
+website: https://tabby.sh
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/tabby-web.xml
+support: https://github.com/Eugeny/tabby-web/issues/new
+gallery: []
+releaseNotes: Imported from Unraid template tabby-web.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

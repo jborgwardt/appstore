@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-erugo
+name: erugo
+tagline: Imported from BigBearCasaOS (erugo)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.2.15
+port: 9997
+description: Imported from BigBearCasaOS (erugo)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/erugo
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/erugo
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app erugo.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

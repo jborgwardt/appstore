@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-mastodon
+name: mastodon
+tagline: Imported from BigBearCasaOS (mastodon)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 4.7.3
+port: 3000
+description: Imported from BigBearCasaOS (mastodon)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/mastodon
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/mastodon
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app mastodon.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

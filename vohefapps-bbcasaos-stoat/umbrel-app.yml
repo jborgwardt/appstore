@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-stoat
+name: stoat
+tagline: Imported from BigBearCasaOS (stoat)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 4017c18
+port: 20001
+description: Imported from BigBearCasaOS (stoat)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/stoat
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/stoat
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app stoat.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

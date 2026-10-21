@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-booksonic
+name: Booksonic
+tagline: The selfhosted audiobook server
+icon: https://runtipi.io/images/apps/booksonic.png
+category: books
+version: 2201.1.0
+port: 8040
+description: The selfhosted audiobook server
+developer: https://github.com/popeen
+website: https://github.com/popeen/Booksonic-Air
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/booksonic
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app booksonic.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

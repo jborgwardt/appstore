@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-rsshub
+name: rsshub
+tagline: RSSHub is an open source, easy to use, and extensible RSS feed generator
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/rsshub.png
+category: network
+version: latest
+port: 1200
+description: RSSHub is an open source, easy to use, and extensible RSS feed generator. It is capable of generating RSS feeds from pretty much everything. Everything is RSSible. Supports 700+ websites and services out of the box including Reddit, Twitter/X, GitHub, YouTube, Bilibili, and many more.
+developer: Unraid Community
+website: https://rsshub.app
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/rsshub.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template rsshub.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

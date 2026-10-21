@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-cloudflared
+name: cloudflared
+tagline: Cloudflared proxy-dns multi-platform Docker image based on Alpine Linux
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/cloudflared.png
+category: tools
+version: latest
+port: 5053
+description: Cloudflared proxy-dns multi-platform Docker image based on Alpine Linux
+developer: Unraid Community
+website: https://github.com/crazy-max/docker-cloudflared
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/cloudflared.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository
+gallery: []
+releaseNotes: Imported from Unraid template cloudflared.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

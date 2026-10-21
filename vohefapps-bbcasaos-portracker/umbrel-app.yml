@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-portracker
+name: portracker
+tagline: Imported from BigBearCasaOS (portracker)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: '1.3'
+port: 4999
+description: Imported from BigBearCasaOS (portracker)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/portracker
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/portracker
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app portracker.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-monica
+name: Monica
+tagline: A Personal Relationship Management tool to help you document your social life.
+icon: https://runtipi.io/images/apps/monica.png
+category: data
+version: 4.1.2
+port: 3291
+description: Monica is an open-source web application to organize and record your interactions with your loved ones. We call it a PRM, or Personal Relationship Management. Think of it as a CRM (a popular tool used by sales teams in the corporate world) for your friends or family.
+developer: monicahq
+website: https://github.com/monicahq/monica
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/monica
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app monica.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

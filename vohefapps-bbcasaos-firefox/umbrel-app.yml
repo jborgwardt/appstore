@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-firefox
+name: firefox
+tagline: Imported from BigBearCasaOS (firefox)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1155.0.1
+port: 3000
+description: Imported from BigBearCasaOS (firefox)
+developer: BigBearCasaOS
+website: https://youtu.be/RPBshN5hGWQ
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/firefox
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app firefox.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

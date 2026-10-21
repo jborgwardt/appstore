@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-jackett
+name: Jackett
+tagline: 'API Support for your favorite torrent trackers '
+icon: https://runtipi.io/images/apps/jackett.png
+category: media
+version: latest
+port: 8097
+description: 'Jackett works as a proxy server: it translates queries from apps (Sonarr, Radarr, SickRage, CouchPotato, Mylar3, Lidarr, DuckieTV, qBittorrent, Nefarious etc.) into tracker-site-specific http queries, parses the html or json response, and then sends results back to the requesting software. This allows for getting recent uploads (like RSS) and performing searches.'
+developer: RunTipi
+website: https://github.com/Jackett/Jackett
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/jackett
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app jackett.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

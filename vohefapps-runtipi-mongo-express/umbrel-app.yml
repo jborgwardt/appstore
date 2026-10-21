@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-mongo-express
+name: Mongo Express
+tagline: Web-based MongoDB admin interface, written with Node.js and Express
+icon: https://runtipi.io/images/apps/mongo-express.png
+category: development
+version: 1.0.2
+port: 8087
+description: A web-based MongoDB admin interface written with Node.js, Express, and Bootstrap3
+developer: MongoDB
+website: https://github.com/mongo-express/mongo-express
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/mongo-express
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app mongo-express.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

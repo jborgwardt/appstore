@@ -1,0 +1,19 @@
+version: '3.7'
+services:
+  app:
+    image: ghcr.io/haveagitgat/tdarr_node:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:8267
+    environment:
+    - serverIP=0.0.0.0
+    - serverPort=8266
+    - nodeIP=0.0.0.0
+    - nodeID=Node Name
+    - PUID=99
+    - PGID=100
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/app/configs
+    - ${APP_DATA_DIR}/data/path2:/app/logs
+    - ${APP_DATA_DIR}/data/path3:/mnt/media
+    - ${APP_DATA_DIR}/data/path4:/temp

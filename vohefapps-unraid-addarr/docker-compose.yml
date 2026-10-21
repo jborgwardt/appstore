@@ -1,0 +1,10 @@
+version: '3.7'
+services:
+  app:
+    image: waterboy1602/addarr:latest
+    restart: unless-stopped
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/app/config.yaml
+    - ${APP_DATA_DIR}/data/path2:/app/chatid.txt
+    - ${APP_DATA_DIR}/data/path3:/app/admin.txt
+    - ${APP_DATA_DIR}/data/path4:/app/logs

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-code-server
+name: Code Server
+tagline: VS Code in the browser
+icon: https://runtipi.io/images/apps/code-server.png
+category: development
+version: 4.141.0
+port: 8138
+description: Code-server is VS Code running on a remote server, accessible through the browser.
+developer: coder
+website: https://github.com/coder/code-server
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/code-server
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app code-server.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

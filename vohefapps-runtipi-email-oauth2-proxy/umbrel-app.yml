@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-email-oauth2-proxy
+name: Email OAuth2 Proxy
+tagline: OAuth Proxy for IMAP/POP/SMTP.
+icon: https://runtipi.io/images/apps/email-oauth2-proxy.png
+category: utilities
+version: 2026.01.06
+port: 1999
+description: Transparently add OAuth 2.0 support to IMAP/POP/SMTP client applications, scripts or any other email use-cases that don't support this authentication method.
+developer: simonrob
+website: https://github.com/simonrob/email-oauth2-proxy
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/email-oauth2-proxy
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app email-oauth2-proxy.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

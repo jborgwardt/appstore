@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-invoice-ninja
+name: Invoice Ninja
+tagline: Invoices, Expenses and Tasks built with Laravel, Flutter and React.
+icon: https://runtipi.io/images/apps/invoice-ninja.png
+category: finance
+version: '5.13'
+port: 8881
+description: Invoice Ninja is an invoicing application which makes sending invoices and receiving payments simple and easy. Our latest version is a clean slate rewrite of our popular invoicing application which builds on the existing feature set and adds a wide range of features and enhancements the community has asked for.
+developer: https://www.invoiceninja.org/
+website: https://github.com/invoiceninja/invoiceninja
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/invoice-ninja
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app invoice-ninja.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

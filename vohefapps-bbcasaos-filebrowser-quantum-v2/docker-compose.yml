@@ -1,0 +1,20 @@
+name: big-bear-filebrowser-quantum-v2
+services:
+  big-bear-filebrowser-quantum-v2:
+    container_name: big-bear-filebrowser-quantum-v2
+    image: gtstef/filebrowser:2.0.1-stable@sha256:2e3936caf7b12908f7d3ebb68ddfcea075cda5f732e4bd95beae6cfa529cbec7
+    restart: unless-stopped
+    environment:
+    - TZ=UTC
+    - FILEBROWSER_DATABASE_PATH=/home/filebrowser/data/database.sqlite
+    volumes:
+    - ${APP_DATA_DIR}/data:/home/filebrowser/data
+    - ${APP_DATA_DIR}/srv:/srv
+    ports:
+    - 8701:80
+    networks:
+    - big-bear-filebrowser-quantum-v2-network
+networks:
+  big-bear-filebrowser-quantum-v2-network:
+    driver: bridge
+version: '3.7'

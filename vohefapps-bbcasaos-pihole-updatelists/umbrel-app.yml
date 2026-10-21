@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-pihole-updatelists
+name: pihole-updatelists
+tagline: Imported from BigBearCasaOS (pihole-updatelists)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2026.07.2
+port: 53
+description: Imported from BigBearCasaOS (pihole-updatelists)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/pihole-updatelists
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/pihole-updatelists
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app pihole-updatelists.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

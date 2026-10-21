@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-nocodb
+name: NocoDB
+tagline: Open Source Airtable Alternative
+icon: https://runtipi.io/images/apps/nocodb.png
+category: utilities
+version: 2026.09.1
+port: 8146
+description: The Open Source Airtable Alternative. Turns any MySQL, PostgreSQL, SQL Server, SQLite & MariaDB into a smart-spreadsheet.
+developer: https://github.com/nocodb
+website: https://github.com/nocodb/nocodb
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/nocodb
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app nocodb.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

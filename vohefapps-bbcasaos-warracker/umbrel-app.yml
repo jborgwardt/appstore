@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-warracker
+name: warracker
+tagline: Imported from BigBearCasaOS (warracker)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.0.2
+port: 8005
+description: Imported from BigBearCasaOS (warracker)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/warracker
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/warracker
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app warracker.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

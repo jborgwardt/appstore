@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-kasm
+name: kasm
+tagline: Imported from BigBearCasaOS (kasm)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.120.20221218
+port: 3000
+description: Imported from BigBearCasaOS (kasm)
+developer: BigBearCasaOS
+website: https://youtu.be/Fq7PlvRSvT4
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/kasm
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app kasm.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

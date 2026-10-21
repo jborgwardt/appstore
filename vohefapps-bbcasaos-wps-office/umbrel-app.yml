@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-wps-office
+name: wps-office
+tagline: Imported from BigBearCasaOS (wps-office)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 11.1.0
+port: 3000
+description: Imported from BigBearCasaOS (wps-office)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/wps-office
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/wps-office
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app wps-office.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,14 @@
+version: '3.7'
+services:
+  app:
+    image: ghcr.io/keltech-services/idpvault:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:8080
+    environment:
+    - IDPVAULT_DATABASE_URL=
+    - IDPVAULT_DATA_DIR=/data
+    - IDPVAULT_MASTER_KEY_FILE=/secrets/master.key
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/data
+    - ${APP_DATA_DIR}/data/path2:/secrets

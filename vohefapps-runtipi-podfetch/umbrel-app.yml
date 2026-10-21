@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-podfetch
+name: PodFetch
+tagline: A sleek and efficient podcast downloader.
+icon: https://runtipi.io/images/apps/podfetch.png
+category: media
+version: latest
+port: 8177
+description: A sleek and efficient podcast downloader.
+developer: SamTV12345
+website: https://github.com/SamTV12345/PodFetch
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/podfetch
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app podfetch.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

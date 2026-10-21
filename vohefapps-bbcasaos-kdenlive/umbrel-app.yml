@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-kdenlive
+name: kdenlive
+tagline: Imported from BigBearCasaOS (kdenlive)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 423.08.5
+port: 3000
+description: Imported from BigBearCasaOS (kdenlive)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/kdenlive
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/kdenlive
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app kdenlive.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

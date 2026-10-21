@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-monica
+name: monica
+tagline: Imported from BigBearCasaOS (monica)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 4.1.2
+port: 8080
+description: Imported from BigBearCasaOS (monica)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/monica
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/monica
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app monica.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

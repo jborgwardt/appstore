@@ -1,0 +1,12 @@
+version: '3.7'
+services:
+  app:
+    image: vexorian/dizquetv:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:8000
+    environment:
+    - NVIDIA_VISIBLE_DEVICES=
+    - NVIDIA_DRIVER_CAPABILITIES=
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/home/node/app/.dizquetv

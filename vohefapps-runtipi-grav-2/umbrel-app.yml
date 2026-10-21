@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-grav-2
+name: Grav V2
+tagline: Fast, Simple, and Flexible, file-based Web-platform.
+icon: https://runtipi.io/images/apps/grav-2.png
+category: social
+version: 2.2.10
+port: 18161
+description: Grav is a Fast, Simple, and Flexible, file-based Web-platform. There is Zero installation required. It follows similar principles to other flat-file CMS platforms, but has a different design philosophy than most. Grav comes with a powerful Package Management System to allow for simple installation and upgrading of plugins and themes, as well as simple updating of Grav itself.
+developer: Grav
+website: https://github.com/getgrav/grav
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/grav-2
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app grav-2.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

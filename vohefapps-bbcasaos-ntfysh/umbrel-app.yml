@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-ntfysh
+name: ntfysh
+tagline: Imported from BigBearCasaOS (ntfysh)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v2.31.0
+port: 3000
+description: Imported from BigBearCasaOS (ntfysh)
+developer: BigBearCasaOS
+website: https://youtu.be/wSWhtSNwTd8
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/ntfysh
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app ntfysh.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

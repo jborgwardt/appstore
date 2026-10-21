@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-send-visee
+name: send-visee
+tagline: Imported from BigBearCasaOS (send-visee)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v3.4.27
+port: 1443
+description: Imported from BigBearCasaOS (send-visee)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/send-visee
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/send-visee
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app send-visee.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

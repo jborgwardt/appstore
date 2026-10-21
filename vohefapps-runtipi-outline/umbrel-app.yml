@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-outline
+name: Outline
+tagline: A home for all your docs
+icon: https://runtipi.io/images/apps/outline.png
+category: utilities
+version: 1.11.0
+port: 8404
+description: Outline is a knowledge base designed for teams. It's goals are to be fast, intuitive and support many integrations.
+developer: outline
+website: https://github.com/outline/outline
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/outline
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app outline.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,22 @@
+name: big-bear-linuxserver-habridge
+services:
+  app:
+    image: linuxserver/habridge:5.4.1@sha256:112fc3f5e6f223683301c4a8e638be70a64559fe1f08b3af4248487646651f21
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+      SEC_KEY: ''
+    ports:
+    - target: 8080
+      published: 8080
+      protocol: tcp
+    - target: 50000
+      published: 50000
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/habridge/config
+      target: /config
+version: '3.7'

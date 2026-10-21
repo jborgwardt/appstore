@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-crowdsec
+name: Crowdsec
+tagline: Participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
+icon: https://runtipi.io/images/apps/crowdsec.png
+category: security
+version: v1.7.8
+port: 8679
+description: CrowdSec is a free, modern & collaborative behavior detection engine, coupled with a global IP reputation network. It stacks on fail2ban's philosophy but is IPV6 compatible and 60x faster (Go vs Python), it uses Grok patterns to parse logs and YAML scenarios to identify behaviors. CrowdSec is engineered for modern Cloud / Containers / VM-based infrastructures (by decoupling detection and remediation). Once detected you can remedy threats with various bouncers (firewall block, nginx http 403, Captchas, etc.) while the aggressive IP can be sent to CrowdSec for curation before being shared among all users to further improve everyone's security. See FAQ or read below for more.
+developer: crowdsecurity
+website: https://github.com/crowdsecurity/crowdsec
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/crowdsec
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app crowdsec.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

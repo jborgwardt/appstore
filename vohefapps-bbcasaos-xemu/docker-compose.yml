@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-xemu
+services:
+  app:
+    image: linuxserver/xemu:0.8.134@sha256:ce23bd30c9fe166b3a167b87d6bcb88ee9b29740769ad9fd1ca2182ddb5544cf
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/xemu/config
+      target: /config
+version: '3.7'

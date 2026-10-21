@@ -1,0 +1,9 @@
+version: '3.7'
+services:
+  app:
+    image: ghcr.io/bitfocus/companion/companion:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:8000
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/companion/

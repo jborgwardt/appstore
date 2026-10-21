@@ -1,0 +1,46 @@
+name: big-bear-snipe-it-v8
+services:
+  app:
+    image: snipe/snipe-it:v8.8.0@sha256:973da940ffcca77ccd31fd0197e182b8b8614531bf3e8ed7f8665b83722c67ce
+    restart: unless-stopped
+    ports:
+    - 8086:80
+    environment:
+      APP_ENV: production
+      APP_DEBUG: 'false'
+      APP_KEY: $APP_KEY
+      APP_URL: $APP_URL
+      APP_TIMEZONE: UTC
+      APP_LOCALE: en-US
+      DB_CONNECTION: mariadb
+      DB_HOST: db
+      DB_PORT: 3306
+      DB_DATABASE: snipeit
+      DB_USERNAME: snipeit
+      DB_PASSWORD: $DB_PASSWORD
+    volumes:
+    - ${APP_DATA_DIR}/storage:/var/lib/snipeit
+    depends_on:
+      db:
+        condition: service_healthy
+        restart: true
+  db:
+    image: mariadb:11.4.7@sha256:39596f079862334be04f4231664862e55d4febe54309cc62f750f2297de85b06
+    restart: unless-stopped
+    environment:
+      MYSQL_DATABASE: snipeit
+      MYSQL_USER: snipeit
+      MYSQL_PASSWORD: $DB_PASSWORD
+      MYSQL_ROOT_PASSWORD: $MYSQL_ROOT_PASSWORD
+    volumes:
+    - ${APP_DATA_DIR}/db_data:/var/lib/mysql
+    healthcheck:
+      test:
+      - CMD
+      - healthcheck.sh
+      - --connect
+      - --innodb_initialized
+      interval: 5s
+      timeout: 1s
+      retries: 5
+version: '3.7'

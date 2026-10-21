@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-tianji
+name: tianji
+tagline: Imported from BigBearCasaOS (tianji)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.33.9
+port: 12345
+description: Imported from BigBearCasaOS (tianji)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/tianji
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/tianji
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app tianji.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-doublecommander
+name: doublecommander
+tagline: Imported from BigBearCasaOS (doublecommander)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.0.0
+port: 3000
+description: Imported from BigBearCasaOS (doublecommander)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/doublecommander
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/doublecommander
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app doublecommander.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

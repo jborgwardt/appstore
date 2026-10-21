@@ -1,0 +1,20 @@
+version: '3.7'
+services:
+  app:
+    image: seafileltd/notification-server:12.0-latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:8083
+    environment:
+    - SEAFILE_MYSQL_DB_HOST=mariadb
+    - SEAFILE_MYSQL_DB_PORT=3306
+    - SEAFILE_MYSQL_DB_USER=seafile
+    - SEAFILE_MYSQL_DB_PASSWORD=
+    - SEAFILE_MYSQL_DB_CCNET_DB_NAME=ccnet_db
+    - SEAFILE_MYSQL_DB_SEAFILE_DB_NAME=seafile_db
+    - JWT_PRIVATE_KEY=
+    - SEAFILE_LOG_TO_STDOUT=false|true
+    - NOTIFICATION_SERVER_LOG_LEVEL=info|error|debug
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/shared
+    - ${APP_DATA_DIR}/data/path2:/shared/logs

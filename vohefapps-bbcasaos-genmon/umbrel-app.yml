@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-genmon
+name: genmon
+tagline: Imported from BigBearCasaOS (genmon)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2.0.03
+port: 20022
+description: Imported from BigBearCasaOS (genmon)
+developer: BigBearCasaOS
+website: https://youtu.be/b0_zuVVeIP4
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/genmon
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app genmon.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

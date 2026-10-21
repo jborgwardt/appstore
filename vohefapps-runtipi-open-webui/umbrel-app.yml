@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-open-webui
+name: Open WebUI
+tagline: User-friendly WebUI for LLMs
+icon: https://runtipi.io/images/apps/open-webui.png
+category: ai
+version: v0.12.3
+port: 8536
+description: Open WebUI is an extensible, feature-rich, and user-friendly self-hosted WebUI designed to operate entirely offline.
+developer: open-webui
+website: https://github.com/open-webui/open-webui
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/open-webui
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app open-webui.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

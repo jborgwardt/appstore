@@ -1,0 +1,15 @@
+name: big-bear-jlesage-handbrake
+services:
+  big-bear-jlesage-handbrake:
+    container_name: big-bear-jlesage-handbrake
+    image: jlesage/handbrake:v26.09.1@sha256:6f3a121e235d34e7299080e8cbac5284060e942fb2b137f777e2521fb7af65ae
+    ports:
+    - 5800:5800
+    environment:
+    - VNC_PASSWORD=casaos
+    volumes:
+    - ${APP_DATA_DIR}/config:/config:rw
+    - ${APP_DATA_DIR}/storage:/storage:ro
+    - ${APP_DATA_DIR}/watch:/watch:rw
+    - ${APP_DATA_DIR}/output:/output:rw
+version: '3.7'

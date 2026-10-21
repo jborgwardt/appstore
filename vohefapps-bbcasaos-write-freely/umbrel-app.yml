@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-write-freely
+name: write-freely
+tagline: Imported from BigBearCasaOS (write-freely)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: '0.17'
+port: 70
+description: Imported from BigBearCasaOS (write-freely)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/write-freely
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/write-freely
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app write-freely.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

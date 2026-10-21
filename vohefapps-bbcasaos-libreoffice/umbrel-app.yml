@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-libreoffice
+name: libreoffice
+tagline: Imported from BigBearCasaOS (libreoffice)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 25.8.7
+port: 3000
+description: Imported from BigBearCasaOS (libreoffice)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/libreoffice
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/libreoffice
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app libreoffice.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

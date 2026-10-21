@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-netbootxyz
+name: Netboot.xyz
+tagline: Your favorite operating systems in one place.
+icon: https://runtipi.io/images/apps/netbootxyz.png
+category: utilities
+version: 0.7.6
+port: 8675
+description: Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE.
+developer: netboot.xyz
+website: https://github.com/netbootxyz/netboot.xyz
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/netbootxyz
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app netbootxyz.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

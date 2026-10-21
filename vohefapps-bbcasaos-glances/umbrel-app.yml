@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-glances
+name: glances
+tagline: Imported from BigBearCasaOS (glances)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 4.5.3.2-full
+port: 61208
+description: Imported from BigBearCasaOS (glances)
+developer: BigBearCasaOS
+website: https://youtu.be/nwsVJ0QB0sM
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/glances
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app glances.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

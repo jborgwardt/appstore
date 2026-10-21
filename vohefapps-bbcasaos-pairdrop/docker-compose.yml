@@ -1,0 +1,22 @@
+name: big-bear-linuxserver-pairdrop
+services:
+  app:
+    image: linuxserver/pairdrop:1.11.2@sha256:2e673eebd640beea33f131f4426b90548354e620ae593336a73be9374bb70bc2
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+      RATE_LIMIT: ''
+      WS_FALLBACK: ''
+      RTC_CONFIG: ''
+      DEBUG_MODE: ''
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/pairdrop/config
+      target: /config
+version: '3.7'

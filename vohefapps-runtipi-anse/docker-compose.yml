@@ -1,0 +1,6 @@
+services:
+  anse:
+    image: ddiu8081/anse:v1.1.11
+    environment:
+    - PORT=8014
+version: '3.7'

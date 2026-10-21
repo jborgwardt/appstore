@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-twitch-drops-miner
+name: twitch-drops-miner
+tagline: AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/twitch-drops-miner.png
+category: gameservers
+version: latest
+port: 5800
+description: AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
+developer: Unraid Community
+website: https://github.com/DevilXD/TwitchDropsMiner
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/twitch-drops-miner.xml
+support: https://github.com/fireph/docker-twitch-drops-miner/issues
+gallery: []
+releaseNotes: Imported from Unraid template twitch-drops-miner.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

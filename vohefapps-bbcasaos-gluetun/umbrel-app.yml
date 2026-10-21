@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-gluetun
+name: gluetun
+tagline: Imported from BigBearCasaOS (gluetun)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v3.41.3
+port: 8888
+description: Imported from BigBearCasaOS (gluetun)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/gluetun
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/gluetun
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app gluetun.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-anse
+name: anse
+tagline: Imported from BigBearCasaOS (anse)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v1.1.11
+port: 8014
+description: Imported from BigBearCasaOS (anse)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/anse
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/anse
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app anse.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

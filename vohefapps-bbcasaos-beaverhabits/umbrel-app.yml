@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-beaverhabits
+name: beaverhabits
+tagline: Imported from BigBearCasaOS (beaverhabits)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.10.0
+port: 8080
+description: Imported from BigBearCasaOS (beaverhabits)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/beaverhabits
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/beaverhabits
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app beaverhabits.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

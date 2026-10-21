@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-dockge
+name: Dockge
+tagline: Docker compose.yaml stack-oriented manager.
+icon: https://runtipi.io/images/apps/dockge.png
+category: utilities
+version: 1.5.0
+port: 8768
+description: A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager.
+developer: Louis Lam
+website: https://github.com/louislam/dockge
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/dockge
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app dockge.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

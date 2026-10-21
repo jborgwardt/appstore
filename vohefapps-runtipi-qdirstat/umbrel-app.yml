@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-qdirstat
+name: qDirStat
+tagline: A graphical disk usage analyzer
+icon: https://runtipi.io/images/apps/qdirstat.png
+category: utilities
+version: 1.8.1-ls82
+port: 7125
+description: 'QDirStat Qt-based directory statistics: KDirStat without any KDE -- from the author of the original KDirStat.'
+developer: Stefan Hundhammer
+website: https://github.com/linuxserver/docker-qdirstat
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/qdirstat
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app qdirstat.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,22 @@
+manifestVersion: 1
+id: vohefapps-unraid-testerfy
+name: testerfy
+tagline: Testerfy — Spotify Playlist Curation Made Easy Burn through discovery playlists at speed
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/testerfy.png
+category: mediaapp
+version: latest
+port: 5247
+description: 'Testerfy — Spotify Playlist Curation Made Easy Burn through discovery playlists at speed. Like saves to your target playlists and skips, dislike removes and skips. Every decision is logged with timestamps, decision speed, and listening stats. Features: one-tap like/dislike with auto-skip, playlist guard, passive listening tracker, decision time analytics, undo support, mobile-friendly UI, encrypted tokens (AES-256-GCM). SETUP (about 5 min): 1. Expose the Web UI with a URL Spotify can redirect to (HTTPS is usually required for production redirect URIs). Pick one approach: • Optional: Tailscale — install the Unraid Tailscale plugin, then run: tailscale serve --bg --https 5247 http://localhost:5247 • Or use your own reverse proxy / TLS (Nginx Proxy Manager, Caddy, Cloudflare Tunnel, etc.) in front of http:// :5247 2. Create a Spotify Developer App at developer.spotify.com/dashboard 3. Add a redirect URI that exactly matches your public URL, e.g. https://your-domain/api/auth/callback
+  or https://MACHINE.TAILNET.ts.net:5247/api/auth/callback if you use Tailscale Serve 4. Generate session secret: openssl rand -hex 32 5. Fill in the fields below and click Apply Full guide: https://github.com/ozmoetr/testerfy#setup'
+developer: Unraid Community
+website: https://github.com/ozmoetr/testerfy
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/testerfy.xml
+support: https://github.com/ozmoetr/testerfy/issues
+gallery: []
+releaseNotes: Imported from Unraid template testerfy.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

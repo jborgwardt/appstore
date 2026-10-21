@@ -1,0 +1,42 @@
+name: big-bear-reactive-resume-v6
+services:
+  big-bear-reactive-resume-v6:
+    container_name: big-bear-reactive-resume-v6
+    image: amruthpillai/reactive-resume:v6.0.3@sha256:41023d1641276e4cafbf284a96973620e94e16aad2d59340f373f19bda2f6a4e
+    restart: unless-stopped
+    ports:
+    - 3028:3000
+    depends_on:
+      big-bear-reactive-resume-v6-db:
+        condition: service_healthy
+    environment:
+      APP_URL: http://localhost:3028
+      AUTH_SECRET: access_token_secret
+      DATABASE_URL: postgresql://postgres:postgres@big-bear-reactive-resume-v6-db:5432/postgres
+    volumes:
+    - ${APP_DATA_DIR}/data:/app/data
+    networks:
+    - big-bear-reactive-resume-v6-network
+  big-bear-reactive-resume-v6-db:
+    container_name: big-bear-reactive-resume-v6-db
+    image: postgres:18@sha256:74935e72241653ca55e0414067e6d8763aceb8a810eb51b452253ec3dcfc4336
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: postgres
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    volumes:
+    - ${APP_DATA_DIR}/pg:/var/lib/postgresql
+    healthcheck:
+      test:
+      - CMD-SHELL
+      - pg_isready -U postgres -d postgres
+      interval: 10s
+      timeout: 5s
+      retries: 10
+    networks:
+    - big-bear-reactive-resume-v6-network
+networks:
+  big-bear-reactive-resume-v6-network:
+    driver: bridge
+version: '3.7'

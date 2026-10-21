@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-continuwuity
+name: continuwuity
+tagline: Imported from BigBearCasaOS (continuwuity)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v26.7.2
+port: 20006
+description: Imported from BigBearCasaOS (continuwuity)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/continuwuity
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/continuwuity
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app continuwuity.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

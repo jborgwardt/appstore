@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-zf-bridge-unraid
+name: zf-bridge-unraid
+tagline: 'ZoneFoundry Bridge — connects your Sonos system to ZoneFoundry''s iOS app, voice assistant, and IM bots (Telegram, WeChat, QQ) via the cloud '
+icon: https://relay.zonefoundry.dev/icon-512.png
+category: homeautomation
+version: latest
+port: 3000
+description: 'ZoneFoundry Bridge — connects your Sonos system to ZoneFoundry''s iOS app, voice assistant, and IM bots (Telegram, WeChat, QQ) via the cloud relay. First launch: pair with a one-time code from your iOS app, container persists credentials in /app/data and reuses on restart. 1-tap updates: the iOS app''s Bridges screen surfaces "升级" / "Apply Update" when a new bridge image is published — tap once and the bridge pulls the new image via the mounted docker socket and restarts itself. No SSH or Container Manager interaction needed. Host network mode is required so the bridge can SSDP-discover Sonos speakers on your LAN. Container runs as non-root user (UID 10001) with --cap-drop ALL — make sure the host data path is chowned 10001:10001. The docker socket mount and --group-add 281 (Unraid''s docker group GID) grant the bridge permission to pull new images for self-update; remove them if you prefer manual updates only.'
+developer: Unraid Community
+website: https://relay.zonefoundry.dev
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/zf-bridge-unraid.xml
+support: https://relay.zonefoundry.dev
+gallery: []
+releaseNotes: Imported from Unraid template zf-bridge-unraid.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

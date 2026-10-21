@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-ayon
+name: ayon
+tagline: Imported from BigBearCasaOS (ayon)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.3.6-20240823
+port: 5000
+description: Imported from BigBearCasaOS (ayon)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/ayon
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/ayon
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app ayon.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

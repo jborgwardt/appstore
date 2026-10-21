@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-plant-it
+name: plant-it
+tagline: Imported from BigBearCasaOS (plant-it)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.10.0
+port: 3000
+description: Imported from BigBearCasaOS (plant-it)
+developer: BigBearCasaOS
+website: https://youtu.be/mUOAQRa17T4
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/plant-it
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app plant-it.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

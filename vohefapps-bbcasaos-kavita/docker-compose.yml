@@ -1,0 +1,14 @@
+name: big-bear-kavita
+services:
+  big-bear-kavita:
+    container_name: big-bear-kavita
+    image: jvmilazz0/kavita:0.9.1@sha256:31181a32f0dda73cae68721867028a7253d57881b58bea5754cd9e578e75421a
+    restart: unless-stopped
+    volumes:
+    - ${APP_DATA_DIR}/data/kavita-config:/kavita/config
+    - ${APP_DATA_DIR}/media/data/books:/books
+    - ${APP_DATA_DIR}/media/data/comics:/comics
+    - ${APP_DATA_DIR}/media/data/manga:/manga
+    ports:
+    - 5000:5000
+version: '3.7'

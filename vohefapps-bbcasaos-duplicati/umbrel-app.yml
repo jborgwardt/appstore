@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-duplicati
+name: duplicati
+tagline: Imported from BigBearCasaOS (duplicati)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2.4.0
+port: 3000
+description: Imported from BigBearCasaOS (duplicati)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/duplicati
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/duplicati
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app duplicati.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

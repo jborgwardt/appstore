@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-home-assistant
+name: home-assistant
+tagline: Imported from BigBearCasaOS (home-assistant)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2026.5.1
+port: 3000
+description: Imported from BigBearCasaOS (home-assistant)
+developer: BigBearCasaOS
+website: https://youtu.be/YnCpj5sND_A
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/home-assistant
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app home-assistant.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

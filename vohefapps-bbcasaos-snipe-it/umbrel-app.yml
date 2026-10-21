@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-snipe-it
+name: snipe-it
+tagline: Imported from BigBearCasaOS (snipe-it)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 7.1.17
+port: 3000
+description: Imported from BigBearCasaOS (snipe-it)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/snipe-it
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/snipe-it
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app snipe-it.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

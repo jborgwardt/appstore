@@ -1,0 +1,20 @@
+name: big-bear-crafty
+services:
+  big-bear-crafty:
+    container_name: big-bear-crafty
+    image: registry.gitlab.com/crafty-controller/crafty-4:4.10.4@sha256:d2f61fcabb4756a63bc8538fb4f5e35ffddca3f1916a733c95a31c705c697742
+    restart: unless-stopped
+    environment:
+    - TZ=UTC
+    ports:
+    - 8443:8443
+    - 8123:8123
+    - 19132:19132/udp
+    - 25500-25600:25500-25600
+    volumes:
+    - ${APP_DATA_DIR}/data/backups:/crafty/backups
+    - ${APP_DATA_DIR}/data/logs:/crafty/logs
+    - ${APP_DATA_DIR}/data/servers:/crafty/servers
+    - ${APP_DATA_DIR}/data/config:/crafty/app/config
+    - ${APP_DATA_DIR}/data/import:/crafty/import
+version: '3.7'

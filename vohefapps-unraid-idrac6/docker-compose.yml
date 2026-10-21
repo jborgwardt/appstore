@@ -1,0 +1,19 @@
+version: '3.7'
+services:
+  app:
+    image: domistyle/idrac6:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:5800
+    environment:
+    - IDRAC_HOST=
+    - IDRAC_USER=root
+    - IDRAC_PASSWORD=calvin
+    - IDRAC_PORT;=443
+    - IDRAC_KEYCODE_HACK=false|true
+    - USER_ID=
+    - GROUP_ID=
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/vmedia
+    - ${APP_DATA_DIR}/data/path2:/app
+    - ${APP_DATA_DIR}/data/path3:/screenshots

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-vscodium
+name: vscodium
+tagline: Imported from BigBearCasaOS (vscodium)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.140.06880
+port: 3000
+description: Imported from BigBearCasaOS (vscodium)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/vscodium
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/vscodium
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app vscodium.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

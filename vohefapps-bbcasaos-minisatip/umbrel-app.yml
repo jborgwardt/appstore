@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-minisatip
+name: minisatip
+tagline: Imported from BigBearCasaOS (minisatip)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2.0.103
+port: 3000
+description: Imported from BigBearCasaOS (minisatip)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/minisatip
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/minisatip
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app minisatip.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

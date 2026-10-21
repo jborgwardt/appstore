@@ -14,6 +14,16 @@ This repository is a custom Umbrel Community App Store.
   - MediaStorm app manifest: `vohefapps-mediastorm/umbrel-app.yml`
   - Docker services: `vohefapps-mediastorm/docker-compose.yml`
 
+## Imported app catalogs
+
+This store now also includes imported apps from:
+
+- BigBearCasaOS (`vohefapps-bbcasaos-*`)
+- RunTipi (`vohefapps-runtipi-*`)
+- Unraid community templates (`vohefapps-unraid-*`)
+
+Each imported app is namespaced by source in its Umbrel app ID to avoid collisions.
+
 ## Add this store to umbrelOS
 
 1. In umbrelOS, open **App Store**.

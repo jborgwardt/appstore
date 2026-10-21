@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-hermes
+name: hermes
+tagline: Imported from BigBearCasaOS (hermes)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v2026.9.24
+port: 9119
+description: Imported from BigBearCasaOS (hermes)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/hermes
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/hermes
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app hermes.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

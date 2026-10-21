@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-authentik
+name: authentik
+tagline: Imported from BigBearCasaOS (authentik)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2026.2.2
+port: 9443
+description: Imported from BigBearCasaOS (authentik)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/authentik
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/authentik
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app authentik.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

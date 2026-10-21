@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-linkstack
+name: LinkStack
+tagline: LinkStack is a highly customizable link sharing platform with an intuitive, easy to use user interface
+icon: https://runtipi.io/images/apps/linkstack.png
+category: media
+version: latest
+port: 8154
+description: LinkStack is a highly customizable link sharing platform with an intuitive, easy to use user interface
+developer: LinkStackOrg
+website: https://github.com/LinkStackOrg/linkstack-docker
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/linkstack
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app linkstack.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

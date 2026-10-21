@@ -1,0 +1,15 @@
+version: '3.7'
+services:
+  app:
+    image: saspus/duplicacy-web:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:3875
+    environment:
+    - USR_ID=99
+    - GRP_ID=100
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/config
+    - ${APP_DATA_DIR}/data/path2:/cache
+    - ${APP_DATA_DIR}/data/path3:/backuproot
+    - ${APP_DATA_DIR}/data/path4:/logs

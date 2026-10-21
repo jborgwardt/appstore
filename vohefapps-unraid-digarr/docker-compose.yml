@@ -1,0 +1,29 @@
+version: '3.7'
+services:
+  app:
+    image: docker.io/iuliandita/digarr:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:3000
+    environment:
+    - DB_PATH=/app/data
+    - DATABASE_URL=
+    - DIGARR_INITIAL_USERNAME=
+    - DIGARR_INITIAL_PASSWORD=
+    - AI_PROVIDER=
+    - AI_MODEL=
+    - AI_API_KEY=
+    - AI_BASE_URL=
+    - LIDARR_URL=
+    - LIDARR_API_KEY=
+    - LISTENBRAINZ_USERNAME=
+    - LISTENBRAINZ_TOKEN=
+    - LASTFM_USERNAME=
+    - LASTFM_API_KEY=
+    - ALLOWED_ORIGIN=
+    - DIGARR_ENCRYPTION_KEY=
+    - DIGARR_DISABLE_REGISTRATION=true|false
+    - SKIP_TLS_VERIFY=false|true
+    - WEBHOOK_URL=
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/app/data

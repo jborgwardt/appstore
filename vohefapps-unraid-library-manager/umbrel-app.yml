@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-library-manager
+name: library-manager
+tagline: Library Manager - Audiobook library management with smart metadata matching, series detection, and organization
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/library-manager.png
+category: mediaapp
+version: latest
+port: 5757
+description: 'Library Manager - Audiobook library management with smart metadata matching, series detection, and organization. Scans your audiobook library, matches metadata from multiple sources (Audible, OpenLibrary, etc.), detects series order, and helps organize your collection. Features a modern web UI for browsing and managing your audiobooks. Key features: - Automatic metadata matching from multiple sources - Series detection and ordering - Smart organization tools - Modern responsive web interface - Docker-first design for easy deployment'
+developer: Unraid Community
+website: https://github.com/deucebucket/library-manager
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/library-manager.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template library-manager.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

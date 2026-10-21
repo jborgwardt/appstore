@@ -1,0 +1,18 @@
+version: '3.7'
+services:
+  app:
+    image: requarks/wiki:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:3000
+    environment:
+    - DB_TYPE=mariadb
+    - DB_HOST=192.168.1.2
+    - DB_PORT=3306
+    - DB_USER=wikijs
+    - DB_PASS=secretpassword
+    - DB_NAME=wikijs
+    - DB_SSL=false
+    - DB_FILEPATH=/mnt/user/appdata/wikijs/db
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/logs

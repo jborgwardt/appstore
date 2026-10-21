@@ -1,0 +1,17 @@
+version: '3.7'
+services:
+  app:
+    image: dungfu/twitch-drops-miner:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:5800
+    environment:
+    - DISPLAY_WIDTH=1920
+    - DISPLAY_HEIGHT=1080
+    - DARK_MODE=1|0
+    - USER_ID=99
+    - GROUP_ID=100
+    - UMASK=000
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/TwitchDropsMiner/config
+    - ${APP_DATA_DIR}/data/path2:/TwitchDropsMiner/cache

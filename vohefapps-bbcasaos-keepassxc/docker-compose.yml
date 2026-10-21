@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-keepassxc
+services:
+  app:
+    image: linuxserver/keepassxc:2.7.12@sha256:d90c6897af7d11bc6f669e6a3ecee5a15a7e623d8a9d62411dbb83198ccf4081
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/keepassxc/config
+      target: /config
+version: '3.7'

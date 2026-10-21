@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-planka
+name: planka
+tagline: The realtime kanban board for workgroups built with React and Redux.
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/planka.png
+category: utilities
+version: latest
+port: 1337
+description: The realtime kanban board for workgroups built with React and Redux.
+developer: Unraid Community
+website: https://planka.app/
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/planka.xml
+support: https://github.com/plankanban/planka/issues
+gallery: []
+releaseNotes: Imported from Unraid template planka.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

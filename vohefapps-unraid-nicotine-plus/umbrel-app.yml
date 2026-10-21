@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-nicotine-plus
+name: nicotine-plus
+tagline: Nicotine plus running in KasmVNC based off of linuxserver's KASMVNC docker image.
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/nicotine-plus.png
+category: downloaders
+version: latest
+port: 6080
+description: Nicotine plus running in KasmVNC based off of linuxserver's KASMVNC docker image.
+developer: Unraid Community
+website: https://github.com/fletchto99/nicotine-plus-docker
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/nicotine-plus.xml
+support: https://github.com/fletchto99/nicotine-plus-docker/issues
+gallery: []
+releaseNotes: Imported from Unraid template nicotine-plus.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

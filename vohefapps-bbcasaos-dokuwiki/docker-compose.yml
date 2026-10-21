@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-dokuwiki
+services:
+  app:
+    image: linuxserver/dokuwiki:version-2026-07-14c@sha256:0cc41bd66066966db447bb2728880ceec12637fb9c14ff0a0faa0b7caba4294e
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 80
+      published: 80
+      protocol: tcp
+    - target: 443
+      published: 443
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/dokuwiki/config
+      target: /config
+version: '3.7'

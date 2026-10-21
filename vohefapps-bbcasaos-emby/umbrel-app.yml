@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-emby
+name: emby
+tagline: Imported from BigBearCasaOS (emby)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 4.10.1
+port: 3000
+description: Imported from BigBearCasaOS (emby)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/emby
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/emby
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app emby.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

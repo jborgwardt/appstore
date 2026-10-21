@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-seafile-v14
+name: seafile-v14
+tagline: Imported from BigBearCasaOS (seafile-v14)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 14.0.9
+port: 8146
+description: Imported from BigBearCasaOS (seafile-v14)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/seafile-v14
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/seafile-v14
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app seafile-v14.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''
