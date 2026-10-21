@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-archivebox
+name: ArchiveBox
+tagline: Open source self-hosted web archiving.
+icon: https://runtipi.io/images/apps/archivebox.png
+category: media
+version: 0.9.73
+port: 8015
+description: ArchiveBox is a powerful, self-hosted internet archiving solution to collect, save, and view websites offline.
+developer: archivebox
+website: https://github.com/ArchiveBox/ArchiveBox
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/archivebox
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app archivebox.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-tubearchivist
+name: Tube Archivist
+tagline: Your self-hosted YouTube media server
+icon: https://runtipi.io/images/apps/tubearchivist.png
+category: media
+version: v0.5.12
+port: 8120
+description: 'Once your YouTube video collection grows, it becomes hard to search and find a specific video. That''s where Tube Archivist comes in: By indexing your video collection with metadata from YouTube, you can organize, search and enjoy your archived YouTube videos without hassle offline through a convenient web interface.'
+developer: bbilly1
+website: https://github.com/tubearchivist/tubearchivist
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/tubearchivist
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app tubearchivist.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

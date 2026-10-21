@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-zimabrain
+name: zimabrain
+tagline: Imported from BigBearCasaOS (zimabrain)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.6.2-beta
+port: 8601
+description: Imported from BigBearCasaOS (zimabrain)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/zimabrain
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/zimabrain
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app zimabrain.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

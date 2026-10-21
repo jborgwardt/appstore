@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-readme-sync
+name: readme-sync
+tagline: Imported from BigBearCasaOS (readme-sync)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.0.0
+port: 3000
+description: Imported from BigBearCasaOS (readme-sync)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/readme-sync
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/readme-sync
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app readme-sync.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

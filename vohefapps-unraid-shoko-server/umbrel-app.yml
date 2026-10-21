@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-shoko-server
+name: shoko-server
+tagline: Shoko started as a small AniDB Mylist program to a full blown client-server architecture Have a large Anime Library? File management is a te
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/shoko-server.png
+category: mediaapp
+version: latest
+port: 8111
+description: Shoko started as a small AniDB Mylist program to a full blown client-server architecture Have a large Anime Library? File management is a tedious process, so why not let Shoko handle that? Within FIVE minutes, you’ll have Shoko up and running and populating your collection database with information about the various series and episodes in your collection. For those looking for more advanced options, we offer a wide range of utilities in Shoko Desktop to configure your collection workflow to your liking. Please note, Shoko does not provide any way to download files, stream files from streaming sites or access files that are not part of your perosnal collection.
+developer: Unraid Community
+website: https://shokoanime.com/
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/shoko-server.xml
+support: https://discord.gg/vpeHDsg
+gallery: []
+releaseNotes: Imported from Unraid template shoko-server.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-dokuwiki
+name: DokuWiki
+tagline: 'DokuWiki is a simple to use and highly versatile Open Source wiki software '
+icon: https://runtipi.io/images/apps/dokuwiki.png
+category: media
+version: 2024-02-06b-ls250
+port: 8149
+description: DokuWiki is a simple to use and highly versatile Open Source wiki software that doesn't require a database. It is loved by users for its clean and readable syntax. The ease of maintenance, backup and integration makes it an administrator's favorite. Built in access controls and authentication connectors make DokuWiki especially useful in the enterprise context and the large number of plugins contributed by its vibrant community allow for a broad range of use cases beyond a traditional wiki.
+developer: https://github.com/dokuwiki
+website: https://github.com/dokuwiki/dokuwiki
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/dokuwiki
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app dokuwiki.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

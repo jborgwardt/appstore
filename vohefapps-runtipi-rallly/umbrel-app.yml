@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-rallly
+name: Rallly
+tagline: Scheduling and collaboration tool
+icon: https://runtipi.io/images/apps/rallly.png
+category: utilities
+version: 4.15.5
+port: 8208
+description: Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
+developer: lukevella
+website: https://github.com/lukevella/rallly
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/rallly
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app rallly.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

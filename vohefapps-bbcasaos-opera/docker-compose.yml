@@ -1,0 +1,22 @@
+name: big-bear-linuxserver-opera
+services:
+  app:
+    image: linuxserver/opera:137.0.6036@sha256:bfa40165868ece5aa623ff8f17356004d6c5854a38fbc26bb49182f64db62505
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+      OPERA_CLI: ''
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/opera/config
+      target: /config
+version: '3.7'

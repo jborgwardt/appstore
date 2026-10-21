@@ -1,0 +1,20 @@
+name: big-bear-linuxserver-hishtory-server
+services:
+  app:
+    image: linuxserver/hishtory-server:0.335.20261009@sha256:2b2e29e5f616b7585f18a5077612d1f0d2416e58d6811b8f001e6e9f606219a7
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+      HISHTORY_POSTGRES_DB: ''
+      HISHTORY_SQLITE_DB: ''
+    ports:
+    - target: 8080
+      published: 8080
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/hishtory-server/config
+      target: /config
+version: '3.7'

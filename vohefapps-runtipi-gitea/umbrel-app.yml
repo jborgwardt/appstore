@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-gitea
+name: Gitea
+tagline: Gitea - Git with a cup of tea · A painless self-hosted Git service. · Cross-platform · Easy to install · Lightweight · Open Source.
+icon: https://runtipi.io/images/apps/gitea.png
+category: development
+version: 28.1.0
+port: 8108
+description: Gitea is a painless self-hosted Git service. It is similar to GitHub, Bitbucket, and GitLab. Gitea is a fork of Gogs. See the Gitea Announcement blog post to read about the justification for a fork.
+developer: go-gitea
+website: https://github.com/go-gitea/gitea
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/gitea
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app gitea.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

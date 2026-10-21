@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-lidarr
+name: Lidarr
+tagline: ' Looks and smells like Sonarr but made for music.'
+icon: https://runtipi.io/images/apps/lidarr.png
+category: media
+version: 3.1.0
+port: 8131
+description: Lidarr is a music collection manager for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new tracks from your favorite artists and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available.
+developer: lidarr.audio
+website: https://github.com/Lidarr/Lidarr
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/lidarr
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app lidarr.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

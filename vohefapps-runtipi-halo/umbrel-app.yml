@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-halo
+name: Halo
+tagline: Halo - Open source website building tool.
+icon: https://runtipi.io/images/apps/halo.png
+category: social
+version: 2.27.0
+port: 8092
+description: Halo is a powerful and easy-to-use open source website building tool.
+developer: halo-dev
+website: https://github.com/halo-dev/halo
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/halo
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app halo.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

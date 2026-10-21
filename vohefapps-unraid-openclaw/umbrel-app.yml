@@ -1,0 +1,22 @@
+manifestVersion: 1
+id: vohefapps-unraid-openclaw
+name: OpenClaw
+tagline: OpenClaw is a powerful AI assistant gateway that connects Claude and other LLMs to messaging platforms like Discord, Telegram, WhatsApp, and
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/openclaw.png
+category: productivity
+version: latest
+port: 18789
+description: 'OpenClaw is a powerful AI assistant gateway that connects Claude and other LLMs to messaging platforms like Discord, Telegram, WhatsApp, and more. Features include file access, shell commands, web browsing, cron jobs, and a web-based Control UI. To access the Control UI, add your token to the URL: http://YOUR-IP:18789/?token=YOUR-GATEWAY-TOKEN For setup details and documentation, see: https://github.com/jdhill777/openclaw-unraid OpenClaw project and source: https://github.com/openclaw/openclaw Requires at least one LLM API key. Anthropic (Claude) is recommended, but many providers are supported. Optional Homebrew: Some skills require tools installed via brew/go. This is completely optional and at your own discretion. If needed, open OpenClaw''s container console and run: NONINTERACTIVE=1 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" We recommend reviewing the install script at brew.sh before running. You can ignore the "Next
+  steps" output - the template has already configured the PATH for you.'
+developer: Unraid Community
+website: https://github.com/openclaw/openclaw
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/openclaw.xml
+support: https://forums.unraid.net/topic/196865-support-openclaw-ai-personal-assistant
+gallery: []
+releaseNotes: Imported from Unraid template openclaw.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

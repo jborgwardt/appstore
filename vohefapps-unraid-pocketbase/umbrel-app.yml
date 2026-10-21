@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-pocketbase
+name: Pocketbase
+tagline: 'Open Source backend for your next SaaS and Mobile app in 1 file Pocketbase docs: https://pocketbase.io/docs/ SDKs: Dart - https://github.com'
+icon: https://github.com/pocketbase/pocketbase/blob/master/ui/public/images/favicon/mstile-144x144.png
+category: other
+version: latest
+port: 8080
+description: 'Open Source backend for your next SaaS and Mobile app in 1 file Pocketbase docs: https://pocketbase.io/docs/ SDKs: Dart - https://github.com/pocketbase/dart-sdk JavaScript - https://github.com/pocketbase/js-sdk On the first launch, navigate to the Web UI, which I have configured as the admin interface, and it will prompt you to create the first admin account. Admin UI: http:/{UnraidServerIP}/:{Port}/_/ API: http:/{UnraidServerIP}/:{Port}/api/'
+developer: Unraid Community
+website: https://pocketbase.io
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/pocketbase.xml
+support: https://forums.unraid.net/topic/139061-support-blindkitty38-pocketbase/
+gallery: []
+releaseNotes: Imported from Unraid template pocketbase.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

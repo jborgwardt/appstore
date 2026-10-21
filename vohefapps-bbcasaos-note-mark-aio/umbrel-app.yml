@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-note-mark-aio
+name: note-mark-aio
+tagline: Imported from BigBearCasaOS (note-mark-aio)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.19.4
+port: 8000
+description: Imported from BigBearCasaOS (note-mark-aio)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/note-mark-aio
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/note-mark-aio
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app note-mark-aio.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

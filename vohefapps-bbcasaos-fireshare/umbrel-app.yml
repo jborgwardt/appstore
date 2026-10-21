@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-fireshare
+name: fireshare
+tagline: Imported from BigBearCasaOS (fireshare)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.9.0
+port: 8585
+description: Imported from BigBearCasaOS (fireshare)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/fireshare
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/fireshare
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app fireshare.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-wallos
+name: wallos
+tagline: Imported from BigBearCasaOS (wallos)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 5.8.3
+port: 8282
+description: Imported from BigBearCasaOS (wallos)
+developer: BigBearCasaOS
+website: https://youtu.be/feYTW02YDb8
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/wallos
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app wallos.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

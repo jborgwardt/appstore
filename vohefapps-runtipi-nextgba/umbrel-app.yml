@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-nextgba
+name: NextGBA
+tagline: Gameboy in your browser
+icon: https://runtipi.io/images/apps/nextgba.png
+category: gaming
+version: 0.1.0
+port: 8435
+description: All of your favorite gameboy games in your browser
+developer: nicotsx
+website: https://github.com/nicotsx/nextgba
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/nextgba
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app nextgba.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

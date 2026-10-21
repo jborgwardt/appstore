@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-farmos
+name: farmos
+tagline: Imported from BigBearCasaOS (farmos)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 3.5.1
+port: 8080
+description: Imported from BigBearCasaOS (farmos)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/farmos
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/farmos
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app farmos.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

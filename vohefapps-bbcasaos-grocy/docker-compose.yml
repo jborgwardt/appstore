@@ -1,0 +1,18 @@
+name: big-bear-linuxserver-grocy
+services:
+  app:
+    image: linuxserver/grocy:4.7.1@sha256:cae63f6c731f6ad8a3596eef097c136934a3a076e6ae533f933182187fe85a12
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 9283
+      published: 80
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/grocy/config
+      target: /config
+version: '3.7'

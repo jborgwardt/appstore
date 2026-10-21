@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-resilio-sync
+name: Resilio
+tagline: Fast, reliable, and simple file sync and share solution.
+icon: https://runtipi.io/images/apps/resilio-sync.png
+category: data
+version: 3.1.2
+port: 8113
+description: Resilio Sync is a fast, reliable, and simple file sync and share solution, powered by P2P technology
+developer: Resilio, Inc.
+website: https://github.com/bt-sync
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/resilio-sync
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app resilio-sync.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

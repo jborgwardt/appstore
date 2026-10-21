@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-dashy
+name: Dashy
+tagline: A self-hostable personal dashboard built for you.
+icon: https://runtipi.io/images/apps/dashy.png
+category: utilities
+version: 4.8.7
+port: 8205
+description: A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+developer: lissy93
+website: https://github.com/lissy93/dashy
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/dashy
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app dashy.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

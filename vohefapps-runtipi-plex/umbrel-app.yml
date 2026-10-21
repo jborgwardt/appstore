@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-plex
+name: Plex
+tagline: Stream Movies & TV Shows
+icon: https://runtipi.io/images/apps/plex.png
+category: media
+version: 1.43.4
+port: 32400
+description: Stream Movies & TV Shows
+developer: plexinc
+website: https://github.com/plexinc/pms-docker
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/plex
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app plex.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

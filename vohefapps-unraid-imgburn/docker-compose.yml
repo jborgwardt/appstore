@@ -1,0 +1,21 @@
+version: '3.7'
+services:
+  app:
+    image: ghcr.io/jwolvers/imgburn-wine-container:main-ubuntu22
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:5800
+    - 5999:5900
+    environment:
+    - SECURE_CONNECTION=0
+    - DISPLAY_WIDTH=900
+    - DISPLAY_HEIGHT=700
+    - VNC_PASSWORD=
+    - X11VNC_EXTRA_OPTS=
+    - ENABLE_CJK_FONT=
+    - USER_ID=99
+    - GROUP_ID=100
+    - CLEAN_TMP_DIR=1
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/drive_d/
+    - ${APP_DATA_DIR}/data/path2:/config/

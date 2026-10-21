@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-protonmail-bridge
+name: protonmail-bridge
+tagline: ProtonMail Bridge for e-mail clients
+icon: https://github.com/protonmail.png
+category: utilities
+version: latest
+port: 25
+description: 'ProtonMail Bridge for e-mail clients. After the container has started you will need to access the CLI to do the initial setup. From unraid terminal and run the following: ```bash docker exec -it protonmail-bridge /bin/bash chmod +x entrypoint.sh ./entrypoint.sh init ``` Wait for the bridge to startup, use `login` command and follow the instructions to add your account into the bridge. Then use `info` to see the configuration information (username and password). After that, use `exit` to exit the bridge. You may need CTRL+C to exit the docker entirely. Then restart the container.'
+developer: Unraid Community
+website: https://github.com/shenxn/protonmail-bridge-docker
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/protonmail-bridge.xml
+support: https://github.com/selfhosters/unRAID-CA-templates/issues
+gallery: []
+releaseNotes: Imported from Unraid template protonmail-bridge.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

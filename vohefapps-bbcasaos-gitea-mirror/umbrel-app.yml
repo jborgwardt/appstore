@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-gitea-mirror
+name: gitea-mirror
+tagline: Imported from BigBearCasaOS (gitea-mirror)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v3.15.10
+port: 4321
+description: Imported from BigBearCasaOS (gitea-mirror)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/gitea-mirror
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/gitea-mirror
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app gitea-mirror.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

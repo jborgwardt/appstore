@@ -1,0 +1,9 @@
+version: '3.7'
+services:
+  app:
+    image: croc/unimus:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:8085
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/etc/unimus/

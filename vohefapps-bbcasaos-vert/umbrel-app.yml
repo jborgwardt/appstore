@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-vert
+name: vert
+tagline: Imported from BigBearCasaOS (vert)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: sha-a1b0b15
+port: 3030
+description: Imported from BigBearCasaOS (vert)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/vert
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/vert
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app vert.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-postfix-relay
+name: Postfix Mail Relay
+tagline: Simple SMTP relay for environments where you may have private servers with no Internet connection.
+icon: https://runtipi.io/images/apps/postfix-relay.png
+category: utilities
+version: 1.4.0
+port: 2525
+description: Simple SMTP relay for environments where you may have private servers with no Internet connection.
+developer: shamil
+website: https://github.com/shamil/docker-postfix-relay
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/postfix-relay
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app postfix-relay.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

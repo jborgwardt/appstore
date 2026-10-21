@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-kavita
+name: Kavita
+tagline: Kavita is a fast, feature rich, cross platform reading server
+icon: https://runtipi.io/images/apps/kavita.png
+category: media
+version: 0.9.1
+port: 8175
+description: Kavita is a fast, feature rich, cross platform reading server
+developer: Kareadita
+website: https://github.com/Kareadita/Kavita
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/kavita
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app kavita.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

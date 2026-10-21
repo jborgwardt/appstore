@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-nextcloud
+name: nextcloud
+tagline: Imported from BigBearCasaOS (nextcloud)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 35.0.2
+port: 7580
+description: Imported from BigBearCasaOS (nextcloud)
+developer: BigBearCasaOS
+website: https://youtu.be/O0fzG16COYc
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/nextcloud
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app nextcloud.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

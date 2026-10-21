@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-mempool
+name: Mempool
+tagline: Bitcoin mempool visualizer and blockchain explorer
+icon: https://runtipi.io/images/apps/mempool.png
+category: finance
+version: v3.3.1
+port: 2200
+description: Bitcoin mempool visualizer and blockchain explorer
+developer: The mempool team
+website: https://github.com/mempool/mempool
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/mempool
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app mempool.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

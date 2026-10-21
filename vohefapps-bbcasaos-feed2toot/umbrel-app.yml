@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-feed2toot
+name: feed2toot
+tagline: Imported from BigBearCasaOS (feed2toot)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.17.20251115
+port: 3000
+description: Imported from BigBearCasaOS (feed2toot)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/feed2toot
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/feed2toot
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app feed2toot.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

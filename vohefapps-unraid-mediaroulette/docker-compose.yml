@@ -1,0 +1,11 @@
+version: '3.7'
+services:
+  app:
+    image: ghcr.io/keltech-services/mediaroulette:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:5000
+    environment:
+    - SECRET_KEY=
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/app/data

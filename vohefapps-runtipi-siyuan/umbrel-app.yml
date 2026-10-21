@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-siyuan
+name: SiYuan
+tagline: SiYuan is a privacy-first personal knowledge management system.
+icon: https://runtipi.io/images/apps/siyuan.png
+category: utilities
+version: v3.8.8
+port: 6806
+description: SiYuan is a privacy-first personal knowledge management system, support fine-grained block-level reference and Markdown WYSIWYG.
+developer: siyuan-note
+website: https://github.com/siyuan-note/siyuan
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/siyuan
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app siyuan.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

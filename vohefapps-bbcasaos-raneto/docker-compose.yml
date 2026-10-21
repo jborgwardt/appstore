@@ -1,0 +1,18 @@
+name: big-bear-linuxserver-raneto
+services:
+  app:
+    image: linuxserver/raneto:0.18.1@sha256:b51f5afe269a08fd7e9c20957dcaf18708116f49d50f5292e4afb3c09ee6e655
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/raneto/config
+      target: /config
+version: '3.7'

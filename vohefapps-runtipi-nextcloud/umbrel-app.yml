@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-nextcloud
+name: Nextcloud
+tagline: Productivity platform that keeps you in control
+icon: https://runtipi.io/images/apps/nextcloud.png
+category: data
+version: 35.0.2
+port: 8083
+description: Nextcloud is a self-hosted, open source, and fully-featured cloud storage solution for your personal files, office documents, and photos.
+developer: Nextcloud GmbH
+website: https://github.com/nextcloud/server
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/nextcloud
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app nextcloud.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

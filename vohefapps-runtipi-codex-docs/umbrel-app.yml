@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-codex-docs
+name: CodeX.docs
+tagline: Free Docs app powered by Editor.js ecosystem.
+icon: https://runtipi.io/images/apps/codex-docs.png
+category: media
+version: v2.3
+port: 8101
+description: 'CodeX Docs is a free docs application. It''s based on Editor.js ecosystem which gives all modern opportunities for working with content. You can use it for product documentation, for internal team docs, for personal notes or any other need.  '
+developer: https://docs.codex.so/
+website: https://github.com/codex-team/codex.docs
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/codex-docs
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app codex-docs.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-unifi-poller
+name: UniFi-Poller
+tagline: Collect ALL UniFi Controller, Device and Client Data - Export to InfluxDB or Prometheus
+icon: https://raw.githubusercontent.com/wiki/unifi-poller/unifi-poller/images/unifi-poller-logo.png
+category: tools
+version: latest
+port: 3000
+description: Collect ALL UniFi Controller, Device and Client Data - Export to InfluxDB or Prometheus. Visualize with Grafana using included dashboards! IMPORTAT! ACTION REQUIRED! As of UniFi Poller version 2 all of the environment variables and config file format changed. You must reconfigure this container after you upgrade! READ THE INSTRUCTIONS! https://github.com/unifi-poller/unifi-poller/wiki/Configuration
+developer: Unraid Community
+website: https://github.com/unifi-poller/unifi-poller
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/unifi-poller.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template unifi-poller.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

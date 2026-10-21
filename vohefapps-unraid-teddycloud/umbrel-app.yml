@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-teddycloud
+name: teddycloud
+tagline: teddyCloud is an alternative server for your Toniebox, allowing you to host the cloud services locally
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/teddycloud.png
+category: mediaserver
+version: latest
+port: 80
+description: teddyCloud is an alternative server for your Toniebox, allowing you to host the cloud services locally. This gives you the control about which data is sent to the original manufacturers cloud and allows you to host your own figurine audio files on e.g. your NAS or any other server.
+developer: Unraid Community
+website: https://github.com/toniebox-reverse-engineering/teddycloud
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/teddycloud.xml
+support: https://forums.unraid.net/topic/138058-support-catduck-templates
+gallery: []
+releaseNotes: Imported from Unraid template teddycloud.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

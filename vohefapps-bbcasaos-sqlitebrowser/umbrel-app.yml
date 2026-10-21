@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-sqlitebrowser
+name: sqlitebrowser
+tagline: Imported from BigBearCasaOS (sqlitebrowser)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 18.04.1
+port: 3000
+description: Imported from BigBearCasaOS (sqlitebrowser)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/sqlitebrowser
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/sqlitebrowser
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app sqlitebrowser.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

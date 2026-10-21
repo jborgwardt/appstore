@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-redis
+name: redis
+tagline: Imported from BigBearCasaOS (redis)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 8.8.3
+port: 3000
+description: Imported from BigBearCasaOS (redis)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/redis
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/redis
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app redis.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

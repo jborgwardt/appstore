@@ -1,0 +1,13 @@
+name: big-bear-gotify
+services:
+  app:
+    image: gotify/server:3.1.1@sha256:44fc5bbd1c0618878e33073d38c2c13126b48f245c3fe12236b1da48eb203b86
+    ports:
+    - 8091:80
+    environment:
+    - GOTIFY_DEFAULTUSER_NAME=admin
+    - GOTIFY_DEFAULTUSER_PASS=custom
+    volumes:
+    - ${APP_DATA_DIR}/data:/app/data
+    network_mode: bridge
+version: '3.7'

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-scrypted
+name: scrypted
+tagline: Imported from BigBearCasaOS (scrypted)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v0.147.0-noble-full
+port: 10444
+description: Imported from BigBearCasaOS (scrypted)
+developer: BigBearCasaOS
+website: https://youtu.be/5uH0LaSyKTY
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/scrypted
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app scrypted.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

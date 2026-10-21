@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-ntfy
+name: Ntfy
+tagline: Ntfy, a simple server for sending and receiving notification messages.
+icon: https://runtipi.io/images/apps/ntfy.png
+category: utilities
+version: v2.31.1
+port: 8166
+description: Send push notifications to any devices using a simple HTTP PUT or POST request.
+developer: https://github.com/binwiederhier
+website: https://github.com/binwiederhier/ntfy
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/ntfy
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app ntfy.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

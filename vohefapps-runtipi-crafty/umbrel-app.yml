@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-crafty
+name: Crafty
+tagline: Python based Control Panel for your Minecraft Server
+icon: https://runtipi.io/images/apps/crafty.png
+category: gaming
+version: 4.11.0
+port: 8456
+description: Crafty 4 is the next iteration of our Minecraft Server Wrapper / Controller / Launcher.
+developer: Crafty Controller
+website: https://gitlab.com/crafty-controller/crafty-4
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/crafty
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app crafty.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-duplicacy
+name: Duplicacy
+tagline: Web GUI for Duplicacy
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/duplicacy.png
+category: backup
+version: latest
+port: 3875
+description: 'Web GUI for Duplicacy. Duplicacy backs up your files to many cloud storages with client-side encryption and the highest level of deduplication http://duplicacy.com Note: - It''s imporatant to pass hostname (Advanced View > Extra Parameters > --hostname=), as duplicacy license is requested based on hostname and machine-id provided by dbus. - Machine-id will be persisted in the /config directory. - Default hostname set to ''duplicacy-unraid''. - If you want to backup the unRAID FLASH drive then you will have to run Duplicacy as root i.e. USR_ID=0 and GRP_ID=0 - /config -- is where configuration data will be stored. Should be backed up. - /logs -- logs will go there. - /cache -- transient and temporary files will be stored here. Can be safely deleted. - Readme: https://hub.docker.com/r/saspus/duplicacy-web'
+developer: Unraid Community
+website: https://duplicacy.com
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/duplicacy.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template duplicacy.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

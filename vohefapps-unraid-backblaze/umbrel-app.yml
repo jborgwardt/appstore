@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-backblaze
+name: Backblaze_Personal_Backup
+tagline: This Docker container runs the Backblaze personal backup client via WINE, so that you can back up your files with the separation and portabi
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/backblaze.png
+category: backup
+version: latest
+port: 5800
+description: 'This Docker container runs the Backblaze personal backup client via WINE, so that you can back up your files with the separation and portability capabilities of Docker on Linux. It runs the Backblaze client and starts a virtual X server and a VNC server with Web GUI, so that you can interact with it. This container needs additional installation steps after running the docker, which can be found here: https://github.com/JonathanTreffler/backblaze-personal-wine-container#installation'
+developer: Unraid Community
+website: https://github.com/JonathanTreffler/backblaze-personal-wine-container
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/backblaze.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository
+gallery: []
+releaseNotes: Imported from Unraid template backblaze.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

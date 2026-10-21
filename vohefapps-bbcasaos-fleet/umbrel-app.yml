@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-fleet
+name: fleet
+tagline: Imported from BigBearCasaOS (fleet)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2.3.3
+port: 3000
+description: Imported from BigBearCasaOS (fleet)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/fleet
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/fleet
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app fleet.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

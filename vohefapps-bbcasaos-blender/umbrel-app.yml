@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-blender
+name: blender
+tagline: Imported from BigBearCasaOS (blender)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 5.2.2
+port: 3000
+description: Imported from BigBearCasaOS (blender)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/blender
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/blender
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app blender.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

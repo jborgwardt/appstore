@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-ollama-amd
+name: ollama-amd
+tagline: Imported from BigBearCasaOS (ollama-amd)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.40.5-rocm
+port: 11434
+description: Imported from BigBearCasaOS (ollama-amd)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/ollama-amd
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/ollama-amd
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app ollama-amd.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

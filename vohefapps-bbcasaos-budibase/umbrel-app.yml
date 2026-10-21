@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-budibase
+name: budibase
+tagline: Imported from BigBearCasaOS (budibase)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v3.49.0
+port: 8080
+description: Imported from BigBearCasaOS (budibase)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/budibase
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/budibase
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app budibase.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

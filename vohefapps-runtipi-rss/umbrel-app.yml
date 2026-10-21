@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-rss
+name: RSS
+tagline: A simple, opinionated, RSS feed aggregator.
+icon: https://runtipi.io/images/apps/rss.png
+category: utilities
+version: v2.2.3
+port: 8141
+description: A simple twitter-feed-style RSS aggregator written in PHP, Laravel, Inertia.js, Tailwind and Vue.js
+developer: https://github.com/ssddanbrown
+website: https://github.com/ssddanbrown/rss
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/rss
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app rss.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

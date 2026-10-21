@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-trafegodns
+name: TrafegoDNS
+tagline: TrafegoDNS automatically manages DNS records based on container configuration
+icon: https://raw.githubusercontent.com/elmerfds/TrafegoDNS/main/logo/logo.png
+category: tools
+version: latest
+port: 3000
+description: 'TrafegoDNS automatically manages DNS records based on container configuration. It supports both Traefik integration and direct Docker container label mode, making it compatible with any web server or reverse proxy solution. Key Features: - Supports multiple DNS providers (Cloudflare, DigitalOcean, Route53) - Two operation modes: Traefik API integration or direct Docker labels - Optional cleanup of orphaned DNS records - Real-time monitoring of Docker container events - Please refer to the readme before deploying this container: https://github.com/elmerfds/TrafegoDNS'
+developer: Unraid Community
+website: https://github.com/elmerfds/TrafegoDNS
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/trafegodns.xml
+support: https://github.com/elmerfds/TrafegoDNS/issues
+gallery: []
+releaseNotes: Imported from Unraid template trafegodns.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

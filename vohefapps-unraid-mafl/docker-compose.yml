@@ -1,0 +1,11 @@
+version: '3.7'
+services:
+  app:
+    image: ghcr.io/hywax/mafl:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:3000
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/app/data/config.yml
+    - ${APP_DATA_DIR}/data/path2:/app/public/favicons
+    - ${APP_DATA_DIR}/data/path3:/app/public/icons

@@ -1,0 +1,35 @@
+version: '3.7'
+services:
+  app:
+    image: mrlt8/wyze-bridge:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:8554
+    - 1935:1935
+    - 8888:8888
+    - 8889:8889
+    - 8189:8189
+    - 5000:5000
+    environment:
+    - WYZE_EMAIL=
+    - WYZE_PASSWORD=
+    - API_ID=
+    - API_KEY=
+    - WB_AUTH=True
+    - WB_USERNAME=
+    - WB_PASSWORD=
+    - NET_MODE=ANY
+    - MQTT_HOST=
+    - MQTT_AUTH=
+    - MQTT_DTOPIC=
+    - IGNORE_OFFLINE=
+    - FRESH_DATA=False
+    - TOTP_KEY=
+    - WB_IP=
+    - ENABLE_AUDIO=True
+    - SUBSTREAM=False
+    - ROTATE_DOOR=False
+    - WB_RTSP_URL=
+    - WB_RTMP_URL=
+    - WB_HLS_URL=
+    - WB_WEBRTC_URL=

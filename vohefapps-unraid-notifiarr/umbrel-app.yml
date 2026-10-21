@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-notifiarr
+name: Notifiarr
+tagline: Official Notifiarr Client This application provides the gateway for media requests to your starr application
+icon: https://notifiarr.com/images/logo/notifiarr.png
+category: mediaapp
+version: latest
+port: 5454
+description: Official Notifiarr Client This application provides the gateway for media requests to your starr application. https://Notifiarr.com Update application configuration in the WebUI after install. Default port is 5454. Variables defined in unRAID config override config file settings. Must be privileged to report system drive details (for snapshot notifications). Mount additional paths anywhere to report drive space usage.
+developer: Unraid Community
+website: https://github.com/Notifiarr/notifiarr
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/notifiarr.xml
+support: https://golift.io/discord/
+gallery: []
+releaseNotes: Imported from Unraid template notifiarr.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

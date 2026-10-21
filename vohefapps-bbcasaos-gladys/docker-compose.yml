@@ -1,0 +1,20 @@
+name: big-bear-gladys
+services:
+  app:
+    image: gladysassistant/gladys:v5.2.1@sha256:b0cf458c5c6ddeae62d7d2c22a9b0acfd867d09741549600fa2e16db0aaa1a72
+    restart: always
+    privileged: true
+    network_mode: host
+    container_name: gladys
+    cgroup: host
+    environment:
+      NODE_ENV: production
+      SQLITE_FILE_PATH: /var/lib/gladysassistant/gladys-production.db
+      TZ: Europe/Paris
+      SERVER_PORT: '1080'
+    volumes:
+    - /var/run/docker.sock:/var/run/docker.sock
+    - ${APP_DATA_DIR}/data:/var/lib/gladysassistant
+    - /dev:/dev
+    - /run/udev:/run/udev
+version: '3.7'

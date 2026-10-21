@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-stirling-pdf
+name: stirling-pdf
+tagline: Imported from BigBearCasaOS (stirling-pdf)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 3.2.0
+port: 8080
+description: Imported from BigBearCasaOS (stirling-pdf)
+developer: BigBearCasaOS
+website: https://youtu.be/ZoPSPDvOPdo
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/stirling-pdf
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app stirling-pdf.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

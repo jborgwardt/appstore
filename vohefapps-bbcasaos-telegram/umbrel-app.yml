@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-telegram
+name: telegram
+tagline: Imported from BigBearCasaOS (telegram)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 7.3.1
+port: 3000
+description: Imported from BigBearCasaOS (telegram)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/telegram
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/telegram
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app telegram.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

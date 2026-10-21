@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-focalboard
+name: focalboard
+tagline: Imported from BigBearCasaOS (focalboard)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 7.11.4
+port: 8000
+description: Imported from BigBearCasaOS (focalboard)
+developer: BigBearCasaOS
+website: https://youtu.be/fBDpqpN8sks
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/focalboard
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app focalboard.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-winegui
+services:
+  app:
+    image: linuxserver/winegui:4.5.1@sha256:59ec652acc8f5d4aab7308ee7d3d30bd68858d11264d9e54e0d526584232421a
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/winegui/config
+      target: /config
+version: '3.7'

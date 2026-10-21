@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-unrar
+name: unrar
+tagline: Imported from BigBearCasaOS (unrar)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 7.2.7
+port: 3000
+description: Imported from BigBearCasaOS (unrar)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/unrar
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/unrar
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app unrar.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

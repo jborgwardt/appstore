@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-wireguard
+name: wireguard
+tagline: Imported from BigBearCasaOS (wireguard)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.0.20260223
+port: 3000
+description: Imported from BigBearCasaOS (wireguard)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/wireguard
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/wireguard
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app wireguard.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

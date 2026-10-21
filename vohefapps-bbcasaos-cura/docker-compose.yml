@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-cura
+services:
+  app:
+    image: linuxserver/cura:5.13.0@sha256:b864b5b0448dbe2a2649c6f76de81496c59e86a21e6f2650ea706af649d8d9ec
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/cura/config
+      target: /config
+version: '3.7'

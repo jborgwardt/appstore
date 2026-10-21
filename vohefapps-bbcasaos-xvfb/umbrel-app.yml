@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-xvfb
+name: xvfb
+tagline: Imported from BigBearCasaOS (xvfb)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.0.0
+port: 3000
+description: Imported from BigBearCasaOS (xvfb)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/xvfb
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/xvfb
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app xvfb.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-docmost
+name: Docmost
+tagline: An open-source collaborative wiki and documentation software
+icon: https://runtipi.io/images/apps/docmost.png
+category: data
+version: 0.96.0
+port: 9713
+description: Docmost is an open-source alternative to the likes of Notion and Confluence. Whether you're managing a wiki, a knowledge base, or extensive project documentation, Docmost provides the tools you need to create, collaborate, and share knowledge effortlessly.
+developer: docmost
+website: https://github.com/docmost/docmost
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/docmost
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app docmost.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-themepark
+name: theme-park
+tagline: theme.park contains 50 themed applications, with css addons on certain themes
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/themepark.png
+category: tools
+version: latest
+port: 80
+description: theme.park contains 50 themed applications, with css addons on certain themes. Installation methods include custom docker mods for linuxserver.io containers, custom scripts for select Hotio containers and multiple examples of subfiltering using webservers like Nginx and Apache Choose between 10 official styles, and 22 community styles! With the possibility to easily create your own themes using the defined variables. See https://theme-park.dev/ and https://docs.theme-park.dev/setup/#docker for more information
+developer: Unraid Community
+website: https://theme-park.dev/
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/themepark.xml
+support: https://docs.theme-park.dev/discord
+gallery: []
+releaseNotes: Imported from Unraid template themepark.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

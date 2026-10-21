@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-omniroute
+name: omniroute
+tagline: OmniRoute is an open source AI gateway supporting 230+ LLM providers (OpenAI, Anthropic, Google, Mistral, Ollama, and more) with intelligent
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/omniroute.png
+category: ai
+version: latest
+port: 20128
+description: OmniRoute is an open source AI gateway supporting 230+ LLM providers (OpenAI, Anthropic, Google, Mistral, Ollama, and more) with intelligent routing, 4-tier auto-fallback, circuit breaker, semantic cache (Redis-backed), built-in prompt compression (RTK, Caveman, LLMLingua), and a polished dashboard. Acts as a drop-in OpenAI-compatible endpoint for AI tools like Claude Code, Cursor, Cline, and Open WebUI. Requires a Redis sidecar container for full functionality.
+developer: Unraid Community
+website: https://github.com/diegosouzapw/OmniRoute
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/omniroute.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template omniroute.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

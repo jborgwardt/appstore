@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-airconnect
+name: AirConnect
+tagline: AirConnect container for turning Chromecast into Airplay targets This is a containerized build of the fantastic program by philippe44 called
+icon: https://i.imgur.com/hatCnm0.png
+category: mediaserver
+version: latest
+port: 3000
+description: AirConnect container for turning Chromecast into Airplay targets This is a containerized build of the fantastic program by philippe44 called AirConnect. It allows you to be able to use AirPlay to push audio to Chromecast and UPNP based devices. There are some advanced details and information that you should review on his GitHub Project. https://github.com/philippe44/AirConnect For the most part this container needs nothing more than to launch it using Host networking.
+developer: Unraid Community
+website: https://github.com/philippe44/AirConnect
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/airconnect.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template airconnect.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

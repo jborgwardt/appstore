@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-tailscale
+name: tailscale
+tagline: Imported from BigBearCasaOS (tailscale)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v1.104.1
+port: 3000
+description: Imported from BigBearCasaOS (tailscale)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/tailscale
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/tailscale
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app tailscale.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

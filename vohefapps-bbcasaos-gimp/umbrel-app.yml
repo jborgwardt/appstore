@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-gimp
+name: gimp
+tagline: Imported from BigBearCasaOS (gimp)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.0.0
+port: 3000
+description: Imported from BigBearCasaOS (gimp)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/gimp
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/gimp
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app gimp.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

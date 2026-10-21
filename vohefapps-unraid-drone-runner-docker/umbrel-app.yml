@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-drone-runner-docker
+name: Drone Runner
+tagline: Drone is a Continuous Integration platform built on Docker
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/drone.png
+category: productivity
+version: latest
+port: 3000
+description: Drone is a Continuous Integration platform built on Docker
+developer: Unraid Community
+website: https://github.com/drone-runners/drone-runner-docker
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/drone-runner-docker.xml
+support: https://docs.drone.io/
+gallery: []
+releaseNotes: Imported from Unraid template drone-runner-docker.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

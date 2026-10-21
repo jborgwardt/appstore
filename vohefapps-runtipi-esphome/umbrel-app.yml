@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-esphome
+name: ESP Home
+tagline: Control your ESP8266/ESP32.
+icon: https://runtipi.io/images/apps/esphome.png
+category: automation
+version: 2026.9.1
+port: 6052
+description: ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+developer: ESP Home
+website: https://github.com/esphome/esphome
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/esphome
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app esphome.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

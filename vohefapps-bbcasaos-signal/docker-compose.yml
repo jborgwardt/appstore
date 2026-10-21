@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-signal
+services:
+  app:
+    image: linuxserver/signal:8.30.0@sha256:c668a5ae3febc5c7b9b85183bd884ba0cfda0034b55a66fc92cab6ea0b347d56
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/signal/config
+      target: /config
+version: '3.7'

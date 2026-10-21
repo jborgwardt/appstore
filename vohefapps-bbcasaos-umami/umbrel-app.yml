@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-umami
+name: umami
+tagline: Imported from BigBearCasaOS (umami)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: postgresql-latest
+port: 3000
+description: Imported from BigBearCasaOS (umami)
+developer: BigBearCasaOS
+website: https://youtu.be/4DEF5fNf8hU
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/umami
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app umami.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

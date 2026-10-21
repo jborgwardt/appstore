@@ -1,0 +1,22 @@
+version: '3.7'
+services:
+  app:
+    image: stokkes/sstvproxy:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:8098
+    - 8099:8099
+    environment:
+    - PUID=99
+    - PGID=100
+    - YAP_GIT_BRANCH=master
+    - YAP_SERVICE=
+    - YAP_USERNAME=
+    - YAP_PASSWORD=
+    - YAP_SERVER=
+    - YAP_QUALITY=
+    - YAP_STREAM=
+    - YAP_EXTERNALIP=
+    - YAP_KODIPORT=
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/config

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-warp
+name: warp
+tagline: Cloudflare WARP is a free VPN service provided by Cloudflare
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: latest
+port: 1080
+description: Cloudflare WARP is a free VPN service provided by Cloudflare. As most service providers consider its exit IP as a reputable residential broadband IP, many people use it for accessing websites that have strict risk control policies, especially when their server’s IP address is not clean.
+developer: Unraid Community
+website: https://github.com/cmj2002/warp-docker/
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/warp.xml
+support: https://hub.docker.com/r/caomingjun/warp/
+gallery: []
+releaseNotes: Imported from Unraid template warp.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

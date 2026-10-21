@@ -1,0 +1,21 @@
+name: big-bear-stirling-pdf
+services:
+  big-bear-stirling-pdf:
+    container_name: big-bear-stirling-pdf
+    image: stirlingtools/stirling-pdf:3.2.0@sha256:10164ffe04961b02ebc9fa4da12064eeacb8d3bc3e09ceb059f78ce7aaa83207
+    restart: unless-stopped
+    environment:
+    - DOCKER_ENABLE_SECURITY=false
+    - SECURITY_ENABLE_LOGIN=true
+    - SECURITY_INITIALLOGIN_USERNAME=bigbear
+    - SECURITY_INITIALLOGIN_PASSWORD=4500733e-a0f8-4605-a712-fd267404956a
+    - CSRF_DISABLED=false
+    - DEFAULT_LOCALE=en-US
+    - INSTALL_BOOK_AND_ADVANCED_HTML_OPS=false
+    - LANGS=en_US
+    volumes:
+    - ${APP_DATA_DIR}/tessdata:/usr/share/tessdata
+    - ${APP_DATA_DIR}/configs:/configs
+    ports:
+    - 8080:8080
+version: '3.7'

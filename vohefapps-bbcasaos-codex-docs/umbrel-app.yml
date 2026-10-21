@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-codex-docs
+name: codex-docs
+tagline: Imported from BigBearCasaOS (codex-docs)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v2.2
+port: 3000
+description: Imported from BigBearCasaOS (codex-docs)
+developer: BigBearCasaOS
+website: https://youtu.be/dKm2VJwam24
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/codex-docs
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app codex-docs.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-raneto
+name: raneto
+tagline: Imported from BigBearCasaOS (raneto)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.18.1
+port: 3000
+description: Imported from BigBearCasaOS (raneto)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/raneto
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/raneto
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app raneto.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,16 @@
+version: '3.7'
+services:
+  app:
+    image: ghcr.io/thebinaryninja/tvapp2:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:4124
+    environment:
+    - WEB_IP=0.0.0.0
+    - WEB_PORT=4124
+    - URL_REPO=https://git.binaryninja.net/BinaryNinja/
+    - DIR_BUILD=/usr/src/app
+    - DIR_RUN=/usr/bin/app
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/config
+    - ${APP_DATA_DIR}/data/path2:/usr/bin/app

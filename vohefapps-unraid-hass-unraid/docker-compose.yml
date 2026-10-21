@@ -1,0 +1,7 @@
+version: '3.7'
+services:
+  app:
+    image: ghcr.io/idmedia/hass-unraid:latest
+    restart: unless-stopped
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/data

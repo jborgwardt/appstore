@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-firefly-iii
+name: Firefly III
+tagline: 'Firefly III: a personal finances manager '
+icon: https://runtipi.io/images/apps/firefly-iii.png
+category: finance
+version: version-6
+port: 8115
+description: 'Firefly III: a personal finances manager '
+developer: JC5
+website: https://github.com/firefly-iii/firefly-iii
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/firefly-iii
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app firefly-iii.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

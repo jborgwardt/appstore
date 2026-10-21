@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-monitorss-bot
+name: monitorss-bot
+tagline: Discord RSS bot (formerly known as Discord.RSS) with customizable feeds
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/monitorss.png
+category: network
+version: latest
+port: 3000
+description: Discord RSS bot (formerly known as Discord.RSS) with customizable feeds. Requires a separate container for MongoDB. Also has a optional WebUI More configuration options available on (https://docs.monitorss.xyz/configuration/bot-configuration)
+developer: Unraid Community
+website: https://github.com/synzen/MonitoRSS
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/monitorss-bot.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template monitorss-bot.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

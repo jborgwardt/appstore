@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-kometa
+name: kometa
+tagline: Imported from BigBearCasaOS (kometa)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2.5.3
+port: 3000
+description: Imported from BigBearCasaOS (kometa)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/kometa
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/kometa
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app kometa.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

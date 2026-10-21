@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-daapd
+name: daapd
+tagline: Imported from BigBearCasaOS (daapd)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 28.10.20250118
+port: 3000
+description: Imported from BigBearCasaOS (daapd)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/daapd
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/daapd
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app daapd.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

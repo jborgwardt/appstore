@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-searcharr
+name: searcharr
+tagline: Telegram Bot for Sonarr and Radarr
+icon: /plugins/dynamix.docker.manager/images/question.png
+category: utilities
+version: latest
+port: 3000
+description: Telegram Bot for Sonarr and Radarr
+developer: Unraid Community
+website: https://github.com/toddrob99/searcharr
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/searcharr.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template searcharr.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

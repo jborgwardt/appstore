@@ -1,0 +1,36 @@
+version: '3.7'
+services:
+  app:
+    image: monica:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:80
+    environment:
+    - APP_ENV=production
+    - APP_DEBUG=false
+    - APP_KEY=ChangeMeBy32KeyLengthOrGenerated
+    - HASH_SALT=ChangeMeBy20+KeyLength
+    - HASH_LENGTH=18
+    - APP_URL=https://FQDM.tld
+    - DB_CONNECTION=mysql
+    - DB_HOST=192.168.1.2
+    - DB_PORT=3306
+    - DB_DATABASE=monica
+    - DB_USERNAME=monica
+    - DB_PASSWORD=monica
+    - DB_USE_UTF8MB4=true
+    - MAIL_DRIVER=smtp
+    - MAIL_HOST=example.com
+    - MAIL_PORT=587
+    - MAIL_ENCRYPTION=TLS
+    - MAIL_USERNAME=user@example.com
+    - MAIL_PASSWORD=secretpassword
+    - MAIL_FROM_ADDRESS=user@example.com
+    - MAIL_FROM_NAME=Monica instance
+    - APP_EMAIL_NEW_USERS_NOTIFICATION=
+    - APP_DEFAULT_LOCALE=en
+    - APP_DISABLE_SIGNUP=false
+    - APP_SIGNUP_DOUBLE_OPTIN=false
+    - APP_TRUSTED_PROXIES=*
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/var/www/html/storage/

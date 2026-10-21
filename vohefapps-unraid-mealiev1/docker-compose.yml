@@ -1,0 +1,29 @@
+version: '3.7'
+services:
+  app:
+    image: ghcr.io/mealie-recipes/mealie:nightly
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:9000
+    environment:
+    - ALLOW_SIGNUP=
+    - DEFAULT_EMAIL=
+    - SMTP_FROM_EMAIL=
+    - SMTP_HOST=
+    - SMTP_USER=
+    - SMTP_PASSWORD=
+    - SMTP_PORT=
+    - BASE_URL=
+    - DEFAULT_GROUP=home
+    - PUID=
+    - PGID=
+    - WEB_CONCURRENCY=
+    - MAX_WORKERS=
+    - DB_ENGINE=
+    - POSTGRES_USER=
+    - POSTGRES_PASSWORD=
+    - POSTGRES_SERVER=
+    - POSTGRES_PORT=
+    - POSTGRES_DB=
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/app/data

@@ -1,0 +1,25 @@
+version: '3.7'
+services:
+  app:
+    image: trentferguson/homescreen-hero:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:8000
+    environment:
+    - HSH_PLEX_TOKEN=
+    - HSH_PLEX_URL=http://your-plex-url:32400
+    - HSH_AUTH_PASSWORD=
+    - HSH_AUTH_SECRET_KEY=
+    - HSH_TRAKT_CLIENT_ID=
+    - HSH_MDBLIST_API_KEY=
+    - HSH_TMDB_API_KEY=
+    - HSH_MAL_CLIENT_ID=
+    - HSH_TAUTULLI_BASE_URL=
+    - HSH_TAUTULLI_API_KEY=
+    - HSH_SEERR_BASE_URL=
+    - HSH_SEERR_API_KEY=
+    - HOMESCREEN_HERO_CONFIG=/data/config.yaml
+    - HOMESCREEN_HERO_DB=sqlite:////data/homescreen_hero.sqlite
+    - HOMESCREEN_HERO_LOG_DIR=/data/logs
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/data

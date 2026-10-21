@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-caddy
+name: caddy
+tagline: Imported from BigBearCasaOS (caddy)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2.11.7
+port: 3000
+description: Imported from BigBearCasaOS (caddy)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/caddy
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/caddy
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app caddy.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

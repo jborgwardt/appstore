@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-filebrowser
+name: filebrowser
+tagline: Imported from BigBearCasaOS (filebrowser)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v2.63.23-s6
+port: 8080
+description: Imported from BigBearCasaOS (filebrowser)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/filebrowser
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/filebrowser
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app filebrowser.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

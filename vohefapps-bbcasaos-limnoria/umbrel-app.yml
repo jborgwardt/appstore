@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-limnoria
+name: limnoria
+tagline: Imported from BigBearCasaOS (limnoria)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2026.5.8
+port: 3000
+description: Imported from BigBearCasaOS (limnoria)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/limnoria
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/limnoria
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app limnoria.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

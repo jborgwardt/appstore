@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-nextcloud-with-smbclient
+name: nextcloud-with-smbclient
+tagline: Imported from BigBearCasaOS (nextcloud-with-smbclient)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 35.0.2
+port: 7580
+description: Imported from BigBearCasaOS (nextcloud-with-smbclient)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/nextcloud-with-smbclient
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/nextcloud-with-smbclient
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app nextcloud-with-smbclient.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-minio
+name: minio
+tagline: Imported from BigBearCasaOS (minio)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: RELEASE.2025-10-15T17-29-55Z
+port: 9010
+description: Imported from BigBearCasaOS (minio)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/minio
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/minio
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app minio.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

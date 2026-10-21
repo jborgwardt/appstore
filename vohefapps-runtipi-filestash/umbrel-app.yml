@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-filestash
+name: Filestash
+tagline: A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze
+icon: https://runtipi.io/images/apps/filestash.png
+category: utilities
+version: latest
+port: 8189
+description: A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze
+developer: mickael-kerjean
+website: https://github.com/mickael-kerjean/filestash
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/filestash
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app filestash.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

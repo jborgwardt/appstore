@@ -1,0 +1,16 @@
+version: '3.7'
+services:
+  app:
+    image: deluan/navidrome:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:4533
+    environment:
+    - ND_SCANNER_SCHEDULE=
+    - ND_LOGLEVEL=
+    - ND_SESSIONTIMEOUT=
+    - ND_BASEURL=
+    - ND_IMAGECACHESIZE=
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/data
+    - ${APP_DATA_DIR}/data/path2:/music

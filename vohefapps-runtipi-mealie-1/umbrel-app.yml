@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-mealie-1
+name: Mealie
+tagline: Mealie is a self-hosted recipe manager and meal planner.
+icon: https://runtipi.io/images/apps/mealie-1.png
+category: utilities
+version: v3.29.0
+port: 8220
+description: Mealie is a self-hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and Mealie will automatically import the relevant data or add a family recipe with the UI editor. Mealie also provides an API for interactions from 3rd party applications. Default username / password is changeme@email.com / MyPassword
+developer: hay-kot
+website: https://github.com/hay-kot/mealie
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/mealie-1
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app mealie-1.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

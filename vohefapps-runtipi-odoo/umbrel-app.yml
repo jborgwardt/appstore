@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-odoo
+name: Odoo
+tagline: Open-source business management software with modular applications for streamlined operations.
+icon: https://runtipi.io/images/apps/odoo.png
+category: utilities
+version: '20'
+port: 8017
+description: Open-source business management software suite designed to streamline various aspects of business operations. With its modular structure, users can choose and integrate specific applications such as accounting, inventory, and sales. Odoo provides a user-friendly interface, scalability for businesses of all sizes, and is available in both community (free) and enterprise editions. Its integrated approach and customization options make it a popular choice for comprehensive ERP (Enterprise Resource Planning) solutions.
+developer: armandgillot
+website: https://github.com/odoo/odoo
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/odoo
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app odoo.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

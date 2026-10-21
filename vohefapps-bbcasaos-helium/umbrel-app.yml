@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-helium
+name: helium
+tagline: Imported from BigBearCasaOS (helium)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.19.3
+port: 3000
+description: Imported from BigBearCasaOS (helium)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/helium
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/helium
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app helium.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

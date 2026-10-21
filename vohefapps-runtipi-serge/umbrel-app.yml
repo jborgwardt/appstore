@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-serge
+name: Serge
+tagline: LLaMA made easy
+icon: https://runtipi.io/images/apps/serge.png
+category: ai
+version: 0.9.0
+port: 8008
+description: LLaMA made easy
+developer: nsarrazin
+website: https://github.com/serge-chat/serge
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/serge
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app serge.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

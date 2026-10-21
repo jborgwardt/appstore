@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-sealskin
+name: sealskin
+tagline: Imported from BigBearCasaOS (sealskin)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.3.2
+port: 3000
+description: Imported from BigBearCasaOS (sealskin)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/sealskin
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/sealskin
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app sealskin.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

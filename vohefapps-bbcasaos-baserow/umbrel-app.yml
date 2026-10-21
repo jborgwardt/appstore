@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-baserow
+name: baserow
+tagline: Imported from BigBearCasaOS (baserow)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2.4.1
+port: 7350
+description: Imported from BigBearCasaOS (baserow)
+developer: BigBearCasaOS
+website: https://youtu.be/Xej7sH5bNFs
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/baserow
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app baserow.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

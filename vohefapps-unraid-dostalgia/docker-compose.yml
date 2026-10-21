@@ -1,0 +1,13 @@
+version: '3.7'
+services:
+  app:
+    image: droideparanoico/dostalgia:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:8765
+    environment:
+    - DOSTALGIA_DATA_DIR=/data
+    - TWITCH_CLIENT_ID=
+    - TWITCH_CLIENT_SECRET=
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/data

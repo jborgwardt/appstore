@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-tailscale
+name: Tailscale
+tagline: The easiest, most secure way to use WireGuard and 2FA.
+icon: https://runtipi.io/images/apps/tailscale.png
+category: network
+version: v1.104.1
+port: 8093
+description: Zero config VPN. Installs on any device in minutes, manages firewall rules for you, and works from anywhere.
+developer: © Tailscale Inc.
+website: https://github.com/tailscale/tailscale
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/tailscale
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app tailscale.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

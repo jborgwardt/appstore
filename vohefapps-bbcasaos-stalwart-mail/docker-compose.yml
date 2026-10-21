@@ -1,0 +1,17 @@
+name: big-bear-stalwart-mail
+services:
+  big-bear-stalwart-mail:
+    container_name: big-bear-stalwart-mail
+    image: stalwartlabs/stalwart:v0.16.26@sha256:254ce5d7f3dbe4bb628ce2c7912e664ecb1c3466db79907f4a44d9a00117776b
+    restart: unless-stopped
+    volumes:
+    - ${APP_DATA_DIR}/data:/opt/stalwart
+    ports:
+    - 8080:8080
+    - 25:25/tcp
+    - 143:143/tcp
+    - 465:465/tcp
+    - 587:587/tcp
+    - 993:993/tcp
+    - 4190:4190/tcp
+version: '3.7'

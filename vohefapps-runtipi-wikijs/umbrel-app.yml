@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-wikijs
+name: WikiJS
+tagline: A modern and powerful wiki app built on Node.js
+icon: https://runtipi.io/images/apps/wikijs.png
+category: media
+version: 2.5.316
+port: 8148
+description: 'A modern, lightweight and powerful wiki app built on NodeJS '
+developer: https://github.com/requarks
+website: https://github.com/requarks/wiki
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/wikijs
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app wikijs.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

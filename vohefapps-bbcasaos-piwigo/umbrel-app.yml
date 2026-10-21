@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-piwigo
+name: piwigo
+tagline: Imported from BigBearCasaOS (piwigo)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 16.4.0
+port: 8080
+description: Imported from BigBearCasaOS (piwigo)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/piwigo
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/piwigo
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app piwigo.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,10 @@
+version: '3.7'
+services:
+  app:
+    image: ghcr.io/mbrubeck/agate:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:1965
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/gmi
+    - ${APP_DATA_DIR}/data/path2:/certs

@@ -1,0 +1,20 @@
+name: big-bear-viseron
+services:
+  big-bear-viseron:
+    container_name: big-bear-viseron
+    image: roflcoopter/viseron:3.7.0@sha256:73ed6822f4878f2eb52b423e48d6077dbbc8c6aeb6d7636d5452b5c1271145e3
+    restart: unless-stopped
+    shm_size: 1024mb
+    volumes:
+    - ${APP_DATA_DIR}/segments:/segments
+    - ${APP_DATA_DIR}/snapshots:/snapshots
+    - ${APP_DATA_DIR}/thumbnails:/thumbnails
+    - ${APP_DATA_DIR}/event/clips:/event_clips
+    - ${APP_DATA_DIR}/config:/config
+    - /etc/localtime:/etc/localtime:ro
+    ports:
+    - 8888:8888
+    environment:
+    - PUID=1000
+    - PGID=1000
+version: '3.7'

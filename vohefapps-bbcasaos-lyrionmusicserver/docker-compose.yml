@@ -1,0 +1,20 @@
+name: big-bear-lyrionmusicserver
+services:
+  big-bear-lyrionmusicserver:
+    container_name: big-bear-lyrionmusicserver
+    image: lmscommunity/lyrionmusicserver:9.2.0@sha256:27836cdc479be3261903a38ec1edc4a8fd90f2c228e0e8494551add3add0efb3
+    restart: unless-stopped
+    environment:
+    - HTTP_PORT=9000
+    volumes:
+    - ${APP_DATA_DIR}/config:/config:rw
+    - ${APP_DATA_DIR}/music:/music:ro
+    - ${APP_DATA_DIR}/playlists:/playlist:rw
+    - /etc/localtime:/etc/localtime:ro
+    - /etc/timezone:/etc/timezone:ro
+    ports:
+    - 9000:9000/tcp
+    - 9090:9090/tcp
+    - 3483:3483/tcp
+    - 3483:3483/udp
+version: '3.7'

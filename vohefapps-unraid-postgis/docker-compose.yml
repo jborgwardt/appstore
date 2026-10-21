@@ -1,0 +1,11 @@
+version: '3.7'
+services:
+  app:
+    image: postgis/postgis:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:5432
+    environment:
+    - POSTGRES_PASSWORD=postgres
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/var/lib/postgresql/data

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-emby
+name: Emby
+tagline: A media server for your home collection
+icon: https://runtipi.io/images/apps/emby.png
+category: media
+version: 4.10.1
+port: 8325
+description: Emby is a media server designed to organize, play, and stream audio and video to a variety of devices
+developer: emby.media
+website: https://emby.media
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/emby
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app emby.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

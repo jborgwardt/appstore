@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-luanti
+name: luanti
+tagline: Imported from BigBearCasaOS (luanti)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 5.17.0
+port: 3000
+description: Imported from BigBearCasaOS (luanti)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/luanti
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/luanti
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app luanti.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

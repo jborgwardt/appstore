@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-gamevault
+name: gamevault
+tagline: Imported from BigBearCasaOS (gamevault)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 17.0.1
+port: 20032
+description: Imported from BigBearCasaOS (gamevault)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/gamevault
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/gamevault
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app gamevault.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

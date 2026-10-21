@@ -1,0 +1,27 @@
+name: big-bear-linuxserver-wikijs
+services:
+  app:
+    image: linuxserver/wikijs:2.5.316@sha256:84ade4b32fd2a101edf0bae14d5788476a465887af702c354e9f88f4b647786e
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+      DB_TYPE: $DB_TYPE
+      DB_HOST: $DB_HOST
+      DB_PORT: $DB_PORT
+      DB_NAME: $DB_NAME
+      DB_USER: $DB_USER
+      DB_PASS: $DB_PASS
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/wikijs/config
+      target: /config
+    - type: bind
+      source: /DATA/AppData/wikijs/data
+      target: /data
+version: '3.7'

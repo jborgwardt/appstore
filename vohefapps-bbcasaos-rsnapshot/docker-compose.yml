@@ -1,0 +1,24 @@
+name: big-bear-linuxserver-rsnapshot
+services:
+  app:
+    image: linuxserver/rsnapshot:1.4.5@sha256:9f2b9c875d9b970f0078d81eec17c27b8428201c0f9defc70360c19d43ccb658
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 80
+      published: 80
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/rsnapshot/config
+      target: /config
+    - type: bind
+      source: /DATA/AppData/rsnapshot/.snapshots
+      target: /.snapshots
+    - type: bind
+      source: /DATA/AppData/rsnapshot/data
+      target: /data
+version: '3.7'

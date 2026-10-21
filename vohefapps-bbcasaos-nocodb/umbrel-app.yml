@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-nocodb
+name: nocodb
+tagline: Imported from BigBearCasaOS (nocodb)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.301.5
+port: 8080
+description: Imported from BigBearCasaOS (nocodb)
+developer: BigBearCasaOS
+website: https://youtu.be/mO2YzWpBu4o
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/nocodb
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app nocodb.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

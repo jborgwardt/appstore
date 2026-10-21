@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-ytdl-sub
+name: ytdl-sub
+tagline: Automate downloads and metadata generation with YoutubeDL
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/ytdl-sub.png
+category: downloaders
+version: latest
+port: 3000
+description: Automate downloads and metadata generation with YoutubeDL. This is the headless variant. See `ytdl-sub-gui` for a web-gui version.
+developer: Unraid Community
+website: https://github.com/jmbannon/ytdl-sub
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/ytdl-sub.xml
+support: https://discord.gg/235bWeyffD
+gallery: []
+releaseNotes: Imported from Unraid template ytdl-sub.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

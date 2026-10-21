@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-minecraft-server
+name: Minecraft Server
+tagline: Run a minecraft server
+icon: https://runtipi.io/images/apps/minecraft-server.png
+category: gaming
+version: latest
+port: 25565
+description: Minecraft Server
+developer: Geoff Bourne
+website: https://github.com/itzg/docker-minecraft-server
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/minecraft-server
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app minecraft-server.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

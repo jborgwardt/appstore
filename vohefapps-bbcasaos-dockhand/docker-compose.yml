@@ -1,0 +1,12 @@
+name: big-bear-dockhand
+services:
+  app:
+    container_name: big-bear-dockhand
+    image: fnsys/dockhand:latest@sha256:75e52f735dc0572eb65469b04d579aa48399a9ae9895d2f1e1344dc288c0b62b
+    restart: unless-stopped
+    volumes:
+    - /var/run/docker.sock:/var/run/docker.sock
+    - ${APP_DATA_DIR}/data:/app/data
+    ports:
+    - 3003:3000
+version: '3.7'

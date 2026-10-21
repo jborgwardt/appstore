@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-lobe-chat
+name: Lobe Chat
+tagline: LLM chatbot framework
+icon: https://runtipi.io/images/apps/lobe-chat.png
+category: ai
+version: 1.143.3
+port: 3210
+description: LobeChat is an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible (Function Call) plugin system.
+developer: https://github.com/lobehub
+website: https://github.com/lobehub/lobe-chat
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/lobe-chat
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app lobe-chat.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

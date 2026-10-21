@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-tooljet
+name: Tooljet
+tagline: Alternative to retool to construct CRM dashboard
+icon: https://runtipi.io/images/apps/tooljet.png
+category: automation
+version: 2.4.2
+port: 9876
+description: ToolJet is an open-source low-code framework to build and deploy internal tools quickly with minimal engineering effort. ToolJet's drag and drop frontend builder allows you to build complicated responsive frontends within minutes. You can also connect to your data sources, such as databases ( PostgreSQL, MongoDB, Elasticsearch & more), API endpoints (ToolJet supports importing OpenAPI spec & OAuth2 authorization), SaaS tools (Stripe, Slack, Google Sheets, Airtable, Notion & more) and object storage services ( S3, GCS, Minio, etc ) to fetch and write data.
+developer: tooljet.com
+website: https://github.com/ToolJet/ToolJet
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/tooljet
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app tooljet.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

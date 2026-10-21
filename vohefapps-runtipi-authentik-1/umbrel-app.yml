@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-authentik-1
+name: Authentik
+tagline: The authentication glue you need.
+icon: https://runtipi.io/images/apps/authentik-1.png
+category: development
+version: 2026.8.4
+port: 9000
+description: The authentication glue you need.
+developer: goauthentik
+website: https://github.com/goauthentik/authentik
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/authentik-1
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app authentik-1.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

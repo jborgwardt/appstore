@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-wordpress
+name: WordPress
+tagline: Popular CMS for websites and blogs
+icon: https://runtipi.io/images/apps/wordpress.png
+category: social
+version: 7.1.3
+port: 8213
+description: WordPress is a popular content management system for creating websites and blogs.
+developer: WordPress.org
+website: https://github.com/WordPress/WordPress
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/wordpress
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app wordpress.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

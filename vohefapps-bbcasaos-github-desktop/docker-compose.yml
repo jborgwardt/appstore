@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-github-desktop
+services:
+  app:
+    image: linuxserver/github-desktop:3.4.13@sha256:8651e12fa3c6418b3a6f1a745ec629e9923294c52a653a87d81983a4bbaeba07
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/github-desktop/config
+      target: /config
+version: '3.7'

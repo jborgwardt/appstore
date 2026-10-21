@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-btop
+name: btop
+tagline: Imported from BigBearCasaOS (btop)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.1.11
+port: 7681
+description: Imported from BigBearCasaOS (btop)
+developer: BigBearCasaOS
+website: https://youtu.be/chaRoQV1V2I
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/btop
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app btop.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

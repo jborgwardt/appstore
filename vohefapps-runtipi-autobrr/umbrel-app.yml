@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-autobrr
+name: autobrr
+tagline: Automation for downloads.
+icon: https://runtipi.io/images/apps/autobrr.png
+category: media
+version: v1.88.0
+port: 8158
+description: autobrr is the modern download automation tool for torrents. With inspiration and ideas from tools like trackarr, autodl-irssi and flexget we built one tool that can do it all, and then some.
+developer: autobrr
+website: https://github.com/autobrr/autobrr
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/autobrr
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app autobrr.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-handbrake
+services:
+  app:
+    image: linuxserver/handbrake:1.11.2@sha256:336dada61d7b69abc183443e7ab65d412c78ca14af907f2fb1ab9cf3b6b01940
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/handbrake/config
+      target: /config
+version: '3.7'

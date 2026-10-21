@@ -1,0 +1,10 @@
+name: big-bear-hrconvert2
+services:
+  app:
+    image: dwaaan/hrconvert2-docker:latest
+    ports:
+    - target: 80
+      published: 48113
+      protocol: tcp
+    restart: unless-stopped
+version: '3.7'

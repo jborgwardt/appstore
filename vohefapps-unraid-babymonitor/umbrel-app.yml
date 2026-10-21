@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-babymonitor
+name: BabyMonitor
+tagline: Monitors audio from an RTSP camera stream and sends alerts to Home Assistant when noise exceeds a configurable threshold
+icon: https://raw.githubusercontent.com/AldenDana/ha-baby-monitor/main/icon.png
+category: homeautomation
+version: latest
+port: 3000
+description: Monitors audio from an RTSP camera stream and sends alerts to Home Assistant when noise exceeds a configurable threshold. Designed for baby monitoring but works with any RTSP camera. Uses FFmpeg ebur128 filter for accurate volume measurement. Publishes live volume to MQTT and fires a Home Assistant webhook when noise is detected. Features dual camera fallback on connection loss, auto-reconnect, and configurable threshold + trigger count to avoid false positives. No code changes needed — fully configured via environment variables.
+developer: Unraid Community
+website: https://github.com/AldenDana/ha-baby-monitor
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/BabyMonitor.xml
+support: https://github.com/AldenDana/ha-baby-monitor/issues
+gallery: []
+releaseNotes: Imported from Unraid template BabyMonitor.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

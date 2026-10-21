@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-immich-aio-alpine
+name: immich-aio-alpine
+tagline: Imported from BigBearCasaOS (immich-aio-alpine)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 3.2.2
+port: 2283
+description: Imported from BigBearCasaOS (immich-aio-alpine)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/immich-aio-alpine
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/immich-aio-alpine
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app immich-aio-alpine.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

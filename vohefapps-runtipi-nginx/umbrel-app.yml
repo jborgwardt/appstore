@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-nginx
+name: Nginx
+tagline: Open-source simple and fast web server.
+icon: https://runtipi.io/images/apps/nginx.png
+category: utilities
+version: 1.31.7
+port: 8754
+description: Simple webserver to test your tipi install. An alternative to the hello-world app.
+developer: nginx
+website: https://github.com/nginx/nginx
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/nginx
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app nginx.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

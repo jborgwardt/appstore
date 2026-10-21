@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-qbittorrent
+name: qBittorrent
+tagline: Fast, easy, and free BitTorrent client
+icon: https://runtipi.io/images/apps/qbittorrent.png
+category: utilities
+version: 5.2.4
+port: 8133
+description: qBittorrent is a fast, easy, and free BitTorrent client.
+developer: qBittorrent project
+website: https://github.com/qbittorrent/qBittorrent
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/qbittorrent
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app qbittorrent.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

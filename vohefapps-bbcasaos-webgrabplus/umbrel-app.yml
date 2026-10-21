@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-webgrabplus
+name: webgrabplus
+tagline: Imported from BigBearCasaOS (webgrabplus)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 5.6.1
+port: 3000
+description: Imported from BigBearCasaOS (webgrabplus)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/webgrabplus
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/webgrabplus
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app webgrabplus.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

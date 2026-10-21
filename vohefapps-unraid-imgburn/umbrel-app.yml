@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-imgburn
+name: Imgburn
+tagline: This Docker container runs ImgBurn client via WINE, so that you can back up your optical disks with the separation and portability capabilit
+icon: https://upload.wikimedia.org/wikipedia/en/f/fc/ImgBurn_logo.png
+category: backup
+version: latest
+port: 5800
+description: 'This Docker container runs ImgBurn client via WINE, so that you can back up your optical disks with the separation and portability capabilities of Docker on Linux. It runs Imgburn and starts a virtual X server and a VNC server with Web GUI, so that you can interact with it. This container needs additional installation steps after running the docker, which can be found here: https://github.com/JWolvers/imgburn-wine-container/?tab=readme-ov-file#installation'
+developer: Unraid Community
+website: https://github.com/JWolvers/imgburn-wine-container
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/imgburn.xml
+support: https://github.com/JWolvers/imgburn-wine-container/issues
+gallery: []
+releaseNotes: Imported from Unraid template imgburn.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

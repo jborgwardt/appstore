@@ -1,0 +1,15 @@
+version: '3.7'
+services:
+  app:
+    image: synzen/monitorss:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:8081
+    environment:
+    - DRSSWEB_BOT_CLIENTID=1111111111111
+    - DRSSWEB_BOT_CLIENTSECRET=1111111111111
+    - DRSSWEB_BOT_REDIRECTURI=https://domain.com/authorize
+    - DRSSWEB_BOT_TOKEN=22222222222
+    - DRSSWEB_DATABASE_REDIS=redis://[REPLACE-WITH-IP]:6379
+    - DRSSWEB_DATABASE_URI=mongodb://[REPLACE-WITH-IP]:27017/drss
+    - DRSS_START=web

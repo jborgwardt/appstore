@@ -1,0 +1,12 @@
+version: '3.7'
+services:
+  app:
+    image: gotson/komga:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:25600
+    environment:
+    - KOMGA_LIBRARIES_SCAN_DIRECTORY_EXCLUSIONS=#recycle,@eaDir
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/config
+    - ${APP_DATA_DIR}/data/path2:/books

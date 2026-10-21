@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-bindery
+name: bindery
+tagline: Bindery is a self-hosted ebook and audiobook automation server
+icon: https://raw.githubusercontent.com/vavallee/bindery/main/.github/assets/logo.png
+category: mediaapp
+version: latest
+port: 8787
+description: 'Bindery is a self-hosted ebook and audiobook automation server. Search OpenLibrary, Hardcover, and DNB for books and authors; monitor authors and series; hand requests to your *arr-style indexers and download client (NZB or torrent); import completed files into your library with proper metadata; serve an OPDS 1.2 catalogue to e-readers. Distroless image, Apache 2.0. First-run: open the WebUI to create an admin account. No env vars required for auth. Default user is 99:100. If you change PUID/PGID, also change the --user value in Extra Parameters; the container will fail fast if they don''t match.'
+developer: Unraid Community
+website: https://github.com/vavallee/bindery
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/bindery.xml
+support: https://discord.gg/RpuYYRM9cZ
+gallery: []
+releaseNotes: Imported from Unraid template bindery.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

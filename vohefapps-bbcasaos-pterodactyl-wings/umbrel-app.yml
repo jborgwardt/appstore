@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-pterodactyl-wings
+name: pterodactyl-wings
+tagline: Imported from BigBearCasaOS (pterodactyl-wings)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v1.12.1
+port: 8080
+description: Imported from BigBearCasaOS (pterodactyl-wings)
+developer: BigBearCasaOS
+website: https://youtu.be/p_140cc6_1g
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/pterodactyl-wings
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app pterodactyl-wings.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

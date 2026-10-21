@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-scrutiny
+name: scrutiny
+tagline: Hard Drive S.M.A.R.T Monitoring, Historical Trends and Real World Failure Thresholds
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/scrutiny.png
+category: homeautomation
+version: latest
+port: 8080
+description: Hard Drive S.M.A.R.T Monitoring, Historical Trends and Real World Failure Thresholds
+developer: Unraid Community
+website: https://github.com/AnalogJ/scrutiny
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/scrutiny.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template scrutiny.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

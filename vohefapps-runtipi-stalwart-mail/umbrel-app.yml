@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-stalwart-mail
+name: Stalwart Mail
+tagline: Open-source mail server solution with JMAP, IMAP4, and SMTP support
+icon: https://runtipi.io/images/apps/stalwart-mail.png
+category: media
+version: v0.16.27
+port: 8677
+description: Stalwart is a scalable, secure and robust open-source mail server software designed for the 21st century.
+developer: Stalwart Labs
+website: https://github.com/stalwartlabs
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/stalwart-mail
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app stalwart-mail.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

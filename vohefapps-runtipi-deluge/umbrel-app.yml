@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-deluge
+name: Deluge
+tagline: Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
+icon: https://runtipi.io/images/apps/deluge.png
+category: utilities
+version: 18.04.1
+port: 8144
+description: Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
+developer: https://github.com/deluge-torrent
+website: https://github.com/linuxserver/docker-deluge
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/deluge
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app deluge.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

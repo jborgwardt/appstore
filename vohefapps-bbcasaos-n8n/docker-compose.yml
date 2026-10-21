@@ -1,0 +1,41 @@
+name: big-bear-n8n
+services:
+  app:
+    container_name: n8n
+    image: n8nio/n8n:2.44.3@sha256:5032941f437e1daa421cad0cc3ea57cd054f0d44a7256b38a0a3fca1b460834a
+    restart: unless-stopped
+    ports:
+    - 5678:5678
+    links:
+    - db-n8n
+    volumes:
+    - ${APP_DATA_DIR}/.n8n:/home/node/.n8n
+    environment:
+    - DB_TYPE=postgresdb
+    - DB_POSTGRESDB_DATABASE=n8n
+    - DB_POSTGRESDB_HOST=db-n8n
+    - DB_POSTGRESDB_PORT=5432
+    - DB_POSTGRESDB_USER=bigbearcasaos
+    - DB_POSTGRESDB_PASSWORD=bigbearcasaos
+    depends_on:
+      db-n8n:
+        condition: service_healthy
+  db-n8n:
+    container_name: db-n8n
+    image: postgres:14.2@sha256:2c954f8c5d03da58f8b82645b783b56c1135df17e650b186b296fa1bb71f9cfd
+    restart: on-failure
+    volumes:
+    - ${APP_DATA_DIR}/pgdata:/var/lib/postgresql/data
+    - ${APP_DATA_DIR}/db/init-data.sh:/docker-entrypoint-initdb.d/init-data.sh
+    environment:
+    - POSTGRES_PASSWORD=bigbearcasaos
+    - POSTGRES_USER=bigbearcasaos
+    - POSTGRES_DB=n8n
+    healthcheck:
+      test:
+      - CMD-SHELL
+      - pg_isready -h localhost -U bigbearcasaos -d n8n
+      interval: 5s
+      timeout: 5s
+      retries: 10
+version: '3.7'

@@ -1,0 +1,13 @@
+version: '3.7'
+services:
+  app:
+    image: traccar/traccar:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:8082
+    - 5000:5000
+    - 5000:5000
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/opt/traccar/data
+    - ${APP_DATA_DIR}/data/path2:/opt/traccar/logs
+    - ${APP_DATA_DIR}/data/path3:/opt/traccar/conf/traccar.xml

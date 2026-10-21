@@ -1,0 +1,20 @@
+name: big-bear-btop
+services:
+  big-bear-btop:
+    container_name: big-bear-btop
+    image: bigbeartechworld/big-bear-btop:0.1.11@sha256:2656811aebd8a85037927183e9008f9d6219c4182139f39555286a268f8b3b93
+    restart: unless-stopped
+    privileged: true
+    environment:
+    - GOTTY_AUTH_USER=bigbear
+    - GOTTY_AUTH_PASS=password
+    - GOTTY_AUTH_ENABLED=true
+    volumes:
+    - /proc:/proc
+    - /sys:/sys
+    - /dev:/dev
+    - /etc/localtime:/etc/localtime:ro
+    - ${APP_DATA_DIR}/config:/root/.config/btop
+    ports:
+    - 7681:7681
+version: '3.7'

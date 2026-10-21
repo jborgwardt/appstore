@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-postgis
+name: PostGIS
+tagline: PostGIS is a spatial database extender for PostgreSQL object-relational database
+icon: https://postgis.net/images/postgis-logo.png
+category: productivity
+version: latest
+port: 5432
+description: PostGIS is a spatial database extender for PostgreSQL object-relational database. The postgis/postgis image provides tags for running Postgres with PostGIS extensions installed.
+developer: Unraid Community
+website: http://postgis.net/
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/postgis.xml
+support: http://postgis.net/support/
+gallery: []
+releaseNotes: Imported from Unraid template postgis.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

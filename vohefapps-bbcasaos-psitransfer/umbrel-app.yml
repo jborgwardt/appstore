@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-psitransfer
+name: psitransfer
+tagline: Imported from BigBearCasaOS (psitransfer)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v2.4.4
+port: 3000
+description: Imported from BigBearCasaOS (psitransfer)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/psitransfer
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/psitransfer
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app psitransfer.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

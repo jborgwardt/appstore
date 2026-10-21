@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-remmina
+name: remmina
+tagline: Imported from BigBearCasaOS (remmina)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.4.43
+port: 3000
+description: Imported from BigBearCasaOS (remmina)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/remmina
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/remmina
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app remmina.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-joomla
+name: joomla
+tagline: Imported from BigBearCasaOS (joomla)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 6.1.4-apache
+port: 3000
+description: Imported from BigBearCasaOS (joomla)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/joomla
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/joomla
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app joomla.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

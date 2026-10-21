@@ -1,0 +1,11 @@
+version: '3.7'
+services:
+  app:
+    image: sismics/docs:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:8080
+    environment:
+    - DOCS_BASE_URL=
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/data

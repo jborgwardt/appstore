@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-vaultwarden
+name: VaultWarden
+tagline: All your passwords in your control!
+icon: https://runtipi.io/images/apps/vaultwarden.png
+category: utilities
+version: 1.37.4
+port: 8107
+description: Alternative implementation of the Bitwarden server API written in Rust and compatible with upstream Bitwarden clients, perfect for self-hosted deployment where running the official resource-heavy service might not be ideal.
+developer: Daniel García
+website: https://github.com/dani-garcia/vaultwarden
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/vaultwarden
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app vaultwarden.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

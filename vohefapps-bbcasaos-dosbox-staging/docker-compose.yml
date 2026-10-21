@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-dosbox-staging
+services:
+  app:
+    image: linuxserver/dosbox-staging:0.83.0@sha256:0bfe4890e61b5af9a7edd257e83dedb85b6c1f477ad9786be3e2adbe1aef436b
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/dosbox-staging/config
+      target: /config
+version: '3.7'

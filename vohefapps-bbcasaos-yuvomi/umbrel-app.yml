@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-yuvomi
+name: yuvomi
+tagline: Imported from BigBearCasaOS (yuvomi)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2.73.0
+port: 20004
+description: Imported from BigBearCasaOS (yuvomi)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/yuvomi
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/yuvomi
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app yuvomi.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

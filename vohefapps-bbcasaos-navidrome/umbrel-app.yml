@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-navidrome
+name: navidrome
+tagline: Imported from BigBearCasaOS (navidrome)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.64.2
+port: 4533
+description: Imported from BigBearCasaOS (navidrome)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/navidrome
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/navidrome
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app navidrome.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

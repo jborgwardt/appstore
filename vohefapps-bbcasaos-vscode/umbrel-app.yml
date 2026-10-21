@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-vscode
+name: vscode
+tagline: Imported from BigBearCasaOS (vscode)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.141.1
+port: 3000
+description: Imported from BigBearCasaOS (vscode)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/vscode
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/vscode
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app vscode.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

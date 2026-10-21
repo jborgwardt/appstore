@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-syncthing
+name: syncthing
+tagline: Imported from BigBearCasaOS (syncthing)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: '2.1'
+port: 8384
+description: Imported from BigBearCasaOS (syncthing)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/syncthing
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/syncthing
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app syncthing.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

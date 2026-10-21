@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-scummvm
+services:
+  app:
+    image: linuxserver/scummvm:2026.4.0@sha256:91dbc3a65017b3a301b31d00fe5d8c0e9c65e6bd36041991eb6a539f13b58089
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/scummvm/config
+      target: /config
+version: '3.7'

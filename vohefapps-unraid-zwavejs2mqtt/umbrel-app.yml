@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-zwavejs2mqtt
+name: zwavejs2mqtt
+tagline: Fully configurable Zwave to MQTT Gateway and Control Panel
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/zwavejs2mqtt.png
+category: homeautomation
+version: latest
+port: 8091
+description: Fully configurable Zwave to MQTT Gateway and Control Panel
+developer: Unraid Community
+website: https://github.com/zwave-js/zwavejs2mqtt
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/zwavejs2mqtt.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template zwavejs2mqtt.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

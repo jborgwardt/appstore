@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-blade-of-agony
+services:
+  app:
+    image: linuxserver/blade-of-agony:3.1.20261015@sha256:b3644bbb7b31a69eb9295baeac8e5ad477075650798690973bd2a3963e6b72c9
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/blade-of-agony/config
+      target: /config
+version: '3.7'

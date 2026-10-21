@@ -1,0 +1,18 @@
+name: big-bear-linuxserver-qemu-static
+services:
+  app:
+    image: linuxserver/qemu-static:10.0.2@sha256:843aca5fb5640749693281a3bb5208e90ee7e1e9ce1486afdaed95eb500ea326
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 80
+      published: 80
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/qemu-static/config
+      target: /config
+version: '3.7'

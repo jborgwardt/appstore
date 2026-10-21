@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-navidrome
+name: navidrome
+tagline: Modern Music Server and Streamer compatible with Subsonic/Airsonic
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/navidrome.png
+category: mediaserver
+version: latest
+port: 4533
+description: Modern Music Server and Streamer compatible with Subsonic/Airsonic
+developer: Unraid Community
+website: https://github.com/navidrome/navidrome
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/navidrome.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template navidrome.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

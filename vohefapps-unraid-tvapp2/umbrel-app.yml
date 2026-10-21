@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-tvapp2
+name: TVApp2
+tagline: Automatic M3U playlist and XML guide updater for TheTvApp, TVPass, and MoveOnJoy utilized within your IPTV client
+icon: https://raw.githubusercontent.com/TheBinaryNinja/unraid-templates/refs/heads/main/assets/tvapp2-vector.ico
+category: mediaapp
+version: latest
+port: 4124
+description: 'Automatic M3U playlist and XML guide updater for TheTvApp, TVPass, and MoveOnJoy utilized within your IPTV client. GitHub Project: https://github.com/TheBinaryNinja/tvapp2'
+developer: Unraid Community
+website: https://github.com/TheBinaryNinja/tvapp2
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/tvapp2.xml
+support: https://discord.com/channels/1340814107124830229/1342562117651529838
+gallery: []
+releaseNotes: Imported from Unraid template tvapp2.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

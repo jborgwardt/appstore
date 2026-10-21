@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-davis
+name: davis
+tagline: Imported from BigBearCasaOS (davis)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 5.4.1
+port: 9000
+description: Imported from BigBearCasaOS (davis)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/davis
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/davis
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app davis.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

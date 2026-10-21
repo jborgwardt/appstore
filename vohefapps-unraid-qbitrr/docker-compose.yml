@@ -1,0 +1,12 @@
+version: '3.7'
+services:
+  app:
+    image: feramance/qbitrr:latest
+    restart: unless-stopped
+    environment:
+    - RESTART_TIMER=0
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/sonarr.db
+    - ${APP_DATA_DIR}/data/path2:/radarr.db
+    - ${APP_DATA_DIR}/data/path3:/completed_downloads
+    - ${APP_DATA_DIR}/data/path4:/config

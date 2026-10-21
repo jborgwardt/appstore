@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-qdirstat
+name: qdirstat
+tagline: Imported from BigBearCasaOS (qdirstat)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2.0.20261012
+port: 3000
+description: Imported from BigBearCasaOS (qdirstat)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/qdirstat
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/qdirstat
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app qdirstat.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

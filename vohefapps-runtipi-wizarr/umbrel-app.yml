@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-wizarr
+name: Wizarr
+tagline: Wizarr is an automatic user invitation system for Plex and Jellyfin.
+icon: https://runtipi.io/images/apps/wizarr.png
+category: utilities
+version: v2026.10.1
+port: 5690
+description: Wizarr is an automatic user invitation system for Plex and Jellyfin. Create a unique link and share it to a user and they will be invited to your Media Server after they complete there signup proccess! They can even be guided to download the clients and read instructions on how to use your media software!
+developer: https://github.com/Wizarrrr
+website: https://github.com/Wizarrrr/wizarr
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/wizarr
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app wizarr.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

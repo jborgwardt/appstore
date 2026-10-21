@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-onedev
+name: onedev
+tagline: Imported from BigBearCasaOS (onedev)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 16.9.2
+port: 6610
+description: Imported from BigBearCasaOS (onedev)
+developer: BigBearCasaOS
+website: https://youtu.be/ps3JLYRB3SA
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/onedev
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app onedev.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

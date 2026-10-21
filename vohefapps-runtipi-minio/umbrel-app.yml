@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-minio
+name: Minio
+tagline: High Performance Object Storage.
+icon: https://runtipi.io/images/apps/minio.png
+category: development
+version: latest
+port: 8001
+description: MinIO is a high-performance, S3 compatible object store. It is built for large scale AI/ML, data lake and database workloads.
+developer: MinIO, Inc
+website: https://github.com/minio/minio
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/minio
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app minio.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-home-information
+name: Home Information
+tagline: Home Information transforms how you manage your property by creating a visual, spatial, centralized hub for everything about your home
+icon: https://raw.githubusercontent.com/cassandra/home-information/master/src/hi/static/img/hi-icon-128x128.png
+category: homeautomation
+version: latest
+port: 8000
+description: 'Home Information transforms how you manage your property by creating a visual, spatial, centralized hub for everything about your home. Instead of hunting through drawers, email attachments, and scattered notes, you''ll have manuals, maintenance records, device controls, and security monitoring all organized exactly where they belong - visually positioned on a map of your home. Key Features: - Spatial organization by location (click on kitchen to see everything kitchen-related) - Document and information management (manuals, warranties, maintenance records) - Home Assistant integration for device control - ZoneMinder integration for security cameras - Visual security zone monitoring - Local-first architecture (your data stays on your network) Perfect for homeowners who want to stay organized and maintain their property effectively, especially those with home automation or security systems.'
+developer: Unraid Community
+website: https://github.com/cassandra/home-information
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/home-information.xml
+support: https://github.com/cassandra/home-information/issues
+gallery: []
+releaseNotes: Imported from Unraid template home-information.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

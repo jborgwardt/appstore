@@ -1,0 +1,18 @@
+version: '3.7'
+services:
+  app:
+    image: shinobicctv/shinobi:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:8080
+    environment:
+    - NVIDIA_VISIBLE_DEVICES=
+    - NVIDIA_DRIVER_CAPABILITIES=
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/dev/shm/Shinobi/streams
+    - ${APP_DATA_DIR}/data/path2:/config
+    - ${APP_DATA_DIR}/data/path3:/home/Shinobi/libs/customAutoLoad
+    - ${APP_DATA_DIR}/data/path4:/var/lib/mysql
+    - ${APP_DATA_DIR}/data/path5:/home/Shinobi/videos
+    - ${APP_DATA_DIR}/data/path6:/home/Shinobi/plugins
+    - ${APP_DATA_DIR}/data/path7:/etc/localtime

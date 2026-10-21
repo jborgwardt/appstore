@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-actual-budget
+name: Actual Budget
+tagline: Local-first OpenSource Budget tool
+icon: https://runtipi.io/images/apps/actual-budget.png
+category: finance
+version: 26.10.0
+port: 8011
+description: Actual is a local-first personal finance tool. It is 100% free and open-source, written in NodeJS, it has a synchronization element so that all your changes can move between devices without any heavy lifting.
+developer: Shift Reset LLC
+website: https://github.com/actualbudget/actual
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/actual-budget
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app actual-budget.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

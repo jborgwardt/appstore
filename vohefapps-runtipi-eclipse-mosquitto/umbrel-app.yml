@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-eclipse-mosquitto
+name: Eclipse Mosquitto
+tagline: The MQTT protocol provides a lightweight method of carrying out messaging using a publish/subscribe model.
+icon: https://runtipi.io/images/apps/eclipse-mosquitto.png
+category: utilities
+version: 2.0.22
+port: 8288
+description: Eclipse Mosquitto is an open source message broker that implements the MQTT protocol.
+developer: Eclipse Foundation
+website: https://github.com/eclipse/mosquitto/
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/eclipse-mosquitto
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app eclipse-mosquitto.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

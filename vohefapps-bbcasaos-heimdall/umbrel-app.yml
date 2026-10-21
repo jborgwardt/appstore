@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-heimdall
+name: heimdall
+tagline: Imported from BigBearCasaOS (heimdall)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2.8.3
+port: 3000
+description: Imported from BigBearCasaOS (heimdall)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/heimdall
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/heimdall
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app heimdall.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

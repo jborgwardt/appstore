@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-goaway
+name: goaway
+tagline: Imported from BigBearCasaOS (goaway)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.63.17
+port: 53
+description: Imported from BigBearCasaOS (goaway)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/goaway
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/goaway
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app goaway.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

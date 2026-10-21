@@ -1,0 +1,13 @@
+version: '3.7'
+services:
+  app:
+    image: tigerblue77/dell_idrac_fan_controller:latest
+    restart: unless-stopped
+    environment:
+    - IDRAC_HOST=local
+    - FAN_SPEED=5
+    - CPU_TEMPERATURE_THRESHOLD=50
+    - CHECK_INTERVAL=60
+    - IDRAC_USERNAME=root
+    - IDRAC_PASSWORD=calvin
+    - DISABLE_THIRD_PARTY_PCIE_CARD_DELL_DEFAULT_COOLING_RESPONSE=false

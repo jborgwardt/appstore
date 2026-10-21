@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-flame
+name: flame
+tagline: Imported from BigBearCasaOS (flame)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: multiarch2.3.1
+port: 3000
+description: Imported from BigBearCasaOS (flame)
+developer: BigBearCasaOS
+website: https://youtu.be/p_P_jKmJRz8
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/flame
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app flame.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

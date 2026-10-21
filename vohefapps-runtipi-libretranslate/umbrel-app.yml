@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-libretranslate
+name: LibreTranslate
+tagline: Free and Open Source Machine Translation API. 100% self-hosted, offline capable and easy to setup.
+icon: https://runtipi.io/images/apps/libretranslate.png
+category: utilities
+version: v1.9.6
+port: 8121
+description: Free and Open Source Machine Translation API, entirely self-hosted. Unlike other APIs, it doesn't rely on proprietary providers such as Google or Azure to perform translations. Instead, its translation engine is powered by the open source Argos Translate library.
+developer: LibreTranslate
+website: https://github.com/LibreTranslate/LibreTranslate
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/libretranslate
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app libretranslate.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

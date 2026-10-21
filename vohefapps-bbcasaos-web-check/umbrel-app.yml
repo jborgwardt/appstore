@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-web-check
+name: web-check
+tagline: Imported from BigBearCasaOS (web-check)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2.3.6
+port: 20003
+description: Imported from BigBearCasaOS (web-check)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/web-check
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/web-check
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app web-check.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

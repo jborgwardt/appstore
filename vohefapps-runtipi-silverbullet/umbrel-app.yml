@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-silverbullet
+name: Silverbullet
+tagline: 'SilverBullet is a creative space where you collect, create and expand your personal knowledge, while also letting you constantly evolve the '
+icon: https://runtipi.io/images/apps/silverbullet.png
+category: utilities
+version: 2.12.1
+port: 8214
+description: SilverBullet aims to be your workshop for the mind
+developer: zefhemel
+website: https://github.com/silverbulletmd/silverbullet
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/silverbullet
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app silverbullet.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

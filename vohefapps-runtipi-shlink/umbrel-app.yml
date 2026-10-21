@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-shlink
+name: Shlink
+tagline: Shlink is a self-hosted URL shortener
+icon: https://runtipi.io/images/apps/shlink.png
+category: utilities
+version: 5.1.7
+port: 8207
+description: Shlink is a self-hosted URL shortener which provides both a REST and a CLI interface to interact with it.
+developer: https://shlink.io/
+website: https://github.com/shlinkio/shlink
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/shlink
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app shlink.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-onedev
+name: OneDev
+tagline: Self-hosted Git Server with Kanban and CI/CD
+icon: https://runtipi.io/images/apps/onedev.png
+category: development
+version: 16.9.4
+port: 6610
+description: Self-hosted Git Server with Kanban and CI/CD
+developer: https://code.onedev.io/
+website: https://code.onedev.io/onedev/server
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/onedev
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app onedev.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

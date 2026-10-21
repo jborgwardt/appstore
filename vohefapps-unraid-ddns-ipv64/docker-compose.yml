@@ -1,0 +1,18 @@
+version: '3.7'
+services:
+  app:
+    image: alcapone1933/ddns-ipv64:latest
+    restart: unless-stopped
+    environment:
+    - CRON_TIME=*/15 * * * *
+    - CRON_TIME_DIG=*/30 * * * *
+    - DOMAIN_IPV64=
+    - DOMAIN_KEY=
+    - DOMAIN_PRAEFIX_YES=yes|no
+    - DOMAIN_PRAEFIX=
+    - IP_CHECK=yes|no
+    - SHOUTRRR_URL=
+    - SHOUTRRR_SKIP_TEST=
+    - NAME_SERVER=ns1.ipv64.net
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/data

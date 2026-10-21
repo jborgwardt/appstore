@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-brave
+name: brave
+tagline: Imported from BigBearCasaOS (brave)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.15.0-rolling
+port: 6901
+description: Imported from BigBearCasaOS (brave)
+developer: BigBearCasaOS
+website: https://youtu.be/CJ2x-yCW-co
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/brave
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app brave.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-duplicati
+name: Duplicati
+tagline: Store securely encrypted backups in the cloud!
+icon: https://runtipi.io/images/apps/duplicati.png
+category: data
+version: 2.4.0
+port: 8159
+description: Duplicati is a free, open source, backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers.
+developer: https://github.com/duplicati
+website: https://github.com/linuxserver/docker-duplicati
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/duplicati
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app duplicati.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

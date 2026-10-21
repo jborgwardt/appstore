@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-hoarder
+name: Hoarder
+tagline: Self-hostable bookmark-everything app
+icon: https://runtipi.io/images/apps/hoarder.png
+category: utilities
+version: 0.34.0
+port: 8685
+description: A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+developer: hoarder-app
+website: https://github.com/hoarder-app/hoarder
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/hoarder
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app hoarder.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

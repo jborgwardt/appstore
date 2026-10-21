@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-linkwarden
+name: linkwarden
+tagline: Imported from BigBearCasaOS (linkwarden)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v2.14.1
+port: 3000
+description: Imported from BigBearCasaOS (linkwarden)
+developer: BigBearCasaOS
+website: https://youtu.be/KZXZAi9Vjs4
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/linkwarden
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app linkwarden.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

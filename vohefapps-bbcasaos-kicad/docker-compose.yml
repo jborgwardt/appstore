@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-kicad
+services:
+  app:
+    image: linuxserver/kicad:10.0.3@sha256:de81f2b6188f41804c2409c580cfa7f7f4b05908e0c717cc4b66cf825609407c
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/kicad/config
+      target: /config
+version: '3.7'

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-ungoogled-chromium
+name: ungoogled-chromium
+tagline: Imported from BigBearCasaOS (ungoogled-chromium)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 155.0.8059
+port: 3000
+description: Imported from BigBearCasaOS (ungoogled-chromium)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/ungoogled-chromium
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/ungoogled-chromium
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app ungoogled-chromium.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

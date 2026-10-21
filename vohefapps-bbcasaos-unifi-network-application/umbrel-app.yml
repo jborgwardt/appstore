@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-unifi-network-application
+name: unifi-network-application
+tagline: Imported from BigBearCasaOS (unifi-network-application)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 10.6.106
+port: 8443
+description: Imported from BigBearCasaOS (unifi-network-application)
+developer: BigBearCasaOS
+website: https://youtu.be/JCe-r_SHCe8
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/unifi-network-application
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app unifi-network-application.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

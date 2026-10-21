@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-photoprism
+name: PhotoPrism
+tagline: AI-Powered Photos App for the Decentralized Web. We are on a mission to protect your freedom and privacy.
+icon: https://runtipi.io/images/apps/photoprism.png
+category: photography
+version: latest
+port: 8110
+description: 'PhotoPrism® is an AI-Powered Photos App for the Decentralized Web. It makes use of the latest technologies to tag and find pictures automatically without getting in your way. You can run it at home, on a private server, or in the cloud. Default username: admin'
+developer: PhotoPrism
+website: https://github.com/photoprism/photoprism
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/photoprism
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app photoprism.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

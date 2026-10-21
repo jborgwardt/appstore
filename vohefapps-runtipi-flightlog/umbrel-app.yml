@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-flightlog
+name: Flightlog
+tagline: Flightlog, a web application that keeps track of your personal flight history
+icon: https://runtipi.io/images/apps/flightlog.png
+category: utilities
+version: v2.1.14
+port: 8934
+description: Easily keep track of your flight history
+developer: perdian
+website: https://github.com/perdian/flightlog/
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/flightlog
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app flightlog.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-movary
+name: Movary
+tagline: 'Movary is a self-hosted web application to track and rate your watched movies. '
+icon: https://runtipi.io/images/apps/movary.png
+category: media
+version: 0.80.0
+port: 8155
+description: Movary is a self-hosted web application to track and rate your watched movies (like a digital movie diary). You can import/export your history and ratings from/to third parties like trakt.tv or letterboxd.com, scrobble your watches via Plex and Jellyfin and more.
+developer: leepeuker
+website: https://github.com/leepeuker/movary
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/movary
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app movary.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

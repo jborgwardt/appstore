@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-unimus
+name: unimus
+tagline: Unimus is a multi-vendor network device configuration backup and management solution, designed from the ground up with user friendliness, wo
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/unimus.png
+category: backup
+version: latest
+port: 8085
+description: Unimus is a multi-vendor network device configuration backup and management solution, designed from the ground up with user friendliness, workflow optimization and ease-of-use in mind. You can get a free 5-device license at https://unimus.net/
+developer: Unraid Community
+website: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/unimus.xml
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/unimus.xml
+support: https://hub.docker.com/r/croc/unimus/
+gallery: []
+releaseNotes: Imported from Unraid template unimus.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

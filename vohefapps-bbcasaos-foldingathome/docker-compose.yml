@@ -1,0 +1,24 @@
+name: big-bear-linuxserver-foldingathome
+services:
+  app:
+    image: linuxserver/foldingathome:8.5.6@sha256:6d16e2e1460e43e84d3e48ba956aee4aa826435233ad3e8c6c3526f3e6f20bd8
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+      ACCOUNT_TOKEN: ''
+      MACHINE_NAME: ''
+      CLI_ARGS: ''
+    ports:
+    - target: 80
+      published: 80
+      protocol: tcp
+    - target: 7396
+      published: 7396
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/foldingathome/config
+      target: /config
+version: '3.7'

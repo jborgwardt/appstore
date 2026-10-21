@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-seedsync
+name: SeedSync
+tagline: SeedSync is a tool to sync the files on a remote Linux server.
+icon: https://runtipi.io/images/apps/seedsync.png
+category: utilities
+version: 0.8.6
+port: 8800
+description: SeedSync is a tool to sync the files on a remote Linux server (like your seedbox, for example). It uses LFTP to transfer files fast!
+developer: Inderpreet Singh
+website: https://github.com/ipsingh06/seedsync
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/seedsync
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app seedsync.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

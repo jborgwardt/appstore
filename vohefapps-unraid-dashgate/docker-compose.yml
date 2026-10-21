@@ -1,0 +1,27 @@
+version: '3.7'
+services:
+  app:
+    image: khak1s/dashgate:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:1738
+    environment:
+    - PUID=99
+    - PGID=100
+    - PORT=1738
+    - AUTH_MODE=local|hybrid|authelia
+    - SESSION_DURATION_DAYS=7
+    - ENCRYPTION_KEY=
+    - DOCKER_DISCOVERY=true
+    - TRAEFIK_DISCOVERY=false
+    - TRAEFIK_URL=
+    - NPM_DISCOVERY=false
+    - NPM_URL=
+    - NPM_EMAIL=
+    - NPM_PASSWORD=
+    - LLDAP_URL=
+    - LLDAP_ADMIN_USERNAME=
+    - LLDAP_ADMIN_PASSWORD=
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/config
+    - ${APP_DATA_DIR}/data/path2:/var/run/docker.sock

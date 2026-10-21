@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-openclaw
+name: openclaw
+tagline: Imported from BigBearCasaOS (openclaw)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2026.5.3-1
+port: 18789
+description: Imported from BigBearCasaOS (openclaw)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/openclaw
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/openclaw
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app openclaw.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

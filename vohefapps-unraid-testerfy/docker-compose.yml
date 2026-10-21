@@ -1,0 +1,14 @@
+version: '3.7'
+services:
+  app:
+    image: ghcr.io/ozmoetr/testerfy:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:5247
+    environment:
+    - SPOTIFY_CLIENT_ID=
+    - SPOTIFY_CLIENT_SECRET=
+    - SPOTIFY_REDIRECT_URI=
+    - SESSION_SECRET=
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/data

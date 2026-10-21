@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-ppsspp
+services:
+  app:
+    image: linuxserver/ppsspp:1.20.4@sha256:4703743dacda03d1f73ca54cf1903e83f0686981aa24498bf5cfacd4201e88d4
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/ppsspp/config
+      target: /config
+version: '3.7'

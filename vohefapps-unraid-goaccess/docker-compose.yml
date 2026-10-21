@@ -1,0 +1,10 @@
+version: '3.7'
+services:
+  app:
+    image: allinurl/goaccess:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:7890
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/var/log
+    - ${APP_DATA_DIR}/data/path2:/var/www/goaccess

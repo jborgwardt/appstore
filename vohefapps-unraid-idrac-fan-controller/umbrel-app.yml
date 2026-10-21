@@ -1,0 +1,22 @@
+manifestVersion: 1
+id: vohefapps-unraid-idrac-fan-controller
+name: Dell iDRAC Fan Controller
+tagline: https://github.com/tigerblue77/Dell_iDRAC_fan_controller_Docker https://hub.docker.com/r/tigerblue77/dell_idrac_fan_controller/ All paramete
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: latest
+port: 3000
+description: 'https://github.com/tigerblue77/Dell_iDRAC_fan_controller_Docker https://hub.docker.com/r/tigerblue77/dell_idrac_fan_controller/ All parameters are optional as they have default values (including default iDRAC username and password). IDRAC_HOST parameter can be set to "local" or to your distant iDRAC''s IP address. Default value is "local". IDRAC_USERNAME parameter is only necessary if you''re adressing a distant iDRAC. Default value is "root". IDRAC_PASSWORD parameter is only necessary if you''re adressing a distant iDRAC. Default value is "calvin". FAN_SPEED parameter can be set as a decimal (from 0 to 100%) or hexadecimal value (from 0x00 to 0x64) you want to set the fans to. Default value is 5(%). CPU_TEMPERATURE_THRESHOLD parameter is the T°junction (junction temperature) threshold beyond which the Dell fan profile defined in your BIOS will become active again (to protect the server hardware against overheat). Default value is 50(°C). CHECK_INTERVAL parameter is the time
+  (in seconds) between each temperature check and potential profile change. Default value is 60(s). DISABLE_THIRD_PARTY_PCIE_CARD_DELL_DEFAULT_COOLING_RESPONSE parameter is a boolean that allows to disable third-party PCIe card Dell default cooling response. Default value is false. ipmi tool installation help: https://forums.unraid.net/topic/129200-plug-in-nerdtools/ for installation and check this link for missing ipmi ipmi tool can''t find /dev/ipmi0?: https://serverfault.com/questions/480371/ipmitool-cant-find-dev-ipmi0-or-dev-ipmidev-0'
+developer: Unraid Community
+website: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/idrac-fan-controller.xml
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/idrac-fan-controller.xml
+support: https://github.com/tigerblue77/Dell_iDRAC_fan_controller_Docker
+gallery: []
+releaseNotes: Imported from Unraid template idrac-fan-controller.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

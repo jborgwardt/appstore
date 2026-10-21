@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-dolphin
+services:
+  app:
+    image: linuxserver/dolphin:version-2606a@sha256:2934f9f01b98669242408c97cfd927ccf308cab108c380f5d4b8dfded5eb5055
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/dolphin/config
+      target: /config
+version: '3.7'

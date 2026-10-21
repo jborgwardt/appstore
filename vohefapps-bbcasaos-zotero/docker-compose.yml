@@ -1,0 +1,17 @@
+name: big-bear-zotero
+services:
+  big-bear-zotero:
+    container_name: big-bear-zotero
+    image: linuxserver/zotero:10.0.20260821@sha256:d201c7dd666842c8b6d06dee127052d6feae815dbbb0feba448c1182053598f9
+    restart: unless-stopped
+    environment:
+    - PUID=1000
+    - PGID=1000
+    - TZ=Etc/UTC
+    ports:
+    - 3000:3000
+    - 3001:3001
+    security_opt:
+    - seccomp:unconfined
+    shm_size: 1gb
+version: '3.7'

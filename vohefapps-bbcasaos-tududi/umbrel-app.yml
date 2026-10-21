@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-tududi
+name: tududi
+tagline: Imported from BigBearCasaOS (tududi)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: '0.87'
+port: 9292
+description: Imported from BigBearCasaOS (tududi)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/tududi
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/tududi
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app tududi.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

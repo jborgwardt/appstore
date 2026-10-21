@@ -1,0 +1,17 @@
+version: '3.7'
+services:
+  app:
+    image: ghcr.io/jmbannon/ytdl-sub:latest
+    restart: unless-stopped
+    environment:
+    - PUID=
+    - PGID=
+    - UMASK=
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/config
+    - ${APP_DATA_DIR}/data/path2:/tv_shows
+    - ${APP_DATA_DIR}/data/path3:/music
+    - ${APP_DATA_DIR}/data/path4:/music_videos
+    - ${APP_DATA_DIR}/data/path5:/movies
+    - ${APP_DATA_DIR}/data/path6:/media
+    - ${APP_DATA_DIR}/data/path7:/tmp

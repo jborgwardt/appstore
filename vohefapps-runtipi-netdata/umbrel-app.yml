@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-netdata
+name: Netdata
+tagline: Open-source, real-time, performance and health monitoring.
+icon: https://runtipi.io/images/apps/netdata.png
+category: utilities
+version: v2.12.1
+port: 19999
+description: Stream any metrics from every physical and virtual server, container and IoT device, to one dashboard, in real-time.
+developer: netdata
+website: https://github.com/netdata/netdata
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/netdata
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app netdata.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

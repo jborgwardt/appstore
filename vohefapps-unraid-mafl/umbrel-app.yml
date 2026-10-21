@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-mafl
+name: Mafl
+tagline: Mafl is an intuitive service for organizing your homepage
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/mafl.png
+category: tools
+version: latest
+port: 3000
+description: Mafl is an intuitive service for organizing your homepage. Customize Mafl to your individual needs and work even more efficiently!
+developer: Unraid Community
+website: https://mafl.hywax.space
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/mafl.xml
+support: https://github.com/hywax/mafl/issues/new/choose
+gallery: []
+releaseNotes: Imported from Unraid template mafl.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

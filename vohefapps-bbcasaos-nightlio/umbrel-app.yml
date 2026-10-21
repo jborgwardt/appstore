@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-nightlio
+name: nightlio
+tagline: Imported from BigBearCasaOS (nightlio)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.1.7
+port: 5173
+description: Imported from BigBearCasaOS (nightlio)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/nightlio
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/nightlio
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app nightlio.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

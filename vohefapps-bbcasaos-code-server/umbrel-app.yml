@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-code-server
+name: code-server
+tagline: Imported from BigBearCasaOS (code-server)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 4.141.0
+port: 8080
+description: Imported from BigBearCasaOS (code-server)
+developer: BigBearCasaOS
+website: https://youtu.be/aiYcwXDfgE8
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/code-server
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app code-server.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

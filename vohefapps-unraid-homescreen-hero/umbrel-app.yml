@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-homescreen-hero
+name: homescreen-hero
+tagline: Plex companion app for users who want more control over how their libraries feel, not just how they're stored
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/homescreen-hero.png
+category: mediaapp
+version: latest
+port: 8000
+description: Plex companion app for users who want more control over how their libraries feel, not just how they're stored. It brings together collection management, automation, personalization, and server tools in one self-hosted app, all so that you get to choose what appears, when it appears, and who sees it. Wanna see it in action first? Check out the demo! https://demo.homescreenhero.com More info on features, installation, and general documenation can be found at https://docs.homescreenhero.com/
+developer: Unraid Community
+website: https://github.com/trentferguson/homescreen-hero
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/homescreen-hero.xml
+support: https://forums.unraid.net/topic/196125-support-homescreen-hero-docker-repository/
+gallery: []
+releaseNotes: Imported from Unraid template homescreen-hero.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-mylar3
+name: Mylar3
+tagline: Mylar3 is an automated Comic Book downloader (cbr/cbz) for use with NZB and torrents written in python.
+icon: https://runtipi.io/images/apps/mylar3.png
+category: media
+version: v0.7.1-ls84
+port: 8174
+description: Mylar3 is an automated Comic Book downloader (cbr/cbz) for use with NZB and torrents written in python.
+developer: Mylar3
+website: https://github.com/mylar3/mylar3
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/mylar3
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app mylar3.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

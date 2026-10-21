@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-domoticz
+name: domoticz
+tagline: Imported from BigBearCasaOS (domoticz)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2023.2.20231129
+port: 3000
+description: Imported from BigBearCasaOS (domoticz)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/domoticz
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/domoticz
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app domoticz.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

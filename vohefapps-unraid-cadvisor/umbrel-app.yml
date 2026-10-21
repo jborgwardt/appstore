@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-cadvisor
+name: cadvisor
+tagline: cAdvisor (Container Advisor) provides container users an understanding of the resource usage and performance characteristics of their runnin
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/cadvisor.png
+category: tools
+version: latest
+port: 8080
+description: cAdvisor (Container Advisor) provides container users an understanding of the resource usage and performance characteristics of their running containers. It is a running daemon that collects, aggregates, processes, and exports information about running containers. Specifically, for each container it keeps resource isolation parameters, historical resource usage, histograms of complete historical resource usage and network statistics. This data is exported by container and machine-wide.
+developer: Unraid Community
+website: https://github.com/google/cadvisor
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/cadvisor.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template cadvisor.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

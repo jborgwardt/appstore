@@ -1,0 +1,76 @@
+name: big-bear-paperless-ngx
+services:
+  big-bear-paperless-ngx:
+    container_name: big-bear-paperless-ngx
+    image: ghcr.io/paperless-ngx/paperless-ngx:3.2.0@sha256:22dc423ff48ac1629977dbf0c9625ba9f60d3bd1291a2ff173c65351984a14c2
+    restart: unless-stopped
+    environment:
+      PAPERLESS_DBENGINE: postgresql
+      PAPERLESS_SECRET_KEY: $PAPERLESS_SECRET_KEY
+      PAPERLESS_REDIS: redis://big-bear-paperless-ngx-broker:6379
+      PAPERLESS_DBHOST: big-bear-paperless-ngx-db
+      PAPERLESS_DBUSER: bigbear
+      PAPERLESS_DBPASS: c6e74adb-3fce-4318-b657-4bdc0858fcac
+      PAPERLESS_ADMIN_USER: bigbear
+      PAPERLESS_ADMIN_PASSWORD: c22e92a6-2a3d-4edf-a98e-4044834daea6
+      PAPERLESS_TIKA_ENABLED: 'true'
+      PAPERLESS_TIKA_GOTENBERG_ENDPOINT: http://big-bear-paperless-ngx-gotenberg:3000
+      PAPERLESS_TIKA_ENDPOINT: http://big-bear-paperless-ngx-tika:9998
+      PAPERLESS_URL: http://[YOUR_IP]:8000
+      COMPOSE_PROJECT_NAME: big-bear-paperless-ngx
+      PAPERLESS_CSRF_TRUSTED_ORIGINS: http://[YOUR_IP]:8000
+    volumes:
+    - ${APP_DATA_DIR}/paperless/data:/usr/src/paperless/data
+    - ${APP_DATA_DIR}/paperless/media:/usr/src/paperless/media
+    - ${APP_DATA_DIR}/paperless/export:/usr/src/paperless/export
+    - ${APP_DATA_DIR}/paperless/consume:/usr/src/paperless/consume
+    - ${APP_DATA_DIR}/paperless/tmp:/tmp
+    ports:
+    - 8000:8000
+    depends_on:
+    - big-bear-paperless-ngx-db
+    - big-bear-paperless-ngx-broker
+    networks:
+    - big-bear-paperless-ngx-network
+  big-bear-paperless-ngx-broker:
+    container_name: big-bear-paperless-ngx-broker
+    image: docker.io/library/redis:8.10.2@sha256:2c2dff791878316e3b083188be0d578423b24813cdda5de0e80ea4f7b3e6bfd6
+    restart: unless-stopped
+    volumes:
+    - ${APP_DATA_DIR}/redis:/data
+    networks:
+    - big-bear-paperless-ngx-network
+  big-bear-paperless-ngx-db:
+    container_name: big-bear-paperless-ngx-db
+    image: library/postgres:16@sha256:be01cf82fc7dbba824acf0a82e150b4b360f3ff93c6631d7844af431e841a95c
+    restart: unless-stopped
+    volumes:
+    - ${APP_DATA_DIR}/postgres:/var/lib/postgresql/data
+    environment:
+      POSTGRES_DB: paperless
+      POSTGRES_USER: bigbear
+      POSTGRES_PASSWORD: c6e74adb-3fce-4318-b657-4bdc0858fcac
+    networks:
+    - big-bear-paperless-ngx-network
+  big-bear-paperless-ngx-gotenberg:
+    container_name: big-bear-paperless-ngx-gotenberg
+    image: gotenberg/gotenberg:8.38@sha256:aa552cc115db488e0f0bcb07446aac13071ad51505b642c84bb894500907b42b
+    restart: unless-stopped
+    command:
+    - gotenberg
+    - --chromium-disable-javascript=true
+    - --chromium-allow-list=file:///tmp/.*
+    networks:
+    - big-bear-paperless-ngx-network
+  big-bear-paperless-ngx-tika:
+    container_name: big-bear-paperless-ngx-tika
+    image: apache/tika:3.3.1.0@sha256:90b7fa1dc018434075fce9e1d9b88b1e3d0ea6979d0cf86e116c79a8073ae973
+    restart: unless-stopped
+    volumes:
+    - ${APP_DATA_DIR}/tika/tmp:/tmp
+    networks:
+    - big-bear-paperless-ngx-network
+networks:
+  big-bear-paperless-ngx-network:
+    driver: bridge
+version: '3.7'

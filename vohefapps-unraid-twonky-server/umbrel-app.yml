@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-twonky-server
+name: twonky-server
+tagline: TwonkyMedia server (TMS) is DLNA-compliant UPnP AV server software from PacketVideo
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/twonky-server.png
+category: mediaserver
+version: latest
+port: 9000
+description: TwonkyMedia server (TMS) is DLNA-compliant UPnP AV server software from PacketVideo. TwonkyMedia server can be used to share and stream media to most UPnP AV or DLNA-compliant clients, in addition to non-UPnP devices through the HTML, RSS, and JSON supported front ends.
+developer: Unraid Community
+website: https://github.com/H2CK/twonkyserver
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/twonky-server.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template twonky-server.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

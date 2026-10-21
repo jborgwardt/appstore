@@ -1,0 +1,16 @@
+name: big-bear-homarr-v2
+services:
+  big-bear-homarr-v2:
+    container_name: big-bear-homarr-v2
+    image: ghcr.io/homarr-labs/homarr:v2.0.0@sha256:3eeef80bfc58f6588844e9405da47550f681006d3019005a34f9388b5c00eb73
+    restart: unless-stopped
+    volumes:
+    - /var/run/docker.sock:/var/run/docker.sock
+    - ${APP_DATA_DIR}/appdata:/appdata
+    environment:
+    - SECRET_ENCRYPTION_KEY=
+    - DB_DIALECT=sqlite
+    - DB_URL=/appdata/db/db.sqlite
+    ports:
+    - 7576:7575
+version: '3.7'

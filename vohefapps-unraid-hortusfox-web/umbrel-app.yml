@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-hortusfox-web
+name: hortusfox-web
+tagline: Self-hosted collaborative plant management system for your local environment
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: productivity
+version: latest
+port: 80
+description: Self-hosted collaborative plant management system for your local environment
+developer: Unraid Community
+website: https://hortusfox.github.io/
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/hortusfox-web.xml
+support: https://github.com/danielbrendel/hortusfox-web/issues/new
+gallery: []
+releaseNotes: Imported from Unraid template hortusfox-web.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

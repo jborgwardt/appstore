@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-intellij-idea
+name: intellij-idea
+tagline: Imported from BigBearCasaOS (intellij-idea)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 42026.2.3
+port: 3000
+description: Imported from BigBearCasaOS (intellij-idea)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/intellij-idea
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/intellij-idea
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app intellij-idea.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

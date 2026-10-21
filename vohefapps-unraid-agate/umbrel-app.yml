@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-agate
+name: Agate
+tagline: Agate is a server for the Gemini network protocol, built with the Rust programming language
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/agate.png
+category: network
+version: latest
+port: 1965
+description: Agate is a server for the Gemini network protocol, built with the Rust programming language. Agate has very few features, and can only serve static files. It uses async I/O, and should be quite efficient even when running on low-end hardware and serving many concurrent requests.
+developer: Unraid Community
+website: https://github.com/mbrubeck/agate
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/agate.xml
+support: https://forums.unraid.net/topic/181208-support-agate-gemini-server/
+gallery: []
+releaseNotes: Imported from Unraid template agate.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

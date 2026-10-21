@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-flaresolverr
+name: flaresolverr
+tagline: FlareSolverr is a proxy server to bypass Cloudflare protection
+icon: https://raw.githubusercontent.com/FlareSolverr/FlareSolverr/master/resources/flaresolverr_logo.png
+category: downloaders
+version: latest
+port: 8191
+description: FlareSolverr is a proxy server to bypass Cloudflare protection. Useful as a companion for indexer proxies such as Prowlarr and Jackett.
+developer: Unraid Community
+website: https://github.com/FlareSolverr/FlareSolverr
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/flaresolverr.xml
+support: https://github.com/selfhosters/unRAID-CA-templates/issues
+gallery: []
+releaseNotes: Imported from Unraid template flaresolverr.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

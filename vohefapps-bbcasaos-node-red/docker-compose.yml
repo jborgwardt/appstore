@@ -1,0 +1,12 @@
+name: big-bear-node-red
+services:
+  app:
+    container_name: node-red
+    image: nodered/node-red:5.0.8@sha256:b5adb6c9dd29ab80c852d82bc87daed84e729dcff9b00ca1bf958e6de470f2c1
+    restart: unless-stopped
+    ports:
+    - 1880:1880
+    network_mode: bridge
+    volumes:
+    - ${APP_DATA_DIR}/data:/data
+version: '3.7'

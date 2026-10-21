@@ -1,0 +1,17 @@
+name: big-bear-genmon
+services:
+  big-bear-genmon:
+    container_name: big-bear-genmon
+    image: bigbeartechworld/big-bear-genmon:2.0.03@sha256:35e69b8a39edb0b4fc0d99147fada8937b41549822d0d37ad323b00a6d8dbf08
+    environment:
+    - TZ=America/Chicago
+    ports:
+    - '20022:22'
+    - 38443:443
+    - 8000:8000
+    restart: unless-stopped
+    volumes:
+    - ${APP_DATA_DIR}/git/genmon:/git/genmon
+    - ${APP_DATA_DIR}/etc/genmon:/etc/genmon
+    - ${APP_DATA_DIR}/var/log:/var/log
+version: '3.7'

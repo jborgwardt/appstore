@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-invidious
+name: Invidious
+tagline: An alternative front-end to YouTube
+icon: https://runtipi.io/images/apps/invidious.png
+category: media
+version: master
+port: 8095
+description: Invidious is an open source alternative front-end to YouTube.
+developer: iv-org
+website: https://github.com/iv-org/invidious
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/invidious
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app invidious.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

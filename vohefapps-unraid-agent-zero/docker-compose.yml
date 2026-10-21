@@ -1,0 +1,13 @@
+version: '3.7'
+services:
+  app:
+    image: agent0ai/agent-zero:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:80
+    environment:
+    - NVIDIA_VISIBLE_DEVICES=all
+    - OLLAMA_BASE_URL=http://localhost:11434
+    - LM_STUDIO_BASE_URL=http://localhost:1234/v1
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/a0

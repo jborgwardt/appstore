@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-retroarch
+name: retroarch
+tagline: Imported from BigBearCasaOS (retroarch)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.22.2
+port: 3000
+description: Imported from BigBearCasaOS (retroarch)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/retroarch
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/retroarch
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app retroarch.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

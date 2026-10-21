@@ -1,0 +1,17 @@
+version: '3.7'
+services:
+  app:
+    image: dockerdiscordcontrol/dockerdiscordcontrol:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:9374
+    environment:
+    - PUID=99
+    - PGID=100
+    - DDC_ADMIN_PASSWORD=
+    - FLASK_SECRET_KEY=
+    - DISCORD_BOT_TOKEN=
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/app/config
+    - ${APP_DATA_DIR}/data/path2:/app/logs
+    - ${APP_DATA_DIR}/data/path3:/var/run/docker.sock

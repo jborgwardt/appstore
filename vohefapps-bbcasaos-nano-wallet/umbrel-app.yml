@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-nano-wallet
+name: nano-wallet
+tagline: Imported from BigBearCasaOS (nano-wallet)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.3.2
+port: 3000
+description: Imported from BigBearCasaOS (nano-wallet)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/nano-wallet
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/nano-wallet
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app nano-wallet.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

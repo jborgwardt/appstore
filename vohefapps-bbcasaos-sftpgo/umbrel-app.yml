@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-sftpgo
+name: sftpgo
+tagline: Imported from BigBearCasaOS (sftpgo)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v2.7
+port: 8080
+description: Imported from BigBearCasaOS (sftpgo)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/sftpgo
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/sftpgo
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app sftpgo.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

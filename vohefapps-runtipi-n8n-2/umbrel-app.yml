@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-n8n-2
+name: n8n
+tagline: Workflow Automation Tool. Alternative to Zapier
+icon: https://runtipi.io/images/apps/n8n-2.png
+category: automation
+version: 2.44.4
+port: 5678
+description: n8n is an extendable workflow automation tool. With a fair-code distribution model, n8n will always have visible source code, be available to self-host, and allow you to add your own custom functions, logic and apps. n8n's node-based approach makes it highly versatile, enabling you to connect anything to everything.
+developer: n8n.io
+website: https://github.com/n8n-io/n8n
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/n8n-2
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app n8n-2.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-plex-nvidia
+name: plex-nvidia
+tagline: Imported from BigBearCasaOS (plex-nvidia)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.43.4
+port: 3000
+description: Imported from BigBearCasaOS (plex-nvidia)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/plex-nvidia
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/plex-nvidia
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app plex-nvidia.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

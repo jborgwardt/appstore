@@ -1,0 +1,27 @@
+name: big-bear-linuxserver-duplicati
+services:
+  app:
+    image: linuxserver/duplicati:2.4.0@sha256:c3d1bce6c698b9ed7a65e2a976d867ee1bbef104858c7440d45df4e7d213b5ba
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+      SETTINGS_ENCRYPTION_KEY: ''
+      CLI_ARGS: ''
+      DUPLICATI__WEBSERVICE_PASSWORD: ''
+    ports:
+    - target: 8200
+      published: 8200
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/duplicati/config
+      target: /config
+    - type: bind
+      source: /DATA/AppData/duplicati/backups
+      target: /backups
+    - type: bind
+      source: /DATA/AppData/duplicati/source
+      target: /source
+version: '3.7'

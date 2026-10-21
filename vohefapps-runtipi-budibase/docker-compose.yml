@@ -1,0 +1,6 @@
+services:
+  budibase:
+    image: budibase/budibase:v3.49.0
+    volumes:
+    - ${APP_DATA_DIR}:/data
+version: '3.7'

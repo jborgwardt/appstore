@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-autobrr
+name: autobrr
+tagline: autobrr is the modern download automation tool for torrents
+icon: https://raw.githubusercontent.com/autobrr/autobrr/develop/.github/images/logo.png
+category: tools
+version: latest
+port: 7474
+description: autobrr is the modern download automation tool for torrents. With inspiration and ideas from tools like trackarr, autodl-irssi and flexget we built one tool that can do it all, and then some.
+developer: Unraid Community
+website: https://github.com/autobrr/autobrr
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/autobrr.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template autobrr.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

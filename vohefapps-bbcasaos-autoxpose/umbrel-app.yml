@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-autoxpose
+name: autoxpose
+tagline: Imported from BigBearCasaOS (autoxpose)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.6.0
+port: 4949
+description: Imported from BigBearCasaOS (autoxpose)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/autoxpose
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/autoxpose
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app autoxpose.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

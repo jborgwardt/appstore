@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-libretranslate
+name: libretranslate
+tagline: Imported from BigBearCasaOS (libretranslate)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v1.9.6
+port: 5000
+description: Imported from BigBearCasaOS (libretranslate)
+developer: BigBearCasaOS
+website: https://youtu.be/VJ5DrsuJ3oA
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/libretranslate
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app libretranslate.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

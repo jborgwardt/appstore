@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-wg-easy
+name: wg-easy
+tagline: Imported from BigBearCasaOS (wg-easy)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: '15'
+port: 51820
+description: Imported from BigBearCasaOS (wg-easy)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/wg-easy
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/wg-easy
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app wg-easy.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

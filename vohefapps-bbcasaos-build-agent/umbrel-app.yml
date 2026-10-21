@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-build-agent
+name: build-agent
+tagline: Imported from BigBearCasaOS (build-agent)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.0.0
+port: 3000
+description: Imported from BigBearCasaOS (build-agent)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/build-agent
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/build-agent
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app build-agent.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

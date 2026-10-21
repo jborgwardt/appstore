@@ -1,0 +1,25 @@
+name: big-bear-wordpress-v7
+services:
+  app:
+    image: wordpress:7.1.3@sha256:81a34254acaa6ff3b9a67268c2745e9a041c4094cbe5ccd35b75ed3bbdc033b5
+    ports:
+    - 8084:80
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_USER: casaos
+      WORDPRESS_DB_PASSWORD: casaos
+      WORDPRESS_DB_NAME: wordpress
+    volumes:
+    - ${APP_DATA_DIR}/html:/var/www/html
+    depends_on:
+    - db
+  db:
+    image: mysql:8.0@sha256:7dcddc01f13bab2f15cde676d44d01f61fc9f99fe7785e86196dfc07d358ae2b
+    environment:
+      MYSQL_DATABASE: wordpress
+      MYSQL_USER: casaos
+      MYSQL_PASSWORD: casaos
+      MYSQL_ROOT_PASSWORD: casaos
+    volumes:
+    - ${APP_DATA_DIR}/mysql:/var/lib/mysql
+version: '3.7'

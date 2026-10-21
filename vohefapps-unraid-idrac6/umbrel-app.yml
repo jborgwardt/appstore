@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-idrac6
+name: idrac6
+tagline: Allows access to the iDRAC 6 console without installing Java or messing with Java Web Start
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/idrac6.png
+category: tools
+version: latest
+port: 5800
+description: Allows access to the iDRAC 6 console without installing Java or messing with Java Web Start. Java is only run inside of the container and access is provided via web interface or directly with VNC.
+developer: Unraid Community
+website: https://github.com/DomiStyle/docker-idrac6/
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/idrac6.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template idrac6.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

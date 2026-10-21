@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-assettocorsaevo
+name: Assetto Corsa EVO Server
+tagline: Run Assetto Corsa EVO Dedicated Server in Docker using Wine
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: gameservers
+version: latest
+port: 9700
+description: 'Run Assetto Corsa EVO Dedicated Server in Docker using Wine. IMPORTANT: You must download server files via Steam (Tools → Assetto Corsa EVO Dedicated Server) and copy them into /config/server. Then paste your server config (Copy Command from launcher) into: /config/server_args.txt'
+developer: Unraid Community
+website: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/AssettoCorsaEvo.xml
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/AssettoCorsaEvo.xml
+support: https://forums.unraid.net/topic/198628-support-vandal-assetto-corsa-evo-server
+gallery: []
+releaseNotes: Imported from Unraid template AssettoCorsaEvo.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

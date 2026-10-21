@@ -1,0 +1,13 @@
+name: big-bear-jfa-go
+services:
+  big-bear-jfa-go:
+    container_name: big-bear-jfa-go
+    image: hrfee/jfa-go:latest@sha256:701cfca823f9278b65f4cf7706b0c7f89b3be33e17ca077f11d89dc119e9f307
+    restart: unless-stopped
+    volumes:
+    - ${APP_DATA_DIR}/.config/jfa-go:/data
+    - ${APP_DATA_DIR}/jellyfin:/jf
+    - /etc/localtime:/etc/localtime:ro
+    ports:
+    - 8056:8056
+version: '3.7'

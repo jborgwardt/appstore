@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-homarr-v1
+name: homarr-v1
+tagline: Imported from BigBearCasaOS (homarr-v1)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v1.63.0
+port: 7575
+description: Imported from BigBearCasaOS (homarr-v1)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/homarr-v1
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/homarr-v1
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app homarr-v1.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

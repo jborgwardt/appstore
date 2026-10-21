@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-coder
+name: coder
+tagline: Imported from BigBearCasaOS (coder)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v2.36.7
+port: 7080
+description: Imported from BigBearCasaOS (coder)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/coder
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/coder
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app coder.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-bitmagnet
+name: Bitmagnet
+tagline: A self-hosted BitTorrent indexer.
+icon: https://runtipi.io/images/apps/bitmagnet.png
+category: media
+version: v0.10.1
+port: 3335
+description: 'A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.  '
+developer: bitmagnet-io
+website: https://github.com/bitmagnet-io/bitmagnet
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/bitmagnet
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app bitmagnet.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

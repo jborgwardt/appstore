@@ -1,0 +1,31 @@
+name: big-bear-linuxserver-ubooquity
+services:
+  app:
+    image: linuxserver/ubooquity:3.1.0@sha256:cfabd5ff77bcd5571df7cc5186b666d44313e89b249aaca12fe318eee7ee8cc3
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+      MAXMEM: ''
+    ports:
+    - target: 2202
+      published: 2202
+      protocol: tcp
+    - target: 2203
+      published: 2203
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/ubooquity/config
+      target: /config
+    - type: bind
+      source: /DATA/AppData/ubooquity/books
+      target: /books
+    - type: bind
+      source: /DATA/AppData/ubooquity/comics
+      target: /comics
+    - type: bind
+      source: /DATA/AppData/ubooquity/files
+      target: /files
+version: '3.7'

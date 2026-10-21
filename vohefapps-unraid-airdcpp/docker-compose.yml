@@ -1,0 +1,17 @@
+version: '3.7'
+services:
+  app:
+    image: gangefors/airdcpp-webclient:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:5600
+    - 5601:5601
+    - 21248:21248
+    - 21248:21248
+    - 21249:21249
+    environment:
+    - UMASK=0002
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/.airdcpp
+    - ${APP_DATA_DIR}/data/path2:/Downloads
+    - ${APP_DATA_DIR}/data/path3:/Share

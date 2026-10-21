@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-myspeed
+name: myspeed
+tagline: Imported from BigBearCasaOS (myspeed)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.0.9
+port: 5216
+description: Imported from BigBearCasaOS (myspeed)
+developer: BigBearCasaOS
+website: https://youtu.be/7roj87Fytz0
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/myspeed
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app myspeed.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

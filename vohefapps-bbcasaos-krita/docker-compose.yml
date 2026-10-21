@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-krita
+services:
+  app:
+    image: linuxserver/krita:5.3.4@sha256:1d88a0cf3f424de6225a1290c251f309ab041c1c6b5bfce3a1581644a3c993fa
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/krita/config
+      target: /config
+version: '3.7'

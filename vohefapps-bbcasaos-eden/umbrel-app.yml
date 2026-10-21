@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-eden
+name: eden
+tagline: Imported from BigBearCasaOS (eden)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.2.1
+port: 3000
+description: Imported from BigBearCasaOS (eden)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/eden
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/eden
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app eden.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

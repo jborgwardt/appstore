@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-citron
+name: citron
+tagline: Imported from BigBearCasaOS (citron)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2026.02.1
+port: 3000
+description: Imported from BigBearCasaOS (citron)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/citron
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/citron
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app citron.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

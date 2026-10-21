@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-wikijs
+name: wikijs
+tagline: A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/wikijs.png
+category: cloud
+version: latest
+port: 3000
+description: A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
+developer: Unraid Community
+website: https://github.com/Requarks/wiki
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/wikijs.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template wikijs.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

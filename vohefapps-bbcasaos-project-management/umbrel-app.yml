@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-project-management
+name: project-management
+tagline: Imported from BigBearCasaOS (project-management)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.2.3
+port: 8000
+description: Imported from BigBearCasaOS (project-management)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/project-management
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/project-management
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app project-management.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

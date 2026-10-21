@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-monica-new
+name: monica
+tagline: 'Monica, the Personal Relationship Manager Complete list of env : https://raw.githubusercontent.com/monicahq/monica/master/.env.example APP_U'
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/monica.png
+category: productivity
+version: latest
+port: 80
+description: 'Monica, the Personal Relationship Manager Complete list of env : https://raw.githubusercontent.com/monicahq/monica/master/.env.example APP_URL: https://github.com/monicahq/monica/blob/master/docs/installation/ssl.md'
+developer: Unraid Community
+website: https://github.com/monicahq/monica
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/monica_new.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository
+gallery: []
+releaseNotes: Imported from Unraid template monica_new.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

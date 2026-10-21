@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-mumble-server
+name: mumble-server
+tagline: Imported from BigBearCasaOS (mumble-server)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v1.4.230-6
+port: 64738
+description: Imported from BigBearCasaOS (mumble-server)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/mumble-server
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/mumble-server
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app mumble-server.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

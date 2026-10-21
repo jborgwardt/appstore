@@ -1,0 +1,15 @@
+name: big-bear-autoxpose
+services:
+  autoxpose:
+    image: mostafawahied/autoxpose:0.6.0@sha256:8b07a7c693c4270bb04adf4e68c16681de1336384ce70e86a507ab02ffeb09cd
+    container_name: autoxpose
+    restart: unless-stopped
+    ports:
+    - 4949:3000
+    environment:
+      SERVER_IP: ''
+      LAN_IP: ''
+    volumes:
+    - ${APP_DATA_DIR}/data:/app/packages/backend/data
+    - /var/run/docker.sock:/var/run/docker.sock:ro
+version: '3.7'

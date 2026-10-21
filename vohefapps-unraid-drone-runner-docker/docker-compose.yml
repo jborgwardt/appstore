@@ -1,0 +1,11 @@
+version: '3.7'
+services:
+  app:
+    image: drone/drone-runner-docker:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:3000
+    environment:
+    - DRONE_RPC_HOST=drone.example.com
+    - DRONE_RPC_PROTO=https
+    - DRONE_RPC_SECRET=

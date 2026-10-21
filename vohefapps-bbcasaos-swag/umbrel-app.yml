@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-swag
+name: swag
+tagline: Imported from BigBearCasaOS (swag)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 5.8.0
+port: 3000
+description: Imported from BigBearCasaOS (swag)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/swag
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/swag
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app swag.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

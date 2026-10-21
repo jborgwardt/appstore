@@ -1,0 +1,10 @@
+version: '3.7'
+services:
+  app:
+    image: ghcr.io/zerx-lab/fluxdown-server:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:17800
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/root/Downloads
+    - ${APP_DATA_DIR}/data/path2:/data

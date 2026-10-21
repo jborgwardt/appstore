@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-local-deep-research
+name: LocalDeepResearch
+tagline: Local Deep Research (LDR) is an AI-powered research assistant that performs systematic research by breaking down complex questions, searchin
+icon: https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/src/local_deep_research/web/static/favicon.png
+category: ai
+version: latest
+port: 5000
+description: 'Local Deep Research (LDR) is an AI-powered research assistant that performs systematic research by breaking down complex questions, searching multiple sources in parallel, verifying information across sources, and creating comprehensive reports with proper citations. It runs entirely locally with Ollama + SearXNG for privacy, or can use cloud LLM providers. Features: - Privacy-focused: Run entirely locally with Ollama - Multiple research modes (Quick Summary, Detailed Research) - Per-user encrypted databases (SQLCipher with AES-256) - Real-time progress tracking via WebSocket - Export to PDF or Markdown - REST API with authentication - Analytics dashboard This template includes the main LDR service. For full functionality, you may also want to install the companion containers (Ollama and SearXNG) or configure external LLM/search providers. Community & Support: - Discord: https://discord.gg/ttcqQeFcJ3 - Reddit: https://www.reddit.com/r/LocalDeepResearch/ - GitHub Issues: https://github.com/LearningCircuit/local-deep-research/issues'
+developer: Unraid Community
+website: https://github.com/LearningCircuit/local-deep-research
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/local-deep-research.xml
+support: https://github.com/LearningCircuit/local-deep-research/issues
+gallery: []
+releaseNotes: Imported from Unraid template local-deep-research.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

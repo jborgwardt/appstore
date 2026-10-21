@@ -1,0 +1,20 @@
+name: big-bear-linuxserver-pydio-cells
+services:
+  app:
+    image: linuxserver/pydio-cells:5.1.0@sha256:4aeebe9a3d29ac1a6eb8799809a81d320b26d0381bddd5d3ebdec107d9485b9c
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+      EXTERNALURL: ''
+      SERVER_IP: ''
+    ports:
+    - target: 8080
+      published: 8080
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/pydio-cells/config
+      target: /config
+version: '3.7'

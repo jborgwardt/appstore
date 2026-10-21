@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-webtop
+services:
+  app:
+    image: linuxserver/webtop:arch-kde-version-2025-07-12@sha256:cdd4f999430db4b04778723cd8cf4ed63c57beeea678a9aeae42a15a6901940a
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/webtop/config
+      target: /config
+version: '3.7'

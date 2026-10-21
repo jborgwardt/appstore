@@ -1,0 +1,22 @@
+version: '3.7'
+services:
+  app:
+    image: ghcr.io/fletchto99/nicotine-plus-docker:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:6080
+    - 2234:2234
+    - 2235:2235
+    - 2236:2236
+    - 2237:2237
+    - 2238:2238
+    - 2239:2239
+    environment:
+    - PUID=99
+    - PGID=100
+    - UMASK=002
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/data/downloads/completed
+    - ${APP_DATA_DIR}/data/path2:/data/downloads/incomplete
+    - ${APP_DATA_DIR}/data/path3:/data/share
+    - ${APP_DATA_DIR}/data/path4:/config/

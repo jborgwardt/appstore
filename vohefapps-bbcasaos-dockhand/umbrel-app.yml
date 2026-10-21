@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-dockhand
+name: dockhand
+tagline: Imported from BigBearCasaOS (dockhand)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: latest
+port: 3003
+description: Imported from BigBearCasaOS (dockhand)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/dockhand
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/dockhand
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app dockhand.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

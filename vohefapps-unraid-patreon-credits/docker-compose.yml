@@ -1,0 +1,13 @@
+version: '3.7'
+services:
+  app:
+    image: mscrnt/patreon-credits:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:8787
+    environment:
+    - PATREON_TOKEN=
+    - PATREON_CAMPAIGN_ID=
+    - USE_DUMMY_DATA=false|true
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/app/output

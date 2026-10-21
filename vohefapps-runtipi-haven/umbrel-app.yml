@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-haven
+name: Haven
+tagline: Self-hostable private blogging.
+icon: https://runtipi.io/images/apps/haven.png
+category: social
+version: latest
+port: 8130
+description: Haven is a private blog application built with Ruby on Rails. Write what you want, create accounts for people you want to share with, keep up with each other using built-in RSS.
+developer: mawise
+website: https://github.com/havenweb/haven
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/haven
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app haven.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

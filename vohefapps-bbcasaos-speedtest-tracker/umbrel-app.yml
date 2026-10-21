@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-speedtest-tracker
+name: speedtest-tracker
+tagline: Imported from BigBearCasaOS (speedtest-tracker)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 1.15.0
+port: 8080
+description: Imported from BigBearCasaOS (speedtest-tracker)
+developer: BigBearCasaOS
+website: https://youtu.be/TLjS8xNNwis
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/speedtest-tracker
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app speedtest-tracker.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

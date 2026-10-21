@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-omniroute
+name: omniroute
+tagline: Imported from BigBearCasaOS (omniroute)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 3.8.51
+port: 20128
+description: Imported from BigBearCasaOS (omniroute)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/omniroute
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/omniroute
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app omniroute.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

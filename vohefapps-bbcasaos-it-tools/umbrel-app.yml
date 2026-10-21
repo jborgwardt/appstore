@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-it-tools
+name: it-tools
+tagline: Imported from BigBearCasaOS (it-tools)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 2023.11.2-7d94e11
+port: 8080
+description: Imported from BigBearCasaOS (it-tools)
+developer: BigBearCasaOS
+website: https://youtu.be/MlGypCrUJug
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/it-tools
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app it-tools.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

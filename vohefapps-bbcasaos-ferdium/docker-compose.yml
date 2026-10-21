@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-ferdium
+services:
+  app:
+    image: linuxserver/ferdium:7.2.3@sha256:ee706fb59ad2855c8b5d33aa8a07bb8079c39a8493a95cc88caaf733b8e01aa5
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/ferdium/config
+      target: /config
+version: '3.7'

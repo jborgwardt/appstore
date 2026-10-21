@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-azahar
+name: azahar
+tagline: Imported from BigBearCasaOS (azahar)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 12126.1.2
+port: 3000
+description: Imported from BigBearCasaOS (azahar)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/azahar
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/azahar
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app azahar.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

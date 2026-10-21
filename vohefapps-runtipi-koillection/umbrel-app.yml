@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-koillection
+name: Koillection
+tagline: Koillection allow you to manage any kind of collections.
+icon: https://runtipi.io/images/apps/koillection.png
+category: utilities
+version: 1.8.4
+port: 8050
+description: Koillection is a self-hosted service allowing users to manage any kind of collections.
+developer: https://github.com/benjaminjonard
+website: https://github.com/benjaminjonard/koillection
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/koillection
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app koillection.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

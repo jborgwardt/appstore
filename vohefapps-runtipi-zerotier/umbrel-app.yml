@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-zerotier
+name: ZeroTier
+tagline: Easy to use zero configuration VPN.
+icon: https://runtipi.io/images/apps/zerotier.png
+category: network
+version: 1.14.2
+port: 9993
+description: ZeroTier combines the capabilities of VPN and SD-WAN, simplifying network management.
+developer: © ZeroTier Inc.
+website: https://github.com/zerotier/ZeroTierOne
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/zerotier
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app zerotier.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

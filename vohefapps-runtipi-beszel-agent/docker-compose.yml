@@ -1,0 +1,10 @@
+services:
+  beszel-agent:
+    image: henrygd/beszel-agent:0.21.0
+    volumes:
+    - /var/run/docker.sock:/var/run/docker.sock:ro
+    environment:
+    - PORT=45876
+    - KEY=${BESZEL_AGENT_KEY}
+    network_mode: host
+version: '3.7'

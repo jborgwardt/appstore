@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-dashgate
+name: DashGate
+tagline: DashGate is a self-hosted application gateway and dashboard
+icon: https://raw.githubusercontent.com/Kha-kis/dashgate/main/unraid/dashgate-icon.png
+category: tools
+version: latest
+port: 1738
+description: DashGate is a self-hosted application gateway and dashboard. Features multi-method authentication (local, LDAP, OIDC/SSO, proxy auth, API keys), group-based access control, automatic app discovery from Docker/Traefik/Nginx/NPM/Caddy, health monitoring, and PWA support.
+developer: Unraid Community
+website: https://github.com/Kha-kis/dashgate
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/dashgate.xml
+support: https://github.com/Kha-kis/dashgate/issues
+gallery: []
+releaseNotes: Imported from Unraid template dashgate.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-kubek
+name: Kubek
+tagline: Kubek - Web Minecraft servers dashboard
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/kubek.png
+category: gameservers
+version: latest
+port: 3000
+description: Kubek - Web Minecraft servers dashboard
+developer: Unraid Community
+website: https://github.com/Rxflex/kubek-minecraft-dashboard
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/kubek.xml
+support: https://github.com/Rxflex/kubek-minecraft-dashboard/issues
+gallery: []
+releaseNotes: Imported from Unraid template kubek.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

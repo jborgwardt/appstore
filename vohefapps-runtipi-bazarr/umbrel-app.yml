@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-bazarr
+name: Bazarr
+tagline: A companion application to Sonarr and Radarr that manages and downloads subtitles
+icon: https://runtipi.io/images/apps/bazarr.png
+category: media
+version: 1.6.2
+port: 6767
+description: Bazarr is a companion application to Sonarr and Radarr that manages and downloads subtitles based on your requirements.
+developer: morpheus65535
+website: https://github.com/morpheus65535/bazarr
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/bazarr
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app bazarr.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

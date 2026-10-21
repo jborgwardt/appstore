@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-node-red
+name: node-red
+tagline: Imported from BigBearCasaOS (node-red)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 5.0.8
+port: 1880
+description: Imported from BigBearCasaOS (node-red)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/node-red
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/node-red
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app node-red.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

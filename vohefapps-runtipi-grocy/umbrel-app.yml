@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-grocy
+name: Grocy
+tagline: ERP beyond your fridge
+icon: https://runtipi.io/images/apps/grocy.png
+category: automation
+version: 4.7.1
+port: 8136
+description: grocy is a web-based self-hosted groceries & household management solution for your home
+developer: berrnd
+website: https://github.com/grocy/grocy
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/grocy
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app grocy.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

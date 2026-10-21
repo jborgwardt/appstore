@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-eufy-security-ws
+name: eufy-security-ws
+tagline: Imported from BigBearCasaOS (eufy-security-ws)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 3.1.0
+port: 3000
+description: Imported from BigBearCasaOS (eufy-security-ws)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/eufy-security-ws
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/eufy-security-ws
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app eufy-security-ws.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

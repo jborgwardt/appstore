@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-nextcloud-mini
+name: Nextcloud Mini
+tagline: A safe home for all your data.
+icon: https://runtipi.io/images/apps/nextcloud-mini.png
+category: data
+version: 35.0.2
+port: 8564
+description: The most popular open source content collaboration platform for tens of millions of users at thousands of organizations across the globe.
+developer: nextcloud
+website: https://github.com/nextcloud/server
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/nextcloud-mini
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app nextcloud-mini.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

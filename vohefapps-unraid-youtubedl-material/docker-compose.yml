@@ -1,0 +1,17 @@
+version: '3.7'
+services:
+  app:
+    image: voc0der/ytdl-material:nightly
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:17442
+    environment:
+    - ytdl_title_top=YoutubeDL Material
+    - UID=99
+    - GID=100
+    - ytdl_allow_advanced_download=true|false
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/app/audio/
+    - ${APP_DATA_DIR}/data/path2:/app/video/
+    - ${APP_DATA_DIR}/data/path3:/app/subscriptions/
+    - ${APP_DATA_DIR}/data/path4:/app/appdata

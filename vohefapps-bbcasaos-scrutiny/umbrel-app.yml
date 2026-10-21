@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-scrutiny
+name: scrutiny
+tagline: Imported from BigBearCasaOS (scrutiny)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: master-omnibus
+port: 38080
+description: Imported from BigBearCasaOS (scrutiny)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/scrutiny
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/scrutiny
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app scrutiny.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

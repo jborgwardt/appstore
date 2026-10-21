@@ -1,0 +1,18 @@
+name: big-bear-cloudflared-web
+services:
+  big-bear-cloudflared-web:
+    container_name: big-bear-cloudflared-web
+    image: wisdomsky/cloudflared-web:2026.10.0@sha256:1b58f8ea8b6de30bb09bc3166dbabec5ff8758732a3126e8517e3db832a90a22
+    restart: unless-stopped
+    network_mode: host
+    environment:
+    - WEBUI_PORT=14333
+    - EDGE_IP_VERSION=auto
+    - PROTOCOL=auto
+    - METRICS_ENABLE=false
+    - METRICS_PORT=60123
+    - BASIC_AUTH_USER=admin
+    - BASIC_AUTH_PASS=""
+    volumes:
+    - ${APP_DATA_DIR}/config:/config
+version: '3.7'

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-deemix
+name: Deemix
+tagline: deemix is a barebone deezer downloader library built from the ashes of Deezloader Remix.
+icon: https://runtipi.io/images/apps/deemix.png
+category: media
+version: latest
+port: 6595
+description: deemix is a barebone deezer downloader library built from the ashes of Deezloader Remix.
+developer: Bockiii
+website: https://gitlab.com/Bockiii/deemix-docker
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/deemix
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app deemix.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-tado-assistant
+name: Tado Assistant
+tagline: 'Tado Assistant: Your User-Friendly, Free Tado Auto-Assist Alternative'
+icon: https://images.ctfassets.net/rro4wewtydcy/2lziJeBTxOCee5n43qBXiz/a03b3387644a3ea67c1a759da2244120/tado_logo_app_icon.webp
+category: homeautomation
+version: latest
+port: 3000
+description: 'Tado Assistant: Your User-Friendly, Free Tado Auto-Assist Alternative'
+developer: Unraid Community
+website: https://github.com/BrainicHQ/tado-assistant
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/tado-assistant.xml
+support: https://github.com/BrainicHQ/tado-assistant/issues
+gallery: []
+releaseNotes: Imported from Unraid template tado-assistant.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

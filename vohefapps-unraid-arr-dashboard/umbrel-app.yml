@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-arr-dashboard
+name: arr-dashboard
+tagline: A unified dashboard for managing multiple Sonarr, Radarr, and Prowlarr instances
+icon: https://raw.githubusercontent.com/Kha-kis/arr-dashboard/main/apps/web/public/icon.png
+category: mediaapp
+version: latest
+port: 3000
+description: A unified dashboard for managing multiple Sonarr, Radarr, and Prowlarr instances. Features include unified queue/calendar/history views, global indexer search, library management, TRaSH Guides integration, automated hunting, statistics, and TMDB content discovery.
+developer: Unraid Community
+website: https://github.com/Kha-kis/arr-dashboard
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/arr-dashboard.xml
+support: https://github.com/Kha-kis/arr-dashboard/issues
+gallery: []
+releaseNotes: Imported from Unraid template arr-dashboard.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-airdcpp
+name: airdcpp
+tagline: AirDC++ Web Client is a locally installed application, which is designed for frequent sharing of files or directories within groups of peopl
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/airdcpp.png
+category: cloud
+version: latest
+port: 5600
+description: 'AirDC++ Web Client is a locally installed application, which is designed for frequent sharing of files or directories within groups of people in a local network or over internet. The daemon application can be installed on different types of systems, such as on file servers and NAS devices. Username / password for the default admin account is: admin / password'
+developer: Unraid Community
+website: https://github.com/airdcpp-web/airdcpp-webclient
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/airdcpp.xml
+support: https://github.com/gangefors/docker-airdcpp-webclient
+gallery: []
+releaseNotes: Imported from Unraid template airdcpp.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

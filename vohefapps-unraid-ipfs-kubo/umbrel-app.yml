@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-ipfs-kubo
+name: ipfs-kubo
+tagline: IPFS is a global, versioned, peer-to-peer filesystem
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/ipfs-kubo.png
+category: cloud
+version: latest
+port: 4001
+description: IPFS is a global, versioned, peer-to-peer filesystem. It combines good ideas from previous systems such as Git, BitTorrent, Kademlia, SFS, and the Web. It is like a single BitTorrent swarm, exchan> ⛔⛔NEVER EXPOSE THE RPC API TO THE PUBLIC INTERNET⛔⛔ The API port (by default 5001) provides admin-level access to your Kubo IPFS node. See RPC API v0 docs for more information. https://docs.ipfs.tech/reference/kubo/rpc/
+developer: Unraid Community
+website: https://github.com/ipfs/kubo
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/ipfs-kubo.xml
+support: https://forums.unraid.net/topic/87798-support-selfhostersnets-template-repository/
+gallery: []
+releaseNotes: Imported from Unraid template ipfs-kubo.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

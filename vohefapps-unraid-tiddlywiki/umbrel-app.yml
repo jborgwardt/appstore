@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-tiddlywiki
+name: tiddlywiki
+tagline: TiddlyWiki is a self-contained JavaScript wiki, configured here to run as a Node.js application
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: latest
+port: 8080
+description: TiddlyWiki is a self-contained JavaScript wiki, configured here to run as a Node.js application. Converted By Community Applications Always verify this template (and values) against the support page for the container
+developer: Unraid Community
+website: https://github.com/Jermolene/TiddlyWiki5
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/tiddlywiki.xml
+support: https://hub.docker.com/r/elasticdog/tiddlywiki/
+gallery: []
+releaseNotes: Imported from Unraid template tiddlywiki.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

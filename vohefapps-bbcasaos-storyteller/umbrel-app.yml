@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-storyteller
+name: storyteller
+tagline: Imported from BigBearCasaOS (storyteller)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: web-v2.6.0-experimental.14
+port: 8015
+description: Imported from BigBearCasaOS (storyteller)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/storyteller
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/storyteller
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app storyteller.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,11 @@
+name: big-bear-rackpeek
+services:
+  big-bear-rackpeek:
+    container_name: big-bear-rackpeek
+    image: aptacode/rackpeek:v2.1.0@sha256:139f88077fde2bed96acdd650573263a7dcfbf94dabec7bfca17e9b46f0941be
+    restart: unless-stopped
+    volumes:
+    - ${APP_DATA_DIR}/config:/app/config
+    ports:
+    - 8095:8080
+version: '3.7'

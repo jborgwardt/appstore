@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-discopanel
+name: discopanel
+tagline: Imported from BigBearCasaOS (discopanel)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v2.0.15
+port: 3000
+description: Imported from BigBearCasaOS (discopanel)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/discopanel
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/discopanel
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app discopanel.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

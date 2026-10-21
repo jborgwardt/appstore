@@ -1,0 +1,13 @@
+version: '3.7'
+services:
+  app:
+    image: ghcr.io/deucebucket/library-manager:latest
+    restart: unless-stopped
+    ports:
+    - $APP_PORT:5757
+    environment:
+    - PUID=99
+    - PGID=100
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/audiobooks
+    - ${APP_DATA_DIR}/data/path2:/data

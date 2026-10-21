@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-mstream
+name: mStream Music
+tagline: The easiest music streaming server available
+icon: https://runtipi.io/images/apps/mstream.png
+category: music
+version: v5.12.2-ls190
+port: 8162
+description: mStream is a personal music streaming server. You can use mStream to stream your music from your home computer to any device, anywhere.
+developer: IrosTheBeggar
+website: https://github.com/IrosTheBeggar/mStream
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/mstream
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app mstream.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

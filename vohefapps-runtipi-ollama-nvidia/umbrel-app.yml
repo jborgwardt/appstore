@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-ollama-nvidia
+name: Ollama - Nvidia
+tagline: LLMs inference server with OpenAI compatible API
+icon: https://runtipi.io/images/apps/ollama-nvidia.png
+category: ai
+version: 0.40.6
+port: 11435
+description: Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+developer: ollama
+website: https://github.com/ollama/ollama
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/ollama-nvidia
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app ollama-nvidia.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

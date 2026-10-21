@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-filebrowser-quantum
+name: FileBrowser Quantum
+tagline: Access your homeserver files from your browser
+icon: https://runtipi.io/images/apps/filebrowser-quantum.png
+category: utilities
+version: 2.0-stable
+port: 18196
+description: Web-based file manager
+developer: filebrowser.org
+website: https://github.com/gtsteffaniak/filebrowser
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/filebrowser-quantum
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app filebrowser-quantum.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

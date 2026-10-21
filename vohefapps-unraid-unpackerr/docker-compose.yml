@@ -1,0 +1,24 @@
+version: '3.7'
+services:
+  app:
+    image: golift/unpackerr:latest
+    restart: unless-stopped
+    environment:
+    - UN_DEBUG=false|true
+    - UN_LOG_FILE=
+    - UN_SONARR_0_URL=
+    - UN_SONARR_0_API_KEY=
+    - UN_SONARR_0_PATH=
+    - UN_RADARR_0_URL=
+    - UN_RADARR_0_API_KEY=
+    - UN_RADARR_0_PATH=
+    - UN_LIDARR_0_URL=
+    - UN_LIDARR_0_API_KEY=
+    - UN_TIMEOUT=10s|15s|20s|30s|1m
+    - UN_PARALLEL=1|2|3|4|5|6|7|8
+    - UN_INTERVAL=1m|2m|3m|4m|5m|10m|15m
+    - UN_DELETE_DELAY=1m|5m|10m|15m|20m|30m|1h
+    - UN_START_DELAY=1m|5m|10m|15m|20m|30m|1h
+    - UN_RETRY_DELAY=1m|5m|10m|15m|20m|30m|1h
+    volumes:
+    - ${APP_DATA_DIR}/data/path1:/downloads

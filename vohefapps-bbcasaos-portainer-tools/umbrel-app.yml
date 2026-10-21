@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-portainer-tools
+name: portainer-tools
+tagline: Imported from BigBearCasaOS (portainer-tools)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: latest
+port: 3000
+description: Imported from BigBearCasaOS (portainer-tools)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/portainer-tools
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/portainer-tools
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app portainer-tools.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

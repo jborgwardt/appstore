@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-pidgin
+services:
+  app:
+    image: linuxserver/pidgin:2.14.14@sha256:33d0103c4061bcd7636dc513f6222a69640e56416f5ff6e459e6c7b6ca77db1a
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 3000
+      published: 3000
+      protocol: tcp
+    - target: 3001
+      published: 3001
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/pidgin/config
+      target: /config
+version: '3.7'

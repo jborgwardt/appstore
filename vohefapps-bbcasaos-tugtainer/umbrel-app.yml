@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-tugtainer
+name: tugtainer
+tagline: Imported from BigBearCasaOS (tugtainer)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v1.44.1
+port: 9412
+description: Imported from BigBearCasaOS (tugtainer)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/tugtainer
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/tugtainer
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app tugtainer.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

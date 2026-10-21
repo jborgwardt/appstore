@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-unraid-ampache
+name: ampache
+tagline: 'Ampache ...for the love of music You will need to follow the configuration steps here once the container is running: https://github.com/ampa'
+icon: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/ampache.png
+category: utilities
+version: latest
+port: 80
+description: 'Ampache ...for the love of music You will need to follow the configuration steps here once the container is running: https://github.com/ampache/ampache/wiki/Basic'
+developer: Unraid Community
+website: https://ampache.org/
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/selfhosters/unRAID-CA-templates/blob/master/templates/ampache.xml
+support: https://github.com/ampache/ampache/issues
+gallery: []
+releaseNotes: Imported from Unraid template ampache.xml.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-ncdu
+name: ncdu
+tagline: Imported from BigBearCasaOS (ncdu)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.0.10
+port: 7681
+description: Imported from BigBearCasaOS (ncdu)
+developer: BigBearCasaOS
+website: https://youtu.be/5RCTglGRXss
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/ncdu
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app ncdu.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

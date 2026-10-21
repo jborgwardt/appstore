@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-logto
+name: Logto
+tagline: 'Logto is a cost-effective open-source alternative to Auth0. '
+icon: https://runtipi.io/images/apps/logto.png
+category: security
+version: 1.45.0
+port: 8203
+description: Logto is a cost-effective open-source alternative to Auth0.
+developer: Logto Team
+website: https://github.com/logto-io/logto
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/logto
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app logto.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-maybe-finance
+name: maybe-finance
+tagline: Imported from BigBearCasaOS (maybe-finance)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: sha-347c0a790693031fdd3b32792b5b6792693d1805
+port: 4000
+description: Imported from BigBearCasaOS (maybe-finance)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/maybe-finance
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/maybe-finance
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app maybe-finance.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

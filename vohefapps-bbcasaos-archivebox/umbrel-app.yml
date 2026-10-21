@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-archivebox
+name: archivebox
+tagline: Imported from BigBearCasaOS (archivebox)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.9.73
+port: 3000
+description: Imported from BigBearCasaOS (archivebox)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/archivebox
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/archivebox
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app archivebox.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

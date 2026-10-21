@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-homepage
+name: homepage
+tagline: Imported from BigBearCasaOS (homepage)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v2.4.0
+port: 3000
+description: Imported from BigBearCasaOS (homepage)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/homepage
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/homepage
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app homepage.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

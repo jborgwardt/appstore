@@ -1,0 +1,21 @@
+name: big-bear-linuxserver-projectsend
+services:
+  app:
+    image: linuxserver/projectsend:version-r2098@sha256:d43d209008c20dc17528c611efcdf82b911e972ce3c8b96527374ecc74a4c79e
+    restart: unless-stopped
+    environment:
+      PUID: $PUID
+      PGID: $PGID
+      TZ: $TZ
+    ports:
+    - target: 80
+      published: 80
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /DATA/AppData/projectsend/config
+      target: /config
+    - type: bind
+      source: /DATA/AppData/projectsend/data
+      target: /data
+version: '3.7'

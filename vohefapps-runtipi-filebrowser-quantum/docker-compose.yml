@@ -1,0 +1,9 @@
+services:
+  filebrowser-quantum:
+    image: gtstef/filebrowser:2.0-stable
+    volumes:
+    - ${ROOT_FOLDER_HOST}/media:/runtipi/media
+    - ${ROOT_FOLDER_HOST}/app-data:/runtipi/app-data
+    - ${ROOT_FOLDER_HOST}/user-config:/runtipi/user-config
+    - ${APP_DATA_DIR}/data:/home/filebrowser/data
+version: '3.7'

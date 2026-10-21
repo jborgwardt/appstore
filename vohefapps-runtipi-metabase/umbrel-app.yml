@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-runtipi-metabase
+name: Metabase
+tagline: The simplest, fastest way to get business intelligence and analytics to everyone in your company
+icon: https://runtipi.io/images/apps/metabase.png
+category: data
+version: v0.64.2
+port: 8680
+description: Metabase is the easy, open-source way for everyone in your company to ask questions and learn from data.
+developer: metabase
+website: https://github.com/metabase/metabase
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/runtipi/runtipi-appstore/tree/master/apps/metabase
+support: https://github.com/runtipi/runtipi-appstore/issues
+gallery: []
+releaseNotes: Imported from RunTipi app metabase.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

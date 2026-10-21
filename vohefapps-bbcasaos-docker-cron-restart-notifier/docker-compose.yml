@@ -1,0 +1,14 @@
+name: big-bear-docker-cron-restart-notifier
+services:
+  app:
+    container_name: big-bear-docker-cron-restart-notifier
+    image: deduard/tools:restart-notifier-latest@sha256:069bb0e4e92d0d8c1dbb91f39bd057fddd5d4ee830add2dae4f0fc3da3103c0b
+    restart: unless-stopped
+    environment:
+      DISCORD_WEBHOOK_URL: ''
+      RESTART_CONTAINERS: app_1,app_2
+      RUN_ON_STARTUP: 'false'
+      CRON_SCHEDULE: 0 4 * * FRI
+    volumes:
+    - /var/run/docker.sock:/var/run/docker.sock
+version: '3.7'

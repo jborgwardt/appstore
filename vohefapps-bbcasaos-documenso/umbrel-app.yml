@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-documenso
+name: documenso
+tagline: Imported from BigBearCasaOS (documenso)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: v2.20.0
+port: 20030
+description: Imported from BigBearCasaOS (documenso)
+developer: BigBearCasaOS
+website: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/documenso
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/documenso
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app documenso.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''

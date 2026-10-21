@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: vohefapps-bbcasaos-beszel
+name: beszel
+tagline: Imported from BigBearCasaOS (beszel)
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+category: utilities
+version: 0.21.0
+port: 8090
+description: Imported from BigBearCasaOS (beszel)
+developer: BigBearCasaOS
+website: https://youtu.be/BUVVG-9RCbg
+submitter: jborgwardt
+submission: ''
+repo: https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/beszel
+support: https://github.com/bigbeartechworld/big-bear-casaos/issues
+gallery: []
+releaseNotes: Imported from BigBearCasaOS app beszel.
+dependencies: []
+path: ''
+defaultUsername: ''
+defaultPassword: ''
