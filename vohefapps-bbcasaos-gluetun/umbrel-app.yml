@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-gluetun
 name: gluetun
 tagline: Imported from BigBearCasaOS (gluetun)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/gluetun.png
 category: utilities
 version: v3.41.3
 port: 8888

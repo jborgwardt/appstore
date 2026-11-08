@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-nextcloud-with-smbclient
 name: nextcloud-with-smbclient
 tagline: Imported from BigBearCasaOS (nextcloud-with-smbclient)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/nextcloud.png
 category: utilities
 version: 35.0.2
 port: 7580

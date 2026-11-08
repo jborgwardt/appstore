@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-email-oauth2-proxy
 name: Email OAuth2 Proxy
 tagline: OAuth Proxy for IMAP/POP/SMTP.
-icon: https://runtipi.io/images/apps/email-oauth2-proxy.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/email-oauth2-proxy/metadata/logo.jpg
 category: utilities
 version: 2026.01.06
 port: 1999

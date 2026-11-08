@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-minio
 name: Minio
 tagline: High Performance Object Storage.
-icon: https://runtipi.io/images/apps/minio.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/minio/metadata/logo.jpg
 category: development
 version: latest
 port: 8001

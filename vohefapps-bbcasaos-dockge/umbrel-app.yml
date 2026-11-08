@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-dockge
 name: dockge
 tagline: Imported from BigBearCasaOS (dockge)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/dockge/metadata/logo.jpg
 category: utilities
 version: 1.5.0
 port: 5001

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-pterodactyl-panel
 name: pterodactyl-panel
 tagline: Imported from BigBearCasaOS (pterodactyl-panel)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/pterodactyl.png
 category: utilities
 version: v1.12.2
 port: 1180

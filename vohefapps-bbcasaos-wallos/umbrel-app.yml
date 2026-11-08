@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-wallos
 name: wallos
 tagline: Imported from BigBearCasaOS (wallos)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/wallos/metadata/logo.jpg
 category: utilities
 version: 5.8.3
 port: 8282

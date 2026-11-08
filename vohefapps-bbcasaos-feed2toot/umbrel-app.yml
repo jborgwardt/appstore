@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-feed2toot
 name: feed2toot
 tagline: Imported from BigBearCasaOS (feed2toot)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-feed2toot/icon.svg
 category: utilities
 version: 0.17.20251115
 port: 3000

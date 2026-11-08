@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-gladys
 name: gladys
 tagline: Imported from BigBearCasaOS (gladys)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/gladys/metadata/logo.jpg
 category: utilities
 version: v5.2.1
 port: 3000

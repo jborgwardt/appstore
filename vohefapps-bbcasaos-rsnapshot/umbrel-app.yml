@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-rsnapshot
 name: rsnapshot
 tagline: Imported from BigBearCasaOS (rsnapshot)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-rsnapshot/icon.svg
 category: utilities
 version: 1.4.5
 port: 3000

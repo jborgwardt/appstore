@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-faster-whisper
 name: faster-whisper
 tagline: Imported from BigBearCasaOS (faster-whisper)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-faster-whisper/icon.svg
 category: utilities
 version: 3.8.1
 port: 10300

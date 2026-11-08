@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-moneroblock
 name: Moneroblock
 tagline: Decentralized and trustless Monero block explorer
-icon: https://runtipi.io/images/apps/moneroblock.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/moneroblock/metadata/logo.jpg
 category: utilities
 version: 0.1.2
 port: 31312

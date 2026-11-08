@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-ollama-amd
 name: ollama-amd
 tagline: Imported from BigBearCasaOS (ollama-amd)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/ollama-amd/metadata/logo.jpg
 category: utilities
 version: 0.40.5-rocm
 port: 11434

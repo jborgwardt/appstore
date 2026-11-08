@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-fastfetch
 name: fastfetch
 tagline: Imported from BigBearCasaOS (fastfetch)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-fastfetch/icon.svg
 category: utilities
 version: 0.0.5
 port: 7681

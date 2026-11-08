@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-octobot
 name: Octobot
 tagline: Octobot is a powerful open-source cryptocurrency trading robot.
-icon: https://runtipi.io/images/apps/octobot.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/octobot/metadata/logo.jpg
 category: automation
 version: 2.1.13
 port: 8825

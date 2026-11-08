@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-minio
 name: minio
 tagline: Imported from BigBearCasaOS (minio)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/minio/metadata/logo.jpg
 category: utilities
 version: RELEASE.2025-10-15T17-29-55Z
 port: 9010

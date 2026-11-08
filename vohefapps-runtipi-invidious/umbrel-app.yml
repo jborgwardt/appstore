@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-invidious
 name: Invidious
 tagline: An alternative front-end to YouTube
-icon: https://runtipi.io/images/apps/invidious.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/invidious/metadata/logo.jpg
 category: media
 version: master
 port: 8095

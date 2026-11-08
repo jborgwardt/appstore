@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-obsidian-livesync
 name: obsidian-livesync
 tagline: Imported from BigBearCasaOS (obsidian-livesync)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/obsidian-livesync/metadata/logo.jpg
 category: utilities
 version: 3.5.0
 port: 5984

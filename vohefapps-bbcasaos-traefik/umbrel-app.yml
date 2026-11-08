@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-traefik
 name: traefik
 tagline: Imported from BigBearCasaOS (traefik)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/traefik.png
 category: utilities
 version: v3.7.15
 port: 3000

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-wizarr
 name: Wizarr
 tagline: Wizarr is an automatic user invitation system for Plex and Jellyfin.
-icon: https://runtipi.io/images/apps/wizarr.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/wizarr/metadata/logo.jpg
 category: utilities
 version: v2026.10.1
 port: 5690

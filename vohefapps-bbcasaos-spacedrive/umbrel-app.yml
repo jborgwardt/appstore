@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-spacedrive
 name: spacedrive
 tagline: Imported from BigBearCasaOS (spacedrive)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/spacedrive/metadata/logo.jpg
 category: utilities
 version: 0.4.2
 port: 8080

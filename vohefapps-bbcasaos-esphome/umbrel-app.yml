@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-esphome
 name: esphome
 tagline: Imported from BigBearCasaOS (esphome)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/esphome/metadata/logo.jpg
 category: utilities
 version: '2026.9'
 port: 3000

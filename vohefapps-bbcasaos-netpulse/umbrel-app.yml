@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-netpulse
 name: netpulse
 tagline: Imported from BigBearCasaOS (netpulse)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-netpulse/icon.svg
 category: utilities
 version: sha-8922b29
 port: 3000

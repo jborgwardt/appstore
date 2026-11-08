@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-netdata
 name: Netdata
 tagline: Open-source, real-time, performance and health monitoring.
-icon: https://runtipi.io/images/apps/netdata.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/netdata/metadata/logo.jpg
 category: utilities
 version: v2.12.1
 port: 19999

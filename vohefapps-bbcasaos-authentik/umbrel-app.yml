@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-authentik
 name: authentik
 tagline: Imported from BigBearCasaOS (authentik)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/authentik.png
 category: utilities
 version: 2026.2.2
 port: 9443

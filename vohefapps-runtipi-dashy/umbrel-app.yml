@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-dashy
 name: Dashy
 tagline: A self-hostable personal dashboard built for you.
-icon: https://runtipi.io/images/apps/dashy.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/dashy/metadata/logo.jpg
 category: utilities
 version: 4.8.7
 port: 8205

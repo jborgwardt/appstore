@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-electrs
 name: Electrs
 tagline: Electrum server
-icon: https://runtipi.io/images/apps/electrs.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/electrs/metadata/logo.jpg
 category: finance
 version: v0.12.0
 port: 3006

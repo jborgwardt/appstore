@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-nitter
 name: Nitter
 tagline: Twitter without annoyances!
-icon: https://runtipi.io/images/apps/nitter.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/nitter/metadata/logo.jpg
 category: social
 version: latest
 port: 8106

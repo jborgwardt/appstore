@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-actual-budget
 name: Actual Budget
 tagline: Local-first OpenSource Budget tool
-icon: https://runtipi.io/images/apps/actual-budget.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/actual-budget/metadata/logo.jpg
 category: finance
 version: 26.10.0
 port: 8011

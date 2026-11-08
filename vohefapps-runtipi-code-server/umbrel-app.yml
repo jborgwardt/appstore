@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-code-server
 name: Code Server
 tagline: VS Code in the browser
-icon: https://runtipi.io/images/apps/code-server.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/code-server/metadata/logo.jpg
 category: development
 version: 4.141.0
 port: 8138

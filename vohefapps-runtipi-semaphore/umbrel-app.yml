@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-semaphore
 name: Semaphore
 tagline: Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
-icon: https://runtipi.io/images/apps/semaphore.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/semaphore/metadata/logo.jpg
 category: development
 version: v2.19.17
 port: 8526

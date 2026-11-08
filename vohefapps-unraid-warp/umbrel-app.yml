@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-unraid-warp
 name: warp
 tagline: Cloudflare WARP is a free VPN service provided by Cloudflare
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-unraid-warp/icon.svg
 category: utilities
 version: latest
 port: 1080

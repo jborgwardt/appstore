@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-znc
 name: znc
 tagline: Imported from BigBearCasaOS (znc)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/znc.png
 category: utilities
 version: 1.10.3
 port: 3000

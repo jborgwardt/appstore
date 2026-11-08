@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-nextcloud
 name: Nextcloud
 tagline: Productivity platform that keeps you in control
-icon: https://runtipi.io/images/apps/nextcloud.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/nextcloud/metadata/logo.jpg
 category: data
 version: 35.0.2
 port: 8083

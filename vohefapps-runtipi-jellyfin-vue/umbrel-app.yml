@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-jellyfin-vue
 name: Jellyfin Vue (Beta)
 tagline: A modern web client for Jellyfin based on Vue
-icon: https://runtipi.io/images/apps/jellyfin-vue.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/jellyfin-vue/metadata/logo.jpg
 category: media
 version: unstable.2024-10-14.a47a7d5
 port: 8202

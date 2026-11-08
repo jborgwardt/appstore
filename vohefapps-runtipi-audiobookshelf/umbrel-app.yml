@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-audiobookshelf
 name: Audiobookshelf
 tagline: Audiobookshelf is a self-hosted audiobook and podcast server.
-icon: https://runtipi.io/images/apps/audiobookshelf.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/audiobookshelf/metadata/logo.jpg
 category: books
 version: 2.37.1
 port: 13378

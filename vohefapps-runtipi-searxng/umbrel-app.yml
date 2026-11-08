@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-searxng
 name: SearXNG
 tagline: Privacy-respecting, hackable metasearch engine
-icon: https://runtipi.io/images/apps/searxng.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/searxng/metadata/logo.jpg
 category: social
 version: latest
 port: 8127

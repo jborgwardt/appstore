@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-embystat
 name: embystat
 tagline: Imported from BigBearCasaOS (embystat)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/embystat.png
 category: utilities
 version: 0.2.0
 port: 3000

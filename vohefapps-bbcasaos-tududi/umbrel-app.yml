@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-tududi
 name: tududi
 tagline: Imported from BigBearCasaOS (tududi)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/tududi.png
 category: utilities
 version: '0.87'
 port: 9292

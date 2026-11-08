@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-jellyfin
 name: Jellyfin
 tagline: A media server for your home collection
-icon: https://runtipi.io/images/apps/jellyfin.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/jellyfin/metadata/logo.jpg
 category: media
 version: version-12.2ubu2604
 port: 8091

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-kiwix-serve
 name: kiwix-serve
 tagline: Imported from BigBearCasaOS (kiwix-serve)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/kiwix-serve/metadata/logo.jpg
 category: utilities
 version: 3.7.0-2
 port: 8080

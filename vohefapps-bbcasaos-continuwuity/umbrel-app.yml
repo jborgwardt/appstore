@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-continuwuity
 name: continuwuity
 tagline: Imported from BigBearCasaOS (continuwuity)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/continuwuity.png
 category: utilities
 version: v26.7.2
 port: 20006

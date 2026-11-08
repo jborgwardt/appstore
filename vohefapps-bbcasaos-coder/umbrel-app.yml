@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-coder
 name: coder
 tagline: Imported from BigBearCasaOS (coder)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/coder.png
 category: utilities
 version: v2.36.7
 port: 7080

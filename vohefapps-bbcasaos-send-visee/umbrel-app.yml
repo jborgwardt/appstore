@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-send-visee
 name: send-visee
 tagline: Imported from BigBearCasaOS (send-visee)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/send-visee.png
 category: utilities
 version: v3.4.27
 port: 1443

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-2fauth
 name: 2FAuth
 tagline: Manage your Two-Factor Authentication codes.
-icon: https://runtipi.io/images/apps/2fauth.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/2fauth/metadata/logo.jpg
 category: security
 version: 8.0.2
 port: 8235

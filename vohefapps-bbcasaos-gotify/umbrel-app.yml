@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-gotify
 name: gotify
 tagline: Imported from BigBearCasaOS (gotify)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/gotify/metadata/logo.jpg
 category: utilities
 version: 3.1.1
 port: 8091

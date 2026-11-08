@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-grist
 name: Grist
 tagline: Grist is the evolution of spreadsheets.
-icon: https://runtipi.io/images/apps/grist.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/grist/metadata/logo.jpg
 category: utilities
 version: 1.7.21
 port: 8484

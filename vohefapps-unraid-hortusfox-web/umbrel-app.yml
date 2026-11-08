@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-unraid-hortusfox-web
 name: hortusfox-web
 tagline: Self-hosted collaborative plant management system for your local environment
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/hortusfox.png
 category: productivity
 version: latest
 port: 80

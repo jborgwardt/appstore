@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-glance
 name: glance
 tagline: Imported from BigBearCasaOS (glance)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/glance/metadata/logo.jpg
 category: utilities
 version: v0.8.7
 port: 8280

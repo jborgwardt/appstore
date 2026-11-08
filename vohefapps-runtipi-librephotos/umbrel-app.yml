@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-librephotos
 name: LibrePhotos
 tagline: Complete photo management service
-icon: https://runtipi.io/images/apps/librephotos.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/librephotos/metadata/logo.jpg
 category: photography
 version: 2023w48
 port: 8132

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-celestory
 name: celestory
 tagline: Imported from BigBearCasaOS (celestory)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-celestory/icon.svg
 category: utilities
 version: 1.1.2
 port: 1500

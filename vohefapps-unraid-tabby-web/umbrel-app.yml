@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-unraid-tabby-web
 name: tabby-web
 tagline: Tabby Web - an SSH/Telnet/Serial client in your browser.
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-unraid-tabby-web/icon.svg
 category: productivity
 version: latest
 port: 80

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-airsonic-advanced
 name: airsonic-advanced
 tagline: Imported from BigBearCasaOS (airsonic-advanced)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/airsonic.png
 category: utilities
 version: 11.1.4
 port: 3000

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-tugtainer
 name: tugtainer
 tagline: Imported from BigBearCasaOS (tugtainer)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/tugtainer.png
 category: utilities
 version: v1.44.1
 port: 9412

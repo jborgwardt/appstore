@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-owncloud
 name: Owncloud
 tagline: 'A personal cloud which runs on your own server. '
-icon: https://runtipi.io/images/apps/owncloud.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/owncloud/metadata/logo.jpg
 category: data
 version: 11.0.1
 port: 8151

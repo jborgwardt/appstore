@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-olivetin
 name: Olivetin
 tagline: Give safe and simple access to predefined shell commands from a web interface.
-icon: https://runtipi.io/images/apps/olivetin.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/olivetin/metadata/logo.jpg
 category: utilities
 version: latest
 port: 1337

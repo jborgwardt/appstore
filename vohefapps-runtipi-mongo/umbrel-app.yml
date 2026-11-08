@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-mongo
 name: MongoDB
 tagline: MongoDB is an open-source NoSQL database
-icon: https://runtipi.io/images/apps/mongo.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/mongo/metadata/logo.jpg
 category: development
 version: 7.0.45
 port: 27017

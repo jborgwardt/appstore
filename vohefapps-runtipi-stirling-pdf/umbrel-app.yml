@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-stirling-pdf
 name: Stirling-PDF
 tagline: Powerful locally hosted web based PDF manipulation tool.
-icon: https://runtipi.io/images/apps/stirling-pdf.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/stirling-pdf/metadata/logo.jpg
 category: data
 version: 3.2.0
 port: 8234

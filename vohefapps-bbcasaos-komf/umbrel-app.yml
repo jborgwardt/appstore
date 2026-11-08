@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-komf
 name: komf
 tagline: Imported from BigBearCasaOS (komf)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-komf/icon.svg
 category: utilities
 version: 2.0.1
 port: 8085

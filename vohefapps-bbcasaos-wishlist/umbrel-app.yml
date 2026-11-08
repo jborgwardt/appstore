@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-wishlist
 name: wishlist
 tagline: Imported from BigBearCasaOS (wishlist)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wishlist.png
 category: utilities
 version: v0.64.0
 port: 3280

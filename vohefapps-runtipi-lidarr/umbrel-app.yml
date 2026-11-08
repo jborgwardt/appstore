@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-lidarr
 name: Lidarr
 tagline: ' Looks and smells like Sonarr but made for music.'
-icon: https://runtipi.io/images/apps/lidarr.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/lidarr/metadata/logo.jpg
 category: media
 version: 3.1.0
 port: 8131

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-wg-easy-v15
 name: wg-easy-v15
 tagline: Imported from BigBearCasaOS (wg-easy-v15)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-wg-easy-v15/icon.svg
 category: utilities
 version: '15'
 port: 51820

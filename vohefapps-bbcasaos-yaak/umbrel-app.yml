@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-yaak
 name: yaak
 tagline: Imported from BigBearCasaOS (yaak)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-yaak/icon.svg
 category: utilities
 version: 2026.9.0
 port: 3000

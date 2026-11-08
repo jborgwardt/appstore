@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-pihole-unbound
 name: pihole-unbound
 tagline: Imported from BigBearCasaOS (pihole-unbound)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/pihole/metadata/logo.jpg
 category: utilities
 version: 7db29f755beeda43d9e1565399c0b77916533c51ea9e6c05c48e7b0f5675c57f
 port: 53

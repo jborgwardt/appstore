@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-lubelogger
 name: LubeLogger
 tagline: Vehicle Maintenance and Fuel Mileage Tracker.
-icon: https://runtipi.io/images/apps/lubelogger.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/lubelogger/metadata/logo.jpg
 category: utilities
 version: v1.7.4
 port: 8054

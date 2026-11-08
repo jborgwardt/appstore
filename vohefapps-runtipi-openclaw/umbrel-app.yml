@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-openclaw
 name: OpenClaw
 tagline: OpenClaw is a personal AI assistant you run on your own devices. It answers you on the channels you already use.
-icon: https://runtipi.io/images/apps/openclaw.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/openclaw/metadata/logo.jpg
 category: ai
 version: latest
 port: 18789

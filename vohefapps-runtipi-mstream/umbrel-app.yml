@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-mstream
 name: mStream Music
 tagline: The easiest music streaming server available
-icon: https://runtipi.io/images/apps/mstream.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/mstream/metadata/logo.jpg
 category: music
 version: v5.12.2-ls190
 port: 8162

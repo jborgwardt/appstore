@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-rsshub
 name: RSSHub
 tagline: Everything is RSSible with RSSHub
-icon: https://runtipi.io/images/apps/rsshub.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/rsshub/metadata/logo.jpg
 category: utilities
 version: '2026-04-17'
 port: 8223

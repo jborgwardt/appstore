@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-chatpad
 name: Chatpad AI
 tagline: Not just another ChatGPT user-interface!
-icon: https://runtipi.io/images/apps/chatpad.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/chatpad/metadata/logo.jpg
 category: ai
 version: latest
 port: 8179

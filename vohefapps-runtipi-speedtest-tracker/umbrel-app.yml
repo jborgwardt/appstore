@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-speedtest-tracker
 name: Speedtest Tracker
 tagline: Internet performance tracking application.
-icon: https://runtipi.io/images/apps/speedtest-tracker.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/speedtest-tracker/metadata/logo.jpg
 category: utilities
 version: 1.15.0
 port: 8211

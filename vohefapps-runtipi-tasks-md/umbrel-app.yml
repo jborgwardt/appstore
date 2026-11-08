@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-tasks-md
 name: Tasks.md
 tagline: A self-hosted, file based task management board.
-icon: https://runtipi.io/images/apps/tasks-md.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/tasks-md/metadata/logo.jpg
 category: development
 version: 3.3.0
 port: 8157

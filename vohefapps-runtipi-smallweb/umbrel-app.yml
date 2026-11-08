@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-smallweb
 name: Smallweb
 tagline: Your internet folder
-icon: https://runtipi.io/images/apps/smallweb.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/smallweb/metadata/logo.jpg
 category: development
 version: 0.28.4
 port: 7777

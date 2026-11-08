@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-code-server
 name: code-server
 tagline: Imported from BigBearCasaOS (code-server)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/code-server/metadata/logo.jpg
 category: utilities
 version: 4.141.0
 port: 8080

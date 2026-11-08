@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-btop
 name: btop
 tagline: Imported from BigBearCasaOS (btop)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/btop.png
 category: utilities
 version: 0.1.11
 port: 7681

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-deluge
 name: Deluge
 tagline: Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
-icon: https://runtipi.io/images/apps/deluge.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/deluge/metadata/logo.jpg
 category: utilities
 version: 18.04.1
 port: 8144

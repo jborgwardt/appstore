@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-unraid-tvapp2
 name: TVApp2
 tagline: Automatic M3U playlist and XML guide updater for TheTvApp, TVPass, and MoveOnJoy utilized within your IPTV client
-icon: https://raw.githubusercontent.com/TheBinaryNinja/unraid-templates/refs/heads/main/assets/tvapp2-vector.ico
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-unraid-tvapp2/icon.svg
 category: mediaapp
 version: latest
 port: 4124

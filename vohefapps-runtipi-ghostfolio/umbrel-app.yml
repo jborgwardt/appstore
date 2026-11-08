@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-ghostfolio
 name: Ghostfolio
 tagline: Open Source Wealth Management Software.
-icon: https://runtipi.io/images/apps/ghostfolio.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/ghostfolio/metadata/logo.jpg
 category: finance
 version: 3.88.0
 port: 3333

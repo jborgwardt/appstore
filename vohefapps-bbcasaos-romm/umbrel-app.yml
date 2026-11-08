@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-romm
 name: romm
 tagline: Imported from BigBearCasaOS (romm)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/romm/metadata/logo.jpg
 category: utilities
 version: 5.4.0
 port: 1080

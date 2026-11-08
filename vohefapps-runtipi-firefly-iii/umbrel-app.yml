@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-firefly-iii
 name: Firefly III
 tagline: 'Firefly III: a personal finances manager '
-icon: https://runtipi.io/images/apps/firefly-iii.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/firefly-iii/metadata/logo.jpg
 category: finance
 version: version-6
 port: 8115

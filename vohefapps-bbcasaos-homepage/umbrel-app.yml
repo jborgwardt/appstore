@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-homepage
 name: homepage
 tagline: Imported from BigBearCasaOS (homepage)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/homepage/metadata/logo.jpg
 category: utilities
 version: v2.4.0
 port: 3000

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-ghostfolio
 name: ghostfolio
 tagline: Imported from BigBearCasaOS (ghostfolio)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/ghostfolio/metadata/logo.jpg
 category: utilities
 version: 3.86.0
 port: 3333

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-hello-world
 name: Hello World
 tagline: Hello World web server in under 2 MB
-icon: https://runtipi.io/images/apps/hello-world.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/hello-world/metadata/logo.jpg
 category: utilities
 version: latest
 port: 8000

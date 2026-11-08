@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-quassel-web
 name: quassel-web
 tagline: Imported from BigBearCasaOS (quassel-web)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-quassel-web/icon.svg
 category: utilities
 version: 0.0.0
 port: 3000

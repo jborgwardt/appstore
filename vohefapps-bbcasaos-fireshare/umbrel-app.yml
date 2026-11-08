@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-fireshare
 name: fireshare
 tagline: Imported from BigBearCasaOS (fireshare)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/fireshare/metadata/logo.jpg
 category: utilities
 version: 1.9.0
 port: 8585

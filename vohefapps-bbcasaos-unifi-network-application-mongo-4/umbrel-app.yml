@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-unifi-network-application-mongo-4
 name: unifi-network-application-mongo-4
 tagline: Imported from BigBearCasaOS (unifi-network-application-mongo-4)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/unifi.png
 category: utilities
 version: 10.6.106
 port: 8443

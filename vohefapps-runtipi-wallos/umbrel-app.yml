@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-wallos
 name: Wallos
 tagline: Open-Source Personal Subscription Tracker
-icon: https://runtipi.io/images/apps/wallos.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/wallos/metadata/logo.jpg
 category: finance
 version: 5.10.0
 port: 8222

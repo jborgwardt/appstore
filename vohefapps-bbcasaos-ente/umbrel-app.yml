@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-ente
 name: ente
 tagline: Imported from BigBearCasaOS (ente)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-ente/icon.svg
 category: utilities
 version: latest
 port: 8080

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-caddy
 name: caddy
 tagline: Imported from BigBearCasaOS (caddy)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/caddy.png
 category: utilities
 version: 2.11.7
 port: 3000

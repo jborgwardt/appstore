@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-autobrr
 name: autobrr
 tagline: Automation for downloads.
-icon: https://runtipi.io/images/apps/autobrr.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/autobrr/metadata/logo.jpg
 category: media
 version: v1.88.0
 port: 8158

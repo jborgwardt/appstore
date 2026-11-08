@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-nocodb
 name: nocodb
 tagline: Imported from BigBearCasaOS (nocodb)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/nocodb/metadata/logo.jpg
 category: utilities
 version: 0.301.5
 port: 8080

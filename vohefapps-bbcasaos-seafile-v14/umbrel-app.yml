@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-seafile-v14
 name: seafile-v14
 tagline: Imported from BigBearCasaOS (seafile-v14)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/seafile.png
 category: utilities
 version: 14.0.9
 port: 8146

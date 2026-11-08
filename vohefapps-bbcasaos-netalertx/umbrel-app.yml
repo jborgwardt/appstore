@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-netalertx
 name: netalertx
 tagline: Imported from BigBearCasaOS (netalertx)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/netalertx.png
 category: utilities
 version: 25.11.29
 port: 3000

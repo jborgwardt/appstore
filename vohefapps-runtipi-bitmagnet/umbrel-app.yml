@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-bitmagnet
 name: Bitmagnet
 tagline: A self-hosted BitTorrent indexer.
-icon: https://runtipi.io/images/apps/bitmagnet.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/bitmagnet/metadata/logo.jpg
 category: media
 version: v0.10.1
 port: 3335

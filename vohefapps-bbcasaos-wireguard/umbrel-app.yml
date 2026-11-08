@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-wireguard
 name: wireguard
 tagline: Imported from BigBearCasaOS (wireguard)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/wireguard.png
 category: utilities
 version: 1.0.20260223
 port: 3000

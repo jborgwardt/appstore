@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-affine
 name: AFFiNE
 tagline: AFFiNE is a workspace with fully merged docs, whiteboards and databases.
-icon: https://runtipi.io/images/apps/affine.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/affine/metadata/logo.jpg
 category: utilities
 version: stable
 port: 3010

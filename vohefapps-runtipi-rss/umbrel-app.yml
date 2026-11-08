@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-rss
 name: RSS
 tagline: A simple, opinionated, RSS feed aggregator.
-icon: https://runtipi.io/images/apps/rss.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/rss/metadata/logo.jpg
 category: utilities
 version: v2.2.3
 port: 8141

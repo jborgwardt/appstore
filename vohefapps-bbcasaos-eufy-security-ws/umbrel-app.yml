@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-eufy-security-ws
 name: eufy-security-ws
 tagline: Imported from BigBearCasaOS (eufy-security-ws)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-eufy-security-ws/icon.svg
 category: utilities
 version: 3.1.0
 port: 3000

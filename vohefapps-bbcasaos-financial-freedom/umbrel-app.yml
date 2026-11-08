@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-financial-freedom
 name: financial-freedom
 tagline: Imported from BigBearCasaOS (financial-freedom)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-financial-freedom/icon.svg
 category: utilities
 version: v0.2.0-alpha1
 port: 8080

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-gitea-mirror
 name: gitea-mirror
 tagline: Imported from BigBearCasaOS (gitea-mirror)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/gitea-mirror.png
 category: utilities
 version: v3.15.10
 port: 4321

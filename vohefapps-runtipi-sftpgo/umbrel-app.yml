@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-sftpgo
 name: SFTPGo
 tagline: Fully featured and highly configurable SFTP server
-icon: https://runtipi.io/images/apps/sftpgo.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/sftpgo/metadata/logo.jpg
 category: utilities
 version: 2.7.6
 port: 8002

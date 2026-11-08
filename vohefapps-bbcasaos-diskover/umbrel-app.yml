@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-diskover
 name: diskover
 tagline: Imported from BigBearCasaOS (diskover)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/diskover.png
 category: utilities
 version: 2.3.5
 port: 3000

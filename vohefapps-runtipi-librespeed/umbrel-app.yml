@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-librespeed
 name: LibreSpeed
 tagline: No Flash, No Java, No Websocket, No Garbage
-icon: https://runtipi.io/images/apps/librespeed.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/librespeed/metadata/logo.jpg
 category: network
 version: 6.3.0
 port: 8084

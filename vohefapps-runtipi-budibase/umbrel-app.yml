@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-budibase
 name: Budibase
 tagline: Internal tools made easy.
-icon: https://runtipi.io/images/apps/budibase.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/budibase/metadata/logo.jpg
 category: development
 version: v3.49.0
 port: 8268

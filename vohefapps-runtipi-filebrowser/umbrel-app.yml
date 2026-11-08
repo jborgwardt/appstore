@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-filebrowser
 name: File Browser
 tagline: Access your homeserver files from your browser
-icon: https://runtipi.io/images/apps/filebrowser.png
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/filebrowser.png
 category: utilities
 version: v2.63.23
 port: 8096

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-booksonic
 name: Booksonic
 tagline: The selfhosted audiobook server
-icon: https://runtipi.io/images/apps/booksonic.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/booksonic/metadata/logo.jpg
 category: books
 version: 2201.1.0
 port: 8040

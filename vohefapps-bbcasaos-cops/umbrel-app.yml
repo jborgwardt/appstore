@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-cops
 name: cops
 tagline: Imported from BigBearCasaOS (cops)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-cops/icon.svg
 category: utilities
 version: 4.5.4
 port: 3000

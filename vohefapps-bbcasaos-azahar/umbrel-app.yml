@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-azahar
 name: azahar
 tagline: Imported from BigBearCasaOS (azahar)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-azahar/icon.svg
 category: utilities
 version: 12126.1.2
 port: 3000

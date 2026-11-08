@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-firefox
 name: firefox
 tagline: Imported from BigBearCasaOS (firefox)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/firefox.png
 category: utilities
 version: 1155.0.1
 port: 3000

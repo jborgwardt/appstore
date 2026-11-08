@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-gemdigest
 name: gemdigest
 tagline: Imported from BigBearCasaOS (gemdigest)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-gemdigest/icon.svg
 category: utilities
 version: '1.0'
 port: 3333

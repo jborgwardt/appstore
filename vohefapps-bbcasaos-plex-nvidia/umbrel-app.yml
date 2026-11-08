@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-plex-nvidia
 name: plex-nvidia
 tagline: Imported from BigBearCasaOS (plex-nvidia)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/plex.png
 category: utilities
 version: 1.43.4
 port: 3000

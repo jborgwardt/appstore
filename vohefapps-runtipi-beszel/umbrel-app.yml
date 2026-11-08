@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-beszel
 name: Beszel
 tagline: Lightweight server monitoring.
-icon: https://runtipi.io/images/apps/beszel.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/beszel/metadata/logo.jpg
 category: utilities
 version: 0.21.0
 port: 8999

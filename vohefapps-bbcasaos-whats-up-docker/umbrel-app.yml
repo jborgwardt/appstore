@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-whats-up-docker
 name: whats-up-docker
 tagline: Imported from BigBearCasaOS (whats-up-docker)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/whats-up-docker.png
 category: utilities
 version: 6.6.1
 port: 3000

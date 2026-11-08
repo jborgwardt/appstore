@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-wg-easy-1
 name: Wireguard
 tagline: VPN server for your homeserver.
-icon: https://runtipi.io/images/apps/wg-easy-1.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/wg-easy-1/metadata/logo.jpg
 category: network
 version: 15.4.0
 port: 8882

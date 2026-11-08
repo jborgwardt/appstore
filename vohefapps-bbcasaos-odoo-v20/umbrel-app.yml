@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-odoo-v20
 name: odoo-v20
 tagline: Imported from BigBearCasaOS (odoo-v20)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/odoo.png
 category: utilities
 version: '20'
 port: 8070

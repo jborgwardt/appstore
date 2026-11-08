@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-web-check
 name: web-check
 tagline: Imported from BigBearCasaOS (web-check)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/web-check.png
 category: utilities
 version: 2.3.6
 port: 20003

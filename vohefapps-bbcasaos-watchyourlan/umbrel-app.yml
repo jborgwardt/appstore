@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-watchyourlan
 name: watchyourlan
 tagline: Imported from BigBearCasaOS (watchyourlan)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/watchyourlan/metadata/logo.jpg
 category: utilities
 version: 2.1.4
 port: 3000

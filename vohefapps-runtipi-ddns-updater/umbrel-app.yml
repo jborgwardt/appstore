@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-ddns-updater
 name: DDNS Updater
 tagline: Program to keep DNS A and/or AAAA records updated for multiple DNS providers.
-icon: https://runtipi.io/images/apps/ddns-updater.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/ddns-updater/metadata/logo.jpg
 category: utilities
 version: v2.10.0
 port: 8356

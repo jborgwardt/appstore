@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-monerod
 name: Monero Daemon
 tagline: Monero is a private, decentralized cryptocurrency that keeps your finances confidential and secure.
-icon: https://runtipi.io/images/apps/monerod.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/monerod/metadata/logo.jpg
 category: finance
 version: 0.18.3.4
 port: 18080

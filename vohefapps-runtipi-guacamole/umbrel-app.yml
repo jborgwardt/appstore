@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-guacamole
 name: Guacamole
 tagline: Clientless remote desktop gateway
-icon: https://runtipi.io/images/apps/guacamole.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/guacamole/metadata/logo.jpg
 category: utilities
 version: 1.6.0
 port: 8854

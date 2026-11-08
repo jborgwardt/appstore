@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-navidrome
 name: navidrome
 tagline: Imported from BigBearCasaOS (navidrome)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/navidrome/metadata/logo.jpg
 category: utilities
 version: 0.64.2
 port: 4533

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-memos
 name: Memos
 tagline: Memo hub for knowledge management and collaboration.
-icon: https://runtipi.io/images/apps/memos.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/memos/metadata/logo.jpg
 category: utilities
 version: 0.31.0
 port: 5230

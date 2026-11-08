@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-gandi-livedns
 name: gandi-livedns
 tagline: Update your Gandi DNS zone records with your WAN IP
-icon: https://runtipi.io/images/apps/gandi-livedns.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/gandi-livedns/metadata/logo.jpg
 category: network
 version: latest
 port: 8134

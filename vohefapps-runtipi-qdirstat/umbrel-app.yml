@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-qdirstat
 name: qDirStat
 tagline: A graphical disk usage analyzer
-icon: https://runtipi.io/images/apps/qdirstat.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/qdirstat/metadata/logo.jpg
 category: utilities
 version: 1.8.1-ls82
 port: 7125

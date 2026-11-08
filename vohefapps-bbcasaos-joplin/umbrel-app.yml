@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-joplin
 name: joplin
 tagline: Imported from BigBearCasaOS (joplin)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/joplin/metadata/logo.jpg
 category: utilities
 version: 3.7.2
 port: 22300

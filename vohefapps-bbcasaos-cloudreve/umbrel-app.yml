@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-cloudreve
 name: cloudreve
 tagline: Imported from BigBearCasaOS (cloudreve)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/cloudreve.png
 category: utilities
 version: 4.19.1
 port: 5212

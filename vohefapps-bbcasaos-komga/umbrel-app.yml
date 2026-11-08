@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-komga
 name: komga
 tagline: Imported from BigBearCasaOS (komga)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/komga/metadata/logo.jpg
 category: utilities
 version: 1.24.4
 port: 25600

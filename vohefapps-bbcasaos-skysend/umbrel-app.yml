@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-skysend
 name: skysend
 tagline: Imported from BigBearCasaOS (skysend)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/skysend.png
 category: utilities
 version: v3.1.0
 port: 23001

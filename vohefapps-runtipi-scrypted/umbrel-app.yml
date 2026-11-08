@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-scrypted
 name: Scrypted
 tagline: High performance home video integration and automation platform
-icon: https://runtipi.io/images/apps/scrypted.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/scrypted/metadata/logo.jpg
 category: security
 version: '20'
 port: 10443

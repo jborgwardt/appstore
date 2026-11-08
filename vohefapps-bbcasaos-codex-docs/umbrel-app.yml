@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-codex-docs
 name: codex-docs
 tagline: Imported from BigBearCasaOS (codex-docs)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/codex-docs/metadata/logo.jpg
 category: utilities
 version: v2.2
 port: 3000

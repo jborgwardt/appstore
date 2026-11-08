@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-send
 name: Send
 tagline: Simple, private file sharing. https://send.vis.ee/
-icon: https://runtipi.io/images/apps/send.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/send/metadata/logo.jpg
 category: utilities
 version: latest
 port: 8126

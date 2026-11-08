@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-glances
 name: glances
 tagline: Imported from BigBearCasaOS (glances)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/glances/metadata/logo.jpg
 category: utilities
 version: 4.5.3.2-full
 port: 61208

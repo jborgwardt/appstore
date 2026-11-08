@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-spoolman
 name: spoolman
 tagline: Imported from BigBearCasaOS (spoolman)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/spoolman/metadata/logo.jpg
 category: utilities
 version: 0.23.1
 port: 7912

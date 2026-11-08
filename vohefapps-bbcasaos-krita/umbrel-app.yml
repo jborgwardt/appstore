@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-krita
 name: krita
 tagline: Imported from BigBearCasaOS (krita)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-krita/icon.svg
 category: utilities
 version: 5.3.4
 port: 3000

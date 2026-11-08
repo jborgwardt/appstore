@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-odoo
 name: odoo
 tagline: Imported from BigBearCasaOS (odoo)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/odoo/metadata/logo.jpg
 category: utilities
 version: '19'
 port: 8069

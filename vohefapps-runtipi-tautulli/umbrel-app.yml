@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-tautulli
 name: Tautulli
 tagline: Monitoring and tracking tool for Plex Media Server.
-icon: https://runtipi.io/images/apps/tautulli.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/tautulli/metadata/logo.jpg
 category: media
 version: 2.18.2
 port: 8181

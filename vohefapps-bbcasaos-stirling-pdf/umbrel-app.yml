@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-stirling-pdf
 name: stirling-pdf
 tagline: Imported from BigBearCasaOS (stirling-pdf)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/stirling-pdf/metadata/logo.jpg
 category: utilities
 version: 3.2.0
 port: 8080

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-seedsync
 name: SeedSync
 tagline: SeedSync is a tool to sync the files on a remote Linux server.
-icon: https://runtipi.io/images/apps/seedsync.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/seedsync/metadata/logo.jpg
 category: utilities
 version: 0.8.6
 port: 8800

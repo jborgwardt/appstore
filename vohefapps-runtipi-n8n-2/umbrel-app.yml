@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-n8n-2
 name: n8n
 tagline: Workflow Automation Tool. Alternative to Zapier
-icon: https://runtipi.io/images/apps/n8n-2.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/n8n-2/metadata/logo.jpg
 category: automation
 version: 2.44.4
 port: 5678

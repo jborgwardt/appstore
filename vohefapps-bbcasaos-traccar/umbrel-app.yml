@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-traccar
 name: traccar
 tagline: Imported from BigBearCasaOS (traccar)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/traccar.png
 category: utilities
 version: 6.15-ubuntu
 port: 8080

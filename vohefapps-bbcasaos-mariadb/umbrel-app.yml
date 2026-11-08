@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-mariadb
 name: mariadb
 tagline: Imported from BigBearCasaOS (mariadb)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/mariadb.png
 category: utilities
 version: 11.8.8
 port: 3000

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-pairdrop
 name: PairDrop
 tagline: Local file sharing in your browser. Inspired by Apple's AirDrop
-icon: https://runtipi.io/images/apps/pairdrop.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/pairdrop/metadata/logo.jpg
 category: media
 version: 1.11.2
 port: 8182

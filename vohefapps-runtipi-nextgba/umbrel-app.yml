@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-nextgba
 name: NextGBA
 tagline: Gameboy in your browser
-icon: https://runtipi.io/images/apps/nextgba.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/nextgba/metadata/logo.jpg
 category: gaming
 version: 0.1.0
 port: 8435

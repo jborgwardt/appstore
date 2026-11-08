@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-pihole
 name: Pi-hole
 tagline: A black hole for Internet advertisements
-icon: https://runtipi.io/images/apps/pihole.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/pihole/metadata/logo.jpg
 category: network
 version: 2026.10.0
 port: 8081

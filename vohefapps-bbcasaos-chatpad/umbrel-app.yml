@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-chatpad
 name: chatpad
 tagline: Imported from BigBearCasaOS (chatpad)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/chatpad/metadata/logo.jpg
 category: utilities
 version: f45cd53bc410412610c1ba1cbd84cd137d8e167d
 port: 8080

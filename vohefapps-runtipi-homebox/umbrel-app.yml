@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-homebox
 name: HomeBox
 tagline: Inventory and organization system.
-icon: https://runtipi.io/images/apps/homebox.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/homebox/metadata/logo.jpg
 category: utilities
 version: 0.27.0
 port: 7745

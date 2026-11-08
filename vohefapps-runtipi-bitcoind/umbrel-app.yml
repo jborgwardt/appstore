@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-bitcoind
 name: Bitcoin
 tagline: Bitcoin core node
-icon: https://runtipi.io/images/apps/bitcoind.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/bitcoind/metadata/logo.jpg
 category: finance
 version: '28.0'
 port: 8333

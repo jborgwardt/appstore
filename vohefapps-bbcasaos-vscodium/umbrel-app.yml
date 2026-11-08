@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-vscodium
 name: vscodium
 tagline: Imported from BigBearCasaOS (vscodium)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/vscodium.png
 category: utilities
 version: 1.140.06880
 port: 3000

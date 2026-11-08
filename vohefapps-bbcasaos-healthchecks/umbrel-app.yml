@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-healthchecks
 name: healthchecks
 tagline: Imported from BigBearCasaOS (healthchecks)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/healthchecks.png
 category: utilities
 version: 4.4.20261012
 port: 8000

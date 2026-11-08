@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-ejbca-ce
 name: ejbca-ce
 tagline: Imported from BigBearCasaOS (ejbca-ce)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-ejbca-ce/icon.svg
 category: utilities
 version: 9.6.3
 port: 8080

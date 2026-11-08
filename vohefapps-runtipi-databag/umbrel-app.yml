@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-databag
 name: Databag
 tagline: Messenger for the Decentralized Web
-icon: https://runtipi.io/images/apps/databag.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/databag/metadata/logo.jpg
 category: utilities
 version: latest
 port: 8201

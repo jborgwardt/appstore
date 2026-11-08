@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-kiwix-serve
 name: Kiwix Server
 tagline: Kiwix Server is a web server for hosting .zim files
-icon: https://runtipi.io/images/apps/kiwix-serve.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/kiwix-serve/metadata/logo.jpg
 category: media
 version: 3.7.0-2
 port: 8169

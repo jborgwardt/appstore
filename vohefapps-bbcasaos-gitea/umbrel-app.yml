@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-gitea
 name: gitea
 tagline: Imported from BigBearCasaOS (gitea)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/gitea/metadata/logo.jpg
 category: utilities
 version: 28.1.0
 port: 3000

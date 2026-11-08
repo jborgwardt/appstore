@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-halo
 name: Halo
 tagline: Halo - Open source website building tool.
-icon: https://runtipi.io/images/apps/halo.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/halo/metadata/logo.jpg
 category: social
 version: 2.27.0
 port: 8092

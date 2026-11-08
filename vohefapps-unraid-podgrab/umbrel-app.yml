@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-unraid-podgrab
 name: podgrab
 tagline: A self-hosted podcast manager to download episodes as soon as they become live
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/podgrab.png
 category: downloaders
 version: latest
 port: 8080

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-filestash
 name: Filestash
 tagline: A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze
-icon: https://runtipi.io/images/apps/filestash.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/filestash/metadata/logo.jpg
 category: utilities
 version: latest
 port: 8189

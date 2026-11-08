@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-paperless-ngx
 name: Paperless-ngx
 tagline: Document Management System (DMS)
-icon: https://runtipi.io/images/apps/paperless-ngx.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/paperless-ngx/metadata/logo.jpg
 category: utilities
 version: 3.3.2
 port: 8012

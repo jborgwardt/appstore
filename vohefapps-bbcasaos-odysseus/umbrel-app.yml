@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-odysseus
 name: odysseus
 tagline: Imported from BigBearCasaOS (odysseus)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/odysseus.png
 category: utilities
 version: 2026.10.12
 port: 7000

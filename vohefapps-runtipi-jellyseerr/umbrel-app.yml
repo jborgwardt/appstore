@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-jellyseerr
 name: Jellyseerr
 tagline: Fork of overseerr for Jellyfin support
-icon: https://runtipi.io/images/apps/jellyseerr.png
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/jellyseerr.png
 category: media
 version: 2.7.3
 port: 8163

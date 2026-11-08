@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-seerr
 name: seerr
 tagline: Imported from BigBearCasaOS (seerr)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/seerr/metadata/logo.jpg
 category: utilities
 version: v3.4.1
 port: 5056

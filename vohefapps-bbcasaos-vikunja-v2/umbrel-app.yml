@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-vikunja-v2
 name: vikunja-v2
 tagline: Imported from BigBearCasaOS (vikunja-v2)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/vikunja.png
 category: utilities
 version: 2.7.0
 port: 8082

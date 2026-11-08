@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-gamevault
 name: gamevault
 tagline: Imported from BigBearCasaOS (gamevault)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/gamevault.png
 category: utilities
 version: 17.0.1
 port: 20032

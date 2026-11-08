@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-stalwart-mail
 name: Stalwart Mail
 tagline: Open-source mail server solution with JMAP, IMAP4, and SMTP support
-icon: https://runtipi.io/images/apps/stalwart-mail.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/stalwart-mail/metadata/logo.jpg
 category: media
 version: v0.16.27
 port: 8677

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-zipline
 name: zipline
 tagline: Imported from BigBearCasaOS (zipline)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/zipline.png
 category: utilities
 version: 3.7.13
 port: 3000

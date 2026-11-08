@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-ghost
 name: Ghost Production
 tagline: Ghost - Turn your audience into a business.
-icon: https://runtipi.io/images/apps/ghost.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/ghost/metadata/logo.jpg
 category: social
 version: 5.130.6
 port: 8117

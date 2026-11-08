@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-dozzle
 name: dozzle
 tagline: Imported from BigBearCasaOS (dozzle)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/dozzle/metadata/logo.jpg
 category: utilities
 version: v11.3.2
 port: 8888

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-filebrowser-quantum
 name: FileBrowser Quantum
 tagline: Access your homeserver files from your browser
-icon: https://runtipi.io/images/apps/filebrowser-quantum.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/filebrowser-quantum/metadata/logo.jpg
 category: utilities
 version: 2.0-stable
 port: 18196

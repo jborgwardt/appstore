@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-socket-proxy
 name: socket-proxy
 tagline: Imported from BigBearCasaOS (socket-proxy)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-socket-proxy/icon.svg
 category: utilities
 version: 3.4.7
 port: 3000

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-nextcloud-mini
 name: Nextcloud Mini
 tagline: A safe home for all your data.
-icon: https://runtipi.io/images/apps/nextcloud-mini.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/nextcloud-mini/metadata/logo.jpg
 category: data
 version: 35.0.2
 port: 8564

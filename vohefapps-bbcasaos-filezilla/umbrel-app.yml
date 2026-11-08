@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-filezilla
 name: filezilla
 tagline: Imported from BigBearCasaOS (filezilla)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/filezilla.png
 category: utilities
 version: 3.69.6
 port: 3000

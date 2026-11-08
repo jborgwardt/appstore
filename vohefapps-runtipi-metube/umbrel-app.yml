@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-metube
 name: MeTube
 tagline: Self-hosted YouTube downloader.
-icon: https://runtipi.io/images/apps/metube.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/metube/metadata/logo.jpg
 category: media
 version: latest
 port: 8250

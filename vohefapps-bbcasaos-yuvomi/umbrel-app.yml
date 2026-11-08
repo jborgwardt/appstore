@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-yuvomi
 name: yuvomi
 tagline: Imported from BigBearCasaOS (yuvomi)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/yuvomi.png
 category: utilities
 version: 2.73.0
 port: 20004

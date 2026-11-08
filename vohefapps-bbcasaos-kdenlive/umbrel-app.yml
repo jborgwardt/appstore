@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-kdenlive
 name: kdenlive
 tagline: Imported from BigBearCasaOS (kdenlive)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-kdenlive/icon.svg
 category: utilities
 version: 423.08.5
 port: 3000

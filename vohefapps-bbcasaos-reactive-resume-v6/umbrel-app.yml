@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-reactive-resume-v6
 name: reactive-resume-v6
 tagline: Imported from BigBearCasaOS (reactive-resume-v6)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-reactive-resume-v6/icon.svg
 category: utilities
 version: v6.0.3
 port: 3028

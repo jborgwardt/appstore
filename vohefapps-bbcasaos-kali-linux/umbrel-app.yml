@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-kali-linux
 name: kali-linux
 tagline: Imported from BigBearCasaOS (kali-linux)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/kali-linux.png
 category: utilities
 version: 0.0.0
 port: 3000

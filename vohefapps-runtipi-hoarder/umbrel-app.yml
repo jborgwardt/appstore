@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-hoarder
 name: Hoarder
 tagline: Self-hostable bookmark-everything app
-icon: https://runtipi.io/images/apps/hoarder.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/hoarder/metadata/logo.jpg
 category: utilities
 version: 0.34.0
 port: 8685

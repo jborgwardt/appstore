@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-jackett
 name: Jackett
 tagline: 'API Support for your favorite torrent trackers '
-icon: https://runtipi.io/images/apps/jackett.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/jackett/metadata/logo.jpg
 category: media
 version: latest
 port: 8097

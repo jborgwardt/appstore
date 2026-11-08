@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-flaresolverr
 name: Flaresolverr
 tagline: Bypass Cloudflare and DDoS-GuARD.
-icon: https://runtipi.io/images/apps/flaresolverr.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/flaresolverr/metadata/logo.jpg
 category: media
 version: v3.5.2
 port: 8666

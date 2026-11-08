@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-rustdesk
 name: rustdesk
 tagline: Imported from BigBearCasaOS (rustdesk)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/rustdesk.png
 category: utilities
 version: 1.5.0
 port: 3000

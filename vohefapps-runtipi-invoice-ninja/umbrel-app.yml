@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-invoice-ninja
 name: Invoice Ninja
 tagline: Invoices, Expenses and Tasks built with Laravel, Flutter and React.
-icon: https://runtipi.io/images/apps/invoice-ninja.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/invoice-ninja/metadata/logo.jpg
 category: finance
 version: '5.13'
 port: 8881

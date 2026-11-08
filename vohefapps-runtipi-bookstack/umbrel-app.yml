@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-bookstack
 name: Bookstack
 tagline: BookStack is a self-hosted platform for organising and storing information.
-icon: https://runtipi.io/images/apps/bookstack.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/bookstack/metadata/logo.jpg
 category: data
 version: 26.09.20260929
 port: 8119

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-budge
 name: budge
 tagline: Imported from BigBearCasaOS (budge)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-budge/icon.svg
 category: utilities
 version: 0.0.9
 port: 3000

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-mind
 name: mind
 tagline: Imported from BigBearCasaOS (mind)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/mind/metadata/logo.jpg
 category: utilities
 version: v1.4.1
 port: 8080

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-privatebin
 name: PrivateBin
 tagline: A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser usi
-icon: https://runtipi.io/images/apps/privatebin.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/privatebin/metadata/logo.jpg
 category: utilities
 version: 2.0.6
 port: 8122

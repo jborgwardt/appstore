@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-linkwarden
 name: linkwarden
 tagline: Imported from BigBearCasaOS (linkwarden)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/linkwarden/metadata/logo.jpg
 category: utilities
 version: v2.14.1
 port: 3000

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-unraid-syncarr
 name: syncarr
 tagline: Syncs two Radarr/Sonarr/Lidarr servers through the web API
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-unraid-syncarr/icon.svg
 category: mediaserver
 version: latest
 port: 3000

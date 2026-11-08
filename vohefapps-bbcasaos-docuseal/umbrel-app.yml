@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-docuseal
 name: docuseal
 tagline: Imported from BigBearCasaOS (docuseal)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/docuseal.png
 category: utilities
 version: 3.3.2
 port: 20031

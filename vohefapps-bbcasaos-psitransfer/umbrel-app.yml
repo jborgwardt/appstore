@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-psitransfer
 name: psitransfer
 tagline: Imported from BigBearCasaOS (psitransfer)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/psitransfer.png
 category: utilities
 version: v2.4.4
 port: 3000

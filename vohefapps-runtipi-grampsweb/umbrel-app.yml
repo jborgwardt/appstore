@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-grampsweb
 name: Gramps Web
 tagline: Web app for collaborative genealogy.
-icon: https://runtipi.io/images/apps/grampsweb.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/grampsweb/metadata/logo.jpg
 category: data
 version: 26.10.1
 port: 5000

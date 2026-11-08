@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-pydio-cells
 name: pydio-cells
 tagline: Imported from BigBearCasaOS (pydio-cells)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/pydio.png
 category: utilities
 version: 5.1.0
 port: 3000

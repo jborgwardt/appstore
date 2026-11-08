@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-duckdns
 name: Duck DNS
 tagline: Duck DNS is a free Dynamic DNS service
-icon: https://runtipi.io/images/apps/duckdns.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/duckdns/metadata/logo.jpg
 category: network
 version: b14c520a-ls8
 port: 8026

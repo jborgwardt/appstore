@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-dockge
 name: Dockge
 tagline: Docker compose.yaml stack-oriented manager.
-icon: https://runtipi.io/images/apps/dockge.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/dockge/metadata/logo.jpg
 category: utilities
 version: 1.5.0
 port: 8768

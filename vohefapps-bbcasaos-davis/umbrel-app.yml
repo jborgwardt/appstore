@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-davis
 name: davis
 tagline: Imported from BigBearCasaOS (davis)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/davis.png
 category: utilities
 version: 5.4.1
 port: 9000

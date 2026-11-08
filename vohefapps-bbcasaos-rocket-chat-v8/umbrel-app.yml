@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-rocket-chat-v8
 name: rocket-chat-v8
 tagline: Imported from BigBearCasaOS (rocket-chat-v8)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-rocket-chat-v8/icon.svg
 category: utilities
 version: 8.9.0
 port: 3100

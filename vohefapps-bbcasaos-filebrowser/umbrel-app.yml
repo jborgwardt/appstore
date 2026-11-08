@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-filebrowser
 name: filebrowser
 tagline: Imported from BigBearCasaOS (filebrowser)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/filebrowser.png
 category: utilities
 version: v2.63.23-s6
 port: 8080

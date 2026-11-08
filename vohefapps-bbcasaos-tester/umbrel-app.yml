@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-tester
 name: tester
 tagline: Imported from BigBearCasaOS (tester)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-tester/icon.svg
 category: utilities
 version: 0.0.0
 port: 3000

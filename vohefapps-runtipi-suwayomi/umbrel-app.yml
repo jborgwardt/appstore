@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-suwayomi
 name: Suwayomi
 tagline: An open-source manga reader server with bundled Web UI
-icon: https://runtipi.io/images/apps/suwayomi.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/suwayomi/metadata/logo.jpg
 category: books
 version: v2.4.2422
 port: 4567

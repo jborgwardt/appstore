@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-unraid-addarr
 name: addarr
 tagline: TelegramBot for Sonarr and Radarr This is a Telegram Bot made to add series to Sonarr or movies to Radarr with a couple of commands
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-unraid-addarr/icon.svg
 category: utilities
 version: latest
 port: 3000

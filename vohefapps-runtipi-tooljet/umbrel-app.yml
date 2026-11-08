@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-tooljet
 name: Tooljet
 tagline: Alternative to retool to construct CRM dashboard
-icon: https://runtipi.io/images/apps/tooljet.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/tooljet/metadata/logo.jpg
 category: automation
 version: 2.4.2
 port: 9876

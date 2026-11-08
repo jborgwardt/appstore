@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-jfa-go
 name: jfa-go
 tagline: Imported from BigBearCasaOS (jfa-go)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/jfa-go.png
 category: utilities
 version: latest
 port: 8056

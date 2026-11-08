@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-moodist
 name: Moodist
 tagline: Ambient sounds for focus and calm.
-icon: https://runtipi.io/images/apps/moodist.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/moodist/metadata/logo.jpg
 category: media
 version: v3.1.1
 port: 8221

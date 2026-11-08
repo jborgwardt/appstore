@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-anse
 name: anse
 tagline: Imported from BigBearCasaOS (anse)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/anse/metadata/logo.jpg
 category: utilities
 version: v1.1.11
 port: 8014

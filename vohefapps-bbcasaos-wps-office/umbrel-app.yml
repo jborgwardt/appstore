@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-wps-office
 name: wps-office
 tagline: Imported from BigBearCasaOS (wps-office)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-wps-office/icon.svg
 category: utilities
 version: 11.1.0
 port: 3000

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-lollypop
 name: lollypop
 tagline: Imported from BigBearCasaOS (lollypop)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-lollypop/icon.svg
 category: utilities
 version: 1.4.45
 port: 3000

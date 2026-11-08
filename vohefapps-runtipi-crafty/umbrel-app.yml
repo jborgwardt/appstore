@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-crafty
 name: Crafty
 tagline: Python based Control Panel for your Minecraft Server
-icon: https://runtipi.io/images/apps/crafty.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/crafty/metadata/logo.jpg
 category: gaming
 version: 4.11.0
 port: 8456

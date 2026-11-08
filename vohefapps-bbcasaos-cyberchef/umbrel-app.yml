@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-cyberchef
 name: cyberchef
 tagline: Imported from BigBearCasaOS (cyberchef)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/cyberchef/metadata/logo.jpg
 category: utilities
 version: 11.0.0
 port: 8080

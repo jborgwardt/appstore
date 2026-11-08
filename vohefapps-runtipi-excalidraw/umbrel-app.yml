@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-excalidraw
 name: Excalidraw
 tagline: Online whiteboard collaboration made easy
-icon: https://runtipi.io/images/apps/excalidraw.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/excalidraw/metadata/logo.jpg
 category: utilities
 version: latest
 port: 8172

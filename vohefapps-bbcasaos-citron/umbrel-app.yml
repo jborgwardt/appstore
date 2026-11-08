@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-citron
 name: citron
 tagline: Imported from BigBearCasaOS (citron)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-citron/icon.svg
 category: utilities
 version: 2026.02.1
 port: 3000

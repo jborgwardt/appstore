@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-open-webui
 name: Open WebUI
 tagline: User-friendly WebUI for LLMs
-icon: https://runtipi.io/images/apps/open-webui.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/open-webui/metadata/logo.jpg
 category: ai
 version: v0.12.3
 port: 8536

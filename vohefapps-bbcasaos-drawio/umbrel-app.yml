@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-drawio
 name: drawio
 tagline: Imported from BigBearCasaOS (drawio)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/drawio/metadata/logo.jpg
 category: utilities
 version: 32.4.1
 port: 8080

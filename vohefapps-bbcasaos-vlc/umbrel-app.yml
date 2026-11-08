@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-vlc
 name: vlc
 tagline: Imported from BigBearCasaOS (vlc)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-vlc/icon.svg
 category: utilities
 version: 3.0.24
 port: 3000

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-dockpeek
 name: dockpeek
 tagline: Imported from BigBearCasaOS (dockpeek)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/dockpeek.png
 category: utilities
 version: v1.7.2
 port: 3420

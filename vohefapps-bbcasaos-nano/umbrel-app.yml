@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-nano
 name: nano
 tagline: Imported from BigBearCasaOS (nano)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-nano/icon.svg
 category: utilities
 version: 21.2.20220522
 port: 3000

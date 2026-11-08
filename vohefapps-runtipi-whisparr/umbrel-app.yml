@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-whisparr
 name: Whisparr
 tagline: Adult movie collection manager.
-icon: https://runtipi.io/images/apps/whisparr.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/whisparr/metadata/logo.jpg
 category: media
 version: nightly-2.0.0.548
 port: 6969

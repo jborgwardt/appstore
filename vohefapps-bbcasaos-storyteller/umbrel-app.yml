@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-storyteller
 name: storyteller
 tagline: Imported from BigBearCasaOS (storyteller)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/storyteller.png
 category: utilities
 version: web-v2.6.0-experimental.14
 port: 8015

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-whoogle
 name: Whoogle Search
 tagline: A self-hosted, ad-free, privacy-respecting metasearch engine.
-icon: https://runtipi.io/images/apps/whoogle.png
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/whoogle.png
 category: social
 version: 1.2.4
 port: 8255

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-metabase
 name: Metabase
 tagline: The simplest, fastest way to get business intelligence and analytics to everyone in your company
-icon: https://runtipi.io/images/apps/metabase.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/metabase/metadata/logo.jpg
 category: data
 version: v0.64.2
 port: 8680

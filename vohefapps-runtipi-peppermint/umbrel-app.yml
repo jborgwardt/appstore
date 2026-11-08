@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-peppermint
 name: Peppermint
 tagline: An open source ticket management & help desk solution.
-icon: https://runtipi.io/images/apps/peppermint.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/peppermint/metadata/logo.jpg
 category: utilities
 version: latest
 port: 8216

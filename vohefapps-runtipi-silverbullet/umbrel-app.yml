@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-silverbullet
 name: Silverbullet
 tagline: 'SilverBullet is a creative space where you collect, create and expand your personal knowledge, while also letting you constantly evolve the '
-icon: https://runtipi.io/images/apps/silverbullet.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/silverbullet/metadata/logo.jpg
 category: utilities
 version: 2.12.1
 port: 8214

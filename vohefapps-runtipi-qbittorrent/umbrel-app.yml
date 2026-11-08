@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-qbittorrent
 name: qBittorrent
 tagline: Fast, easy, and free BitTorrent client
-icon: https://runtipi.io/images/apps/qbittorrent.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/qbittorrent/metadata/logo.jpg
 category: utilities
 version: 5.2.4
 port: 8133

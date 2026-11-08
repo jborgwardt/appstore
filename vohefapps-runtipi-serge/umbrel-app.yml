@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-serge
 name: Serge
 tagline: LLaMA made easy
-icon: https://runtipi.io/images/apps/serge.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/serge/metadata/logo.jpg
 category: ai
 version: 0.9.0
 port: 8008

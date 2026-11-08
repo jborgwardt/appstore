@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-cup
 name: Cup
 tagline: The easiest way to check for your container updates.
-icon: https://runtipi.io/images/apps/cup.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/cup/metadata/logo.jpg
 category: utilities
 version: v3.5.1
 port: 8465

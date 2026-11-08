@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-brave
 name: brave
 tagline: Imported from BigBearCasaOS (brave)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/brave.png
 category: utilities
 version: 1.15.0-rolling
 port: 6901

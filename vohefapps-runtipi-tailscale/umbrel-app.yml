@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-tailscale
 name: Tailscale
 tagline: The easiest, most secure way to use WireGuard and 2FA.
-icon: https://runtipi.io/images/apps/tailscale.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/tailscale/metadata/logo.jpg
 category: network
 version: v1.104.1
 port: 8093

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-emqx
 name: EMQX Open Source
 tagline: Scalable open-source MQTT broker.
-icon: https://runtipi.io/images/apps/emqx.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/emqx/metadata/logo.jpg
 category: utilities
 version: 6.3.2
 port: 18083

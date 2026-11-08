@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-hrconvert2
 name: hrconvert2
 tagline: Imported from BigBearCasaOS (hrconvert2)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-hrconvert2/icon.svg
 category: utilities
 version: latest
 port: 3000

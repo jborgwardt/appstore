@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-joplin
 name: Joplin Server
 tagline: Note taking and to-do application with synchronisation
-icon: https://runtipi.io/images/apps/joplin.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/joplin/metadata/logo.jpg
 category: utilities
 version: 3.7.2
 port: 8099

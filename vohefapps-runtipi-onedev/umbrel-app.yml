@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-onedev
 name: OneDev
 tagline: Self-hosted Git Server with Kanban and CI/CD
-icon: https://runtipi.io/images/apps/onedev.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/onedev/metadata/logo.jpg
 category: development
 version: 16.9.4
 port: 6610

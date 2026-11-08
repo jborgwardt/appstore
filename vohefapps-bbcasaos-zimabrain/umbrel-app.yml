@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-zimabrain
 name: zimabrain
 tagline: Imported from BigBearCasaOS (zimabrain)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-zimabrain/icon.svg
 category: utilities
 version: 1.6.2-beta
 port: 8601

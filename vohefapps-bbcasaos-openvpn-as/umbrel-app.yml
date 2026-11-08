@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-openvpn-as
 name: openvpn-as
 tagline: Imported from BigBearCasaOS (openvpn-as)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/openvpn.png
 category: utilities
 version: 2.13.1-d8cdeb9c-Ubuntu22
 port: 943

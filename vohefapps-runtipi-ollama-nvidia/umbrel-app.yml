@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-ollama-nvidia
 name: Ollama - Nvidia
 tagline: LLMs inference server with OpenAI compatible API
-icon: https://runtipi.io/images/apps/ollama-nvidia.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/ollama-nvidia/metadata/logo.jpg
 category: ai
 version: 0.40.6
 port: 11435

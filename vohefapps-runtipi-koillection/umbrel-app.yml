@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-koillection
 name: Koillection
 tagline: Koillection allow you to manage any kind of collections.
-icon: https://runtipi.io/images/apps/koillection.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/koillection/metadata/logo.jpg
 category: utilities
 version: 1.8.4
 port: 8050

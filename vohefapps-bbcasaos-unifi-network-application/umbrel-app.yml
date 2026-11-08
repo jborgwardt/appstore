@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-unifi-network-application
 name: unifi-network-application
 tagline: Imported from BigBearCasaOS (unifi-network-application)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/unifi.png
 category: utilities
 version: 10.6.106
 port: 8443

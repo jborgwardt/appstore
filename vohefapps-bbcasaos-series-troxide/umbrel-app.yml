@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-series-troxide
 name: series-troxide
 tagline: Imported from BigBearCasaOS (series-troxide)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/series-troxide.png
 category: utilities
 version: 0.5.1
 port: 3000

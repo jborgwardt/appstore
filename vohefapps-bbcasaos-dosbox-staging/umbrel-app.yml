@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-dosbox-staging
 name: dosbox-staging
 tagline: Imported from BigBearCasaOS (dosbox-staging)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-dosbox-staging/icon.svg
 category: utilities
 version: 0.83.0
 port: 3000

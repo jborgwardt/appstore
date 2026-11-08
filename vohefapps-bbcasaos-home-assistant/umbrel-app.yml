@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-home-assistant
 name: home-assistant
 tagline: Imported from BigBearCasaOS (home-assistant)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/home-assistant.png
 category: utilities
 version: 2026.5.1
 port: 3000

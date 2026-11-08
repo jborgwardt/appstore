@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-movary
 name: Movary
 tagline: 'Movary is a self-hosted web application to track and rate your watched movies. '
-icon: https://runtipi.io/images/apps/movary.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/movary/metadata/logo.jpg
 category: media
 version: 0.80.0
 port: 8155

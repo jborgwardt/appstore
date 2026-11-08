@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-vert
 name: vert
 tagline: Imported from BigBearCasaOS (vert)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/vert.png
 category: utilities
 version: sha-a1b0b15
 port: 3030

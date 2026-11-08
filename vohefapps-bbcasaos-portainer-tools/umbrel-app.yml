@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-portainer-tools
 name: portainer-tools
 tagline: Imported from BigBearCasaOS (portainer-tools)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/portainer.png
 category: utilities
 version: latest
 port: 3000

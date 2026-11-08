@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-bazarr
 name: Bazarr
 tagline: A companion application to Sonarr and Radarr that manages and downloads subtitles
-icon: https://runtipi.io/images/apps/bazarr.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/bazarr/metadata/logo.jpg
 category: media
 version: 1.6.2
 port: 6767

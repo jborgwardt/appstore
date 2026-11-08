@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-autoxpose
 name: autoxpose
 tagline: Imported from BigBearCasaOS (autoxpose)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-autoxpose/icon.svg
 category: utilities
 version: 0.6.0
 port: 4949

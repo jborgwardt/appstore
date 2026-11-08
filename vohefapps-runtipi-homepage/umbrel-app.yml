@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-homepage
 name: Homepage
 tagline: A highly customizable homepage
-icon: https://runtipi.io/images/apps/homepage.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/homepage/metadata/logo.jpg
 category: utilities
 version: v2.6.0
 port: 8756

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-sonarr
 name: Sonarr
 tagline: TV show manager for Usenet and BitTorrent
-icon: https://runtipi.io/images/apps/sonarr.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/sonarr/metadata/logo.jpg
 category: media
 version: 4.0.20
 port: 8098

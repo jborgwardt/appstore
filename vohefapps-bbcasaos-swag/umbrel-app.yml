@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-swag
 name: swag
 tagline: Imported from BigBearCasaOS (swag)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-swag/icon.svg
 category: utilities
 version: 5.8.0
 port: 3000

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-maybe-finance
 name: maybe-finance
 tagline: Imported from BigBearCasaOS (maybe-finance)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/maybe.png
 category: utilities
 version: sha-347c0a790693031fdd3b32792b5b6792693d1805
 port: 4000

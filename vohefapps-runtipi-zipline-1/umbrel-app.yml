@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-zipline-1
 name: Zipline
 tagline: 'A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!  '
-icon: https://runtipi.io/images/apps/zipline-1.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/zipline-1/metadata/logo.jpg
 category: media
 version: 4.8.0
 port: 9318

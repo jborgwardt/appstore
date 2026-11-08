@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-affine
 name: affine
 tagline: Imported from BigBearCasaOS (affine)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/affine/metadata/logo.jpg
 category: utilities
 version: 0.27.4
 port: 3010

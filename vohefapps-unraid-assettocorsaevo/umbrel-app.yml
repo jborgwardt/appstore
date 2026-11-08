@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-unraid-assettocorsaevo
 name: Assetto Corsa EVO Server
 tagline: Run Assetto Corsa EVO Dedicated Server in Docker using Wine
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-unraid-assettocorsaevo/icon.svg
 category: gameservers
 version: latest
 port: 9700

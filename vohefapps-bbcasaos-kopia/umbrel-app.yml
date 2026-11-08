@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-kopia
 name: kopia
 tagline: Imported from BigBearCasaOS (kopia)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/kopia.png
 category: utilities
 version: v0.17.0-spad3
 port: 51515

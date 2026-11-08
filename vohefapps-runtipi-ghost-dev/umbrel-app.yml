@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-ghost-dev
 name: Ghost Development
 tagline: Ghost - Turn your audience into a business.
-icon: https://runtipi.io/images/apps/ghost-dev.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/ghost-dev/metadata/logo.jpg
 category: social
 version: 5.130.6
 port: 8225

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-farmos-v4
 name: farmos-v4
 tagline: Imported from BigBearCasaOS (farmos-v4)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-farmos-v4/icon.svg
 category: utilities
 version: 4.0.8
 port: 8083

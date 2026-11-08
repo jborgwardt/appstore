@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-mediastorm
 name: MediaStorm
 tagline: Stream Usenet and debrid content to any player
-icon: https://cdn.corenexis.com/f/tFVxJ9bclfQ.png
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-mediastorm/icon.svg
 category: media
 version: "latest"
 port: 7777

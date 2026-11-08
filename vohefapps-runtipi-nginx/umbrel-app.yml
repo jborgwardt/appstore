@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-nginx
 name: Nginx
 tagline: Open-source simple and fast web server.
-icon: https://runtipi.io/images/apps/nginx.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/nginx/metadata/logo.jpg
 category: utilities
 version: 1.31.7
 port: 8754

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-romm
 name: RomM
 tagline: Your beautiful, powerful, self-hosted rom manager.
-icon: https://runtipi.io/images/apps/romm.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/romm/metadata/logo.jpg
 category: gaming
 version: 5.4.0
 port: 8178

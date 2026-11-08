@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-ctfd
 name: CTFd
 tagline: Cyber Security Training made simple.
-icon: https://runtipi.io/images/apps/ctfd.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/ctfd/metadata/logo.jpg
 category: utilities
 version: 3.8.8
 port: 8546

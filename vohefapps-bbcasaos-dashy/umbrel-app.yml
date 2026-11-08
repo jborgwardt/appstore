@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-dashy
 name: dashy
 tagline: Imported from BigBearCasaOS (dashy)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/dashy/metadata/logo.jpg
 category: utilities
 version: 3.3.1
 port: 4000

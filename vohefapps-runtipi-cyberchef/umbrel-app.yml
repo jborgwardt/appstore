@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-cyberchef
 name: CyberChef
 tagline: The Cyber Swiss Army Knife
-icon: https://runtipi.io/images/apps/cyberchef.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/cyberchef/metadata/logo.jpg
 category: utilities
 version: 11.5.0
 port: 9080

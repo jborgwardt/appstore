@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-unraid-geoip2influx
 name: geoip2influx
 tagline: 'A python script that will parse the nginx access.log and send geolocation metrics and log metrics to InfluxDB Grafans dashboard link: https:'
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-unraid-geoip2influx/icon.svg
 category: tools
 version: latest
 port: 3000

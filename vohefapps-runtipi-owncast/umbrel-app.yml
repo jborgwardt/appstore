@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-owncast
 name: Owncast
 tagline: ' Take control over your live stream video by running it yourself. Streaming + chat out of the box. '
-icon: https://runtipi.io/images/apps/owncast.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/owncast/metadata/logo.jpg
 category: media
 version: 0.3.0
 port: 8198

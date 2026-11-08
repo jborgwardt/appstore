@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-claude-code
 name: claude-code
 tagline: Imported from BigBearCasaOS (claude-code)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/claude.png
 category: utilities
 version: 1.0.28
 port: 20041

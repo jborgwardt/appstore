@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-omniroute
 name: omniroute
 tagline: Imported from BigBearCasaOS (omniroute)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/omniroute.png
 category: utilities
 version: 3.8.51
 port: 20128

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-simplex-smp
 name: SimpleX SMP
 tagline: A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
-icon: https://runtipi.io/images/apps/simplex-smp.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/simplex-smp/metadata/logo.jpg
 category: social
 version: v7.0.1
 port: 5223

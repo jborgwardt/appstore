@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-budibase
 name: budibase
 tagline: Imported from BigBearCasaOS (budibase)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/budibase/metadata/logo.jpg
 category: utilities
 version: v3.49.0
 port: 8080

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-music-assistant
 name: music-assistant
 tagline: Imported from BigBearCasaOS (music-assistant)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/music-assistant.png
 category: utilities
 version: 2.8.7
 port: 3000

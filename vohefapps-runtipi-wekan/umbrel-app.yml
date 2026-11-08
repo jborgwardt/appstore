@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-wekan
 name: Wekan
 tagline: Open-Source, customizable, and privacy-focused kanban
-icon: https://runtipi.io/images/apps/wekan.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/wekan/metadata/logo.jpg
 category: development
 version: v12.52
 port: 8678

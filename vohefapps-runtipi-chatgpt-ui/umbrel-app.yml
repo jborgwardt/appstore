@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-chatgpt-ui
 name: ChatGPT UI
 tagline: A ChatGPT web client that supports multiple users, multiple languages, and multiple database connections for persistent data storage
-icon: https://runtipi.io/images/apps/chatgpt-ui.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/chatgpt-ui/metadata/logo.jpg
 category: ai
 version: 2.5.9
 port: 8200

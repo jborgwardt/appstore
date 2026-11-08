@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-recyclarr
 name: Recyclarr
 tagline: Sync TRaSH Guides.
-icon: https://runtipi.io/images/apps/recyclarr.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/recyclarr/metadata/logo.jpg
 category: media
 version: 8.8.0
 port: 1111

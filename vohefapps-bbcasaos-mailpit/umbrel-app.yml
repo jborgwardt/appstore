@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-mailpit
 name: mailpit
 tagline: Imported from BigBearCasaOS (mailpit)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/mailpit.png
 category: utilities
 version: v1.31
 port: 8025

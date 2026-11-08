@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-unraid-searcharr
 name: searcharr
 tagline: Telegram Bot for Sonarr and Radarr
-icon: /plugins/dynamix.docker.manager/images/question.png
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-unraid-searcharr/icon.svg
 category: utilities
 version: latest
 port: 3000

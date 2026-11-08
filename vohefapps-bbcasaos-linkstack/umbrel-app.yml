@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-linkstack
 name: linkstack
 tagline: Imported from BigBearCasaOS (linkstack)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/linkstack/metadata/logo.jpg
 category: utilities
 version: V4
 port: 8080

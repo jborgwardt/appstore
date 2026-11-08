@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-unraid-qbitrr
 name: qBitrr
 tagline: A simple script to monitor qBit and communicate with Radarr and Sonarr
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-unraid-qbitrr/icon.svg
 category: mediaserver
 version: latest
 port: 3000

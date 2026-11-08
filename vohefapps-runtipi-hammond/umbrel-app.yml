@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-hammond
 name: Hammond
 tagline: Self hosted vehicle and expense management system. Like Clarkson, but better
-icon: https://runtipi.io/images/apps/hammond.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/hammond/metadata/logo.jpg
 category: utilities
 version: 0.0.24
 port: 8185

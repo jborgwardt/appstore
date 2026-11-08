@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-indelible
 name: indelible
 tagline: Imported from BigBearCasaOS (indelible)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-indelible/icon.svg
 category: utilities
 version: 0.1.1
 port: 38473

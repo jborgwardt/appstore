@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-keepassxc
 name: keepassxc
 tagline: Imported from BigBearCasaOS (keepassxc)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/keepassxc.png
 category: utilities
 version: 2.7.12
 port: 3000

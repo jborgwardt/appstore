@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-esphome
 name: ESP Home
 tagline: Control your ESP8266/ESP32.
-icon: https://runtipi.io/images/apps/esphome.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/esphome/metadata/logo.jpg
 category: automation
 version: 2026.9.1
 port: 6052

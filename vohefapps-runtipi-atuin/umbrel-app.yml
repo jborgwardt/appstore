@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-atuin
 name: Atuin Server
 tagline: Magical Shell History
-icon: https://runtipi.io/images/apps/atuin.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/atuin/metadata/logo.jpg
 category: utilities
 version: 18.24.1
 port: 8392

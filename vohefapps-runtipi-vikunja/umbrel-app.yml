@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-vikunja
 name: Vikunja
 tagline: The Todo-app to organize your life.
-icon: https://runtipi.io/images/apps/vikunja.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/vikunja/metadata/logo.jpg
 category: utilities
 version: 2.7.0
 port: 8135

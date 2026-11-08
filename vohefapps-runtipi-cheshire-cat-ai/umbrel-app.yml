@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-cheshire-cat-ai
 name: Cheshire Cat AI
 tagline: A production-ready AI framework to develop AI agents.
-icon: https://runtipi.io/images/apps/cheshire-cat-ai.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/cheshire-cat-ai/metadata/logo.jpg
 category: ai
 version: 1.9.2
 port: 1865

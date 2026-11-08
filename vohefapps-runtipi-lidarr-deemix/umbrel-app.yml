@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-lidarr-deemix
 name: Lidarr on Steroids
 tagline: Lidarr with some muscles thanks to deemix
-icon: https://runtipi.io/images/apps/lidarr-deemix.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/lidarr-deemix/metadata/logo.jpg
 category: media
 version: 1.5.2
 port: 8186

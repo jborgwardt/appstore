@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-discopanel
 name: discopanel
 tagline: Imported from BigBearCasaOS (discopanel)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/discopanel.png
 category: utilities
 version: v2.0.15
 port: 3000

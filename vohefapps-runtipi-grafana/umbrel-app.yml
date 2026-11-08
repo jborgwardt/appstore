@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-grafana
 name: Grafana
 tagline: The open and composable observability and data visualization platform.
-icon: https://runtipi.io/images/apps/grafana.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/grafana/metadata/logo.jpg
 category: data
 version: 13.0.2
 port: 8160

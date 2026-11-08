@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-komga
 name: Komga
 tagline: A media server for your comics, mangas, BDs, magazines and eBooks.
-icon: https://runtipi.io/images/apps/komga.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/komga/metadata/logo.jpg
 category: media
 version: 1.29.1
 port: 2560

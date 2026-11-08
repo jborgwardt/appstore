@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-pinchflat
 name: Pinchflat
 tagline: Your next YouTube media manager
-icon: https://runtipi.io/images/apps/pinchflat.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/pinchflat/metadata/logo.jpg
 category: media
 version: v2025.6.6
 port: 8945

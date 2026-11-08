@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-write-freely
 name: Write-Freely
 tagline: Markdown-based publishing platform.
-icon: https://runtipi.io/images/apps/write-freely.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/write-freely/metadata/logo.jpg
 category: social
 version: '0.17'
 port: 8574

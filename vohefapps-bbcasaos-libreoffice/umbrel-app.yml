@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-libreoffice
 name: libreoffice
 tagline: Imported from BigBearCasaOS (libreoffice)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/libreoffice.png
 category: utilities
 version: 25.8.7
 port: 3000

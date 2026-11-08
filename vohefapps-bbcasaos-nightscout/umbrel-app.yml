@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-nightscout
 name: nightscout
 tagline: Imported from BigBearCasaOS (nightscout)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/nightscout.png
 category: utilities
 version: 15.0.8
 port: 1337

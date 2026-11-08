@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-mullvad-browser
 name: mullvad-browser
 tagline: Imported from BigBearCasaOS (mullvad-browser)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mullvad-browser.png
 category: utilities
 version: 15.0.20251116
 port: 3000

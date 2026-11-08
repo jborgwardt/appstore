@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-transmission
 name: Transmission
 tagline: Fast, easy, and free BitTorrent client
-icon: https://runtipi.io/images/apps/transmission.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/transmission/metadata/logo.jpg
 category: utilities
 version: 4.1.3
 port: 8089

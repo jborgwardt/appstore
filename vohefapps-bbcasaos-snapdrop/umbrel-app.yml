@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-snapdrop
 name: snapdrop
 tagline: Imported from BigBearCasaOS (snapdrop)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/snapdrop.png
 category: utilities
 version: 0.0.0
 port: 3000

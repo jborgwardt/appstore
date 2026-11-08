@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-resilio-sync
 name: Resilio
 tagline: Fast, reliable, and simple file sync and share solution.
-icon: https://runtipi.io/images/apps/resilio-sync.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/resilio-sync/metadata/logo.jpg
 category: data
 version: 3.1.2
 port: 8113

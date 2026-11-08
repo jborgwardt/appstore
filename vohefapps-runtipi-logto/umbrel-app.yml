@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-logto
 name: Logto
 tagline: 'Logto is a cost-effective open-source alternative to Auth0. '
-icon: https://runtipi.io/images/apps/logto.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/logto/metadata/logo.jpg
 category: security
 version: 1.45.0
 port: 8203

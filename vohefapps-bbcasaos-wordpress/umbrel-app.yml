@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-wordpress
 name: wordpress
 tagline: Imported from BigBearCasaOS (wordpress)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/wordpress/metadata/logo.jpg
 category: utilities
 version: 6.9.4
 port: 8080

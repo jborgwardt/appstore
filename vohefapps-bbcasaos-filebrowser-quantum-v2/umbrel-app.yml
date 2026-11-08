@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-filebrowser-quantum-v2
 name: filebrowser-quantum-v2
 tagline: Imported from BigBearCasaOS (filebrowser-quantum-v2)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/filebrowser.png
 category: utilities
 version: 2.0.1-stable
 port: 8701

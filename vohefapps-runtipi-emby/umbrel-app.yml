@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-emby
 name: Emby
 tagline: A media server for your home collection
-icon: https://runtipi.io/images/apps/emby.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/emby/metadata/logo.jpg
 category: media
 version: 4.10.1
 port: 8325

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-forgejo
 name: Forgejo
 tagline: Beyond coding. We forge. · Lightweight and performant · Guaranteed 100% Free Software
-icon: https://runtipi.io/images/apps/forgejo.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/forgejo/metadata/logo.jpg
 category: development
 version: 17.0.0
 port: 8195

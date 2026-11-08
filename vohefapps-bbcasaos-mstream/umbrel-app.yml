@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-mstream
 name: mstream
 tagline: Imported from BigBearCasaOS (mstream)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/mstream/metadata/logo.jpg
 category: utilities
 version: 6.31.1
 port: 3000

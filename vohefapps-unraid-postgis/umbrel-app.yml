@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-unraid-postgis
 name: PostGIS
 tagline: PostGIS is a spatial database extender for PostgreSQL object-relational database
-icon: https://postgis.net/images/postgis-logo.png
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-unraid-postgis/icon.svg
 category: productivity
 version: latest
 port: 5432

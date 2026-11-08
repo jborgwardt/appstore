@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-rallly
 name: Rallly
 tagline: Scheduling and collaboration tool
-icon: https://runtipi.io/images/apps/rallly.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/rallly/metadata/logo.jpg
 category: utilities
 version: 4.15.5
 port: 8208

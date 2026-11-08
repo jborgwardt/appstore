@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-semaphore
 name: semaphore
 tagline: Imported from BigBearCasaOS (semaphore)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/semaphore/metadata/logo.jpg
 category: utilities
 version: v2.19.16
 port: 3000

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-stalwart-mail
 name: stalwart-mail
 tagline: Imported from BigBearCasaOS (stalwart-mail)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/stalwart-mail/metadata/logo.jpg
 category: utilities
 version: v0.16.26
 port: 8080

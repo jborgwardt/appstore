@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-handbrake
 name: handbrake
 tagline: Imported from BigBearCasaOS (handbrake)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/handbrake.png
 category: utilities
 version: 1.11.2
 port: 3000

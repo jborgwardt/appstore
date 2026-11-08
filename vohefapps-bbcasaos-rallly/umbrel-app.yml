@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-rallly
 name: rallly
 tagline: Imported from BigBearCasaOS (rallly)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/rallly/metadata/logo.jpg
 category: utilities
 version: 4.15.4
 port: 3000

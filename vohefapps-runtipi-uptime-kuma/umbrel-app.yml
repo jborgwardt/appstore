@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-uptime-kuma
 name: Uptime Kuma
 tagline: A fancy self-hosted monitoring tool.
-icon: https://runtipi.io/images/apps/uptime-kuma.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/uptime-kuma/metadata/logo.jpg
 category: utilities
 version: '2'
 port: 8125

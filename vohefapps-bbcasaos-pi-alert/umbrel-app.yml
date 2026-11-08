@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-pi-alert
 name: pi-alert
 tagline: Imported from BigBearCasaOS (pi-alert)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/pi-alert.png
 category: utilities
 version: '25'
 port: 3000

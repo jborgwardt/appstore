@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-ldap-auth
 name: ldap-auth
 tagline: Imported from BigBearCasaOS (ldap-auth)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/ldap.png
 category: utilities
 version: 3.4.8
 port: 3000

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-jellystat
 name: jellystat
 tagline: Imported from BigBearCasaOS (jellystat)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/jellystat.png
 category: utilities
 version: 1.1.12
 port: 3000

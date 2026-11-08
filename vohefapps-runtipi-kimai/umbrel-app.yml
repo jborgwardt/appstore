@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-kimai
 name: Kimai
 tagline: Open source time-tracker
-icon: https://runtipi.io/images/apps/kimai.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/kimai/metadata/logo.jpg
 category: utilities
 version: fpm-2.19.1-prod
 port: 8003

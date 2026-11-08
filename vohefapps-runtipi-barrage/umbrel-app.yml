@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-barrage
 name: Barrage
 tagline: Minimal Deluge WebUI with full mobile support
-icon: https://runtipi.io/images/apps/barrage.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/barrage/metadata/logo.jpg
 category: utilities
 version: 0.3.0
 port: 8145

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-unraid-sstvproxy
 name: sstvproxy
 tagline: Yet Another Proxy (YAP) for SmoothStreams.tv Docker Image Environment variables will take precedence over manual changes to proxysettings.js
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-unraid-sstvproxy/icon.svg
 category: mediaserver
 version: latest
 port: 8098

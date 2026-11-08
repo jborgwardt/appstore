@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-flycast
 name: flycast
 tagline: Imported from BigBearCasaOS (flycast)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-flycast/icon.svg
 category: utilities
 version: 2.7.20261004
 port: 3000

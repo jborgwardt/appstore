@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-erugo
 name: erugo
 tagline: Imported from BigBearCasaOS (erugo)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/erugo.png
 category: utilities
 version: 0.2.15
 port: 9997

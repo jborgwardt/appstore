@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-matterbridge
 name: matterbridge
 tagline: Imported from BigBearCasaOS (matterbridge)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/matterbridge.png
 category: utilities
 version: 3.10.13
 port: 3000

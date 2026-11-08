@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-redis
 name: redis
 tagline: Imported from BigBearCasaOS (redis)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/redis.png
 category: utilities
 version: 8.8.3
 port: 3000

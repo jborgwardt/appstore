@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-siyuan
 name: SiYuan
 tagline: SiYuan is a privacy-first personal knowledge management system.
-icon: https://runtipi.io/images/apps/siyuan.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/siyuan/metadata/logo.jpg
 category: utilities
 version: v3.8.8
 port: 6806

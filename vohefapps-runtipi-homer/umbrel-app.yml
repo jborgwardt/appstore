@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-homer
 name: Homer
 tagline: A very simple static homepage for your server
-icon: https://runtipi.io/images/apps/homer.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/homer/metadata/logo.jpg
 category: utilities
 version: v26.08.3
 port: 8562

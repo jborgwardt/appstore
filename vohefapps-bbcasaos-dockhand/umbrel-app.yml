@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-dockhand
 name: dockhand
 tagline: Imported from BigBearCasaOS (dockhand)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/dockhand.png
 category: utilities
 version: latest
 port: 3003

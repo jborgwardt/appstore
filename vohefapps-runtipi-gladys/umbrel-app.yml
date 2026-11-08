@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-gladys
 name: Gladys Assistant
 tagline: A privacy-first, open-source home assistant
-icon: https://runtipi.io/images/apps/gladys.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/gladys/metadata/logo.jpg
 category: automation
 version: v5.2.1
 port: 8270

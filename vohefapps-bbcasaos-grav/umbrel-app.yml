@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-grav
 name: grav
 tagline: Imported from BigBearCasaOS (grav)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/grav/metadata/logo.jpg
 category: utilities
 version: 2.2.9
 port: 3000

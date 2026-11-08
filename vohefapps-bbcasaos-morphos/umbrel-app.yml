@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-morphos
 name: morphos
 tagline: Imported from BigBearCasaOS (morphos)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/morphos.png
 category: utilities
 version: 0.6.0
 port: 8080

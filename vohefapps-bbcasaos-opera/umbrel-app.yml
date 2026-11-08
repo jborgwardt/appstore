@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-opera
 name: opera
 tagline: Imported from BigBearCasaOS (opera)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/opera.png
 category: utilities
 version: 137.0.6036
 port: 3000

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-adguardhome-sync
 name: Adguard Home Sync
 tagline: Synchronize AdGuard Home config to replicas
-icon: https://runtipi.io/images/apps/adguardhome-sync.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/adguardhome-sync/metadata/logo.jpg
 category: network
 version: v0.9.4
 port: 8436

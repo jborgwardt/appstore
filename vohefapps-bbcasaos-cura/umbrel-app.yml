@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-cura
 name: cura
 tagline: Imported from BigBearCasaOS (cura)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/cura.png
 category: utilities
 version: 5.13.0
 port: 3000

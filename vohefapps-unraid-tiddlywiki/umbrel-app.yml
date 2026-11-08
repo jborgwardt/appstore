@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-unraid-tiddlywiki
 name: tiddlywiki
 tagline: TiddlyWiki is a self-contained JavaScript wiki, configured here to run as a Node.js application
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/tiddlywiki.png
 category: utilities
 version: latest
 port: 8080

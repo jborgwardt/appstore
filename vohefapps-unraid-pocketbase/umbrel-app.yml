@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-unraid-pocketbase
 name: Pocketbase
 tagline: 'Open Source backend for your next SaaS and Mobile app in 1 file Pocketbase docs: https://pocketbase.io/docs/ SDKs: Dart - https://github.com'
-icon: https://github.com/pocketbase/pocketbase/blob/master/ui/public/images/favicon/mstile-144x144.png
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/pocketbase.png
 category: other
 version: latest
 port: 8080

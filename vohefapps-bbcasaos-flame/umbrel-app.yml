@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-flame
 name: flame
 tagline: Imported from BigBearCasaOS (flame)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/flame.png
 category: utilities
 version: multiarch2.3.1
 port: 3000

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-qdirstat
 name: qdirstat
 tagline: Imported from BigBearCasaOS (qdirstat)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/qdirstat/metadata/logo.jpg
 category: utilities
 version: 2.0.20261012
 port: 3000

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-apprise-api
 name: apprise-api
 tagline: Imported from BigBearCasaOS (apprise-api)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/apprise.png
 category: utilities
 version: 2.0.1
 port: 3000

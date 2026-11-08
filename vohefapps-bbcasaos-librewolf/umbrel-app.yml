@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-librewolf
 name: librewolf
 tagline: Imported from BigBearCasaOS (librewolf)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/librewolf.png
 category: utilities
 version: 157.0.1
 port: 3000

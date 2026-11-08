@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-rsshub
 name: rsshub
 tagline: Imported from BigBearCasaOS (rsshub)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/rsshub/metadata/logo.jpg
 category: utilities
 version: '2026-09-24'
 port: 3000

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-maintainerr
 name: Maintainerr
 tagline: Maintainerr will manage the storage space on your plex server, launching automated actions to delete your files.
-icon: https://runtipi.io/images/apps/maintainerr.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/maintainerr/metadata/logo.jpg
 category: media
 version: 3.30.2
 port: 8030

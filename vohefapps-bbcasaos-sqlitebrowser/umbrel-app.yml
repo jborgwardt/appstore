@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-sqlitebrowser
 name: sqlitebrowser
 tagline: Imported from BigBearCasaOS (sqlitebrowser)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/sqlitebrowser.png
 category: utilities
 version: 18.04.1
 port: 3000

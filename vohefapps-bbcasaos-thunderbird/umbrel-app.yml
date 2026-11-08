@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-thunderbird
 name: thunderbird
 tagline: Imported from BigBearCasaOS (thunderbird)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/thunderbird.png
 category: utilities
 version: 1140.16.0
 port: 3000

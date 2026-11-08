@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-unraid-patreon-credits
 name: PatreonCredits
 tagline: Generate professional scrolling end-credits videos (MP4) for YouTube content creators, featuring their Patreon supporters
-icon: https://raw.githubusercontent.com/mscrnt/patreon-credits/main/icon.png
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/patreon.png
 category: productivity
 version: latest
 port: 8787

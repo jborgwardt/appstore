@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-immich
 name: Immich
 tagline: Photo and video backup solution directly from your mobile phone.
-icon: https://runtipi.io/images/apps/immich.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/immich/metadata/logo.jpg
 category: data
 version: v3.3.3
 port: 8128

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-jlesage-firefox
 name: jlesage-firefox
 tagline: Imported from BigBearCasaOS (jlesage-firefox)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-jlesage-firefox/icon.svg
 category: utilities
 version: v26.09.1
 port: 5800

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-nano-wallet
 name: nano-wallet
 tagline: Imported from BigBearCasaOS (nano-wallet)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-nano-wallet/icon.svg
 category: utilities
 version: 1.3.2
 port: 3000

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-gotify
 name: Gotify
 tagline: Gotify, a simple server for sending and receiving notification messages.
-icon: https://runtipi.io/images/apps/gotify.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/gotify/metadata/logo.jpg
 category: utilities
 version: 3.1.1
 port: 8129

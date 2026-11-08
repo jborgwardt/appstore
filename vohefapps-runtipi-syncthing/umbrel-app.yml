@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-syncthing
 name: Syncthing
 tagline: Peer-to-peer file synchronization between your devices
-icon: https://runtipi.io/images/apps/syncthing.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/syncthing/metadata/logo.jpg
 category: data
 version: 2.1.6
 port: 8090

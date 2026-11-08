@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-documenso
 name: documenso
 tagline: Imported from BigBearCasaOS (documenso)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/documenso.png
 category: utilities
 version: v2.20.0
 port: 20030

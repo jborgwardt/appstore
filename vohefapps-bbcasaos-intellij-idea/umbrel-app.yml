@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-intellij-idea
 name: intellij-idea
 tagline: Imported from BigBearCasaOS (intellij-idea)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/intellij.png
 category: utilities
 version: 42026.2.3
 port: 3000

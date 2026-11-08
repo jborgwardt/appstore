@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-chromium
 name: chromium
 tagline: Imported from BigBearCasaOS (chromium)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/chromium.png
 category: utilities
 version: version-6ae43f81
 port: 3000

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-vivaldi
 name: vivaldi
 tagline: Imported from BigBearCasaOS (vivaldi)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/vivaldi.png
 category: utilities
 version: 8.2.4133
 port: 3000

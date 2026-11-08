@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-kavita
 name: Kavita
 tagline: Kavita is a fast, feature rich, cross platform reading server
-icon: https://runtipi.io/images/apps/kavita.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/kavita/metadata/logo.jpg
 category: media
 version: 0.9.1
 port: 8175

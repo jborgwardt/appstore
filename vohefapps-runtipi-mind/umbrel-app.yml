@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-mind
 name: Mind
 tagline: A simple self hosted reminder platform that uses push to send notifications to your device.
-icon: https://runtipi.io/images/apps/mind.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/mind/metadata/logo.jpg
 category: utilities
 version: 1.4.1
 port: 8143

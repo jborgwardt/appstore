@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-authentik-1
 name: Authentik
 tagline: The authentication glue you need.
-icon: https://runtipi.io/images/apps/authentik-1.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/authentik-1/metadata/logo.jpg
 category: development
 version: 2026.8.4
 port: 9000

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-photoprism
 name: photoprism
 tagline: Imported from BigBearCasaOS (photoprism)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/photoprism/metadata/logo.jpg
 category: utilities
 version: '240915'
 port: 2342

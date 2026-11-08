@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-ollama-cpu
 name: ollama-cpu
 tagline: Imported from BigBearCasaOS (ollama-cpu)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/ollama-cpu/metadata/logo.jpg
 category: utilities
 version: 0.40.5
 port: 11434

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-homebridge
 name: homebridge
 tagline: Imported from BigBearCasaOS (homebridge)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/homebridge/metadata/logo.jpg
 category: utilities
 version: '2024-05-02'
 port: 3000

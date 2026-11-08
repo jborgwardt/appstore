@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-mealie-1
 name: Mealie
 tagline: Mealie is a self-hosted recipe manager and meal planner.
-icon: https://runtipi.io/images/apps/mealie-1.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/mealie-1/metadata/logo.jpg
 category: utilities
 version: v3.29.0
 port: 8220

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-baserow
 name: baserow
 tagline: Imported from BigBearCasaOS (baserow)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/baserow.png
 category: utilities
 version: 2.4.1
 port: 7350

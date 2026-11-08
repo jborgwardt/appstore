@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-boinc
 name: boinc
 tagline: Imported from BigBearCasaOS (boinc)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/boinc.png
 category: utilities
 version: 18.04.1
 port: 3000

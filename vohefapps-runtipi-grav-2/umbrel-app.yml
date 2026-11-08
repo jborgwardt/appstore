@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-grav-2
 name: Grav V2
 tagline: Fast, Simple, and Flexible, file-based Web-platform.
-icon: https://runtipi.io/images/apps/grav-2.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/grav-2/metadata/logo.jpg
 category: social
 version: 2.2.10
 port: 18161

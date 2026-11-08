@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-mastodon
 name: Mastodon
 tagline: Your self-hosted, globally interconnected microblogging community
-icon: https://runtipi.io/images/apps/mastodon.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/mastodon/metadata/logo.jpg
 category: social
 version: 4.7.3
 port: 8210

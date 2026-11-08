@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-nextcloud
 name: nextcloud
 tagline: Imported from BigBearCasaOS (nextcloud)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/nextcloud/metadata/logo.jpg
 category: utilities
 version: 35.0.2
 port: 7580

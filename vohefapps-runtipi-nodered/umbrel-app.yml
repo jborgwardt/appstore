@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-nodered
 name: Node-RED
 tagline: Low-code programming for event-driven applications
-icon: https://runtipi.io/images/apps/nodered.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/nodered/metadata/logo.jpg
 category: automation
 version: 5.0.8
 port: 8111

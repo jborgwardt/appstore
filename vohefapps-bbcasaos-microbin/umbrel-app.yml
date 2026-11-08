@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-microbin
 name: microbin
 tagline: Imported from BigBearCasaOS (microbin)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/microbin.png
 category: utilities
 version: 2.1.4
 port: 8888

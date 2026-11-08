@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-viewtube
 name: ViewTube
 tagline: The open source, privacy-conscious way to enjoy your favorite YouTube content.
-icon: https://runtipi.io/images/apps/viewtube.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/viewtube/metadata/logo.jpg
 category: media
 version: 0.17.0
 port: 8180

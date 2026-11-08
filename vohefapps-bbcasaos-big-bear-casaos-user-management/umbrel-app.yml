@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-big-bear-casaos-user-management
 name: big-bear-casaos-user-management
 tagline: Imported from BigBearCasaOS (big-bear-casaos-user-management)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-big-bear-casaos-user-management/icon.svg
 category: utilities
 version: 0.1.1
 port: 5000

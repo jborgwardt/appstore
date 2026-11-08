@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-baikal
 name: Baïkal
 tagline: Calendar + Contacts server
-icon: https://runtipi.io/images/apps/baikal.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/baikal/metadata/logo.jpg
 category: data
 version: 0.12.1
 port: 6556

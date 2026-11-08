@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-ungoogled-chromium
 name: ungoogled-chromium
 tagline: Imported from BigBearCasaOS (ungoogled-chromium)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-ungoogled-chromium/icon.svg
 category: utilities
 version: 155.0.8059
 port: 3000

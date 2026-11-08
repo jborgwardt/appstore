@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-drawio
 name: Draw.io
 tagline: Diagramming and whiteboarding app.
-icon: https://runtipi.io/images/apps/drawio.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/drawio/metadata/logo.jpg
 category: utilities
 version: 32.4.1
 port: 8734

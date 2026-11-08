@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-kanboard
 name: Kanboard
 tagline: Open Source Kanban Board
-icon: https://runtipi.io/images/apps/kanboard.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/kanboard/metadata/logo.jpg
 category: development
 version: v1.2.54
 port: 8010

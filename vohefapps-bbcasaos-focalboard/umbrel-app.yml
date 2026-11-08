@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-focalboard
 name: focalboard
 tagline: Imported from BigBearCasaOS (focalboard)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/focalboard.png
 category: utilities
 version: 7.11.4
 port: 8000

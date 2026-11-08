@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-openshot
 name: openshot
 tagline: Imported from BigBearCasaOS (openshot)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-openshot/icon.svg
 category: utilities
 version: 4.0.1
 port: 3000

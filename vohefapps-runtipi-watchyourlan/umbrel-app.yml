@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-watchyourlan
 name: WatchYourLAN
 tagline: Lightweight network IP scanner
-icon: https://runtipi.io/images/apps/watchyourlan.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/watchyourlan/metadata/logo.jpg
 category: network
 version: 2.1.4
 port: 8840

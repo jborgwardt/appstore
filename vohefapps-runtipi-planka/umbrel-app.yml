@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-planka
 name: Planka
 tagline: Free open source kanban board for workgroups.
-icon: https://runtipi.io/images/apps/planka.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/planka/metadata/logo.jpg
 category: development
 version: 1.26.3
 port: 8016

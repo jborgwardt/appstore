@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-upsnap
 name: upsnap
 tagline: Imported from BigBearCasaOS (upsnap)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/upsnap.png
 category: utilities
 version: 5.3.4
 port: 3000

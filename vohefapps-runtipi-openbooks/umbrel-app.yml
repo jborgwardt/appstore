@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-openbooks
 name: openbooks
 tagline: Search and Download eBooks
-icon: https://runtipi.io/images/apps/openbooks.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/openbooks/metadata/logo.jpg
 category: media
 version: 4.5.0
 port: 8152

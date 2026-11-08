@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-portainer-agent
 name: portainer-agent
 tagline: Imported from BigBearCasaOS (portainer-agent)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/portainer.png
 category: utilities
 version: 2.45.2
 port: 9001

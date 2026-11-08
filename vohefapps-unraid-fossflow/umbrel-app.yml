@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-unraid-fossflow
 name: fossflow
 tagline: FossFLOW is a powerful, open-source Progressive Web App (PWA) for creating beautiful isometric diagrams
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-unraid-fossflow/icon.svg
 category: tools
 version: latest
 port: 80

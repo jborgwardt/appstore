@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-homeassistant-1
 name: Home Assistant
 tagline: Open source home automation that puts local control and privacy first
-icon: https://runtipi.io/images/apps/homeassistant-1.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/homeassistant-1/metadata/logo.jpg
 category: automation
 version: 2026.10.2
 port: 8209

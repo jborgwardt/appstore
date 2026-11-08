@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-quassel-core
 name: quassel-core
 tagline: Imported from BigBearCasaOS (quassel-core)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-quassel-core/icon.svg
 category: utilities
 version: 0.14.0
 port: 3000

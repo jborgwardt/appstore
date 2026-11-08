@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-matrix-conduit
 name: Conduit
 tagline: Conduit is a simple, fast and reliable chat server written in Rust
-icon: https://runtipi.io/images/apps/matrix-conduit.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/matrix-conduit/metadata/logo.jpg
 category: social
 version: 0.10.15
 port: 6167

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-monica
 name: monica
 tagline: Imported from BigBearCasaOS (monica)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/monica/metadata/logo.jpg
 category: utilities
 version: 4.1.2
 port: 8080

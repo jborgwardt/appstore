@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-audacity
 name: audacity
 tagline: Imported from BigBearCasaOS (audacity)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/audacity.png
 category: utilities
 version: 4.0.1
 port: 3000

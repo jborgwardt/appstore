@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-dashy-v4
 name: dashy-v4
 tagline: Imported from BigBearCasaOS (dashy-v4)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/dashy.png
 category: utilities
 version: 4.0.8
 port: 4001

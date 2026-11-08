@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-syslog-ng
 name: syslog-ng
 tagline: Imported from BigBearCasaOS (syslog-ng)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-syslog-ng/icon.svg
 category: utilities
 version: 4.11.0
 port: 3000

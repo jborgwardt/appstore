@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-docker-cron-restart-notifier
 name: docker-cron-restart-notifier
 tagline: Imported from BigBearCasaOS (docker-cron-restart-notifier)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/docker.png
 category: utilities
 version: restart-notifier-latest
 port: 3000

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-mempool
 name: Mempool
 tagline: Bitcoin mempool visualizer and blockchain explorer
-icon: https://runtipi.io/images/apps/mempool.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/mempool/metadata/logo.jpg
 category: finance
 version: v3.3.1
 port: 2200

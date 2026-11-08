@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-ffmpeg
 name: ffmpeg
 tagline: Imported from BigBearCasaOS (ffmpeg)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-ffmpeg/icon.svg
 category: utilities
 version: 9.0.2
 port: 3000

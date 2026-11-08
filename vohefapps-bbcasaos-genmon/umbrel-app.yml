@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-genmon
 name: genmon
 tagline: Imported from BigBearCasaOS (genmon)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-genmon/icon.svg
 category: utilities
 version: 2.0.03
 port: 20022

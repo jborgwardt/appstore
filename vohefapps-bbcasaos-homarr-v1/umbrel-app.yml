@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-homarr-v1
 name: homarr-v1
 tagline: Imported from BigBearCasaOS (homarr-v1)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/homarr.png
 category: utilities
 version: v1.63.0
 port: 7575

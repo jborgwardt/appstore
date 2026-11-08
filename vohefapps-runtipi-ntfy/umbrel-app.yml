@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-ntfy
 name: Ntfy
 tagline: Ntfy, a simple server for sending and receiving notification messages.
-icon: https://runtipi.io/images/apps/ntfy.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/ntfy/metadata/logo.jpg
 category: utilities
 version: v2.31.1
 port: 8166

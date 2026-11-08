@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-cloudflare-ddns
 name: Cloudflare DDNS
 tagline: Update DNS records on Cloudflare.
-icon: https://runtipi.io/images/apps/cloudflare-ddns.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/cloudflare-ddns/metadata/logo.jpg
 category: network
 version: 3.3.0
 port: 3000

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-plausible-ce
 name: Plausible CE
 tagline: Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
-icon: https://runtipi.io/images/apps/plausible-ce.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/plausible-ce/metadata/logo.jpg
 category: utilities
 version: 2.1.5
 port: 8193

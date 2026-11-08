@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-windows
 name: Windows
 tagline: Full windows vm in your browser
-icon: https://runtipi.io/images/apps/windows.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/windows/metadata/logo.jpg
 category: utilities
 version: '6.06'
 port: 8006

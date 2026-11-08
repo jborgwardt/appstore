@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-pwndrop
 name: pwndrop
 tagline: Imported from BigBearCasaOS (pwndrop)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/pwndrop.png
 category: utilities
 version: 1.0.1
 port: 3000

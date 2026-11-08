@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-ls-adguardhome-sync
 name: ls-adguardhome-sync
 tagline: Imported from BigBearCasaOS (ls-adguardhome-sync)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-ls-adguardhome-sync/icon.svg
 category: utilities
 version: 0.9.4
 port: 8080

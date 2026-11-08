@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-wireshark
 name: wireshark
 tagline: Imported from BigBearCasaOS (wireshark)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wireshark.png
 category: utilities
 version: 4.6.6
 port: 3000

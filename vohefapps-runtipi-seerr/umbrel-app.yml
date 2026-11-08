@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-seerr
 name: Seerr
 tagline: Managing requests for your media library
-icon: https://runtipi.io/images/apps/seerr.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/seerr/metadata/logo.jpg
 category: media
 version: v3.5.0
 port: 5055

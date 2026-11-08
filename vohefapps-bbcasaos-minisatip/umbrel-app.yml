@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-minisatip
 name: minisatip
 tagline: Imported from BigBearCasaOS (minisatip)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-minisatip/icon.svg
 category: utilities
 version: 2.0.103
 port: 3000

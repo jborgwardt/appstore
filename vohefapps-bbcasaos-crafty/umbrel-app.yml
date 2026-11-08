@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-crafty
 name: crafty
 tagline: Imported from BigBearCasaOS (crafty)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/crafty/metadata/logo.jpg
 category: utilities
 version: 4.10.4
 port: 8443

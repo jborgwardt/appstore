@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-gimp
 name: gimp
 tagline: Imported from BigBearCasaOS (gimp)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/gimp.png
 category: utilities
 version: 0.0.0
 port: 3000

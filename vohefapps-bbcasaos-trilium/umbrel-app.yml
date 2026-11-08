@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-trilium
 name: trilium
 tagline: Imported from BigBearCasaOS (trilium)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/trilium/metadata/logo.jpg
 category: utilities
 version: v0.105.0
 port: 8080

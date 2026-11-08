@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-pingvin-share
 name: Pingvin Share
 tagline: Self-hosted file sharing platform
-icon: https://runtipi.io/images/apps/pingvin-share.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/pingvin-share/metadata/logo.jpg
 category: data
 version: 1.13.0
 port: 8654

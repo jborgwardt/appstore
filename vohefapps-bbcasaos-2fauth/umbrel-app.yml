@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-2fauth
 name: 2fauth
 tagline: Imported from BigBearCasaOS (2fauth)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/2fauth/metadata/logo.jpg
 category: utilities
 version: 8.0.2
 port: 8000

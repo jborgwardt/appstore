@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-arma3-server
 name: arma3-server
 tagline: Imported from BigBearCasaOS (arma3-server)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-arma3-server/icon.svg
 category: utilities
 version: 1.0.0
 port: 2302

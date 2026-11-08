@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-glance
 name: Glance
 tagline: Super configurable dashboard
-icon: https://runtipi.io/images/apps/glance.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/glance/metadata/logo.jpg
 category: utilities
 version: v0.8.7
 port: 8568

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-dokuwiki
 name: DokuWiki
 tagline: 'DokuWiki is a simple to use and highly versatile Open Source wiki software '
-icon: https://runtipi.io/images/apps/dokuwiki.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/dokuwiki/metadata/logo.jpg
 category: media
 version: 2024-02-06b-ls250
 port: 8149

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-navidrome
 name: Navidrome
 tagline: A selfhosted music server
-icon: https://runtipi.io/images/apps/navidrome.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/navidrome/metadata/logo.jpg
 category: media
 version: 0.64.2
 port: 4533

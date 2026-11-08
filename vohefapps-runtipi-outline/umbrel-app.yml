@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-outline
 name: Outline
 tagline: A home for all your docs
-icon: https://runtipi.io/images/apps/outline.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/outline/metadata/logo.jpg
 category: utilities
 version: 1.11.0
 port: 8404

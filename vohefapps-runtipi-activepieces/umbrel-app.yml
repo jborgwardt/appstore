@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-activepieces
 name: Activepieces
 tagline: True zapier alternative.
-icon: https://runtipi.io/images/apps/activepieces.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/activepieces/metadata/logo.jpg
 category: automation
 version: 0.92.3
 port: 8605

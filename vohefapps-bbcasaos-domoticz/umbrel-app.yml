@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-domoticz
 name: domoticz
 tagline: Imported from BigBearCasaOS (domoticz)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/domoticz.png
 category: utilities
 version: 2023.2.20231129
 port: 3000

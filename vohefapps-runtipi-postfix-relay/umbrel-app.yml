@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-postfix-relay
 name: Postfix Mail Relay
 tagline: Simple SMTP relay for environments where you may have private servers with no Internet connection.
-icon: https://runtipi.io/images/apps/postfix-relay.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/postfix-relay/metadata/logo.jpg
 category: utilities
 version: 1.4.0
 port: 2525

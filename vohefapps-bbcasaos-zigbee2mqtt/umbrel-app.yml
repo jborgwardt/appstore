@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-zigbee2mqtt
 name: zigbee2mqtt
 tagline: Imported from BigBearCasaOS (zigbee2mqtt)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/zigbee2mqtt/metadata/logo.jpg
 category: utilities
 version: 2.14.2
 port: 8080

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-tubearchivist
 name: Tube Archivist
 tagline: Your self-hosted YouTube media server
-icon: https://runtipi.io/images/apps/tubearchivist.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/tubearchivist/metadata/logo.jpg
 category: media
 version: v0.5.12
 port: 8120

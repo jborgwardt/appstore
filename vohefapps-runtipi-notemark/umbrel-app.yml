@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-notemark
 name: Notemark
 tagline: Lighting fast web-based Markdown notes app.
-icon: https://runtipi.io/images/apps/notemark.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/notemark/metadata/logo.jpg
 category: utilities
 version: 0.19.5
 port: 8567

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-cadvisor
 name: cadvisor
 tagline: Imported from BigBearCasaOS (cadvisor)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/cadvisor.png
 category: utilities
 version: v0.55.1
 port: 8085

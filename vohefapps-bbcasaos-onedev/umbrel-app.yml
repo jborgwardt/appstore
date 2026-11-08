@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-onedev
 name: onedev
 tagline: Imported from BigBearCasaOS (onedev)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/onedev/metadata/logo.jpg
 category: utilities
 version: 16.9.2
 port: 6610

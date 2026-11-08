@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-uptime-kuma
 name: uptime-kuma
 tagline: Imported from BigBearCasaOS (uptime-kuma)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/uptime-kuma/metadata/logo.jpg
 category: utilities
 version: '2'
 port: 3001

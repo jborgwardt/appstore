@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-cloudflared
 name: Cloudflared
 tagline: Cloudflare Tunnels in a Web UI
-icon: https://runtipi.io/images/apps/cloudflared.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/cloudflared/metadata/logo.jpg
 category: utilities
 version: 2026.10.1
 port: 14333

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-retroarch
 name: retroarch
 tagline: Imported from BigBearCasaOS (retroarch)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-retroarch/icon.svg
 category: utilities
 version: 1.22.2
 port: 3000

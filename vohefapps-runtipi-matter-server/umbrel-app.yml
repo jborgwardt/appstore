@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-matter-server
 name: Matter Server
 tagline: Interact with Matter. Works with HA !
-icon: https://runtipi.io/images/apps/matter-server.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/matter-server/metadata/logo.jpg
 category: utilities
 version: 8.1.0
 port: 9997

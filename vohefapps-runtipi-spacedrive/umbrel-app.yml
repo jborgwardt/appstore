@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-spacedrive
 name: Spacedrive
 tagline: Cross-platform file explorer
-icon: https://runtipi.io/images/apps/spacedrive.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/spacedrive/metadata/logo.jpg
 category: utilities
 version: 0.4.2
 port: 9300

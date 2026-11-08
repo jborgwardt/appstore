@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-goaway
 name: goaway
 tagline: Imported from BigBearCasaOS (goaway)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/goaway.png
 category: utilities
 version: 0.63.17
 port: 53

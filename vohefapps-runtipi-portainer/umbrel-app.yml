@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-portainer
 name: Portainer
 tagline: Making Docker and Kubernetes management easy.
-icon: https://runtipi.io/images/apps/portainer.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/portainer/metadata/logo.jpg
 category: utilities
 version: 2.45.2
 port: 9443

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-qemu-static
 name: qemu-static
 tagline: Imported from BigBearCasaOS (qemu-static)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/qemu.png
 category: utilities
 version: 10.0.2
 port: 3000

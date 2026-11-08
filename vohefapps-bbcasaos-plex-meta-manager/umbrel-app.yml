@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-plex-meta-manager
 name: plex-meta-manager
 tagline: Imported from BigBearCasaOS (plex-meta-manager)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/plex-meta-manager.png
 category: utilities
 version: 1.21.1
 port: 3000

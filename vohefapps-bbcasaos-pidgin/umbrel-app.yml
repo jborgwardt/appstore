@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-pidgin
 name: pidgin
 tagline: Imported from BigBearCasaOS (pidgin)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-pidgin/icon.svg
 category: utilities
 version: 2.14.14
 port: 3000

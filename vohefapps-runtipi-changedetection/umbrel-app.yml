@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-changedetection
 name: ChangeDetection
 tagline: Website change detection.
-icon: https://runtipi.io/images/apps/changedetection.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/changedetection/metadata/logo.jpg
 category: utilities
 version: 0.60.9
 port: 8257

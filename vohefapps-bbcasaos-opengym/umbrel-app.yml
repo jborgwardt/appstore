@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-opengym
 name: opengym
 tagline: Imported from BigBearCasaOS (opengym)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/opengym.png
 category: utilities
 version: 1.3.9
 port: 20808

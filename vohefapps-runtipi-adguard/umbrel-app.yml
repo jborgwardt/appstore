@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-adguard
 name: Adguard
 tagline: World's most advanced adblocker!
-icon: https://runtipi.io/images/apps/adguard.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/adguard/metadata/logo.jpg
 category: network
 version: v0.107.79
 port: 8104

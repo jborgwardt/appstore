@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-snapotter
 name: snapotter
 tagline: Imported from BigBearCasaOS (snapotter)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/snapotter.png
 category: utilities
 version: 2.2.0
 port: 1349

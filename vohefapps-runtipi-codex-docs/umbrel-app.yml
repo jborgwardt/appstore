@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-codex-docs
 name: CodeX.docs
 tagline: Free Docs app powered by Editor.js ecosystem.
-icon: https://runtipi.io/images/apps/codex-docs.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/codex-docs/metadata/logo.jpg
 category: media
 version: v2.3
 port: 8101

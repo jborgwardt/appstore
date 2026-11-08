@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-n8n
 name: n8n
 tagline: Imported from BigBearCasaOS (n8n)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/n8n.png
 category: utilities
 version: 2.44.3
 port: 5678

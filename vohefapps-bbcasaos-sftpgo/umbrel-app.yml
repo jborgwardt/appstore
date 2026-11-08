@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-sftpgo
 name: sftpgo
 tagline: Imported from BigBearCasaOS (sftpgo)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/sftpgo/metadata/logo.jpg
 category: utilities
 version: v2.7
 port: 8080

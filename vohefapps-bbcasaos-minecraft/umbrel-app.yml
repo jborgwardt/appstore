@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-minecraft
 name: minecraft
 tagline: Imported from BigBearCasaOS (minecraft)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/minecraft.png
 category: utilities
 version: 2026.10.0
 port: 3000

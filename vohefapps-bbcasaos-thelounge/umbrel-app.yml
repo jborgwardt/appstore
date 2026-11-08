@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-thelounge
 name: thelounge
 tagline: Imported from BigBearCasaOS (thelounge)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/thelounge.png
 category: utilities
 version: 4.5.2
 port: 3000

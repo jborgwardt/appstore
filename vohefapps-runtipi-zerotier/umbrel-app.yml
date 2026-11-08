@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-zerotier
 name: ZeroTier
 tagline: Easy to use zero configuration VPN.
-icon: https://runtipi.io/images/apps/zerotier.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/zerotier/metadata/logo.jpg
 category: network
 version: 1.14.2
 port: 9993

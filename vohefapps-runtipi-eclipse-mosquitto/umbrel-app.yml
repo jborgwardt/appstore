@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-eclipse-mosquitto
 name: Eclipse Mosquitto
 tagline: The MQTT protocol provides a lightweight method of carrying out messaging using a publish/subscribe model.
-icon: https://runtipi.io/images/apps/eclipse-mosquitto.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/eclipse-mosquitto/metadata/logo.jpg
 category: utilities
 version: 2.0.22
 port: 8288

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-piwigo
 name: piwigo
 tagline: Imported from BigBearCasaOS (piwigo)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/piwigo.png
 category: utilities
 version: 16.4.0
 port: 8080

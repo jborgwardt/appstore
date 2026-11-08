@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-nova-dso-tracker
 name: nova-dso-tracker
 tagline: Imported from BigBearCasaOS (nova-dso-tracker)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-nova-dso-tracker/icon.svg
 category: utilities
 version: 6.9.0
 port: 5001

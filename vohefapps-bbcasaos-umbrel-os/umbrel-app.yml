@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-umbrel-os
 name: umbrel-os
 tagline: Imported from BigBearCasaOS (umbrel-os)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/umbrelos.png
 category: utilities
 version: 2.0.0
 port: 8080

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-grav
 name: Grav
 tagline: 'Grav is a Fast, Simple, and Flexible, file-based Web-platform. '
-icon: https://runtipi.io/images/apps/grav.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/grav/metadata/logo.jpg
 category: social
 version: 2.2.10
 port: 8161

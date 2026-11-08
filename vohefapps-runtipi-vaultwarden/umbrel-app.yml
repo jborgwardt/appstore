@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-vaultwarden
 name: VaultWarden
 tagline: All your passwords in your control!
-icon: https://runtipi.io/images/apps/vaultwarden.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/vaultwarden/metadata/logo.jpg
 category: utilities
 version: 1.37.4
 port: 8107

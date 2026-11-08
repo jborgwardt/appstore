@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-pcsx2
 name: pcsx2
 tagline: Imported from BigBearCasaOS (pcsx2)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-pcsx2/icon.svg
 category: utilities
 version: 2.8.2
 port: 3000

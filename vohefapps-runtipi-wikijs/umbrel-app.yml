@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-wikijs
 name: WikiJS
 tagline: A modern and powerful wiki app built on Node.js
-icon: https://runtipi.io/images/apps/wikijs.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/wikijs/metadata/logo.jpg
 category: media
 version: 2.5.316
 port: 8148

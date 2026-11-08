@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-stoat
 name: stoat
 tagline: Imported from BigBearCasaOS (stoat)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/stoat.png
 category: utilities
 version: 4017c18
 port: 20001

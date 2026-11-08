@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-kapowarr
 name: Kapowarr
 tagline: Kapowarr is a software to build and manage a comic book library, fitting in the *arr suite of software.
-icon: https://runtipi.io/images/apps/kapowarr.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/kapowarr/metadata/logo.jpg
 category: media
 version: v1.3.2
 port: 8194

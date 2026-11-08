@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-dashdot
 name: Dash.
 tagline: A simple, modern server dashboard, primarily used by smaller private server
-icon: https://runtipi.io/images/apps/dashdot.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/dashdot/metadata/logo.jpg
 category: utilities
 version: 6.3.4
 port: 8173

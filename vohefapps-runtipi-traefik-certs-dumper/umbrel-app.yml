@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-traefik-certs-dumper
 name: Traefik Certs Dumper
 tagline: Dumps Let's Encrypt certificates of a specified domain which Traefik stores in acme.json.
-icon: https://runtipi.io/images/apps/traefik-certs-dumper.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/traefik-certs-dumper/metadata/logo.jpg
 category: utilities
 version: 1.6.1
 port: 9999

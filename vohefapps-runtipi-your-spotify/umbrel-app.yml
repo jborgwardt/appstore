@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-your-spotify
 name: Your Spotify
 tagline: Self hosted Spotify tracking dashboard.
-icon: https://runtipi.io/images/apps/your-spotify.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/your-spotify/metadata/logo.jpg
 category: music
 version: 1.20.0
 port: 8103

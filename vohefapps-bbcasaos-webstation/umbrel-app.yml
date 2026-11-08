@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-webstation
 name: webstation
 tagline: Imported from BigBearCasaOS (webstation)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-webstation/icon.svg
 category: utilities
 version: 0.15.0-romm
 port: 3000

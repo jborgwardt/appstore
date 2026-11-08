@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-plex
 name: Plex
 tagline: Stream Movies & TV Shows
-icon: https://runtipi.io/images/apps/plex.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/plex/metadata/logo.jpg
 category: media
 version: 1.43.4
 port: 32400

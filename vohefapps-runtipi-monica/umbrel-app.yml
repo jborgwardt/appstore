@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-monica
 name: Monica
 tagline: A Personal Relationship Management tool to help you document your social life.
-icon: https://runtipi.io/images/apps/monica.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/monica/metadata/logo.jpg
 category: data
 version: 4.1.2
 port: 3291

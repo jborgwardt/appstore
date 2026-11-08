@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-rustfs
 name: rustfs
 tagline: Imported from BigBearCasaOS (rustfs)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/rustfs.png
 category: utilities
 version: 1.0.0-alpha.71
 port: 9000

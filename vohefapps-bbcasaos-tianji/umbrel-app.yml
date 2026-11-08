@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-tianji
 name: tianji
 tagline: Imported from BigBearCasaOS (tianji)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/tianji.png
 category: utilities
 version: 1.33.9
 port: 12345

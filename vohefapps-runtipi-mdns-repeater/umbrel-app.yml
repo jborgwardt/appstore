@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-mdns-repeater
 name: MDNS Repeater
 tagline: Re-broadcast mDNS packets.
-icon: https://runtipi.io/images/apps/mdns-repeater.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/mdns-repeater/metadata/logo.jpg
 category: utilities
 version: latest
 port: 9998

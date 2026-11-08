@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-docmost
 name: Docmost
 tagline: An open-source collaborative wiki and documentation software
-icon: https://runtipi.io/images/apps/docmost.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/docmost/metadata/logo.jpg
 category: data
 version: 0.96.0
 port: 9713

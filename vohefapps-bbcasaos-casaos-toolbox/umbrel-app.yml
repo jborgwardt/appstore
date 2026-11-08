@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-casaos-toolbox
 name: casaos-toolbox
 tagline: Imported from BigBearCasaOS (casaos-toolbox)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/casaos.png
 category: utilities
 version: '0.2'
 port: 3000

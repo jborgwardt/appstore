@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-kometa
 name: Kometa
 tagline: Overlays, Collections & Playlists for Plex.
-icon: https://runtipi.io/images/apps/kometa.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/kometa/metadata/logo.jpg
 category: utilities
 version: 2.5.3
 port: 9996

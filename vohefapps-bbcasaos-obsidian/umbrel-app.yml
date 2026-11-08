@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-obsidian
 name: obsidian
 tagline: Imported from BigBearCasaOS (obsidian)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/obsidian.png
 category: utilities
 version: 1.14.4
 port: 3000

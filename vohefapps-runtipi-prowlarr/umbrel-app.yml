@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-prowlarr
 name: Prowlarr
 tagline: A torrent/usenet indexer manager/proxy
-icon: https://runtipi.io/images/apps/prowlarr.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/prowlarr/metadata/logo.jpg
 category: media
 version: 2.6.5
 port: 8109

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-unraid-unifi-poller
 name: UniFi-Poller
 tagline: Collect ALL UniFi Controller, Device and Client Data - Export to InfluxDB or Prometheus
-icon: https://raw.githubusercontent.com/wiki/unifi-poller/unifi-poller/images/unifi-poller-logo.png
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/unifi.png
 category: tools
 version: latest
 port: 3000

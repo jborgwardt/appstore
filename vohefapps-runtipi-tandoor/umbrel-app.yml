@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-tandoor
 name: Tandoor
 tagline: Recipe collection manager.
-icon: https://runtipi.io/images/apps/tandoor.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/tandoor/metadata/logo.jpg
 category: data
 version: 2.6.15
 port: 8341

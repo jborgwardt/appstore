@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-haven
 name: Haven
 tagline: Self-hostable private blogging.
-icon: https://runtipi.io/images/apps/haven.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/haven/metadata/logo.jpg
 category: social
 version: latest
 port: 8130

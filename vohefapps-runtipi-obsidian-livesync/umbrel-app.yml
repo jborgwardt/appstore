@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-obsidian-livesync
 name: Obsidian LiveSync
 tagline: LiveSync couchdb backend for Obsidian
-icon: https://runtipi.io/images/apps/obsidian-livesync.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/obsidian-livesync/metadata/logo.jpg
 category: utilities
 version: 3.5.3
 port: 5984

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-dozzle
 name: Dozzle
 tagline: Dozzle is a small web based app to monitor Docker logs
-icon: https://runtipi.io/images/apps/dozzle.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/dozzle/metadata/logo.jpg
 category: development
 version: v11.3.3
 port: 8013

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-pihole-updatelists
 name: pihole-updatelists
 tagline: Imported from BigBearCasaOS (pihole-updatelists)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/pihole/metadata/logo.jpg
 category: utilities
 version: 2026.07.2
 port: 53

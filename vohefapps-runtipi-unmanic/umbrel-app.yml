@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-unmanic
 name: Unmanic
 tagline: Unmanic - Library Optimiser.
-icon: https://runtipi.io/images/apps/unmanic.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/unmanic/metadata/logo.jpg
 category: utilities
 version: staging
 port: 8256

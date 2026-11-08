@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-grocy
 name: Grocy
 tagline: ERP beyond your fridge
-icon: https://runtipi.io/images/apps/grocy.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/grocy/metadata/logo.jpg
 category: automation
 version: 4.7.1
 port: 8136

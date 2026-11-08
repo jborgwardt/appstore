@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-nightlio
 name: nightlio
 tagline: Imported from BigBearCasaOS (nightlio)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/nightlio.png
 category: utilities
 version: 0.1.7
 port: 5173

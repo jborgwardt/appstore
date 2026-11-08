@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-deemix
 name: Deemix
 tagline: deemix is a barebone deezer downloader library built from the ashes of Deezloader Remix.
-icon: https://runtipi.io/images/apps/deemix.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/deemix/metadata/logo.jpg
 category: media
 version: latest
 port: 6595

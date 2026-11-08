@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-flightlog
 name: Flightlog
 tagline: Flightlog, a web application that keeps track of your personal flight history
-icon: https://runtipi.io/images/apps/flightlog.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/flightlog/metadata/logo.jpg
 category: utilities
 version: v2.1.14
 port: 8934

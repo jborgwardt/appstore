@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-sshwifty
 name: Sshwifty
 tagline: Web SSH & Telnet (WebSSH & WebTelnet client)
-icon: https://runtipi.io/images/apps/sshwifty.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/sshwifty/metadata/logo.jpg
 category: development
 version: 0.4.12
 port: 8274

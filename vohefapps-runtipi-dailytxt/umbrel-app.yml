@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-dailytxt
 name: DailyTxT
 tagline: Encrypted Diary Web-App
-icon: https://runtipi.io/images/apps/dailytxt.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/dailytxt/metadata/logo.jpg
 category: utilities
 version: 2.6.4
 port: 8156

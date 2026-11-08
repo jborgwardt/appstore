@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-write-freely
 name: write-freely
 tagline: Imported from BigBearCasaOS (write-freely)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/write-freely/metadata/logo.jpg
 category: utilities
 version: '0.17'
 port: 70

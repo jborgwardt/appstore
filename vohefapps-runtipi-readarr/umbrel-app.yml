@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-readarr
 name: Readarr
 tagline: Book Manager and Automation (Sonarr for Ebooks)
-icon: https://runtipi.io/images/apps/readarr.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/readarr/metadata/logo.jpg
 category: books
 version: 0.4.19
 port: 8112

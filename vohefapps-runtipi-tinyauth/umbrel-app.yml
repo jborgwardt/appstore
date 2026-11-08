@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-tinyauth
 name: Tinyauth
 tagline: The tiniest authentication and authorization server you have ever seen.
-icon: https://runtipi.io/images/apps/tinyauth.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/tinyauth/metadata/logo.jpg
 category: security
 version: v5.2.0
 port: 8357

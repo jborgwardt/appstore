@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-kasm
 name: kasm
 tagline: Imported from BigBearCasaOS (kasm)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/kasm.png
 category: utilities
 version: 1.120.20221218
 port: 3000

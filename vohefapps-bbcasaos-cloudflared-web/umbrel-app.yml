@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-cloudflared-web
 name: cloudflared-web
 tagline: Imported from BigBearCasaOS (cloudflared-web)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/cloudflared.png
 category: utilities
 version: 2026.10.0
 port: 3000

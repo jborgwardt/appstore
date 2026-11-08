@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-warracker
 name: warracker
 tagline: Imported from BigBearCasaOS (warracker)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/warracker.png
 category: utilities
 version: 1.0.2
 port: 8005

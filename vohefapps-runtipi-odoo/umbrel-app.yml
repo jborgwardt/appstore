@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-odoo
 name: Odoo
 tagline: Open-source business management software with modular applications for streamlined operations.
-icon: https://runtipi.io/images/apps/odoo.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/odoo/metadata/logo.jpg
 category: utilities
 version: '20'
 port: 8017

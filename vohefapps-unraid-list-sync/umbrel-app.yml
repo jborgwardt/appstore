@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-unraid-list-sync
 name: ListSync
 tagline: ListSync automatically syncs your watchlists from IMDb, Trakt, and Letterboxd with Overseerr/Jellyseerr
-icon: "\n    "
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-unraid-list-sync/icon.svg
 category: downloaders
 version: latest
 port: 3000

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-zotero
 name: zotero
 tagline: Imported from BigBearCasaOS (zotero)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/zotero.png
 category: utilities
 version: 10.0.20260821
 port: 3000

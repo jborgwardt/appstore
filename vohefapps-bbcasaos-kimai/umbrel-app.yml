@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-kimai
 name: kimai
 tagline: Imported from BigBearCasaOS (kimai)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/kimai/metadata/logo.jpg
 category: utilities
 version: 2.69.0
 port: 3000

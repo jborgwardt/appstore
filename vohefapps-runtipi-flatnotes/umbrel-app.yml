@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-flatnotes
 name: flatnotes
 tagline: A self-hosted, database-less note taking web app
-icon: https://runtipi.io/images/apps/flatnotes.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/flatnotes/metadata/logo.jpg
 category: utilities
 version: v5.5.5
 port: 8137

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-photoprism
 name: PhotoPrism
 tagline: AI-Powered Photos App for the Decentralized Web. We are on a mission to protect your freedom and privacy.
-icon: https://runtipi.io/images/apps/photoprism.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/photoprism/metadata/logo.jpg
 category: photography
 version: latest
 port: 8110

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-uisp
 name: uisp
 tagline: Imported from BigBearCasaOS (uisp)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-uisp/icon.svg
 category: utilities
 version: 2.4.155.1
 port: 8080

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-owncloud
 name: owncloud
 tagline: Imported from BigBearCasaOS (owncloud)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/owncloud/metadata/logo.jpg
 category: utilities
 version: 11.0.1
 port: 8080

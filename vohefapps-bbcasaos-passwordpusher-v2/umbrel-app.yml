@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-passwordpusher-v2
 name: passwordpusher-v2
 tagline: Imported from BigBearCasaOS (passwordpusher-v2)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/passwordpusher.png
 category: utilities
 version: 2.14.3
 port: 5101

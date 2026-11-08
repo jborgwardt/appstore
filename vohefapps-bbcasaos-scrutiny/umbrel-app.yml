@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-scrutiny
 name: scrutiny
 tagline: Imported from BigBearCasaOS (scrutiny)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/scrutiny.png
 category: utilities
 version: master-omnibus
 port: 38080

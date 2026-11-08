@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-radarr
 name: Radarr
 tagline: Movie collection manager for Usenet and BitTorrent users.
-icon: https://runtipi.io/images/apps/radarr.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/radarr/metadata/logo.jpg
 category: media
 version: 6.4.4
 port: 8088

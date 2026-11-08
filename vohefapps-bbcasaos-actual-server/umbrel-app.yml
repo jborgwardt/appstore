@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-actual-server
 name: actual-server
 tagline: Imported from BigBearCasaOS (actual-server)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-actual-server/icon.svg
 category: utilities
 version: 26.10.0
 port: 5006

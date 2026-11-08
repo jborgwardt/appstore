@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-emulatorjs
 name: Emulatorjs
 tagline: Self-hosted Javascript emulation for various system.
-icon: https://runtipi.io/images/apps/emulatorjs.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/emulatorjs/metadata/logo.jpg
 category: gaming
 version: 1.9.2
 port: 8164

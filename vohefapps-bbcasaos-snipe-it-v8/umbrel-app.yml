@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-snipe-it-v8
 name: snipe-it-v8
 tagline: Imported from BigBearCasaOS (snipe-it-v8)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-snipe-it-v8/icon.svg
 category: utilities
 version: v8.8.0
 port: 8086

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-appsmith
 name: appsmith
 tagline: Imported from BigBearCasaOS (appsmith)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/appsmith.png
 category: utilities
 version: v2.5.0
 port: 1080

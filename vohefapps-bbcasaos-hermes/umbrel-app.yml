@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-hermes
 name: hermes
 tagline: Imported from BigBearCasaOS (hermes)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/hermes.png
 category: utilities
 version: v2026.9.24
 port: 9119

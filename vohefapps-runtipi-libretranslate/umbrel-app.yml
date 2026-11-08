@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-libretranslate
 name: LibreTranslate
 tagline: Free and Open Source Machine Translation API. 100% self-hosted, offline capable and easy to setup.
-icon: https://runtipi.io/images/apps/libretranslate.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/libretranslate/metadata/logo.jpg
 category: utilities
 version: v1.9.6
 port: 8121

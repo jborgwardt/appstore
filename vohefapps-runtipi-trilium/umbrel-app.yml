@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-trilium
 name: Trilium
 tagline: An open-source, self-hosted Notion alterative
-icon: https://runtipi.io/images/apps/trilium.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/trilium/metadata/logo.jpg
 category: utilities
 version: v0.106.0
 port: 8267

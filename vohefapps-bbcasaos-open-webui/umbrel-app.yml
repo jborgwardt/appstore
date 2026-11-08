@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-open-webui
 name: open-webui
 tagline: Imported from BigBearCasaOS (open-webui)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/open-webui/metadata/logo.jpg
 category: utilities
 version: git-33e54a9
 port: 8080

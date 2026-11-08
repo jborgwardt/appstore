@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-changedetection-io
 name: changedetection-io
 tagline: Imported from BigBearCasaOS (changedetection-io)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/changedetection.png
 category: utilities
 version: 0.60.9
 port: 3000

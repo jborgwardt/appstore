@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-netbootxyz
 name: Netboot.xyz
 tagline: Your favorite operating systems in one place.
-icon: https://runtipi.io/images/apps/netbootxyz.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/netbootxyz/metadata/logo.jpg
 category: utilities
 version: 0.7.6
 port: 8675

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-calcom
 name: Cal.com
 tagline: Scheduling infrastructure for absolutely everyone.
-icon: https://runtipi.io/images/apps/calcom.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/calcom/metadata/logo.jpg
 category: social
 version: v6.2.0
 port: 8294

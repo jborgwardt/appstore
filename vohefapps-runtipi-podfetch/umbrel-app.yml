@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-podfetch
 name: PodFetch
 tagline: A sleek and efficient podcast downloader.
-icon: https://runtipi.io/images/apps/podfetch.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/podfetch/metadata/logo.jpg
 category: media
 version: latest
 port: 8177

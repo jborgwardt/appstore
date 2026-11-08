@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-umami-analytics
 name: Umami Analytics
 tagline: Umami is a simple, fast, privacy-focused alternative to Google Analytics.
-icon: https://runtipi.io/images/apps/umami-analytics.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/umami-analytics/metadata/logo.jpg
 category: utilities
 version: 3.4.0
 port: 8153

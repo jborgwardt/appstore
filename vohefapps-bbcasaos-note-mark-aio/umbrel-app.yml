@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-note-mark-aio
 name: note-mark-aio
 tagline: Imported from BigBearCasaOS (note-mark-aio)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/jborgwardt/appstore/master/vohefapps-bbcasaos-note-mark-aio/icon.svg
 category: utilities
 version: 0.19.4
 port: 8000

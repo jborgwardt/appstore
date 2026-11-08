@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-zigbee2mqtt
 name: Zigbee2MQTT
 tagline: Zigbee to MQTT bridge
-icon: https://runtipi.io/images/apps/zigbee2mqtt.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/zigbee2mqtt/metadata/logo.jpg
 category: utilities
 version: 2.14.2
 port: 8290

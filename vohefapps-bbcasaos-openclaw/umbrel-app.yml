@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-openclaw
 name: openclaw
 tagline: Imported from BigBearCasaOS (openclaw)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/openclaw/metadata/logo.jpg
 category: utilities
 version: 2026.5.3-1
 port: 18789

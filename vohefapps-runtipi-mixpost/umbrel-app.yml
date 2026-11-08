@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-mixpost
 name: Mixpost
 tagline: 'Self-hosted social media management. Schedule and organize your social content. '
-icon: https://runtipi.io/images/apps/mixpost.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/mixpost/metadata/logo.jpg
 category: social
 version: v2.6.0
 port: 8167

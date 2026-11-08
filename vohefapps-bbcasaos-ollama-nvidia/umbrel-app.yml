@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-ollama-nvidia
 name: ollama-nvidia
 tagline: Imported from BigBearCasaOS (ollama-nvidia)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/ollama-nvidia/metadata/logo.jpg
 category: utilities
 version: 0.40.5
 port: 11434

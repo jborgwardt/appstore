@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-excalidraw
 name: excalidraw
 tagline: Imported from BigBearCasaOS (excalidraw)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/excalidraw/metadata/logo.jpg
 category: utilities
 version: latest
 port: 8000

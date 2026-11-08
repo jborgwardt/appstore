@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-dillinger
 name: dillinger
 tagline: Imported from BigBearCasaOS (dillinger)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/dillinger.png
 category: utilities
 version: 3.39.1
 port: 3000

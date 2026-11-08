@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-bewcloud
 name: bewCloud
 tagline: The Simple Web Cloud Solution.
-icon: https://runtipi.io/images/apps/bewcloud.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/bewcloud/metadata/logo.jpg
 category: data
 version: v1.9.2
 port: 8053

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-homebridge
 name: Home Bridge
 tagline: 'HomeKit support for the impatient.  '
-icon: https://runtipi.io/images/apps/homebridge.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/homebridge/metadata/logo.jpg
 category: automation
 version: '2024-05-02'
 port: 8581

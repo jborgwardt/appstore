@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-nocodb
 name: NocoDB
 tagline: Open Source Airtable Alternative
-icon: https://runtipi.io/images/apps/nocodb.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/nocodb/metadata/logo.jpg
 category: utilities
 version: 2026.09.1
 port: 8146

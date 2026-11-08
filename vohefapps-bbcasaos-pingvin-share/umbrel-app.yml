@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-pingvin-share
 name: pingvin-share
 tagline: Imported from BigBearCasaOS (pingvin-share)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/pingvin-share/metadata/logo.jpg
 category: utilities
 version: v1.13.0
 port: 3000

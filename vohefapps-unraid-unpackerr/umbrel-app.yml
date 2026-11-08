@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-unraid-unpackerr
 name: unpackerr
 tagline: RAR download extractor for Sonarr, Radarr and Lidarr! Mount /downloads on all 3 or 4 containers to the same path on your host
-icon: https://raw.githubusercontent.com/wiki/davidnewhall/unpackerr/images/logo.png
+icon: https://unpackerr.zip/img/logo.png
 category: tools
 version: latest
 port: 3000

@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-planning-poker
 name: Planning Poker
 tagline: Online planning poker for scrum master.
-icon: https://runtipi.io/images/apps/planning-poker.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/planning-poker/metadata/logo.jpg
 category: development
 version: 1.2.1
 port: 8880

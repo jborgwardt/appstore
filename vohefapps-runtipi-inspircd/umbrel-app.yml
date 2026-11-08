@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-runtipi-inspircd
 name: Inspircd
 tagline: A modular C++ IRC server.
-icon: https://runtipi.io/images/apps/inspircd.png
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/inspircd/metadata/logo.jpg
 category: social
 version: 4.12.1
 port: 6697

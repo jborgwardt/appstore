@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-libretranslate
 name: libretranslate
 tagline: Imported from BigBearCasaOS (libretranslate)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://raw.githubusercontent.com/runtipi/runtipi-appstore/master/apps/libretranslate/metadata/logo.jpg
 category: utilities
 version: v1.9.6
 port: 5000

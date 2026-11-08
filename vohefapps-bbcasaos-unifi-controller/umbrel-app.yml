@@ -2,7 +2,7 @@ manifestVersion: 1
 id: vohefapps-bbcasaos-unifi-controller
 name: unifi-controller
 tagline: Imported from BigBearCasaOS (unifi-controller)
-icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/default-app-icon.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/unifi-controller.png
 category: utilities
 version: 8.0.24
 port: 3000
